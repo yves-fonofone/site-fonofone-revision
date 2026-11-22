@@ -67,7 +67,7 @@ Au terme de l'activité:
 
 ## Propositions de réalisation
 
-![eventail-web.png](../images/2022/10/eventail-web.png)
+![eventail-web.png](../images/2022/10/eventail-web.jpg)
 
 #### Préparation
 

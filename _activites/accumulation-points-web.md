@@ -93,7 +93,7 @@ Au terme de l'activité:
 - *Que s'est-il passé t-il quand le silence a été coupé (resserrement de la boucle)?*  
  *Est-ce qu'on percevait encore des points ou une ligne? Si oui /si non pourquoi ?*
 
-![Accum-3](../images/2022/05/accum-3.png)
+![Accum-3](../images/2022/05/accum-3.jpg)
 
 https://fonofone.org/wp-content/uploads/2018/04/empilade-1.mp3
 
@@ -119,7 +119,7 @@ Ajout du [variateur de hauteur/vitesse]
 
 - Inviter les élèves à chanter la *note continue* (autour d'un Sol) produite par l'accélération.
 
-![Accum-2](../images/2022/05/accum-2.png)
+![Accum-2](../images/2022/05/accum-2.jpg)
 
 https://fonofone.org/wp-content/uploads/2018/04/empilade-2.mp3
 

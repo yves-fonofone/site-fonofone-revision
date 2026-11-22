@@ -4,7 +4,7 @@ sous_titre: crescendo/decrescendo
 discipline: musique-tablette
 categorie: Langage musical
 ordre: 9
-image: /images/2018/09/vague-homo.png
+image: /images/2018/09/vague-homo.jpg
 gratuite: true
 ---
 

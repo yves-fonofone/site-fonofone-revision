@@ -3,7 +3,7 @@ titre: doux-fort
 discipline: musique-tablette
 categorie: Langage musical
 ordre: 5
-image: /images/2018/09/mixeur.png
+image: /images/2018/09/mixeur.jpg
 gratuite: true
 ---
 

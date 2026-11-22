@@ -35,7 +35,7 @@ bldblblblblblblblblblblblblblblblblblb
 
 [Métronome (optionnel)](../outils.html)
 
-![vari-metro.png](../images/2018/04/vari-metro.png)
+![vari-metro.png](../images/2018/04/vari-metro.jpg)
 
 ## Intentions pédagogiques
 
@@ -75,7 +75,7 @@ Au terme de l'activité:
 
 ## Propositions de réalisation
 
-![eventail.png](../images/2018/04/eventail.png)
+![eventail.png](../images/2018/04/eventail.jpg)
 
 #### Préparation
 

@@ -4,7 +4,7 @@ sous_titre: "(A - B - A')"
 discipline: musique-tablette
 categorie: Procédés de composition
 ordre: 13
-image: /images/2018/05/essai.png
+image: /images/2018/05/essai.jpg
 gratuite: true
 ---
 

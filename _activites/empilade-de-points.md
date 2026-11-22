@@ -3,7 +3,7 @@ titre: accumulation-points
 discipline: musique-tablette
 categorie: Procédés de composition
 ordre: 12
-image: /images/2018/04/accu-1-1.png
+image: /images/2018/04/accu-1-1.jpg
 gratuite: true
 ---
 
@@ -58,7 +58,7 @@ Chaque élève choisit librement un son dans la banque [accu-points].
 
 (partition, sections 3 et 4)
 
-![accu-2](../images/2018/04/accu-2.png)
+![accu-2](../images/2018/04/accu-2.jpg)
 
 https://fonofone.org/wp-content/uploads/2018/04/empilade-2.mp3
 

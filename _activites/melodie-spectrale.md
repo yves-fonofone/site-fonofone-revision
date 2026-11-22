@@ -3,7 +3,7 @@ titre: mélodie spectrale
 discipline: musique-tablette
 categorie: Procédés de composition
 ordre: 14
-image: /images/2018/06/filtre.png
+image: /images/2018/06/filtre.jpg
 gratuite: true
 ---
 
@@ -49,7 +49,7 @@ métronome (optionnel)
 
 #### Proposition de réalisation:
 
-![filtre 1](../images/2018/06/filtre-1.png)
+![filtre 1](../images/2018/06/filtre-1.jpg)
 
 #### Variante 2
 

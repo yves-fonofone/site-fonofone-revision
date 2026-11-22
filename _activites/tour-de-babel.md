@@ -54,7 +54,7 @@ Au terme de cette activité :
 
 ## Suggestion de réalisation
 
-![babel-score2](../images/2018/07/babel-score2.png)
+![babel-score2](../images/2018/07/babel-score2.jpg)
 
 Camp musical Père-Lindsay, Val-St-Côme, Québec
 

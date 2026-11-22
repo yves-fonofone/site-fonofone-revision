@@ -4,7 +4,7 @@ sous_titre: trame harmonique
 discipline: musique-tablette
 categorie: Langage musical
 ordre: 11
-image: /images/2018/05/cosmique-2.png
+image: /images/2018/05/cosmique-2.jpg
 gratuite: true
 ---
 

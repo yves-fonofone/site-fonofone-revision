@@ -59,7 +59,7 @@ Langage plastique :
 
 < [Grand Tour (2)](https://fr.wikipedia.org/wiki/Grand_Tour)
 
-![athena2.png](../images/2022/06/athena2.png)
+![athena2.png](../images/2022/06/athena2.jpg)
 
 ![mont-cervin.png](../images/2022/05/mont-cervin.png)
 
