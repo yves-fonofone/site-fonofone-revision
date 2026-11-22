@@ -1,0 +1,30 @@
+{%- comment -%}
+  Liste automatiquement les activités de la discipline de la page (page.discipline),
+  regroupées selon l'ordre des rubriques de la page (page.rubriques).
+  Une activité dont la rubrique n'est pas dans la liste apparaît sous « Autres activités ».
+{%- endcomment -%}
+{%- assign acts = site.activites | where: "discipline", page.discipline | sort: "ordre" -%}
+{%- for rubrique in page.rubriques %}
+{%- assign groupe = acts | where: "categorie", rubrique -%}
+{%- if groupe.size > 0 %}
+<h2>{{ rubrique }}</h2>
+<div class="tiles">
+{%- for a in groupe %}
+{% include tuile.html activite=a %}
+{%- endfor %}
+</div>
+{%- endif %}
+{%- endfor %}
+{%- assign autres = "" | split: "" -%}
+{%- for a in acts -%}
+  {%- unless page.rubriques contains a.categorie -%}{%- assign autres = autres | push: a -%}{%- endunless -%}
+{%- endfor -%}
+{%- if autres.size > 0 %}
+<h2>Autres activités</h2>
+<div class="tiles">
+{%- for a in autres %}
+{% include tuile.html activite=a %}
+{%- endfor %}
+</div>
+{%- endif %}
+<p class="creer"><a class="btn" href="{{ '/creer-une-activite.html' | relative_url }}">+ Créer une activité</a></p>

@@ -1,0 +1,12 @@
+---
+layout: default
+---
+{%- assign nom = page.url | remove: "/" | remove: ".html" -%}
+<div class="page wrap page--{{ nom }}">
+  {%- if page.bandeau %}
+  <div class="page-hero" style="background-image:url('{{ page.bandeau | relative_url }}')"></div>
+  {%- endif %}
+  <div class="prose">
+{{ content }}
+  </div>
+</div>

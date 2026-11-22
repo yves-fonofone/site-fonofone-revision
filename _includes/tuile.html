@@ -1,0 +1,12 @@
+{%- assign a = include.activite -%}
+<article class="tile">
+  <a href="{{ a.url | relative_url }}">
+    {%- if a.image %}<img src="{{ a.image | relative_url }}" alt="" loading="lazy">{% endif %}
+    <h3>{{ a.titre }}</h3>
+  </a>
+  <ul>
+    {%- if a.niveau %}<li>{{ a.niveau }}</li>{% endif %}
+    {%- if a.realisation %}<li>{{ a.realisation }}</li>{% endif %}
+    {%- if a.duree %}<li>{{ a.duree }}</li>{% endif %}
+  </ul>
+</article>

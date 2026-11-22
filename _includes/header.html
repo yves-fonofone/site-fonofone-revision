@@ -1,0 +1,24 @@
+{%- comment -%} Page « active » du menu : pour une fiche d'activité, c'est sa discipline. {%- endcomment -%}
+{%- assign actif = page.url -%}
+{%- if page.collection == "activites" -%}
+  {%- assign actif = "/" | append: page.discipline | append: ".html" -%}
+{%- endif -%}
+<a class="skip" href="#contenu">Aller au contenu</a>
+
+<header class="topbar">
+  <div class="wrap topbar__inner">
+    <input type="checkbox" id="nav-toggle" class="nav-toggle">
+    <label for="nav-toggle" class="burger" aria-label="Menu">☰</label>
+    <nav id="menu" class="menu" aria-label="Navigation principale">
+      <a class="menu__item" href="{{ '/' | relative_url }}"{% if page.url == "/" %} aria-current="page"{% endif %}>Accueil</a>
+      {% include menu-groupe.html titre="Disciplines" liens=site.data.menu.disciplines %}
+      {% include menu-groupe.html titre="Ressources" liens=site.data.menu.ressources %}
+      {% include menu-groupe.html titre="Services" liens=site.data.menu.services lien="/ateliers.html" %}
+      <a class="menu__item" href="{{ '/don.html' | relative_url }}"{% if page.url == "/don.html" %} aria-current="page"{% endif %}>Faire un don</a>
+    </nav>
+    <div class="topbar__right">
+      <a class="icon-link" href="{{ '/contact.html' | relative_url }}" aria-label="Écrivez-nous">✉</a>
+      {% include menu-groupe.html titre="Activités" liens=site.data.menu.activites droite=true %}
+    </div>
+  </div>
+</header>

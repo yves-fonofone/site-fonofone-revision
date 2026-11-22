@@ -1,0 +1,205 @@
+---
+titre: Place aux hasards
+sous_titre: Improvisation instantanée provoquée par les sons
+discipline: danse
+categorie: Langage de la danse
+ordre: 2
+auteurs: Caroline Bergeron, enseignante en danse
+realisation: Réalisation en équipe
+niveau: À partir du 2e cycle du primaire
+duree: De 2 à 4 périodes
+qr_code: /images/2024/12/hasards-danse.png
+console_nom: Fono-image (à construire)
+console: https://fonofone.org/fonoweb-image/?activity=NnwxNDM1MyQ-
+gratuite: true
+---
+
+## Description
+
+L’improvisation est au cœur de cette activité. Inspiré·es par le chorégraphe contemporain Merce Cunningham (1919-2009) qui a travaillé la notion du hasard en danse, les élèves danseront une œuvre « sur le moment » en se basant sur des sons associés à des séquences de mouvements préalablement déterminées.
+
+Lire : < Propositions de réalisation
+
+![hasard-caroline](../images/2024/12/hasard-caroline.png)
+
+## Intentions pédagogiques
+
+- Amener l’élève à développer une conscience de l’espace en lien avec les mouvements des autres.
+- Amener l’élève à être réceptif aux propositions d’improvisation de ses camarades.
+- Amener l’élève à répondre de manière dansée aux indications sonores de F *ono-image*.
+- Amener l’élève à expérimenter, par l’improvisation, des éléments du langage et de la technique de la danse.
+
+### Niveau suggéré
+
+- À partir du 1er cycle du primaire
+
+## Objectifs d'apprentissage
+
+Au terme de cette activité, l’élève sera capable :
+
+- d'improviser de manière structurée avec l’ensemble de la classe;
+- de répondre rapidement et de s'ajuster aux propositions sonores;
+- d'intégrer dans ses improvisations les éléments appris du langage et de la technique de la danse.
+
+### Savoirs essentiels
+
+**Conventions de la danse :**
+
+- Ajustements de ses mouvements à ceux de ses partenaires
+- Anticipation des indications sonores et visuelles et réponse à ces indications
+- Improvisation
+
+**Langage de la danse :**
+
+- Fonctions, effets et utilisation du son (musicalité)
+- Relations avec l’environnement scénique et l’environnement multimédia
+
+## Repères culturels
+
+#### [Merce Cunningham et John Cage](https://www.youtube.com/watch?v=R1Tijk_aM3U)
+
+#### [Le hasard dans l'oeuvre de Merce Cunningham](https://www.ledevoir.com/culture/danse/102973/danse-l-inepuisable-beaute-du-hasard)
+
+#### [Le parcours de Merce Cunningham](https://www.mercecunningham.org/about/merce-cunningham/)
+
+#### hasard
+
+## Suggestions de réalisation
+
+#### Préparation
+
+Fono-image à construire
+
+*Le Fono-image* est divisé en 5 zones. Pour 4 des 5 zones, l’enseignant·e de danse convient avec les élèves d’un choix de séquences de mouvements déjà connus des élèves. Puis, à l’aide d’un dé ou d’une pige, l’enseignant·e associe une trame sonore d’une durée de 10 à 30 secondes à chaque zone du F *ono-image*. Les trames sonores sont choisies parmi la banque d’extraits musicaux proposés dans l’application *Fonofone*.
+
+Les 5 zones du F *ono-image*  :
+
+1. Exercice d’échauffement de la classe de danse
+2. Enchaînement en diagonale travaillé en classe
+3. Extrait d’une création travaillée en classe
+4. Extrait d’une chorégraphie travaillée en classe
+5. Improvisation libre
+
+(Si on dispose de peu de temps, on peut choisir le.)
+
+#### Réalisation
+
+Proposition 1
+
+En collectif
+
+Le trajet à travers les 5 zones aura été programmé à l'avance par l'enseignant.e (voir [<Automatisation du parcours](https://fonofone.org/activite/automatisation/)).
+
+Tous les élèves doivent danser les mêmes séquences de mouvements associées à chaque zone.
+
+[> Détail de la proposition 1](../documents/2024/12/place-au-hasards.pdf)
+
+Proposition 2
+
+Former trois équipes
+
+Des séquences de mouvements différentes sont associées aux 5 zones pour chacun des sous-groupes. Ainsi, chaque sous-groupe suit sa propre séquence et est « dirigé » par le hasard via F *ono-image*. Pour l’une des zones, l’enseignant·e peut alors imposer l’immobilité (tenir une pose) ou encore demander aux élèves d’imiter un·e camarade d’un autre sous-groupe.
+
+Proposition 3
+
+L'activité est amenée dans un lieu autre que le studio de danse, tel que le faisait Merce Cunningham (ex. : cafétéria de l’école, parc, bibliothèque, salle des casiers, etc.).  
+ Les élèves devront adapter leur improvisation à ce nouvel environnement.
+
+#### Suggestions de rétroaction/objectivation après chaque séance
+
+- *Comment la notion du hasard s’est-elle manifestée dans votre improvisation?*
+
+- *De quelle manière les trames sonores du Fono-image ont-elles inspiré votre enchaînement des séquences de mouvements?*
+
+- *Qu’avez-vous perçu en observant vos camarades improviser?*
+
+- *Quels défis avez-vous rencontrés lors de votre expérimentation de cette activité? Quelles stratégies avez-vous mobilisées pour les surmonter?*
+
+![Suivez-nous sur Twitter](../images/divers/logo_twitter.svg)
+
+![Suivez-nous sur Twitter](../images/divers/logo_soundcloud.svg)
+
+![Suivez-nous sur Instagram](../images/divers/logo_instagram.svg)
+
+![Suivez-nous sur Facebook](../images/divers/logo_facebook.svg)
+
+![Suivez-nous sur Youtube](../images/divers/logo_youtube.svg)
+
+![Écrivez-nous](../images/divers/logo_email.svg)
+
+### inscrivez-vous à l’infolettre fonofone maestro
+
+![Ministère de l'éducation du Québec](../images/divers/meq-logo-blanc.svg)
+
+![Conseil des artes et des lettres du Québec](../images/divers/logo_calq.svg)
+
+![Conseil des arts du Canada](../images/divers/logo_cac.svg)
+
+![ATMA Classique](../images/divers/logo-atma-classique.svg)
+
+![PME-MTL - Centre-est](../images/divers/logo_pme.svg)
+
+![Culture Montréal](../images/divers/logo_culture_mtl.svg)
+
+![Fondation Socan](../images/divers/logo_socan.svg)
+
+![Edteq](../images/divers/logo_edteq.svg)
+
+Cosimu est membre de l’association Edteq :  
+Entreprises pour le développement des technologies éducatives au Québec.
+
+![COSIMU](../images/divers/logo_cosimu.png)
+
+fonofone maestro est la propriété de COSIMU © Tous droits réservés
+
+VIE PRIVÉE et Politique de confidentialité
+
+![Fonofone](../images/2020/04/logo_cosimu.png)
+
+Consentement
+
+Pour offrir les meilleures expériences, nous utilisons des technologies telles que les cookies pour stocker et/ou accéder aux informations des appareils. Le fait de consentir à ces technologies nous permettra de traiter des données telles que le comportement de navigation ou les ID uniques sur ce site. Le fait de ne pas consentir ou de retirer son consentement peut avoir un effet négatif sur certaines caractéristiques et fonctions.
+
+Fonctionnel
+
+Fonctionnel
+
+Toujours activé
+
+Le stockage ou l’accès technique est strictement nécessaire dans la finalité d’intérêt légitime de permettre l’utilisation d’un service spécifique explicitement demandé par l’abonné ou l’utilisateur, ou dans le seul but d’effectuer la transmission d’une communication sur un réseau de communications électroniques.
+
+Préférences
+
+Préférences
+
+Le stockage ou l’accès technique est nécessaire dans la finalité d’intérêt légitime de stocker des préférences qui ne sont pas demandées par l’abonné ou l’utilisateur.
+
+Statistiques
+
+Statistiques
+
+Le stockage ou l’accès technique qui est utilisé exclusivement à des fins statistiques.
+
+Le stockage ou l’accès technique qui est utilisé exclusivement dans des finalités statistiques anonymes. En l’absence d’une assignation à comparaître, d’une conformité volontaire de la part de votre fournisseur d’accès à internet ou d’enregistrements supplémentaires provenant d’une tierce partie, les informations stockées ou extraites à cette seule fin ne peuvent généralement pas être utilisées pour vous identifier.
+
+Marketing
+
+Marketing
+
+Le stockage ou l’accès technique est nécessaire pour créer des profils d’utilisateurs afin d’envoyer des publicités, ou pour suivre l’utilisateur sur un site web ou sur plusieurs sites web ayant des finalités marketing similaires.
+
+Gérer les options
+
+Gérer les services
+
+Gérer {vendor_count} fournisseurs
+
+En savoir plus sur ces finalités
+
+Voir les préférences
+
+{title}
+
+{title}
+
+{title}

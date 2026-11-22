@@ -1,0 +1,28 @@
+# Menu principal. Pour ajouter un lien : copier une ligne et changer le titre et l'adresse.
+# « rubrique » affiche un petit intertitre dans le menu déroulant.
+
+disciplines:
+  - { titre: "Musique | fono-WEB", url: /musique-web.html, couleur: teal }
+  - { titre: "Musique | TABLETTE", url: /musique-tablette.html, couleur: teal }
+  - { titre: "Danse", url: /danse.html, couleur: danse }
+  - { titre: "Art dramatique", url: /art-dramatique.html, couleur: drama }
+  - { titre: "Arts plastiques", url: /arts-plastiques.html, couleur: arts }
+  - { rubrique: "OMNIfone" }
+  - { titre: "L'Oiseau de feu", url: /oiseau-de-feu.html }
+
+ressources:
+  - { rubrique: "Outils" }
+  - { titre: "Les outils fonofone", url: /outils.html }
+  - { titre: "Trucs et astuces", url: /trucs-astuces.html }
+  - { titre: "Procédés formels illustrés", url: /procedes.html }
+  - { titre: "Atma Classique : extraits musicaux", url: /atma.html }
+  - { titre: "Artistes sonores et visuels", url: /artistes.html }
+  - { titre: "Lexique", url: /lexique.html }
+
+services:
+  - { titre: "Ateliers & formations", url: /ateliers.html }
+  - { titre: "Ateliers clés en main", url: /ateliers-cles.html }
+  - { titre: "Formations pour les enseignants", url: /formations.html }
+
+activites:
+  - { titre: "Créer une activité", url: /creer-une-activite.html }

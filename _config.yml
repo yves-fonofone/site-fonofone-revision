@@ -1,0 +1,28 @@
+# Configuration du site Fonofone (Jekyll / GitHub Pages)
+title: Fonofone
+description: créer | interpréter | apprécier
+lang: fr
+
+# Adresse du site sur GitHub Pages : https://yves-fonofone.github.io/site-fonofone-revision/
+# Si le site est un jour servi depuis la racine d'un domaine, remplacer par ""
+baseurl: "/site-fonofone-revision"
+
+markdown: kramdown
+
+# Chaque fichier de _activites/ devient une page /activites/<nom-du-fichier>.html
+collections:
+  activites:
+    output: true
+    permalink: /activites/:name.html
+
+defaults:
+  - scope:
+      path: ""
+      type: activites
+    values:
+      layout: activite
+
+# Fichiers du dépôt qui ne font pas partie du site
+exclude:
+  - README.md
+  - modeles

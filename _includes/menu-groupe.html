@@ -1,0 +1,20 @@
+{%- comment -%}
+  Un menu déroulant. Paramètres : titre, liens (liste de _data/menu.yml), lien (adresse du titre, facultatif), droite (true/false)
+{%- endcomment -%}
+{%- assign urls = include.liens | map: "url" -%}
+<div class="menu__group{% if urls contains actif %} is-current{% endif %}">
+  {%- if include.lien %}
+  <a class="menu__item" href="{{ include.lien | relative_url }}">{{ include.titre }} ▾</a>
+  {%- else %}
+  <span class="menu__item" tabindex="0">{{ include.titre }} ▾</span>
+  {%- endif %}
+  <div class="menu__drop{% if include.droite %} menu__drop--right{% endif %}">
+    {%- for l in include.liens %}
+    {%- if l.rubrique %}
+    <span class="menu__label">{{ l.rubrique }}</span>
+    {%- else %}
+    <a href="{{ l.url | relative_url }}"{% if actif == l.url %} aria-current="page"{% endif %}>{{ l.titre }}</a>
+    {%- endif %}
+    {%- endfor %}
+  </div>
+</div>
