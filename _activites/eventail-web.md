@@ -5,7 +5,6 @@ discipline: musique-web
 categorie: Procédés de composition
 ordre: 9
 auteurs: réalisation >
-image: "/images/2022/05/cluster-6.png"
 console_nom: Fonofone
 console: https://fonofone.org/fonoweb-image/?activity=NnwxNDU1NyQ-
 gratuite: true

@@ -5,7 +5,6 @@ discipline: musique-tablette
 categorie: Langage musical
 ordre: 4
 auteurs: réalisation >
-image: "/images/2022/05/cluster-6.png"
 gratuite: true
 niveau: "Pour le primaire et le secondaire"
 realisation: "Réalisation collective"
