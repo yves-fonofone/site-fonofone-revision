@@ -8,6 +8,9 @@ qr_code: /images/2023/07/minimalistes-individuel.png
 console_nom: Fonofone-réalisation individuelle
 console: https://fonofone.org/fonoweb-multi/?activity=NnwxMDk4MCQ-
 gratuite: true
+niveau: "À partir du 3e cycle du primaire"
+realisation: "Réalisation individuelle ou en équipe"
+duree: "De 2 à 3 périodes"
 ---
 
 ## Description

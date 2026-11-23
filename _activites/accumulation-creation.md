@@ -7,6 +7,9 @@ qr_code: /images/2022/10/accumulation-fnfn.png
 console_nom: Fonofone
 console: https://fonofone.org/fonoweb-multi/?activity=NnwxMjQyMSQ-
 gratuite: true
+niveau: "À partir du 3e cycle du primaire"
+realisation: "Réalisation en équipe"
+duree: "2 périodes ou plus"
 ---
 
 ## Description

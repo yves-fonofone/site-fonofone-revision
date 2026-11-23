@@ -8,6 +8,9 @@ qr_code: /images/2023/03/musique-caracere-2.png
 console_nom: Fono-multi
 console: https://fonofone.org/fonoweb-multi/?activity=NnwxMDUzMiQ-
 gratuite: true
+niveau: "À partir du 1er cycle du secondaire"
+realisation: "Réalisation en équipe (3 élèves ou plus)"
+duree: "2 périodes"
 ---
 
 ## Description

@@ -7,6 +7,9 @@ qr_code: /images/2022/04/doux-fort-avance.png
 console_nom: Fono-image
 console: https://fonofone.org/fonoweb-image/?activity=NnwxMTEyNiQ-
 gratuite: true
+niveau: "À partir du 3e cycle du primaire"
+realisation: "Réalisation collective ou au TNI"
+duree: "1 période"
 ---
 
 ## Description

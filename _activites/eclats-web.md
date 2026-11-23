@@ -8,6 +8,9 @@ qr_code: /images/2025/01/explosions.png
 console_nom: Fono-image
 console: https://fonofone.org/fonoweb-image/?activity=NnwxNDYxNSQ-
 gratuite: true
+niveau: "À partir du 3e cycle du primaire"
+realisation: "Réalisation collective ou en équipe"
+duree: "1 ou 2 périodes"
 ---
 
 ## Description

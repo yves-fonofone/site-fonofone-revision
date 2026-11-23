@@ -8,6 +8,9 @@ qr_code: /images/2022/10/babel-300x300.png
 console_nom: Fono-image
 console: https://fonofone.org/fonoweb-image/?activity=Nnw4MTA2JA--
 gratuite: true
+niveau: "À partir du 1er cycle du primaire"
+realisation: "En collectif-un ordinateur ou tablette par élève"
+duree: "1 période"
 ---
 
 ## Description

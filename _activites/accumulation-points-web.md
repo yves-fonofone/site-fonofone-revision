@@ -8,6 +8,9 @@ qr_code: /images/2022/05/bambou.png
 console_nom: Fono-multi
 console: https://fonofone.org/fonoweb-multi/?activity=Nnw3NTgyJA--
 gratuite: true
+niveau: "À partir du 2e cycle du primaire"
+realisation: "Réalisation en collectif"
+duree: "1 à 2 périodes"
 ---
 
 ## Description

@@ -8,6 +8,9 @@ qr_code: /images/2022/04/doux-fort-facile-300x300.png
 console_nom: Fono-image
 console: https://fonofone.org/fonoweb-image/?activity=Nnw5MDQ0JA--
 gratuite: true
+niveau: "À partir du 1er cycle du primaire"
+realisation: "Réalisation collective, individuelle, ou au TNI"
+duree: "1/2 période"
 ---
 
 ## Description

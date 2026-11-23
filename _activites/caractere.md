@@ -8,6 +8,9 @@ qr_code: /images/2023/01/caractere-1.png
 console_nom: Fono-image, travail en équipe
 console: https://fonofone.org/fonoweb-image/?activity=NnwxMDk0NiQ-
 gratuite: true
+niveau: "À partir du 2e cycle du primaire"
+realisation: "Réalisation individuelle, en équipe ou au TNI"
+duree: "1 ou 2 périodes"
 ---
 
 ## Description

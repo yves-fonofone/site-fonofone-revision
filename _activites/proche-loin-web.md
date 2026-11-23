@@ -8,6 +8,9 @@ qr_code: /images/2022/05/proche-loin-1.png
 console_nom: Fono-multi
 console: https://fonofone.org/fonoweb-multi/?activity=NnwxMTExMCQ-
 gratuite: true
+niveau: "À partir du 3e cycle du primaire"
+realisation: "Réalisation individuelle ou au TNI"
+duree: "1 période"
 ---
 
 ## Description

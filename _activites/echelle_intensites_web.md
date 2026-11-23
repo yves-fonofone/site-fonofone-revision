@@ -8,6 +8,9 @@ qr_code: /images/2025/01/echelle-d-intensites.png
 console_nom: Réalisation en équipe
 console: https://fonofone.org/fonoweb-image/?activity=NnwxNDU2MiQ-
 gratuite: true
+niveau: "À partir du 2e cycle du primaire"
+realisation: "Réalisation collective, individuelle, ou au TNI"
+duree: "1 période"
 ---
 
 ## Description

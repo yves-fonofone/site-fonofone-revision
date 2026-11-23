@@ -7,6 +7,9 @@ qr_code: /images/2023/01/qualite-du-son.png
 console_nom: Fono-image
 console: https://fonofone.org/fonoweb-image/?activity=NnwxNDY0OSQ-
 gratuite: true
+niveau: "À partir du 2e cycle du primaire"
+realisation: "Réalisation individuelle ou au TNI"
+duree: "1 période ou moins"
 ---
 
 ## Description

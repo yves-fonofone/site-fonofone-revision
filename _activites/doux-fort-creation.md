@@ -7,6 +7,9 @@ qr_code: /images/2022/10/doux-fort-creation.png
 console_nom: Fono-multi
 console: https://fonofone.org/fonoweb-multi/?activity=Nnw4OTM5JA--
 gratuite: true
+niveau: "À partir du 3e cycle du primaire"
+realisation: "Réalisation en équipe"
+duree: "1 à 2 périodes"
 ---
 
 ## Description
