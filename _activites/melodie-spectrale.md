@@ -5,6 +5,9 @@ categorie: Procédés de composition
 ordre: 14
 image: /images/2018/06/filtre.jpg
 gratuite: true
+niveau: "À partir du 1er cycle du secondaire"
+realisation: "Réalisation collective"
+duree: "1 période"
 ---
 
 ## Contenu principal : mélodie de timbre

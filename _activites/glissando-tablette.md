@@ -7,6 +7,9 @@ ordre: 4
 auteurs: réalisation >
 image: "/images/2022/05/cluster-6.png"
 gratuite: true
+niveau: "Pour le primaire et le secondaire"
+realisation: "Réalisation collective"
+duree: "1/2 période ou plus"
 ---
 
 ## Description

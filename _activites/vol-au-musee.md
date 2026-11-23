@@ -9,6 +9,9 @@ qr_code: /images/2022/05/vol-au-musee.png
 console_nom: Fono-image
 console: https://fonofone.org/fonoweb-image/?activity=NnwxMDMwNyQ-
 gratuite: true
+niveau: "À partir du 3e cycle du primaire"
+realisation: "Réalisation en équipe"
+duree: "2 périodes"
 ---
 
 ## Description

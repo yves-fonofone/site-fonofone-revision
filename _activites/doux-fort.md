@@ -5,6 +5,9 @@ categorie: Langage musical
 ordre: 5
 image: /images/2018/09/mixeur.jpg
 gratuite: true
+niveau: "À partir du 1er cycle du primaire"
+realisation: "Réalisation collective"
+duree: "1/2 période ou plus"
 ---
 
 ## Description

@@ -5,6 +5,9 @@ discipline: musique-tablette
 categorie: Répertoire
 ordre: 2
 gratuite: true
+niveau: "À partir du 2e cycle du primaire"
+realisation: "Réalisation individuelle"
+duree: "1/2 période ou plus"
 ---
 
 ## Description

@@ -6,6 +6,9 @@ categorie: Langage musical
 ordre: 9
 image: /images/2018/09/vague-homo.jpg
 gratuite: true
+niveau: "À partir de 2e cycle du primaire"
+realisation: "Réalisation collective"
+duree: "1/2 période ou plus"
 ---
 
 ## Description

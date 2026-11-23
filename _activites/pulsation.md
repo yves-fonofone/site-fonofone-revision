@@ -4,6 +4,9 @@ discipline: musique-tablette
 categorie: Procédés de composition
 ordre: 15
 gratuite: true
+niveau: "À partir du 2e cycle du secondaire"
+realisation: "Réalisation collective"
+duree: "1 période"
 ---
 
 ## Procédé formel : rythme pulsé, décélération

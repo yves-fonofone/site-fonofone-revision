@@ -5,6 +5,9 @@ categorie: Procédés de composition
 ordre: 12
 image: /images/2018/04/accu-1-1.jpg
 gratuite: true
+niveau: "Du 3e cycle primaire au 2e cycle secondaire"
+realisation: "Réalisation collective"
+duree: "De 1 à 2 périodes"
 ---
 
 ## Contenu principal : [accumulation](../lexique.html)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs. par la multiplication de sons brefs

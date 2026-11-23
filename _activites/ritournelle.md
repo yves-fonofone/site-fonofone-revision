@@ -6,6 +6,9 @@ categorie: Procédés de composition
 ordre: 13
 image: /images/2018/05/essai.jpg
 gratuite: true
+niveau: "À partir du 1er cycle du secondaire"
+realisation: "Réalisation collective"
+duree: "De 1 à 2 périodes"
 ---
 
 ## Opposition entre deux caractères

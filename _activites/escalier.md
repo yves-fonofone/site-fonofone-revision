@@ -4,6 +4,9 @@ discipline: musique-tablette
 categorie: Langage musical
 ordre: 3
 gratuite: true
+niveau: "À partir du 1er cycle du primaire"
+realisation: "Réalisation individuelle ou collective"
+duree: "1 période"
 ---
 
 ## Description

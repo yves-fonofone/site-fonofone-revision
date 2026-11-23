@@ -7,6 +7,9 @@ image: /images/2023/03/fiche-equipe-300x179.png
 console_nom: Fono-image
 console: https://fonofone.org/fonoweb-image/?activity=NnwxMDMwMyQ-
 gratuite: true
+niveau: "À partir du 3e cycle du primaire"
+realisation: "Réalisation en équipe"
+duree: "2 périodes"
 ---
 
 ## Description

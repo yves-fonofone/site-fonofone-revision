@@ -7,6 +7,9 @@ ordre: 4
 console_nom: "[ la Totale] Fono-image sonorisé"
 console: https://fonofone.org/fonoweb-image/?activity=NnwxMDIyMSQ-
 gratuite: true
+niveau: "À partir du 2e cycle du primaire"
+realisation: "Réalisation en équipe"
+duree: "De 1 à 3 périodes"
 ---
 
 ## Description

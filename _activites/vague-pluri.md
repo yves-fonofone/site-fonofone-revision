@@ -6,6 +6,9 @@ categorie: Langage musical
 ordre: 10
 image: /images/2018/04/gr-plan.jpg
 gratuite: true
+niveau: "À partir du 2e cycle du primaire"
+realisation: "Réalisation collective"
+duree: "1/2 période ou plus"
 ---
 
 ## Description

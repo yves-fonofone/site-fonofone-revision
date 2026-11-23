@@ -6,6 +6,9 @@ categorie: Langage musical
 ordre: 11
 image: /images/2018/05/cosmique-2.jpg
 gratuite: true
+niveau: "À partir du 3e cycle du primaire"
+realisation: "Réalisation collective"
+duree: "1 période"
 ---
 
 ## Contenu principal  : harmonie

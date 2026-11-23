@@ -8,6 +8,9 @@ qr_code: /images/2022/05/danse-statues-v2.png
 console_nom: Fono-image
 console: https://fonofone.org/fonoweb-image/?activity=NnwxMTg4OSQ-
 gratuite: true
+niveau: "À partir du 1er cycle du primaire"
+realisation: "Réalisation collective ou en équipe"
+duree: "1 ou 2 périodes"
 ---
 
 ## Description

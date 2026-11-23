@@ -6,6 +6,9 @@ categorie: Langage musical
 ordre: 7
 image: /images/2018/07/variateur.jpg
 gratuite: true
+niveau: "À partir du 3e cycle du primaire"
+realisation: "Réalisation collective"
+duree: "1 période"
 ---
 
 ## Description
