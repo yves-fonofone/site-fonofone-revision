@@ -9,7 +9,7 @@ niveau: À partir du 3e cycle du primaire
 duree: De 3 à 4 périodes
 qr_code: "/images/2022/06/beau-sublime-v2.png"
 console_nom: Fono-image
-console: https://fonofone.org/fonoweb-image/?activity=NnwxMTkyNSQ-
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1709678955.fnmg
 gratuite: true
 ---
 

@@ -10,7 +10,7 @@ niveau: "Tous niveaux"
 duree: "1/2 période ou plus"
 image: "/images/2022/10/chaine-1-scaled.jpg"
 console_nom: "Fono-image"
-console: https://fonofone.org/fonoweb-image/?activity=Nnw5MzIyJA--
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1668029718.fnmg
 gratuite: true
 source: https://fonofone.org/activite/chaine1/
 ---

@@ -6,7 +6,7 @@ categorie: Aspects affectifs
 ordre: 1
 qr_code: /images/2023/01/caractere-1.png
 console_nom: Fono-image, travail en équipe
-console: https://fonofone.org/fonoweb-image/?activity=NnwxMDk0NiQ-
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1689019684.fnmg
 gratuite: true
 niveau: "À partir du 2e cycle du primaire"
 realisation: "Réalisation individuelle, en équipe ou au TNI"

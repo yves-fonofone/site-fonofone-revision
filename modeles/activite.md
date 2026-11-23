@@ -23,7 +23,7 @@ duree: 1 à 2 périodes
 # et son code QR (image carrée téléversée dans images/, facultatif)
 # qr_code: /images/mon-code-qr.png
 # console_nom: Fono-image
-# console: https://fonofone.org/fonoweb-image/
+# console: https://fonofone.artificiel.org/fonoimage/
 
 gratuite: true
 ---

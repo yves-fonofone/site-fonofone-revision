@@ -9,7 +9,7 @@ niveau: À partir du 3e cycle du primaire
 duree: De 2 à 3 périodes
 qr_code: /images/2024/05/perspective-en-diminution-2.png
 console_nom: Fono-image
-console: https://fonofone.org/fonoweb-image/?activity=NnwxMzI1NSQ-
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1717364859.fnmg
 gratuite: true
 ---
 

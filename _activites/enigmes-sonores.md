@@ -9,7 +9,7 @@ realisation: "Réalisation individuelle ou au TNI"
 niveau: "À partir du 3e cycle du primaire"
 duree: "1 période Requis : bonne connaissance des outils Fonofone"
 console_nom: "Fono-image"
-console: https://fonofone.org/fonoweb-image/?activity=NnwxMTA3MyQ-
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1698791704.fnmg
 gratuite: true
 source: https://fonofone.org/activite/enigmes-sonores/
 ---

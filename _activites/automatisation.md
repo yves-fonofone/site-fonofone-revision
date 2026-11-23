@@ -9,7 +9,7 @@ niveau: "Tous niveaux"
 duree: "1 période"
 image: "/images/2023/06/automatisation-scaled.jpg"
 console_nom: "Fono-image"
-console: https://fonofone.org/fonoweb-image/?activity=NnwxMDkyNCQ-
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1687971645.fnmg
 gratuite: true
 source: https://fonofone.org/activite/automatisation/
 ---

@@ -5,7 +5,7 @@ categorie: Langage dramatique
 ordre: 5
 image: /images/2023/03/fiche-equipe-300x179.png
 console_nom: Fono-image
-console: https://fonofone.org/fonoweb-image/?activity=NnwxMDMwMyQ-
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1679931875.fnmg
 gratuite: true
 niveau: "À partir du 3e cycle du primaire"
 realisation: "Réalisation en équipe"

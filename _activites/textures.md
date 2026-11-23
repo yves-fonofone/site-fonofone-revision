@@ -9,7 +9,7 @@ niveau: À partir du 2e cycle du primaire
 duree: 1 ou 2 périodes Une initiation préalable à Fonofone est requise
 qr_code: /images/2023/03/appel-eleves.png
 console_nom: Fono-image des élèves
-console: https://fonofone.org/fonoweb-image/?activity=NnwxMjgwMyQ-
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1713734671.fnmg
 gratuite: true
 ---
 

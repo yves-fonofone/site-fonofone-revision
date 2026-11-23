@@ -11,7 +11,7 @@ niveau: À partir du 3e cycle du primaire
 duree: 2 périodes Tableau numérique interactif requis
 qr_code: /images/2023/04/banc-public-1.png
 console_nom: Fono-image
-console: https://fonofone.org/fonoweb-image/?activity=NnwxMDU3NiQ-
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1683747698.fnmg
 gratuite: true
 ---
 

@@ -6,7 +6,7 @@ categorie: Langage musical
 ordre: 3
 qr_code: /images/2022/10/babel-300x300.png
 console_nom: Fono-image
-console: https://fonofone.org/fonoweb-image/?activity=Nnw4MTA2JA--
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1655836692.fnmg
 gratuite: true
 niveau: "À partir du 1er cycle du primaire"
 realisation: "En collectif-un ordinateur ou tablette par élève"

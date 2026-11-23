@@ -5,7 +5,7 @@ discipline: art-dramatique
 categorie: Langage dramatique
 ordre: 4
 console_nom: "[ la Totale] Fono-image sonorisé"
-console: https://fonofone.org/fonoweb-image/?activity=NnwxMDIyMSQ-
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1679433102.fnmg
 gratuite: true
 niveau: "À partir du 2e cycle du primaire"
 realisation: "Réalisation en équipe"

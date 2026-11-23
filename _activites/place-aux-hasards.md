@@ -10,7 +10,7 @@ niveau: À partir du 2e cycle du primaire
 duree: De 2 à 4 périodes
 qr_code: /images/2024/12/hasards-danse.png
 console_nom: Fono-image (à construire)
-console: https://fonofone.org/fonoweb-image/?activity=NnwxNDM1MyQ-
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1733413093.fnmg
 gratuite: true
 ---
 

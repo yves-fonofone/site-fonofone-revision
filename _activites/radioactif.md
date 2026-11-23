@@ -11,7 +11,7 @@ niveau: À partir du 2e cycle du primaire
 duree: De 1 ou 4 périodes
 qr_code: /images/2023/07/radioactifs.png
 console_nom: Fono-image
-console: https://fonofone.org/fonoweb-image/?activity=NnwxMTA1OSQ-
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1698266453.fnmg
 gratuite: true
 ---
 

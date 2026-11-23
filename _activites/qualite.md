@@ -5,7 +5,7 @@ categorie: Langage musical
 ordre: 4
 qr_code: /images/2023/01/qualite-du-son.png
 console_nom: Fono-image
-console: https://fonofone.org/fonoweb-image/?activity=NnwxNDY0OSQ-
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1738787328.fnmg
 gratuite: true
 niveau: "À partir du 2e cycle du primaire"
 realisation: "Réalisation individuelle ou au TNI"

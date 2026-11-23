@@ -10,7 +10,7 @@ niveau: "Tous niveaux"
 duree: "1/2 période"
 image: "/images/2024/04/superposition.png"
 console_nom: "Fono-image"
-console: https://fonofone.org/fonoweb-image/
+console: https://fonofone.artificiel.org/fonoimage/
 gratuite: true
 source: https://fonofone.org/activite/tutoriel4-nouveau-son/
 ---
