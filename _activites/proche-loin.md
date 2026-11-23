@@ -19,7 +19,7 @@ Aller à : <Propositions de réalisation
 ## Intentions pédagogiques
 
 - Familiariser l'élève avec les concepts de plan sonore et de perspective sonore.
-- L'amener à prendre conscience des éléments qui influencent sa perception de la localisation d’un son dans l’espace (timbre, intensité, [réverbération](https://fonofone.org/lexique/reverberation/)La réverbération est la persistance d'un son après l'interruption de son émission directe. Elle est provoquée par les réflexions multiples et serrées du son sur les différentes parois réfléchissantes du lieu. Elle crée un effet de prolongement diffus du son, plus ou moins long en fonction de la dimension du lieu et des propriété réfléchissantes de ses parois. Elle crée..., etc.) et à enrichir ou remettre en question ses représentations initiales par l’analyse comparée des sons.
+- L'amener à prendre conscience des éléments qui influencent sa perception de la localisation d’un son dans l’espace (timbre, intensité, [réverbération](../lexique.html), etc.) et à enrichir ou remettre en question ses représentations initiales par l’analyse comparée des sons.
 
 ### Niveau suggéré
 
@@ -52,7 +52,7 @@ Au terme de cette activité :
 
 - Écouter et analyser la vidéo : qu'est-ce qui distingue les deux sons? Lequel sonne proche? Lequel sonne loin ? Pourquoi?
 - Faire jouer les sons de la banque [proche-loin] liée à l'activité en demandant aux élèves lesquels sonnent proche et lesquels sonnent loin.
-- Donner des exemples d'éloignement du son par l'emploi d'un outil : par exemple réduire le volume, ajouter de la [réverbération](https://fonofone.org/lexique/reverberation/)La réverbération est la persistance d'un son après l'interruption de son émission directe. Elle est provoquée par les réflexions multiples et serrées du son sur les différentes parois réfléchissantes du lieu. Elle crée un effet de prolongement diffus du son, plus ou moins long en fonction de la dimension du lieu et des propriété réfléchissantes de ses parois. Elle crée..., utiliser le [filtre](../outils.html)...
+- Donner des exemples d'éloignement du son par l'emploi d'un outil : par exemple réduire le volume, ajouter de la [réverbération](../lexique.html), utiliser le [filtre](../outils.html)...
 
 - Demander à l'élève de choisir dans la banque [proche-loin] un son qui lui  semble proche et un autre qui lui semble loin.
 - L'élève fait jouer ensemble ses deux sons et à l’aide du [mélangeur](../outils.html) il  ajuste les niveaux, si nécessaire, de façon à entendre distinctement  l’un et l’autre tout en percevant  clairement deux plans distincts, un plan rapproché et un plan éloigné.
@@ -106,7 +106,7 @@ Chaque équipe doit réaliser une "image" sonore constituée de plusieurs plans.
 - On écoute et analyse <l'exemple ci-dessous.
 - On choisit et se répartit les sons entre les membres de l'équipe.
 - On se met d'accord sur la forme, sur le déroulement.  
- (Exemple : au début, tous les sons très doux et se confondant. Puis, tour à tour, on porte en avant un des ses sons, en montant le volume, en supprimant graduellement la [réverbération](https://fonofone.org/lexique/reverberation/)La réverbération est la persistance d'un son après l'interruption de son émission directe. Elle est provoquée par les réflexions multiples et serrées du son sur les différentes parois réfléchissantes du lieu. Elle crée un effet de prolongement diffus du son, plus ou moins long en fonction de la dimension du lieu et des propriété réfléchissantes de ses parois. Elle crée..., ou tout autres procédés).
+ (Exemple : au début, tous les sons très doux et se confondant. Puis, tour à tour, on porte en avant un des ses sons, en montant le volume, en supprimant graduellement la [réverbération](../lexique.html), ou tout autres procédés).
 
 #### →Réalisation individuelle
 
@@ -123,92 +123,3 @@ Chaque équipe doit réaliser une "image" sonore constituée de plusieurs plans.
 - Déroulement: quelle était votre intention formelle ? Réussie ou non ? Pourquoi?
 
 #### Un exemple :
-
-![Suivez-nous sur Twitter](../images/divers/logo_twitter.svg)
-
-![Suivez-nous sur Twitter](../images/divers/logo_soundcloud.svg)
-
-![Suivez-nous sur Instagram](../images/divers/logo_instagram.svg)
-
-![Suivez-nous sur Facebook](../images/divers/logo_facebook.svg)
-
-![Suivez-nous sur Youtube](../images/divers/logo_youtube.svg)
-
-![Écrivez-nous](../images/divers/logo_email.svg)
-
-### inscrivez-vous à l’infolettre fonofone maestro
-
-![Ministère de l'éducation du Québec](../images/divers/meq-logo-blanc.svg)
-
-![Conseil des artes et des lettres du Québec](../images/divers/logo_calq.svg)
-
-![Conseil des arts du Canada](../images/divers/logo_cac.svg)
-
-![ATMA Classique](../images/divers/logo-atma-classique.svg)
-
-![PME-MTL - Centre-est](../images/divers/logo_pme.svg)
-
-![Culture Montréal](../images/divers/logo_culture_mtl.svg)
-
-![Fondation Socan](../images/divers/logo_socan.svg)
-
-![Edteq](../images/divers/logo_edteq.svg)
-
-Cosimu est membre de l’association Edteq :  
-Entreprises pour le développement des technologies éducatives au Québec.
-
-![COSIMU](../images/divers/logo_cosimu.png)
-
-fonofone maestro est la propriété de COSIMU © Tous droits réservés
-
-VIE PRIVÉE et Politique de confidentialité
-
-![Fonofone](../images/2020/04/logo_cosimu.png)
-
-Consentement
-
-Pour offrir les meilleures expériences, nous utilisons des technologies telles que les cookies pour stocker et/ou accéder aux informations des appareils. Le fait de consentir à ces technologies nous permettra de traiter des données telles que le comportement de navigation ou les ID uniques sur ce site. Le fait de ne pas consentir ou de retirer son consentement peut avoir un effet négatif sur certaines caractéristiques et fonctions.
-
-Fonctionnel
-
-Fonctionnel
-
-Toujours activé
-
-Le stockage ou l’accès technique est strictement nécessaire dans la finalité d’intérêt légitime de permettre l’utilisation d’un service spécifique explicitement demandé par l’abonné ou l’utilisateur, ou dans le seul but d’effectuer la transmission d’une communication sur un réseau de communications électroniques.
-
-Préférences
-
-Préférences
-
-Le stockage ou l’accès technique est nécessaire dans la finalité d’intérêt légitime de stocker des préférences qui ne sont pas demandées par l’abonné ou l’utilisateur.
-
-Statistiques
-
-Statistiques
-
-Le stockage ou l’accès technique qui est utilisé exclusivement à des fins statistiques.
-
-Le stockage ou l’accès technique qui est utilisé exclusivement dans des finalités statistiques anonymes. En l’absence d’une assignation à comparaître, d’une conformité volontaire de la part de votre fournisseur d’accès à internet ou d’enregistrements supplémentaires provenant d’une tierce partie, les informations stockées ou extraites à cette seule fin ne peuvent généralement pas être utilisées pour vous identifier.
-
-Marketing
-
-Marketing
-
-Le stockage ou l’accès technique est nécessaire pour créer des profils d’utilisateurs afin d’envoyer des publicités, ou pour suivre l’utilisateur sur un site web ou sur plusieurs sites web ayant des finalités marketing similaires.
-
-Gérer les options
-
-Gérer les services
-
-Gérer {vendor_count} fournisseurs
-
-En savoir plus sur ces finalités
-
-Voir les préférences
-
-{title}
-
-{title}
-
-{title}
