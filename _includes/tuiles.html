@@ -3,7 +3,7 @@
   regroupées selon l'ordre des rubriques de la page (page.rubriques).
   Une activité dont la rubrique n'est pas dans la liste apparaît sous « Autres activités ».
 {%- endcomment -%}
-{%- assign acts = site.activites | where: "discipline", page.discipline | sort: "ordre" -%}
+{%- assign acts = site.activites | where: "discipline", page.discipline | where_exp: "a", "a.section == nil" | sort: "ordre" -%}
 {%- for rubrique in page.rubriques %}
 {%- assign groupe = acts | where: "categorie", rubrique -%}
 {%- if groupe.size > 0 %}

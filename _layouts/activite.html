@@ -3,10 +3,17 @@ layout: default
 ---
 {%- assign durl = "/" | append: page.discipline | append: ".html" -%}
 {%- assign d = site.data.menu.disciplines | where: "url", durl | first -%}
+{%- assign retour_url = durl -%}
+{%- assign retour_titre = d.titre | default: page.discipline -%}
+{%- if page.section -%}
+  {%- assign retour_url = "/" | append: page.section | append: "-" | append: page.discipline | append: ".html" -%}
+  {%- assign retour_page = site.pages | where: "url", retour_url | first -%}
+  {%- assign retour_titre = retour_page.titre | default: retour_titre -%}
+{%- endif -%}
 <div class="page wrap page--{{ page.discipline }}">
   <article class="fiche">
     <p class="fiche__tags">
-      <a href="{{ durl | relative_url }}">{% if d %}{{ d.titre }}{% else %}{{ page.discipline }}{% endif %}</a>
+      <a href="{{ retour_url | relative_url }}">{{ retour_titre }}</a>
       {%- if page.categorie %}<span>{{ page.categorie }}</span>{% endif %}
       {%- if page.gratuite %}<span>Activité gratuite</span>{% endif %}
     </p>
@@ -36,6 +43,6 @@ layout: default
     <div class="prose">
 {{ content }}
     </div>
-    <p class="fiche__retour"><a href="{{ durl | relative_url }}">← Toutes les activités {% if d %}{{ d.titre }}{% endif %}</a></p>
+    <p class="fiche__retour"><a href="{{ retour_url | relative_url }}">← {% if page.section %}{{ retour_titre }}{% else %}Toutes les activités {% if d %}{{ d.titre }}{% endif %}{% endif %}</a></p>
   </article>
 </div>
