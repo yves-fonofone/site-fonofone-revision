@@ -10,7 +10,7 @@ niveau: À partir du 2e cycle du primaire
 duree: De 2 à 4 périodes
 qr_code: /images/2024/06/danse-regards.png
 console_nom: Fono-image
-console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1718725009.fnmg
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1718725009.fnmg
 gratuite: true
 ---
 

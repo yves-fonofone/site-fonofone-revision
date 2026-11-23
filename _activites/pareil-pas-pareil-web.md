@@ -10,7 +10,7 @@ niveau: "À partir du 2e cycle du primaire"
 duree: "1/2période"
 image: "/images/2022/10/pareil-pas-pareil-1-scaled.jpg"
 console_nom: "Fono-image"
-console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1665184352.fnmg
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1665184352.fnmg
 gratuite: true
 source: https://fonofone.org/activite/pareil-pas-pareil-web/
 ---

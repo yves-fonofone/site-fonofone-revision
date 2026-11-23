@@ -7,7 +7,7 @@ categorie: Structures
 ordre: 1
 qr_code: /images/2022/05/vol-au-musee.png
 console_nom: Fono-image
-console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1679943870.fnmg
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1679943870.fnmg
 gratuite: true
 niveau: "À partir du 3e cycle du primaire"
 realisation: "Réalisation en équipe"

@@ -30,11 +30,11 @@ Sur le plan sonore, Véronique a choisi des sons qui allaient bien avec les émo
 
 ![](../images/2023/05/site-entre-deux-300x50.jpg)Réalisations interactives : les projeter au TNI et inviter les élèves à les parcourir.
 
-[Chez soi](https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1683053611.fnmg)
+[Chez soi](https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1683053611.fnmg)
 
-[Mon premier souvenir](https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1683053649.fnmg)
+[Mon premier souvenir](https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1683053649.fnmg)
 
-[Où je me sens bien](https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1683053694.fnmg)
+[Où je me sens bien](https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1683053694.fnmg)
 
 ### PROJET ENTRE DEUX - à réaliser avec vos groupes
 
@@ -60,7 +60,7 @@ Création sonore
 
 ![projets-pluridisciplinaires-entre-deux](../images/2023/05/projets-pluridisciplinaires-entre-deux.png)
 
-[Ouvrir Fono-image](https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1683048185.fnmg)
+[Ouvrir Fono-image](https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1683048185.fnmg)
 
 ## Intentions pédagogiques
 

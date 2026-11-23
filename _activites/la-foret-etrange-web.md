@@ -10,7 +10,7 @@ niveau: "À partir du 3e cycle du primaire"
 duree: "De 2 à 3 périodes"
 image: "/images/2022/11/foret.jpg"
 console_nom: "Fono-image"
-console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1650327690.fnmg
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1650327690.fnmg
 gratuite: true
 source: https://fonofone.org/activite/la-foret-etrange-web/
 ---

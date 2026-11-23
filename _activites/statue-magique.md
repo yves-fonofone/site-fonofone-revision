@@ -6,7 +6,7 @@ categorie: Technique du mouvement
 ordre: 4
 qr_code: /images/2022/05/danse-statues-v2.png
 console_nom: Fono-image
-console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1707337743.fnmg
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1707337743.fnmg
 gratuite: true
 niveau: "À partir du 1er cycle du primaire"
 realisation: "Réalisation collective ou en équipe"

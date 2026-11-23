@@ -49,7 +49,7 @@ Suite interdisciplinaire : en cours de français, demander à l'élève d'écrir
 
 ![objets-animes](../images/2024/06/objets-animes.png)
 
-[Ouvrir Fono-image](https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1718908979.fnmg)
+[Ouvrir Fono-image](https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1718908979.fnmg)
 
 ## Intentions pédagogiques
 

@@ -9,7 +9,7 @@ niveau: À partir du 1er cycle du secondaire
 duree: De 2 à 4 périodes Une initiation préalable à Fonofone est requise
 qr_code: /images/2023/06/pointillisme-dessins-a-faire.png
 console_nom: Fono-image avec vos dessins
-console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1687544008.fnmg
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1687544008.fnmg
 gratuite: true
 ---
 

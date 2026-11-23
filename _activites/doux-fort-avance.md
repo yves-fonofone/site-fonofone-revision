@@ -5,7 +5,7 @@ categorie: Procédés de composition
 ordre: 10
 qr_code: /images/2022/04/doux-fort-avance.png
 console_nom: Fono-image
-console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1699306562.fnmg
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1699306562.fnmg
 gratuite: true
 niveau: "À partir du 3e cycle du primaire"
 realisation: "Réalisation collective ou au TNI"

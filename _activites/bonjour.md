@@ -9,7 +9,7 @@ niveau: "Tous niveaux"
 duree: "1/2 période"
 image: "/images/2022/05/fond-bleu.png"
 console_nom: "Fono-image"
-console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1666211813.fnmg
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1666211813.fnmg
 gratuite: true
 source: https://fonofone.org/activite/bonjour/
 ---

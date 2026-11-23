@@ -6,7 +6,7 @@ categorie: Langage musical
 ordre: 5
 qr_code: /images/2025/01/echelle-d-intensites.png
 console_nom: Réalisation en équipe
-console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1737572692.fnmg
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1737572692.fnmg
 gratuite: true
 niveau: "À partir du 2e cycle du primaire"
 realisation: "Réalisation collective, individuelle, ou au TNI"

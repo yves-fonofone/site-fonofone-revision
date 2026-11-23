@@ -11,7 +11,7 @@ niveau: À partir du 1er cycle du primaire
 duree: 1 à 2 périodes
 qr_code: /images/2024/12/jungle-danse.png
 console_nom: Fono-image
-console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1733778672.fnmg
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1733778672.fnmg
 gratuite: true
 ---
 

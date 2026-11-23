@@ -6,7 +6,7 @@ categorie: Langage musical
 ordre: 6
 qr_code: /images/2025/01/explosions.png
 console_nom: Fono-image
-console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1737743258.fnmg
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1737743258.fnmg
 gratuite: true
 niveau: "À partir du 3e cycle du primaire"
 realisation: "Réalisation collective ou en équipe"

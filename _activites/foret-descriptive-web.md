@@ -10,7 +10,7 @@ niveau: "À partir du 3e cycle du primaire"
 duree: "2 périodes"
 image: "/images/2022/04/img-5758.jpeg"
 console_nom: "Fono-image"
-console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://fonoweb-550.s3.us-east-2.amazonaws.com/user-6-fonofile-1650324702.fnmg
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1650324702.fnmg
 gratuite: true
 source: https://fonofone.org/activite/foret-descriptive-web/
 ---
