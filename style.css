@@ -272,3 +272,10 @@ a.disc:hover, .disc--music a:hover { transform: translateY(-3px); box-shadow: 0 
 .prose .sous-nav a[aria-current="page"] { background: #cfe0fb; border-color: #9fb9e6; }
 @media (max-width: 700px) { .prose .sous-nav { grid-template-columns: repeat(2, 1fr); gap: 12px; } }
 @media (max-width: 380px) { .prose .sous-nav { grid-template-columns: 1fr; } }
+
+/* Pages Initiation et Projets : même couleur de tuile que la discipline */
+.page--initiation-musique-web, .page--projets-musique-web { --tile-color: var(--teal); }
+.page--initiation-musique-tablette, .page--projets-musique-tablette { --tile-color: var(--teal); }
+.page--initiation-danse, .page--projets-danse { --tile-color: var(--danse); }
+.page--initiation-art-dramatique, .page--projets-art-dramatique { --tile-color: var(--drama); }
+.page--initiation-arts-plastiques, .page--projets-arts-plastiques { --tile-color: var(--arts); }
