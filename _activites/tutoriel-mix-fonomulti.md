@@ -55,7 +55,7 @@ Au terme de cette activité :
 
 #### Rétroaction/objectivation
 
-- Demander à l'élève de choisir 3 sons susceptibles de bien se mélanger, en s'assurant qu'ils se distinguent bien les uns des autres (ajustement des volumes, utilisation de la [réverbération](../lexique.html)La réverbération est la persistance d'un son après l'interruption de son émission directe. Elle est provoquée par les réflexions multiples et serrées du son sur les différentes parois réfléchissantes du lieu. Elle crée un effet de prolongement diffus du son, plus ou moins long en fonction de la dimension du lieu et des propriété réfléchissantes de ses parois. Elle crée... ou autre traitement).
+- Demander à l'élève de choisir 3 sons susceptibles de bien se mélanger, en s'assurant qu'ils se distinguent bien les uns des autres (ajustement des volumes, utilisation de la [réverbération](../lexique.html) ou autre traitement).
 
 En option
 

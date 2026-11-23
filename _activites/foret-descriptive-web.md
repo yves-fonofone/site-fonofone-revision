@@ -34,7 +34,7 @@ Ce projet peut être réalisé à partir d'autres images de l'environnement (par
 ## Intentions pédagogiques
 
 - Améliorer chez les élèves la perception des intensités et des nuances.
-- Initier les élèves aux procédés de composition liés à l'intensité et aux nuances (rupture, fondus, [masque](../lexique.html)Très exploité dans les musiques contemporaines instrumentales et électroacoustiques, le procédé de masque consiste à cacher une couche, généralement douce et linéaire, par une autre couche occupant tout l'espace acoustique. L'arrêt subit de cette couche en avant-plan (rupture) révèle l'existence d'un autre discours musical qui était jusque là masqué.).
+- Initier les élèves aux procédés de composition liés à l'intensité et aux nuances (rupture, fondus, [masque](../lexique.html)).
 - Initier les élèves à la manipulation des outils appropriés.
 
 ### Niveau suggéré

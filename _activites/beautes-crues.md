@@ -24,17 +24,17 @@ L'art peut nous permettre d'exprimer nos émotions, mais peut également nous ai
 
 Réalisations interactives : ouvrir au TNI et inviter les élèves à les parcourir.
 
-[![](../images/2024/03/cellule-beautes-300x177.png)](https://fonofone.org/fonoweb-image/?activity=MTR8MTAyMTMk)
+[![](../images/2024/03/cellule-beautes-300x177.png) ](https://fonofone.org/fonoweb-image/?activity=MTR8MTAyMTMk)
 
-[![](../images/2024/03/gouttes-beau-300x185.png)](https://fonofone.org/fonoweb-image/?activity=MTR8MTAyMTIk)
+[![](../images/2024/03/gouttes-beau-300x185.png) ](https://fonofone.org/fonoweb-image/?activity=MTR8MTAyMTIk)
 
-[![](../images/2024/03/capture-beautes-300x182.png)](https://fonofone.org/fonoweb-image/?activity=MTR8MTAyMTAk)
+[![](../images/2024/03/capture-beautes-300x182.png) ](https://fonofone.org/fonoweb-image/?activity=MTR8MTAyMTAk)
 
-[![](../images/2024/03/glaciation-beautes-300x185.png)](https://fonofone.org/fonoweb-image/?activity=MTR8MTAyMTUk)
+[![](../images/2024/03/glaciation-beautes-300x185.png) ](https://fonofone.org/fonoweb-image/?activity=MTR8MTAyMTUk)
 
-[![](../images/2024/03/vert-beautes-300x184.png)](https://fonofone.org/fonoweb-image/?activity=MTR8MTAyMTEk)
+[![](../images/2024/03/vert-beautes-300x184.png) ](https://fonofone.org/fonoweb-image/?activity=MTR8MTAyMTEk)
 
-[![](../images/2024/03/mauve-beautes-300x175.png)](https://fonofone.org/fonoweb-image/?activity=MTR8MTAyMTQk)
+[![](../images/2024/03/mauve-beautes-300x175.png) ](https://fonofone.org/fonoweb-image/?activity=MTR8MTAyMTQk)
 
 ### PROJET BEAUTÉS CRUES - à réaliser avec vos groupes
 
