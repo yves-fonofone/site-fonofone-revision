@@ -359,3 +359,12 @@ a.disc:hover, .disc--music a:hover { transform: translateY(-3px); box-shadow: 0 
 .lexique dt:target { background: var(--menu-hover); }
 .lexique dd { margin: 0; }
 .lexique dd audio { width: 100%; max-width: 420px; }
+
+/* Atma : un extrait = titre, compositeur, lecteur, date et album */
+.prose ul:has(> li.extrait) { list-style: none; padding: 0; }
+li.extrait { padding: 16px 0; border-bottom: 1px solid var(--card-border); }
+li.extrait p { margin: 0; }
+.extrait__titre { font: 600 16px/1.4 Poppins, sans-serif; }
+.extrait__compositeur { margin-top: 2px !important; color: var(--muted); }
+.prose li.extrait audio { margin: 8px 0 6px; width: 100%; max-width: 420px; }
+.extrait__infos { font-size: 14px; color: var(--muted); }
