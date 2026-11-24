@@ -15,7 +15,7 @@ duree: "De 1 à 2 périodes"
 
 ## Exemple de réalisation
 
-https://fonofone.org/wp-content/uploads/2018/05/piece-classe-J-Fr.mp3
+<audio controls preload="none" src="../audio/activites/ritournelle/piece-classe-J-Fr.mp3"></audio>
 
 École Au-Coeur-des-Monts, St-Pie, Québec 2018
 

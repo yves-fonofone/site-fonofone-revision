@@ -69,15 +69,15 @@ mélangeur
 
 Bach, Sinfonia
 
-https://fonofone.org/wp-content/uploads/2019/03/bach_sinfonia.mp3
+<audio controls preload="none" src="../audio/activites/puzzle-2/bach_sinfonia.mp3"></audio>
 
 Beethoven, Sonate pathétique
 
-https://fonofone.org/wp-content/uploads/2019/03/beethoven_pathetique-1.mp3
+<audio controls preload="none" src="../audio/activites/puzzle-2/beethoven_pathetique-1.mp3"></audio>
 
 Fauré, Sicilienne
 
-https://fonofone.org/wp-content/uploads/2019/03/faure_sicilienne-1.mp3
+<audio controls preload="none" src="../audio/activites/puzzle-2/faure_sicilienne-1.mp3"></audio>
 
 #### Suggestions d'évaluation
 

@@ -69,7 +69,7 @@ Au terme de l'activité:
 - Faire écouter quelques-uns des sons en demandant aux élèves s'ils sonnent proche ou loin:  
  -  volume sonore (*ff, mp,   pp )* - qualité du son (sonne "plein", riche, ou filtré)  - sec/réverbéré ? -  lieu intérieur ou extérieur ?          
 - Est-ce qu’un son lointain peut être plus fort qu’un son proche ?  
-      Analyser le son[< train-feuilles](https://fonofone.org/wp-content/uploads/2022/05/train-feuilles.wav):  
+      Analyser le son[< train-feuilles](../audio/activites/proche-loin-web/train-feuilles.m4a):  
  le son du train est plus fort que le son des feuilles.  
  Pourtant, on perçoit bien que le train est plus loin. **Pourquoi ?**
 

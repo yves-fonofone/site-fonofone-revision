@@ -44,7 +44,7 @@ variateur de hauteur/vitesse
 
 #### Geste initial : sections 1 et 2 de la partition
 
-https://fonofone.org/wp-content/uploads/2018/04/empilade-1.mp3
+<audio controls preload="none" src="../audio/activites/empilade-de-points/empilade-1.mp3"></audio>
 
 École Au-Coeur-des-Monts, St-Pie, Québec, août 2017
 
@@ -86,7 +86,7 @@ Chaque élève choisit librement un son dans la banque [accu-points].
 
 ![accu-2](../images/2018/04/accu-2.jpg)
 
-https://fonofone.org/wp-content/uploads/2018/04/empilade-2.mp3
+<audio controls preload="none" src="../audio/activites/empilade-de-points/empilade-2.mp3"></audio>
 
 - **Objectivation : a t-on répondu avec précision aux gestes de direction? Que se passe t-il quand le son est très accéléré? Perçoit-on encore les mouvements dans l'espace? Est-ce qu'on perçoit encore la séparation entre les sons? Est-ce qu'on est encore dans la verticalité ou plutôt dans l'horizontalité (ligne continue)?**
 
@@ -121,7 +121,7 @@ En plus du son de bambou, chaque élève sélectionne dans les onglets 2 et 3 le
 
 #### Une réalisation d'un groupe de 20 jeunes, au *Camp Musical Père-Lindsay,* région de Lanaudière, Québec, été 2017
 
-https://fonofone.org/wp-content/uploads/2018/04/accu-Lindsay.mp3
+<audio controls preload="none" src="../audio/activites/empilade-de-points/accu-Lindsay.mp3"></audio>
 
 Les élèves ont choisi  d'établir une toile de fond à partir des sons [mélopée] et [ritournelle], présents jusqu'à la fin. Différents sons se sont empilés graduellement, créant en avant-plan un joli paysage sonore s'estompant graduellement à la fin pour laisser place à la trame de fond, accompagnée de quelques sons de bambou.
 

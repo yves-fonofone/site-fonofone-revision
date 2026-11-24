@@ -105,7 +105,7 @@ Au terme de l'activité:
 
 ![Accum-3](../images/2022/05/accum-3.jpg)
 
-https://fonofone.org/wp-content/uploads/2018/04/empilade-1.mp3
+<audio controls preload="none" src="../audio/activites/accumulation-points-web/empilade-1.mp3"></audio>
 
 ### Étape 2
 
@@ -131,7 +131,7 @@ Ajout du [variateur de hauteur/vitesse]
 
 ![Accum-2](../images/2022/05/accum-2.jpg)
 
-https://fonofone.org/wp-content/uploads/2018/04/empilade-2.mp3
+<audio controls preload="none" src="../audio/activites/accumulation-points-web/empilade-2.mp3"></audio>
 
 ### Étape 3
 

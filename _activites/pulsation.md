@@ -21,7 +21,7 @@ métronome
 
 tous les autres outils, au choix
 
-https://fonofone.org/wp-content/uploads/2018/05/Pulsation.mp3
+<audio controls preload="none" src="../audio/activites/pulsation/Pulsation.mp3"></audio>
 
 Camp musical Père-Lindsay, Saint-Côme, Québec,  juillet 2017
 
