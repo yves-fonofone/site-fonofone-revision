@@ -10,13 +10,15 @@ disciplines:
   - { rubrique: "OMNIfone" }
   - { titre: "L'Oiseau de feu", url: /oiseau-de-feu.html }
 
+# « sous_menu » ouvre un second niveau à droite au survol.
 ressources:
-  - { rubrique: "Outils" }
-  - { titre: "Les outils fonofone", url: /outils.html }
-  - { titre: "Trucs et astuces", url: /trucs-astuces.html }
-  - { titre: "Procédés formels illustrés", url: /procedes.html }
-  - { titre: "Atma Classique : extraits musicaux", url: /atma.html }
+  - titre: "Outils"
+    sous_menu:
+      - { titre: "Trucs et astuces", url: /trucs-astuces.html }
+      - { titre: "Les outils fonofone", url: /outils.html }
   - { titre: "Artistes sonores et visuels", url: /artistes.html }
+  - { titre: "Atma Classique : extraits musicaux", url: /atma.html }
+  - { titre: "Procédés formels illustrés", url: /procedes.html }
   - { titre: "Lexique", url: /lexique.html }
 
 services:

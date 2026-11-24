@@ -1,8 +1,13 @@
 {%- comment -%}
   Un menu déroulant. Paramètres : titre, liens (liste de _data/menu.yml), lien (adresse du titre, facultatif), droite (true/false)
+  Un lien avec « sous_menu » ouvre un second niveau à droite.
 {%- endcomment -%}
-{%- assign urls = include.liens | map: "url" -%}
-<div class="menu__group{% if urls contains actif %} is-current{% endif %}">
+{%- assign courant = false -%}
+{%- for l in include.liens -%}
+  {%- if l.url == actif -%}{%- assign courant = true -%}{%- endif -%}
+  {%- for s in l.sous_menu -%}{%- if s.url == actif -%}{%- assign courant = true -%}{%- endif -%}{%- endfor -%}
+{%- endfor -%}
+<div class="menu__group{% if courant %} is-current{% endif %}">
   {%- if include.lien %}
   <a class="menu__item" href="{{ include.lien | relative_url }}">{{ include.titre }} ▾</a>
   {%- else %}
@@ -12,6 +17,17 @@
     {%- for l in include.liens %}
     {%- if l.rubrique %}
     <span class="menu__label">{{ l.rubrique }}</span>
+    {%- elsif l.sous_menu %}
+    {%- assign sous_courant = false -%}
+    {%- for s in l.sous_menu -%}{%- if s.url == actif -%}{%- assign sous_courant = true -%}{%- endif -%}{%- endfor %}
+    <div class="menu__sub{% if sous_courant %} is-current{% endif %}">
+      <span class="menu__subtitle" tabindex="0">{{ l.titre }}</span>
+      <div class="menu__flyout">
+        {%- for s in l.sous_menu %}
+        <a href="{{ s.url | relative_url }}"{% if actif == s.url %} aria-current="page"{% endif %}>{{ s.titre }}</a>
+        {%- endfor %}
+      </div>
+    </div>
     {%- else %}
     <a href="{{ l.url | relative_url }}"{% if actif == l.url %} aria-current="page"{% endif %}>{{ l.titre }}</a>
     {%- endif %}

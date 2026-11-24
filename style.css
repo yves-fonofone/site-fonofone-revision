@@ -6,6 +6,7 @@
   --drama: #f47109;
   --arts: #1d6186;
   --yellow: #f5d547;
+  --menu-hover: #fbe97a;
   --ink: #333;
   --muted: #666;
   --paper: #fff;
@@ -41,14 +42,26 @@ a { color: inherit; }
 .nav-toggle { position: absolute; opacity: 0; pointer-events: none; }
 .menu__group { position: relative; }
 .menu__drop {
-  display: none; position: absolute; top: 100%; left: 0; min-width: 260px;
+  display: none; position: absolute; top: 100%; left: 0; min-width: 300px;
   background: #fff; color: var(--ink); box-shadow: 0 8px 24px rgba(0,0,0,.18);
   padding: 8px 0;
 }
 .menu__drop--right { left: auto; right: 0; }
 .menu__group:hover .menu__drop, .menu__group:focus-within .menu__drop { display: block; }
-.menu__drop a { display: block; padding: 8px 18px; text-decoration: none; font-size: 14px; }
-.menu__drop a:hover { background: #f1f5f7; color: var(--red); }
+.menu__drop a, .menu__subtitle {
+  display: block; padding: 10px 22px; text-decoration: none; font-size: 15px; color: var(--ink); cursor: pointer;
+}
+.menu__drop a:hover, .menu__drop a:focus-visible { background: var(--menu-hover); color: var(--ink); outline: none; }
+/* Second niveau (ex. Ressources › Outils) */
+.menu__sub { position: relative; }
+.menu__subtitle::after { content: "›"; float: right; margin-left: 16px; color: var(--muted); }
+.menu__sub:hover > .menu__subtitle, .menu__sub:focus-within > .menu__subtitle,
+.menu__sub.is-current > .menu__subtitle { background: var(--menu-hover); outline: none; }
+.menu__flyout {
+  display: none; position: absolute; left: 100%; top: 0; min-width: 240px;
+  background: #fff; box-shadow: 0 8px 24px rgba(0,0,0,.18); padding: 8px 0;
+}
+.menu__sub:hover > .menu__flyout, .menu__sub:focus-within > .menu__flyout { display: block; }
 .menu__label { display: block; padding: 10px 18px 4px; font: 600 12px Poppins, sans-serif; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
 .icon-link { display: flex; align-items: center; padding: 0 12px; text-decoration: none; font-size: 18px; }
 .burger { display: none; background: none; border: 0; color: #fff; font-size: 26px; cursor: pointer; padding: 8px; }
@@ -190,8 +203,15 @@ a.disc:hover, .disc--music a:hover { transform: translateY(-3px); box-shadow: 0 
   .menu__item { height: 44px; }
   .menu .menu__drop { display: block; }
   .menu__drop { position: static; box-shadow: none; background: rgba(255,255,255,.06); color: #fff; }
-  .menu__drop a:hover { background: none; color: var(--yellow); }
+  .menu__drop a, .menu__subtitle { color: #fff; }
+  .menu__drop a:hover, .menu__drop a:focus-visible { background: none; color: var(--yellow); }
   .menu__label { color: rgba(255,255,255,.6); }
+  .menu__sub:hover > .menu__subtitle, .menu__sub:focus-within > .menu__subtitle,
+  .menu__sub.is-current > .menu__subtitle { background: none; }
+  .menu__subtitle { cursor: default; color: rgba(255,255,255,.6); font-size: 13px; text-transform: uppercase; letter-spacing: .06em; }
+  .menu__subtitle::after { content: none; }
+  .menu__flyout { display: block; position: static; box-shadow: none; background: none; padding: 0; }
+  .menu__flyout a { padding-left: 38px; }
   .hero { flex-direction: column; align-items: flex-start; }
   .disciplines { grid-template-columns: 1fr 1fr; }
   .disc--music { grid-column: 1 / -1; flex-direction: row; }
