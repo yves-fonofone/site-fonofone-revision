@@ -11,56 +11,84 @@ gratuite: true
 niveau: "À partir du 2e cycle du primaire"
 realisation: "Réalisation individuelle, en équipe ou au TNI"
 duree: "1 ou 2 périodes"
+mise_en_page: fonofone
+bandeau: /images/2023/01/bandeau-caractere.jpg
+etiquette: Musique-en ligne
 ---
+<h2 class="titre-pastille">Description</h2>
 
-## Description
+<section class="encadre encadre--description">
+  <div class="encadre__texte">
+    <p>Cette activité amène l'élève à identifier et exprimer les sensations, impressions, émotions ou sentiments qu'il ressent à l'écoute d'une musique et à les associer à un élément de langage.</p>
+    <p>Elle peut servir de préparation à un travail plus élaboré de création et de performance en équipes (voir &lt; <a href="caractere-2.html">Caractère 2</a>).</p>
+    <p>À noter qu'on peut faire (ou refaire) cette activité selon d'autres éléments langagiers,<br>
+    par exemple : - le tempo (lent, modéré, rapide...) - l'intensité (ppp, mf, fff...) - la tonalité (pour des élèves très avancés).</p>
+    <p><a href="#preparation">&lt; Proposition de réalisation</a></p>
+  </div>
+  <figure class="encadre__media">
+    <div class="video">
+      <iframe src="https://player.vimeo.com/video/881261171?h=35477bf3a9&amp;badge=0&amp;autopause=0" title="Caractères" allow="fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+    <figcaption>Réalisation au Collège Bourget, 3e année primaire<br>Enseignant : François Gauthier</figcaption>
+  </figure>
+</section>
 
-Cette activité amène l'élève à identifier et exprimer les sensations, impressions, émotions ou sentiments qu'il ressent à l'écoute d'une musique et à les associer à un élément de langage.
+<section class="consoles">
+  <div class="console">
+    <img src="../images/qr/qr-caractere.png" alt="Code QR : Fono-image, travail en équipe" width="120" height="120">
+    <a class="console__bouton" href="https://fonofone.artificiel.org/fonoimage/?version=1&amp;activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1689019684.fnmg" target="_blank" rel="noopener">Ouvrir Fono-image, travail en équipe</a>
+  </div>
+  <div class="console">
+    <img src="../images/qr/qr-caractere-tni.png" alt="Code QR : Fono-image, individuel ou au TNI" width="120" height="120">
+    <a class="console__bouton" href="https://fonofone.artificiel.org/fonoimage/?version=1&amp;activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1678146525.fnmg" target="_blank" rel="noopener">Ouvrir Fono-image, individuel ou au TNI</a>
+  </div>
+</section>
 
-Elle peut servir de préparation à un travail plus élaboré de création et de performance en équipes (voir < [Caractère 2](caractere-2.html)).
+<section class="rangee">
+  <div class="rangee__principal">
+    <h2 class="titre-pastille">Intentions pédagogiques</h2>
+    <ul class="puces">
+      <li>Examiner un extrait musical au regard d’éléments de contenu.</li>
+      <li>Explorer le répertoire.</li>
+    </ul>
+  </div>
+  <aside class="encadre encadre--teinte">
+    <h3>Niveau suggéré</h3>
+    <ul class="puces">
+      <li>À partir du 2e cycle du primaire</li>
+    </ul>
+  </aside>
+</section>
 
-À noter qu'on peut faire (ou refaire) cette activité selon d'autres éléments langagiers,  
- par exemple : - le tempo (lent, modéré, rapide...) - l'intensité (ppp, mf,  fff...) - la tonalité (pour des élèves très avancés).
+<section class="rangee">
+  <div class="rangee__principal">
+    <h2 class="titre-pastille">Objectifs d'apprentissage</h2>
+    <p>Au terme de cette activité :</p>
+    <ul class="puces">
+      <li>L’élève sera capable d’établir des liens entre ce qu’il a ressenti et ce qu’il a observé.</li>
+      <li>L’élève sera capable d’identifier ou différencier des éléments de langage.</li>
+    </ul>
+  </div>
+  <aside class="encadre encadre--teinte">
+    <h3>Savoirs essentiels</h3>
+    <ul class="puces">
+      <li>Aspects affectifs</li>
+      <li>contraste</li>
+      <li>Éléments de langage relatifs à l'intensité, au timbre, au rythme.</li>
+    </ul>
+  </aside>
+</section>
 
-< Proposition de réalisation
+<h2 class="titre-pastille">Repères culturels</h2>
 
-Réalisation au Collège Bourget, 3e année primaire  
- Enseignant : François Gauthier
-
-![caractere-2](../images/2023/01/caractere-2.png)
-
-## Intentions pédagogiques
-
-- Examiner un extrait musical au regard d’éléments de contenu.
-- Explorer le répertoire.
-
-### Niveau suggéré
-
-- À partir du 2e cycle du primaire
-
-## Objectifs d'apprentissage
-
-Au terme de cette activité :
-
-- L’élève sera capable d’établir des liens entre ce qu’il a ressenti et ce qu’il a observé.
-- L’élève sera capable d’identifier ou différencier des éléments de langage.
-
-### Savoirs essentiels
-
-- Aspects affectifs
-- contraste
-- Éléments de langage relatifs à l'intensité, au timbre, au rythme.
-
-## Repères culturels
-
-### [Robert Schumann](https://fr.wikipedia.org/wiki/Robert_Schumann)
-
-[Scènes d'enfants, op 15 - Fürchtenmachen](https://www.youtube.com/watch?v=0zxLqNg6OfQ)
-
-### [Modeste Moussorgsky](https://fr.wikipedia.org/wiki/Modeste_Moussorgski)
-
-[Tableaux d'une exposition - le Gnome](https://www.youtube.com/watch?v=WzYRzv8V1Fk&ab_channel=scottbrothersduo)
-
+<section class="rangee rangee--reperes">
+  <div class="encadre encadre--teinte encadre--reperes">
+    <h4><a href="https://fr.wikipedia.org/wiki/Robert_Schumann" target="_blank" rel="noopener">Robert Schumann</a></h4>
+    <p><a href="https://www.youtube.com/watch?v=0zxLqNg6OfQ" target="_blank" rel="noopener">Scènes d'enfants, op 15 - Fürchtenmachen</a></p>
+    <h4><a href="https://fr.wikipedia.org/wiki/Modeste_Moussorgski" target="_blank" rel="noopener">Modeste Moussorgsky</a></h4>
+    <p><a href="https://www.youtube.com/watch?v=WzYRzv8V1Fk" target="_blank" rel="noopener">Tableaux d'une exposition - le Gnome</a></p>
+  </div>
+  <div class="rangee__liste">
 <ol class="playlist">
   <li><span class="playlist__titre">Adams-China Gates</span> <span class="playlist__duree">0:09</span>
     <audio controls preload="none" src="../audio/activites/caractere/556.mp3"></audio></li>
@@ -105,43 +133,52 @@ Au terme de cette activité :
   <li><span class="playlist__titre">Ana Sokolovic-extr.2</span> <span class="playlist__duree">0:05</span>
     <audio controls preload="none" src="../audio/activites/caractere/229-h.mp3"></audio></li>
 </ol>
+  </div>
+</section>
 
-#### preparation
+<h2 class="titre-pastille" id="preparation">Suggestions de réalisation</h2>
 
-## Suggestions de réalisation
-
-#### Quelques pistes de préparation
-
-- Développer avec les élèves une liste de caractères musicaux, par exemple:  
- *triste, joyeux,  dramatique, apaisant, reposant,  entraînant, agité, énervant, stressant, angoissant, drôle,  étrange, déprimant, doux, calme, agréable, violent...*
-- Faire entendre quelques extraits musicaux de différentes époques en demandant aux élèves à quelle émotion ils associent l'extrait, puis les amener à identifier les éléments de langage qui provoquent cette émotion.
-- Analyser avec les élèves l'extrait proposé de Schumann ou de Moussorgsky :  
- - les amener à identifier les éléments de langage des différents segments de la pièce;  
- - les amener à identifier la forme.
-
-#### Réalisation
-
-L'enseignant.e adapte sa stratégie à la situation choisie (travail individuel ou en équipe, ou réalisation au TNI).
-
-- Si le travail se fait en équipe, les élèves se mettent d'accord sur le choix des extraits en fonction du critère d'association ou d'opposition sur lequel il y a entente.  
- Exemples :" *c'est triste,...  c'est joyeux, ça va vite,.... c'est calme parce que c'est lent..."*
-- On pratique l'enchaînement (idéalement les élèves auront fait préalablement un exercice de [fondu/enchaîné](caractere.html)).
-- Les équipes font entendre leur enchaînement à la classe en identifiant l'émotion de chaque extrait et en l'associant à un élément de langage.
-- Inviter les autres élèves à commenter.
-
-#### Suggestions de rétroaction/objectivation
-
-- *Le choix des extraits est-il vraiment convaincant au regard de l'objectif ? (chaîne 1 : oppositions, chaîne 2 : associations).  Si oui / non, pourquoi?*
-- *Les éléments de langage identifiés sont-ils pertinents ? Pourriez-vous en trouver d'autres?*
-- *L'enchaînement était-il bien réussi? Comment pourrait-il être amélioré?*
-
-#### Pistes d'évaluation
-
-(Si réalisation individuelle ou en dyade)
-
-- Pertinence des liens entre les extraits et l’effet ressenti
-- Variété des éléments repérés
-- Justesse du vocabulaire
-- Cohérence des enchaînements:  
- - contraste pertinent de caractères pour la chaîne 1,  
- - caractère commun à tous les extraits de la chaîne 2.
+<section class="suggestions">
+  <div>
+    <h4>Quelques pistes de préparation</h4>
+    <ul class="puces">
+      <li>Développer avec les élèves une liste de caractères musicaux, par exemple :<br>
+      <em>triste, joyeux, dramatique, apaisant, reposant, entraînant, agité, énervant, stressant, angoissant, drôle, étrange, déprimant, doux, calme, agréable, violent...</em></li>
+      <li>Faire entendre quelques extraits musicaux de différentes époques en demandant aux élèves à quelle émotion ils associent l'extrait, puis les amener à identifier les éléments de langage qui provoquent cette émotion.</li>
+      <li>Analyser avec les élèves l'extrait proposé de Schumann ou de Moussorgsky :<br>
+      – les amener à identifier les éléments de langage des différents segments de la pièce;<br>
+      – les amener à identifier la forme.</li>
+    </ul>
+  </div>
+  <div>
+    <h4>Réalisation</h4>
+    <p>L'enseignant.e adapte sa stratégie à la situation choisie (travail individuel ou en équipe, ou réalisation au TNI).</p>
+    <ul class="puces">
+      <li>Si le travail se fait en équipe, les élèves se mettent d'accord sur le choix des extraits en fonction du critère d'association ou d'opposition sur lequel il y a entente.<br>
+      Exemples : <em>« c'est triste… c'est joyeux, ça va vite… c'est calme parce que c'est lent… »</em></li>
+      <li>On pratique l'enchaînement (idéalement les élèves auront fait préalablement un exercice de <a href="../lexique.html#fondu-enchaine">fondu/enchaîné</a>).</li>
+      <li>Les équipes font entendre leur enchaînement à la classe en identifiant l'émotion de chaque extrait et en l'associant à un élément de langage.</li>
+      <li>Inviter les autres élèves à commenter.</li>
+    </ul>
+  </div>
+  <div>
+    <h4>Suggestions de rétroaction/objectivation</h4>
+    <ul class="puces puces--italique">
+      <li>Le choix des extraits est-il vraiment convaincant au regard de l'objectif ? (chaîne 1 : oppositions, chaîne 2 : associations). Si oui / non, pourquoi ?</li>
+      <li>Les éléments de langage identifiés sont-ils pertinents ? Pourriez-vous en trouver d'autres ?</li>
+      <li>L'enchaînement était-il bien réussi ? Comment pourrait-il être amélioré ?</li>
+    </ul>
+  </div>
+  <div>
+    <h4>Pistes d'évaluation</h4>
+    <p>(Si réalisation individuelle ou en dyade)</p>
+    <ul class="puces">
+      <li>Pertinence des liens entre les extraits et l’effet ressenti</li>
+      <li>Variété des éléments repérés</li>
+      <li>Justesse du vocabulaire</li>
+      <li>Cohérence des enchaînements :<br>
+      – contraste pertinent de caractères pour la chaîne 1,<br>
+      – caractère commun à tous les extraits de la chaîne 2.</li>
+    </ul>
+  </div>
+</section>

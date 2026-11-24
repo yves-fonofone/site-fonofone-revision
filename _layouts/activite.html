@@ -11,6 +11,27 @@ layout: default
   {%- assign retour_titre = retour_page.titre | default: retour_titre -%}
 {%- endif -%}
 <div class="page wrap page--{{ page.discipline }}">
+  {%- if page.mise_en_page == "fonofone" %}
+  {%- comment -%}
+    Mise en page fidèle à fonofone.org : bandeau illustré, puces bleues, titres à pastille rouge.
+    Le contenu (consoles, encadrés, colonnes) est écrit en HTML dans la fiche.
+  {%- endcomment %}
+  <article class="fiche fiche--fonofone">
+    <header class="fiche-bandeau"{% if page.bandeau %} style="background-image:url('{{ page.bandeau | relative_url }}')"{% endif %}>
+      <a class="fiche-bandeau__etiquette" href="{{ retour_url | relative_url }}">{{ page.etiquette | default: retour_titre }}</a>
+      <h1>{{ page.titre }}{% if page.sous_titre %} <span class="sous-titre">{{ page.sous_titre }}</span>{% endif %}</h1>
+    </header>
+    <ul class="fiche-chapeau">
+      {%- if page.niveau %}<li>{{ page.niveau }}</li>{% endif %}
+      {%- if page.realisation %}<li>{{ page.realisation }}</li>{% endif %}
+      {%- if page.duree %}<li>{{ page.duree }}</li>{% endif %}
+    </ul>
+    <div class="fiche-contenu">
+{{ content }}
+    </div>
+    <p class="fiche__retour"><a href="{{ retour_url | relative_url }}">← Toutes les activités {% if d %}{{ d.titre }}{% endif %}</a></p>
+  </article>
+  {%- else %}
   <article class="fiche">
     <p class="fiche__tags">
       <a href="{{ retour_url | relative_url }}">{{ retour_titre }}</a>
@@ -45,4 +66,5 @@ layout: default
     </div>
     <p class="fiche__retour"><a href="{{ retour_url | relative_url }}">← {% if page.section %}{{ retour_titre }}{% else %}Toutes les activités {% if d %}{{ d.titre }}{% endif %}{% endif %}</a></p>
   </article>
+  {%- endif %}
 </div>
