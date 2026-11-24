@@ -25,7 +25,7 @@ Cette activité permet d'explorer cette approche de manière plus "cinématograp
 
 ## Intentions pédagogiques
 
-- Éveiller l'élève à la perception de la [perspective sonore](https://www.cairn.info/revue-communications-2009-2-page-139.htm) (plans ou couches sonores situées è des distances relatives les unes des autres).  Il/elle prend conscience des éléments qui influencent sa perception de la localisation d’un son dans l’espace (timbre, intensité, [réverbération](../lexique.html), etc.) et enrichit ou remet en question ses représentations initiales par l’analyse comparée des sons.
+- Éveiller l'élève à la perception de la [perspective sonore](https://www.cairn.info/revue-communications-2009-2-page-139.htm) (plans ou couches sonores situées è des distances relatives les unes des autres).  Il/elle prend conscience des éléments qui influencent sa perception de la localisation d’un son dans l’espace (timbre, intensité, [réverbération](../lexique.html#reverberation), etc.) et enrichit ou remet en question ses représentations initiales par l’analyse comparée des sons.
 
 - Développer l’habileté de l'élève à créer un effet de perspective sonore.
 - Développer l'habileté de l'élève à manipuler les outils Fonofone.
@@ -36,7 +36,7 @@ Cette activité permet d'explorer cette approche de manière plus "cinématograp
 
 #### Préalables
 
-Connaissance requise des outils [ **volume** ] - [ **filtre** ] - [ **[réverbération](../lexique.html)** ]
+Connaissance requise des outils [ **volume** ] - [ **filtre** ] - [ **[réverbération](../lexique.html#reverberation)** ]
 
 ## Objectifs d'apprentissage
 
@@ -130,7 +130,7 @@ Au terme de l'activité:
 - *Est-ce tu entends bien les deux sons? Si oui/non pourquoi ?*
 - *Est-ce que tu perçois bien le son proche et le son lointain? Si oui, pourquoi? Qu’est-ce qui les distingue ? Sinon, à ton avis qu'est-ce qui ne va pas?*
 
-*Quelques critères : précision (bien défini/flou) - couleur - volume - pourcentage sec/réfléchi ([réverbération](../lexique.html))...*
+*Quelques critères : précision (bien défini/flou) - couleur - volume - pourcentage sec/réfléchi ([réverbération](../lexique.html#reverberation))...*
 
 2. Éloigner un son à l'aide de manipulations
 
@@ -146,4 +146,4 @@ Au terme de l'activité:
 - *Est-ce tu entends bien les deux sons? Si oui/non pourquoi ?*
 - *Est-ce que tu perçois bien le son proche et le son lointain? Si oui, pourquoi? Qu’est-ce qui les distingue ? Sinon, à ton avis qu'est-ce qui ne va pas?*
 
-*Quelques critères : précision (bien défini/flou) - couleur - volume - pourcentage sec/réfléchi ([réverbération](../lexique.html))...*
+*Quelques critères : précision (bien défini/flou) - couleur - volume - pourcentage sec/réfléchi ([réverbération](../lexique.html#reverberation))...*

@@ -40,7 +40,7 @@ Au terme de l'activité:
 
 ### Savoirs essentiels
 
-- Procédé de composition (contraste, rupture, effet de [masque](../lexique.html))
+- Procédé de composition (contraste, rupture, effet de [masque](../lexique.html#masque))
 - Forme personnelle : phrase musicale
 - Règles de musique d'ensemble
 

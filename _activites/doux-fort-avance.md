@@ -18,7 +18,7 @@ duree: "1 période"
 - À partir du 3e cycle du primaire
 - 1 période
 
-Cette activité permet l'approfondissement de la compréhension des notions d'intensité et de nuance et des procédés de composition contraste, rupture, [masque](../lexique.html). Similaire à l'activité [[doux/fort facile](doux-fort-facile.html)] elle s'adresse à des élèves plus avancés et plus habiles dans la pratique de Fonofone.
+Cette activité permet l'approfondissement de la compréhension des notions d'intensité et de nuance et des procédés de composition contraste, rupture, [masque](../lexique.html#masque). Similaire à l'activité [[doux/fort facile](doux-fort-facile.html)] elle s'adresse à des élèves plus avancés et plus habiles dans la pratique de Fonofone.
 
 Pour donner une suite créative à cette activité, aller à : [[doux/fort-création]](doux-fort-creation.html)
 
@@ -27,7 +27,7 @@ Pour donner une suite créative à cette activité, aller à : [[doux/fort-créa
 ## Intentions pédagogiques
 
 - Améliorer chez les élèves la perception des intensités et des nuances.
-- Initier les élèves aux procédés de composition liés à l'intensité et aux nuances (rupture, fondus, [masque](../lexique.html)).
+- Initier les élèves aux procédés de composition liés à l'intensité et aux nuances (rupture, fondus, [masque](../lexique.html#masque)).
 - Initier les élèves à la manipulation des outils appropriés.
 
 ### Niveau suggéré
@@ -44,7 +44,7 @@ Au terme de l'activité:
 
 ### Savoirs essentiels
 
-- Procédés de composition : contraste, rupture, effet de [masque](../lexique.html).
+- Procédés de composition : contraste, rupture, effet de [masque](../lexique.html#masque).
 - Langage musical : intensités (doux/fort) et nuances (crescendo/decrescendo)
 - Technique de manipulation
 
@@ -89,7 +89,7 @@ Option : pointer tour à tour un élève, qui doit faire ressortir un peu son br
 #### Réalisation
 
 - Faire venir un élève au tableau et l'inviter à choisir dans les banques de sons Fonofone un son doux et un son fort.
-- Lui demander de déclencher d'abord le son fort, puis d'ajouter le son doux : que remarque t-il ? Si le choix des sons est judicieux, on n'entendra plus le son doux (effet de [masque](../lexique.html)).
+- Lui demander de déclencher d'abord le son fort, puis d'ajouter le son doux : que remarque t-il ? Si le choix des sons est judicieux, on n'entendra plus le son doux (effet de [masque](../lexique.html#masque)).
 - Lui demander d'arrêter le son fort : que remarque t-il ?
 - Inviter un autre élève à refaire l'expérience en choisissant d'autres sons.
 

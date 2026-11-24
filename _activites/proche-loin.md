@@ -22,7 +22,7 @@ Aller à : <Propositions de réalisation
 ## Intentions pédagogiques
 
 - Familiariser l'élève avec les concepts de plan sonore et de perspective sonore.
-- L'amener à prendre conscience des éléments qui influencent sa perception de la localisation d’un son dans l’espace (timbre, intensité, [réverbération](../lexique.html), etc.) et à enrichir ou remettre en question ses représentations initiales par l’analyse comparée des sons.
+- L'amener à prendre conscience des éléments qui influencent sa perception de la localisation d’un son dans l’espace (timbre, intensité, [réverbération](../lexique.html#reverberation), etc.) et à enrichir ou remettre en question ses représentations initiales par l’analyse comparée des sons.
 
 ### Niveau suggéré
 
@@ -55,7 +55,7 @@ Au terme de cette activité :
 
 - Écouter et analyser la vidéo : qu'est-ce qui distingue les deux sons? Lequel sonne proche? Lequel sonne loin ? Pourquoi?
 - Faire jouer les sons de la banque [proche-loin] liée à l'activité en demandant aux élèves lesquels sonnent proche et lesquels sonnent loin.
-- Donner des exemples d'éloignement du son par l'emploi d'un outil : par exemple réduire le volume, ajouter de la [réverbération](../lexique.html), utiliser le [filtre](../outils.html)...
+- Donner des exemples d'éloignement du son par l'emploi d'un outil : par exemple réduire le volume, ajouter de la [réverbération](../lexique.html#reverberation), utiliser le [filtre](../outils.html)...
 
 - Demander à l'élève de choisir dans la banque [proche-loin] un son qui lui  semble proche et un autre qui lui semble loin.
 - L'élève fait jouer ensemble ses deux sons et à l’aide du [mélangeur](../outils.html) il  ajuste les niveaux, si nécessaire, de façon à entendre distinctement  l’un et l’autre tout en percevant  clairement deux plans distincts, un plan rapproché et un plan éloigné.
@@ -109,7 +109,7 @@ Chaque équipe doit réaliser une "image" sonore constituée de plusieurs plans.
 - On écoute et analyse <l'exemple ci-dessous.
 - On choisit et se répartit les sons entre les membres de l'équipe.
 - On se met d'accord sur la forme, sur le déroulement.  
- (Exemple : au début, tous les sons très doux et se confondant. Puis, tour à tour, on porte en avant un des ses sons, en montant le volume, en supprimant graduellement la [réverbération](../lexique.html), ou tout autres procédés).
+ (Exemple : au début, tous les sons très doux et se confondant. Puis, tour à tour, on porte en avant un des ses sons, en montant le volume, en supprimant graduellement la [réverbération](../lexique.html#reverberation), ou tout autres procédés).
 
 #### →Réalisation individuelle
 

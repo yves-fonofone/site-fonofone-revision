@@ -55,7 +55,7 @@ Au terme de cette activité :
 
 #### Rétroaction/objectivation
 
-- Demander à l'élève de choisir 3 sons susceptibles de bien se mélanger, en s'assurant qu'ils se distinguent bien les uns des autres (ajustement des volumes, utilisation de la [réverbération](../lexique.html) ou autre traitement).
+- Demander à l'élève de choisir 3 sons susceptibles de bien se mélanger, en s'assurant qu'ils se distinguent bien les uns des autres (ajustement des volumes, utilisation de la [réverbération](../lexique.html#reverberation) ou autre traitement).
 
 En option
 

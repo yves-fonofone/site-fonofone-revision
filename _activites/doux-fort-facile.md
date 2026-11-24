@@ -47,7 +47,7 @@ Au terme de l'activité:
 ### Savoirs essentiels
 
 - Langage musical : intensités (doux/fort), nuances (crescendo/decrescendo)
-- Procédés de composition : contraste, rupture, effet de [masque](../lexique.html)
+- Procédés de composition : contraste, rupture, effet de [masque](../lexique.html#masque)
 
 ## Repères culturels
 

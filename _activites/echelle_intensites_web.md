@@ -82,7 +82,7 @@ Variantes :
 
 - L'élève choisit son propre son ou extrait musical qu'il installe dans chaque zone.
 - (Intéressant au casque d'écoute)  
- Ajouter un mouvement de [panoramisation](../lexique.html)En audio, l'effet "panoramique" (pan) consiste à placer un son dans l'espace de telle sorte qu'on le perçoive comme provenant plus ou moins de la gauche ou de la droite. Ce peut être un point fixe ou, dans le cas d'un son qui se prolonge, un mouvement continu créant l'illusion acoustique d'un passage de gauche à droite ou de droite... en plaçant dans chaque zone le bouton de volume dans une position différente, de gauche à droite.
+ Ajouter un mouvement de [panoramisation](../lexique.html#panoramisation)En audio, l'effet "panoramique" (pan) consiste à placer un son dans l'espace de telle sorte qu'on le perçoive comme provenant plus ou moins de la gauche ou de la droite. Ce peut être un point fixe ou, dans le cas d'un son qui se prolonge, un mouvement continu créant l'illusion acoustique d'un passage de gauche à droite ou de droite... en plaçant dans chaque zone le bouton de volume dans une position différente, de gauche à droite.
 
 - E *st-ce que l'échelle est réussie* (progression bien perceptible d'une nuance à l'autre)? *Si non comment l'améliorer?*
 - *Est-ce que les entrées successives étaient bien en rythme? Si non, quelle stratégie adopter pour y arriver?*  

@@ -34,7 +34,7 @@ Ce projet peut être réalisé à partir d'autres images de l'environnement (par
 ## Intentions pédagogiques
 
 - Améliorer chez les élèves la perception des intensités et des nuances.
-- Initier les élèves aux procédés de composition liés à l'intensité et aux nuances (rupture, fondus, [masque](../lexique.html)).
+- Initier les élèves aux procédés de composition liés à l'intensité et aux nuances (rupture, fondus, [masque](../lexique.html#masque)).
 - Initier les élèves à la manipulation des outils appropriés.
 
 ### Niveau suggéré

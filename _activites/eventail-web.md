@@ -33,8 +33,8 @@ duree: "1/2 période ou plus"
 
 ## Intentions pédagogiques
 
-- Initier les élèves aux notions d'unisson, octave, [cluster](../lexique.html), micro-intervalles, consonance/dissonance.
-- Familiariser les élèves avec le procédé de [glissando.](../lexique.html)
+- Initier les élèves aux notions d'unisson, octave, [cluster](../lexique.html#cluster), micro-intervalles, consonance/dissonance.
+- Familiariser les élèves avec le procédé de [glissando.](../lexique.html#glissando)
 
 ### Niveau suggéré
 
@@ -88,6 +88,6 @@ Option : On active le **[métronome]**, et on le règle entre 20 et 40, ce qui g
 
 - *As-tu bien observé les consignes de préparation?*
 - *Dans quelle mesure as-tu bien suivi les mouvements du chef?*  
- *- Ton [glissando](../lexique.html)Un glissando (du français « glisser ») est un terme musical d'origine italienne qui désigne le glissement continu d'un son dans un mouvement ascendant ou descendant. Le glissando peut être produit par la voix humaine et, entre autres, par les instruments à cordes frottées et le trombone à coulisse. Un effet de glissando peut être produit sur des instruments à... était-il bien exécuté?  - Que ferais-tu la prochaine fois pour mieux le réussir ?*
-- *Dans le déroulement de l’activité à quel moment a t-on a été dans une relation d'[unisson](../lexique.html)Accord des différents sons sur une même hauteur., de micro-intervalles,  d'octave?*
+ *- Ton [glissando](../lexique.html#glissando)Un glissando (du français « glisser ») est un terme musical d'origine italienne qui désigne le glissement continu d'un son dans un mouvement ascendant ou descendant. Le glissando peut être produit par la voix humaine et, entre autres, par les instruments à cordes frottées et le trombone à coulisse. Un effet de glissando peut être produit sur des instruments à... était-il bien exécuté?  - Que ferais-tu la prochaine fois pour mieux le réussir ?*
+- *Dans le déroulement de l’activité à quel moment a t-on a été dans une relation d'[unisson](../lexique.html#unisson)Accord des différents sons sur une même hauteur., de micro-intervalles,  d'octave?*
 - *Quels étaient les moments de dissonance et ceux de consonance?*

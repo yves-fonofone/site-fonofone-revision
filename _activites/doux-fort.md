@@ -24,7 +24,7 @@ Aller à : <Suggestions de réalisation
 
 - Initier les élèves aux notions d’intensité et de nuance.
 - Initier les élèves aux procédés de crescendo-decrescendo et de rupture.
-- Initier les élèves à l'effet de [masque](../lexique.html).
+- Initier les élèves à l'effet de [masque](../lexique.html#masque).
 
 ### Niveau suggéré
 
@@ -36,12 +36,12 @@ Au terme de l'activité:
 
 - L’élève sera capable de différencier les sons doux des sons forts.
 - L'élève sera capable d'interpréter un crescendo/decrescendo et un effet de rupture.
-- L'élève sera capable de réaliser un effet de [masque](../lexique.html).
+- L'élève sera capable de réaliser un effet de [masque](../lexique.html#masque).
 
 ### Savoirs essentiels
 
 - Langage musical : intensités (doux/fort), nuances (crescendo/decrescendo)
-- Procédés de composition : contraste, rupture, effet de [masque](../lexique.html)
+- Procédés de composition : contraste, rupture, effet de [masque](../lexique.html#masque)
 
 #### realisation
 
@@ -84,7 +84,7 @@ Au terme de l'activité:
 
 #### Quelques exemples de réalisation
 
-**Contraste, rupture et effet de [masque](../lexique.html)**
+**Contraste, rupture et effet de [masque](../lexique.html#masque)**
 
 **Entrée et sortie brusque des sons forts (contraste et rupture)**
 

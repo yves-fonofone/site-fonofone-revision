@@ -21,12 +21,12 @@ La musique de Stravinsky comporte souvent des moments de grande effervescence et
 
 ### Déroulement :
 
-- En suivant l'enseignant, les élèves procèdent à un lent [fondu enchaîné](../lexique.html) durant lequel chacun fait entendre son propre fragment à tour de rôle en montant et redescendant son volume.
+- En suivant l'enseignant, les élèves procèdent à un lent [fondu enchaîné](../lexique.html#fondu-enchaine) durant lequel chacun fait entendre son propre fragment à tour de rôle en montant et redescendant son volume.
 
 #### Variantes
 
 - On pourra s'amuser à faire jouer tout le monde ensemble et juger du degré de cacophonie.
-- On pourra aussi séparer la classe en quatre groupes et faire des mouvements de [fondu enchaîné](../lexique.html) d'un groupe à l'autre.
+- On pourra aussi séparer la classe en quatre groupes et faire des mouvements de [fondu enchaîné](../lexique.html#fondu-enchaine) d'un groupe à l'autre.
 
 #### Outils
 

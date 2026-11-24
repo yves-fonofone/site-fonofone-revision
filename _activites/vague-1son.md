@@ -15,13 +15,13 @@ duree: "1/2 période ou plus"
 
 Voici une activité très simple à réaliser qui permettra à l'élève de s'initier aux mouvements de  crescendo/decrescendo et à la notion de fondu-enchaîné. Elle constitue un excellent exercice d'écoute et contribue au développement de l'acuité auditive.
 
-L'élève découvrira également la notion de [spatialisation](../lexique.html)En mixage de musique, la spatialisation est utilisée pour répartir dans l'espace les différents instruments afin de favoriser leur intelligibilité. (le son se déplace dans l'espace).
+L'élève découvrira également la notion de [spatialisation](../lexique.html#spatialisation)En mixage de musique, la spatialisation est utilisée pour répartir dans l'espace les différents instruments afin de favoriser leur intelligibilité. (le son se déplace dans l'espace).
 
 Aller à : < **suggestion de réalisation**
 
 ## Intentions pédagogiques
 
-- Familiariser les élèves avec les concepts de fondu-enchaîné, de [fusion](../lexique.html)Par différents procédés, chercher à combiner deux sons ou plus de telle sorte qu'ils se mélangent bien, comme dans une sauce. Outils à prioriser : 1.  le volume (apparier l'intensité des différents sons) 2. le filtre (apparier la "couleur" des sons) 3. les outils de transposition (apparier les hauteurs et la vitesse) et de [spatialisation](../lexique.html)En mixage de musique, la spatialisation est utilisée pour répartir dans l'espace les différents instruments afin de favoriser leur intelligibilité.. 
+- Familiariser les élèves avec les concepts de fondu-enchaîné, de [fusion](../lexique.html#fusion)Par différents procédés, chercher à combiner deux sons ou plus de telle sorte qu'ils se mélangent bien, comme dans une sauce. Outils à prioriser : 1.  le volume (apparier l'intensité des différents sons) 2. le filtre (apparier la "couleur" des sons) 3. les outils de transposition (apparier les hauteurs et la vitesse) et de [spatialisation](../lexique.html#spatialisation)En mixage de musique, la spatialisation est utilisée pour répartir dans l'espace les différents instruments afin de favoriser leur intelligibilité.. 
 - Développer l'acuité auditive et l'attention aux autres.
 - Améliorer la réponse des élèves aux gestes de direction.
 

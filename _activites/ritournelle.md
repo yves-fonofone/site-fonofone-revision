@@ -25,7 +25,7 @@ Pièce réalisée en 1 heure d'atelier
 
 Durant la phase préparatoire d'exploration libre, un élève a transformé le son [E_arpège] en le ralentissant et le transposant de deux octaves dans les graves à l'aide du variateur de hauteur-vitesse.
 
-- L'enseignant propose que ce motif serve de base ([ostinato](../lexique.html)L'ostinato est un procédé de composition musicale consistant à répéter obstinément une formule rythmique, mélodique ou harmonique accompagnant de manière immuable les différents éléments thématiques durant tout le morceau. L'ostinato est souvent basé sur la basse — basse contrainte, soutenue ou obligée — on parle alors de basso ostinato. Les chaconnes, les passacailles et les grounds sont des modèles du...) et qu'il soit le fil conducteur.
+- L'enseignant propose que ce motif serve de base ([ostinato](../lexique.html#ostinato)L'ostinato est un procédé de composition musicale consistant à répéter obstinément une formule rythmique, mélodique ou harmonique accompagnant de manière immuable les différents éléments thématiques durant tout le morceau. L'ostinato est souvent basé sur la basse — basse contrainte, soutenue ou obligée — on parle alors de basso ostinato. Les chaconnes, les passacailles et les grounds sont des modèles du...) et qu'il soit le fil conducteur.
 - Les élèves se mettent d'accord pour accompagner ce motif de sons doux, pris exclusivement dans la banque "nature".
 
 **A. Douceur, calme, harmonie**
@@ -41,10 +41,10 @@ On réfléchit collectivement à la suite. Proposition adoptée : que chacun cho
 - Chacun choisit un son bruyant, devant se démarquer nettement des sons de la section A.
 - Au signe du chef, entrée simultanée de tous, sans transition.
 
-**A’.**   **Douceur, calme, harmonie**. Procédé de rupture et de [masque](../lexique.html)
+**A’.**   **Douceur, calme, harmonie**. Procédé de rupture et de [masque](../lexique.html#masque)
 
 - Au signal du chef, tous coupent leur son bruyant. On réalise alors que les sons de la section A n’ont jamais été interrompus, mais étaient masqués par la masse sonore de la section B.
-- Une élève propose d'ajouter le son  [boite à musique]. Idée acceptée et quelques élèves décident d'ajouter également ce son, en lecture droite ou inversée. À noter que ce son est dans la même tonalité majeure (autour de do) que l’arpège en [ostinato](../lexique.html)L'ostinato est un procédé de composition musicale consistant à répéter obstinément une formule rythmique, mélodique ou harmonique accompagnant de manière immuable les différents éléments thématiques durant tout le morceau. L'ostinato est souvent basé sur la basse — basse contrainte, soutenue ou obligée — on parle alors de basso ostinato. Les chaconnes, les passacailles et les grounds sont des modèles du..., toujours présent.
+- Une élève propose d'ajouter le son  [boite à musique]. Idée acceptée et quelques élèves décident d'ajouter également ce son, en lecture droite ou inversée. À noter que ce son est dans la même tonalité majeure (autour de do) que l’arpège en [ostinato](../lexique.html#ostinato)L'ostinato est un procédé de composition musicale consistant à répéter obstinément une formule rythmique, mélodique ou harmonique accompagnant de manière immuable les différents éléments thématiques durant tout le morceau. L'ostinato est souvent basé sur la basse — basse contrainte, soutenue ou obligée — on parle alors de basso ostinato. Les chaconnes, les passacailles et les grounds sont des modèles du..., toujours présent.
 
 ### Objectivation
 
@@ -53,4 +53,4 @@ On réfléchit collectivement à la suite. Proposition adoptée : que chacun cho
 - L'exécution a t-elle été réussie?
 - Qu'est-ce qui pourrait être amélioré?
 
-Notions acquises : rupture, [masque](../lexique.html)
+Notions acquises : rupture, [masque](../lexique.html#masque)

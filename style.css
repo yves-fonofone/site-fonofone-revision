@@ -343,3 +343,19 @@ a.disc:hover, .disc--music a:hover { transform: translateY(-3px); box-shadow: 0 
 .playlist__titre { font-weight: 500; }
 .playlist__duree { color: var(--muted); font-size: 13px; }
 .prose .playlist audio { grid-column: 1 / -1; width: 100%; max-width: none; height: 36px; margin: 0; }
+
+/* Lexique */
+.lexique-index { display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0 32px; }
+.lexique-index a {
+  padding: 5px 12px; border: 1px solid var(--card-border); border-radius: 20px;
+  font-size: 14px; text-decoration: none; color: var(--ink) !important; background: #fff;
+}
+.lexique-index a:hover { background: var(--menu-hover); border-color: var(--menu-hover); }
+.lexique { margin: 0; }
+.lexique dt {
+  font: 600 22px/1.3 Poppins, sans-serif; margin: 40px 0 8px; padding-bottom: 6px;
+  border-bottom: 3px solid var(--red); scroll-margin-top: 70px;
+}
+.lexique dt:target { background: var(--menu-hover); }
+.lexique dd { margin: 0; }
+.lexique dd audio { width: 100%; max-width: 420px; }

@@ -187,6 +187,6 @@ exemples :- tracer à main levée -colorier
 #### Réalisation musicale
 
 - Les sons sont-ils bien équilibrés ?
-Exemples : -égaliser les volumes -ajouter des effets (comme la [réverbération](../lexique.html)) pour créer des plans
+Exemples : -égaliser les volumes -ajouter des effets (comme la [réverbération](../lexique.html#reverberation)) pour créer des plans
 - L'équipe a t-elle utilisé les sons et les transformations de manière surprenante, originale?
 Exemples : ne plus reconnaître la source -associer à une section de l'image un son inattendu (effet métaphorique)

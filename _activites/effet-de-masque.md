@@ -13,12 +13,12 @@ source: https://fonofone.org/activite/effet-de-masque/
 
 #### Objectifs pédagogiques
 
-- L’élève est capable réaliser un effet de [masque](../lexique.html) avec deux sons.
+- L’élève est capable réaliser un effet de [masque](../lexique.html#masque) avec deux sons.
 - L’élève est capable de sélectionner un son bruiteux et agressif et un son doux et calme.
 
 #### Intentions pédagogiques
 
-- Initier les élèves au procédés de [masque](../lexique.html), de rupture et de contraste.
+- Initier les élèves au procédés de [masque](../lexique.html#masque), de rupture et de contraste.
 - Familiariser les élèves avec les procédés compositionnels de rupture et de contraste (de sons, de climats, d'affects).
 - Améliorer la réponse des élèves aux gestes de direction.
 
@@ -48,7 +48,7 @@ Camp musical Père-Lindsay, Val-St-Côme, Québec
 
 //L’enseignant demande à chaque élève de choisir deux sons.
 
-Son 1 (le [masque](../lexique.html)) : un son bruiteux et agressif,
+Son 1 (le [masque](../lexique.html#masque)) : un son bruiteux et agressif,
 
 Son 2 : un son doux et calme.
 
@@ -66,7 +66,7 @@ VARIANTE
 Procéder à l'inverse : commencer par le son 2 en l'installant doucement, puis entrer brusquement le son 1.
 
 - Objectivation:
-Les sons choisis et les climats utilisés pour réaliser l’effet de [masque](../lexique.html) étaient-il conséquents ?
+Les sons choisis et les climats utilisés pour réaliser l’effet de [masque](../lexique.html#masque) étaient-il conséquents ?
 A t-on bien réussi à créer deux mondes sonores très différents et contrastés ?
 Comment les décrirait-on l'un l'autre? Qu'est-ce que chacun exprime?
 En quoi le procédé de rupture amplifie t-il l'effet de contraste ? (Pour bien le réaliser, on peut reprendre le geste mais au lieu de couper sec le son 1 on le fait disparaître lentement par decrescendo. L'effet produit est-il le même ?)

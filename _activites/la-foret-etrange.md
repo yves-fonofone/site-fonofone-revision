@@ -75,7 +75,7 @@ Préparation
 Réalisation
 
 - On refait le parcours précédent : installation du paysage réaliste.
-- L’enseignant pointe les élèves un à un. L’élève pointé doit faire lentement un [fondu enchaîné](../lexique.html) entre le son réaliste et le son transposé. On passe ainsi graduellement d’une image réaliste à une évocation stylisée et poétique de la forêt.
+- L’enseignant pointe les élèves un à un. L’élève pointé doit faire lentement un [fondu enchaîné](../lexique.html#fondu-enchaine) entre le son réaliste et le son transposé. On passe ainsi graduellement d’une image réaliste à une évocation stylisée et poétique de la forêt.
 - Terminer.
 
 Objectivation : est-ce que les sons 2 étaient pertinents au regard de la thématique? Est-ce que le passage s’est bien opéré? A t-on bien perçu le glissement de la forêt réaliste à la forêt imaginaire? Quelles impressions a t-on ressenti lors du passage à la forêt imaginaire ? Qu’est-ce qui pourrait être amélioré pour accentuer le contraste entre les deux représentations de la forêt ?

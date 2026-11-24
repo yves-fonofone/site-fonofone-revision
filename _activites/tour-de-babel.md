@@ -26,7 +26,7 @@ Aller à : < suggestion de réalisation
 ## Intentions pédagogiques
 
 - Sensibiliser les élèves aux notions d'ordre et de désordre en musique.
-- Initier les élèves aux techniques de [glissando](../lexique.html)Un glissando (du français « glisser ») est un terme musical d'origine italienne qui désigne le glissement continu d'un son dans un mouvement ascendant ou descendant. Le glissando peut être produit par la voix humaine et, entre autres, par les instruments à cordes frottées et le trombone à coulisse. Un effet de glissando peut être produit sur des instruments à... et de [réverbération](../lexique.html).
+- Initier les élèves aux techniques de [glissando](../lexique.html#glissando)Un glissando (du français « glisser ») est un terme musical d'origine italienne qui désigne le glissement continu d'un son dans un mouvement ascendant ou descendant. Le glissando peut être produit par la voix humaine et, entre autres, par les instruments à cordes frottées et le trombone à coulisse. Un effet de glissando peut être produit sur des instruments à... et de [réverbération](../lexique.html#reverberation).
 - Améliorer la réponse des élèves aux gestes de direction.
 
 ### Niveau suggéré
@@ -38,7 +38,7 @@ Aller à : < suggestion de réalisation
 Au terme de cette activité :
 
 - L'élève aura pris conscience du rapport entre tension et détente en musique.
-- L’élève sera capable de produire avec fluidité un [glissando](../lexique.html)Un glissando (du français « glisser ») est un terme musical d'origine italienne qui désigne le glissement continu d'un son dans un mouvement ascendant ou descendant. Le glissando peut être produit par la voix humaine et, entre autres, par les instruments à cordes frottées et le trombone à coulisse. Un effet de glissando peut être produit sur des instruments à....
+- L’élève sera capable de produire avec fluidité un [glissando](../lexique.html#glissando)Un glissando (du français « glisser ») est un terme musical d'origine italienne qui désigne le glissement continu d'un son dans un mouvement ascendant ou descendant. Le glissando peut être produit par la voix humaine et, entre autres, par les instruments à cordes frottées et le trombone à coulisse. Un effet de glissando peut être produit sur des instruments à....
 - L’élève sera capable de répondre de manière précise aux gestes de direction.
 
 ### Savoirs essentiels
@@ -78,7 +78,7 @@ L'enseignant.e fait entendre chacun des souhaits de bonne journée en demandant 
 - En suivant le geste du chef, l'élève fait glisser le son vers l'extrême aigu à l'aide du variateur de hauteur / vitesse. 
 - Le chef dirige des mouvements de crescendo/decrescendo.
 - Puis, le chef commande un mouvement de glissé vers les extrêmes graves.
-- Ajouter la [réverbération](../lexique.html) et conclure par un arrêt sec ou un decrescendo. 
+- Ajouter la [réverbération](../lexique.html#reverberation) et conclure par un arrêt sec ou un decrescendo. 
 
 - *À quel phase de l'activité perçois-tu le désordre /l'ordre? Pourquoi?*
 - *Les glissandi étaient-ils bien exécutés (fluidité et réponse aux gestes de direction) ?*
