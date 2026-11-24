@@ -78,6 +78,43 @@ Au terme de l'activité:
 - L'enseignant.e au TNI choisit un son proche et, à la proposition des élèves, expérimente différents outils [volume] [filtre] [réverbération]... susceptibles de  créer l'illusion que le son s'éloigne. (Ce peut être par la combinaison de plus d'un outil).
 - L'enseignant.e demande aux élèves de définir ce qui a changé dans le son maintenant perçu comme lointain (moins fort? - moins précis? - plus "sombre"?...)
 
+<ol class="playlist">
+  <li><span class="playlist__titre">ambiance-1</span> <span class="playlist__duree">0:13</span>
+    <audio controls preload="none" src="../audio/activites/proche-loin-web/ambiance-1.mp3"></audio></li>
+  <li><span class="playlist__titre">bonjour-hello</span> <span class="playlist__duree">0:10</span>
+    <audio controls preload="none" src="../audio/activites/proche-loin-web/bonjour-hello.mp3"></audio></li>
+  <li><span class="playlist__titre">corneille</span> <span class="playlist__duree">0:05</span>
+    <audio controls preload="none" src="../audio/activites/proche-loin-web/corneille.mp3"></audio></li>
+  <li><span class="playlist__titre">corneilles</span> <span class="playlist__duree">0:13</span>
+    <audio controls preload="none" src="../audio/activites/proche-loin-web/corneilles.mp3"></audio></li>
+  <li><span class="playlist__titre">flip-flap</span> <span class="playlist__duree">0:15</span>
+    <audio controls preload="none" src="../audio/activites/proche-loin-web/flip-flap.mp3"></audio></li>
+  <li><span class="playlist__titre">gymnase</span> <span class="playlist__duree">0:17</span>
+    <audio controls preload="none" src="../audio/activites/proche-loin-web/gymnase.mp3"></audio></li>
+  <li><span class="playlist__titre">jeux d&#39;enfants</span> <span class="playlist__duree">0:12</span>
+    <audio controls preload="none" src="../audio/activites/proche-loin-web/jeux-denfants.mp3"></audio></li>
+  <li><span class="playlist__titre">marteau</span> <span class="playlist__duree">0:06</span>
+    <audio controls preload="none" src="../audio/activites/proche-loin-web/marteau.mp3"></audio></li>
+  <li><span class="playlist__titre">métro</span> <span class="playlist__duree">0:18</span>
+    <audio controls preload="none" src="../audio/activites/proche-loin-web/metro.mp3"></audio></li>
+  <li><span class="playlist__titre">pas-feuilles</span> <span class="playlist__duree">0:12</span>
+    <audio controls preload="none" src="../audio/activites/proche-loin-web/pas-feuilles.mp3"></audio></li>
+  <li><span class="playlist__titre">pas-plancher</span> <span class="playlist__duree">0:07</span>
+    <audio controls preload="none" src="../audio/activites/proche-loin-web/pas-plancher.mp3"></audio></li>
+  <li><span class="playlist__titre">porte1</span> <span class="playlist__duree">0:07</span>
+    <audio controls preload="none" src="../audio/activites/proche-loin-web/porte1.mp3"></audio></li>
+  <li><span class="playlist__titre">porte2</span> <span class="playlist__duree">0:06</span>
+    <audio controls preload="none" src="../audio/activites/proche-loin-web/porte2.mp3"></audio></li>
+  <li><span class="playlist__titre">rire-femme</span> <span class="playlist__duree">0:03</span>
+    <audio controls preload="none" src="../audio/activites/proche-loin-web/rire-femme.mp3"></audio></li>
+  <li><span class="playlist__titre">tenue-prof</span> <span class="playlist__duree">0:05</span>
+    <audio controls preload="none" src="../audio/activites/proche-loin-web/tenue-prof.mp3"></audio></li>
+  <li><span class="playlist__titre">train</span> <span class="playlist__duree">0:11</span>
+    <audio controls preload="none" src="../audio/activites/proche-loin-web/train.mp3"></audio></li>
+  <li><span class="playlist__titre">cloche</span> <span class="playlist__duree">0:02</span>
+    <audio controls preload="none" src="../audio/activites/proche-loin-web/cloche.m4a"></audio></li>
+</ol>
+
 ## Propositions de réalisation
 
 1. Créer un effet de perspective sonore

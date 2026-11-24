@@ -61,6 +61,51 @@ Au terme de cette activité :
 
 [Tableaux d'une exposition - le Gnome](https://www.youtube.com/watch?v=WzYRzv8V1Fk&ab_channel=scottbrothersduo)
 
+<ol class="playlist">
+  <li><span class="playlist__titre">Adams-China Gates</span> <span class="playlist__duree">0:09</span>
+    <audio controls preload="none" src="../audio/activites/caractere/556.mp3"></audio></li>
+  <li><span class="playlist__titre">Bach_Sinfonia</span> <span class="playlist__duree">0:08</span>
+    <audio controls preload="none" src="../audio/activites/caractere/bach_sinfonia.mp3"></audio></li>
+  <li><span class="playlist__titre">Bartok-cordes</span> <span class="playlist__duree">0:12</span>
+    <audio controls preload="none" src="../audio/activites/caractere/576-cel.mp3"></audio></li>
+  <li><span class="playlist__titre">Beethoven-Symph #7</span> <span class="playlist__duree">0:16</span>
+    <audio controls preload="none" src="../audio/activites/caractere/129-1.mp3"></audio></li>
+  <li><span class="playlist__titre">Berio_Sequenza VIII</span> <span class="playlist__duree">0:07</span>
+    <audio controls preload="none" src="../audio/activites/caractere/violon_3.mp3"></audio></li>
+  <li><span class="playlist__titre">Bizet-Habanera</span> <span class="playlist__duree">0:10</span>
+    <audio controls preload="none" src="../audio/activites/caractere/186.mp3"></audio></li>
+  <li><span class="playlist__titre">Borodin-Scherzo</span> <span class="playlist__duree">0:10</span>
+    <audio controls preload="none" src="../audio/activites/caractere/500-c.mp3"></audio></li>
+  <li><span class="playlist__titre">walter Boudreau-Valse</span> <span class="playlist__duree">0:23</span>
+    <audio controls preload="none" src="../audio/activites/caractere/551.mp3"></audio></li>
+  <li><span class="playlist__titre">Chopin-Prélude #3</span> <span class="playlist__duree">0:09</span>
+    <audio controls preload="none" src="../audio/activites/caractere/614-ch-sol.m4a"></audio></li>
+  <li><span class="playlist__titre">Delibes-sous dôme épais</span> <span class="playlist__duree">0:13</span>
+    <audio controls preload="none" src="../audio/activites/caractere/627.mp3"></audio></li>
+  <li><span class="playlist__titre">Dowland-Lacrimae</span> <span class="playlist__duree">0:12</span>
+    <audio controls preload="none" src="../audio/activites/caractere/761.m4a"></audio></li>
+  <li><span class="playlist__titre">Dowland-Gaillarde</span> <span class="playlist__duree">0:13</span>
+    <audio controls preload="none" src="../audio/activites/caractere/761-b.mp3"></audio></li>
+  <li><span class="playlist__titre">Geminiani-La Folia</span> <span class="playlist__duree">0:15</span>
+    <audio controls preload="none" src="../audio/activites/caractere/600-geminiani.mp3"></audio></li>
+  <li><span class="playlist__titre">Haendel-Laschia</span> <span class="playlist__duree">0:14</span>
+    <audio controls preload="none" src="../audio/activites/caractere/735-haend-trim.m4a"></audio></li>
+  <li><span class="playlist__titre">Jean Lesage-Toquade</span> <span class="playlist__duree">0:14</span>
+    <audio controls preload="none" src="../audio/activites/caractere/759.mp3"></audio></li>
+  <li><span class="playlist__titre">Messiaen-Vingt regards</span> <span class="playlist__duree">0:09</span>
+    <audio controls preload="none" src="../audio/activites/caractere/219-b.mp3"></audio></li>
+  <li><span class="playlist__titre">Mozart-Romance</span> <span class="playlist__duree">0:15</span>
+    <audio controls preload="none" src="../audio/activites/caractere/532-2.mp3"></audio></li>
+  <li><span class="playlist__titre">Pachelbel-Canon</span> <span class="playlist__duree">0:09</span>
+    <audio controls preload="none" src="../audio/activites/caractere/600-pachel-a.mp3"></audio></li>
+  <li><span class="playlist__titre">Yannick Plamondon-Schrift</span> <span class="playlist__duree">0:13</span>
+    <audio controls preload="none" src="../audio/activites/caractere/613-cc.mp3"></audio></li>
+  <li><span class="playlist__titre">Ana Sokolovic-extr.1</span> <span class="playlist__duree">0:13</span>
+    <audio controls preload="none" src="../audio/activites/caractere/229-e.m4a"></audio></li>
+  <li><span class="playlist__titre">Ana Sokolovic-extr.2</span> <span class="playlist__duree">0:05</span>
+    <audio controls preload="none" src="../audio/activites/caractere/229-h.mp3"></audio></li>
+</ol>
+
 #### preparation
 
 ## Suggestions de réalisation

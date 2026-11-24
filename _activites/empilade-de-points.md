@@ -57,6 +57,29 @@ Chaque élève choisit librement un son dans la banque [accu-points].
 
 ### Banque de son
 
+<ol class="playlist">
+  <li><span class="playlist__titre">bambou attq</span> <span class="playlist__duree">0:05</span>
+    <audio controls preload="none" src="../audio/activites/empilade-de-points/bambou-attq.mp3"></audio></li>
+  <li><span class="playlist__titre">bambou attq-gr</span> <span class="playlist__duree">0:05</span>
+    <audio controls preload="none" src="../audio/activites/empilade-de-points/bambou-attq-gr.mp3"></audio></li>
+  <li><span class="playlist__titre">bambou écho-1</span> <span class="playlist__duree">0:05</span>
+    <audio controls preload="none" src="../audio/activites/empilade-de-points/bambou-echo-1.mp3"></audio></li>
+  <li><span class="playlist__titre">bambou écho-2</span> <span class="playlist__duree">0:04</span>
+    <audio controls preload="none" src="../audio/activites/empilade-de-points/bambou-echo-2.mp3"></audio></li>
+  <li><span class="playlist__titre">bambou mél-1</span> <span class="playlist__duree">0:05</span>
+    <audio controls preload="none" src="../audio/activites/empilade-de-points/bambou-mel-1.mp3"></audio></li>
+  <li><span class="playlist__titre">bambou mél-2</span> <span class="playlist__duree">0:04</span>
+    <audio controls preload="none" src="../audio/activites/empilade-de-points/bambou-mel-2.mp3"></audio></li>
+  <li><span class="playlist__titre">bambou mél-3</span> <span class="playlist__duree">0:04</span>
+    <audio controls preload="none" src="../audio/activites/empilade-de-points/bambou-mel-3.mp3"></audio></li>
+  <li><span class="playlist__titre">bambou mél-4</span> <span class="playlist__duree">0:04</span>
+    <audio controls preload="none" src="../audio/activites/empilade-de-points/bambou-mel-4.mp3"></audio></li>
+  <li><span class="playlist__titre">bambou mél-5</span> <span class="playlist__duree">0:04</span>
+    <audio controls preload="none" src="../audio/activites/empilade-de-points/bambou-mel-5.mp3"></audio></li>
+  <li><span class="playlist__titre">bambou mél-6</span> <span class="playlist__duree">0:04</span>
+    <audio controls preload="none" src="../audio/activites/empilade-de-points/bambou-mel-6.mp3"></audio></li>
+</ol>
+
 ### pour aller plus loin...
 
 (partition, sections 3 et 4)
@@ -80,6 +103,13 @@ En plus du son de bambou, chaque élève sélectionne dans les onglets 2 et 3 le
  **(La texture «bambous» est itérative et sèche, les deux autres sont lisses et plus douces...).**  
  **Quelles sont les caractéristiques associatives communes aux trois textures?**  
  **(le registre, l'harmonie consonante autour d'une même fondamentale, la douceur...).**
+
+<ol class="playlist">
+  <li><span class="playlist__titre">tenue_sol_re</span> <span class="playlist__duree">0:05</span>
+    <audio controls preload="none" src="../audio/activites/empilade-de-points/tenue_sol_re.mp3"></audio></li>
+  <li><span class="playlist__titre">mélopée</span> <span class="playlist__duree">0:05</span>
+    <audio controls preload="none" src="../audio/activites/empilade-de-points/melopee-4.mp3"></audio></li>
+</ol>
 
 ## Ouverture à la création
 

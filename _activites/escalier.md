@@ -90,4 +90,19 @@ Produire collectivement un crescendo clairement perceptible. On doit utiliser l
 - *Est-ce qu'on était bien synchrone?*
 - *Est-ce que le passage d'un groupe à l'autre (effet de fondu-enchaîné) s'est bien réalisé : a t-on senti le mouvement spatial d'un sous-groupe à l'autre?*
 
+<ol class="playlist">
+  <li><span class="playlist__titre">escalier (fragment)-stairs</span> <span class="playlist__duree">0:01</span>
+    <audio controls preload="none" src="../audio/activites/escalier/escalier-fragment-stairs.mp3"></audio></li>
+  <li><span class="playlist__titre">fouet-whip</span> <span class="playlist__duree">0:02</span>
+    <audio controls preload="none" src="../audio/activites/escalier/fouet-whip.mp3"></audio></li>
+  <li><span class="playlist__titre">hé!</span> <span class="playlist__duree">0:01</span>
+    <audio controls preload="none" src="../audio/activites/escalier/he.mp3"></audio></li>
+  <li><span class="playlist__titre">piano</span> <span class="playlist__duree">0:01</span>
+    <audio controls preload="none" src="../audio/activites/escalier/piano.mp3"></audio></li>
+  <li><span class="playlist__titre">triit</span> <span class="playlist__duree">0:01</span>
+    <audio controls preload="none" src="../audio/activites/escalier/triit.mp3"></audio></li>
+  <li><span class="playlist__titre">élastique-jam (fragment)</span> <span class="playlist__duree">0:01</span>
+    <audio controls preload="none" src="../audio/activites/escalier/elastique-jam-fragment.mp3"></audio></li>
+</ol>
+
 #### Quelques exemples de sons appropriés

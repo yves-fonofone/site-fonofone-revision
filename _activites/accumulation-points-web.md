@@ -76,6 +76,13 @@ Au terme de l'activité:
 
 [Migrations, Appartenances (thème celte)](https://electrocd.com/fr/album/2335/stephane-roy/migrations)
 
+<ol class="playlist">
+  <li><span class="playlist__titre">Le jeu du téléphone</span> <span class="playlist__duree">3:50</span>
+    <audio controls preload="none" src="../audio/activites/accumulation-points-web/B-telephone-1.mp3"></audio></li>
+  <li><span class="playlist__titre">&quot;Appartenances, Thème celte&quot; -STÉPHANE ROY</span> <span class="playlist__duree">0:30</span>
+    <audio controls preload="none" src="../audio/activites/accumulation-points-web/roy-acceleration.mp3"></audio></li>
+</ol>
+
 ## Suggestion de réalisation
 
 ### Étape 1
