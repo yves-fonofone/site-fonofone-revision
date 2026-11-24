@@ -368,3 +368,6 @@ li.extrait p { margin: 0; }
 .extrait__compositeur { margin-top: 2px !important; color: var(--muted); }
 .prose li.extrait audio { margin: 8px 0 6px; width: 100%; max-width: 420px; }
 .extrait__infos { font-size: 14px; color: var(--muted); }
+
+/* Ancres : le titre visé reste visible sous la barre de menu fixe */
+.prose h2[id] { scroll-margin-top: 70px; }
