@@ -5,7 +5,7 @@ sous_titre: Créer-inventer une séquence dramatique gestuelle à partir d'un pa
 discipline: art-dramatique
 categorie: Structures
 ordre: 1
-qr_code: /images/2022/05/vol-au-musee.png
+qr_code: /images/qr/qr-vol-au-musee.png
 console_nom: Fono-image
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1679943870.fnmg
 gratuite: true

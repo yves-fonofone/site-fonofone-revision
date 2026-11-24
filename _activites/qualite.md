@@ -3,7 +3,7 @@ titre: Qualité du son
 discipline: musique-web
 categorie: Langage musical
 ordre: 4
-qr_code: /images/2023/01/qualite-du-son.png
+qr_code: /images/qr/qr-qualite.png
 console_nom: Fono-image
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1738787328.fnmg
 gratuite: true

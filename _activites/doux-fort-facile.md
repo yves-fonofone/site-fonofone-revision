@@ -4,7 +4,7 @@ sous_titre: nuances, contraste
 discipline: musique-web
 categorie: Langage musical
 ordre: 2
-qr_code: /images/2022/04/doux-fort-facile-300x300.png
+qr_code: /images/qr/qr-doux-fort-facile.png
 console_nom: Fono-image
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1665691169.fnmg
 gratuite: true

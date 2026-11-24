@@ -3,7 +3,7 @@ titre: doux/fort avancé
 discipline: musique-web
 categorie: Procédés de composition
 ordre: 10
-qr_code: /images/2022/04/doux-fort-avance.png
+qr_code: /images/qr/qr-doux-fort-avance.png
 console_nom: Fono-image
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1699306562.fnmg
 gratuite: true

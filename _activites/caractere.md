@@ -4,7 +4,7 @@ sous_titre: associations/oppositions
 discipline: musique-web
 categorie: Aspects affectifs
 ordre: 1
-qr_code: /images/2023/01/caractere-1.png
+qr_code: /images/qr/qr-caractere.png
 console_nom: Fono-image, travail en équipe
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1689019684.fnmg
 gratuite: true

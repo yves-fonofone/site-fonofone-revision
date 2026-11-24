@@ -4,7 +4,7 @@ sous_titre: crescendo et ostinato
 discipline: musique-web
 categorie: Langage musical
 ordre: 5
-qr_code: /images/2025/01/echelle-d-intensites.png
+qr_code: /images/qr/qr-echelle-intensites-web.png
 console_nom: Réalisation en équipe
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1737572692.fnmg
 gratuite: true

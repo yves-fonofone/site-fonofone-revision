@@ -9,7 +9,7 @@ auteurs: Channie Tondreau, Caroline Bergeron, Geneviève Desautels, Marjolaine G
 realisation: Réalisation en équipe
 niveau: À partir du 1er cycle du primaire
 duree: 1 à 2 périodes
-qr_code: /images/2024/12/jungle-danse.png
+qr_code: /images/qr/qr-danse-jungle.png
 console_nom: Fono-image
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1733778672.fnmg
 gratuite: true

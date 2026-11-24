@@ -4,7 +4,7 @@ sous_titre: mouvements répétitifs
 discipline: danse
 categorie: Technique du mouvement
 ordre: 4
-qr_code: /images/2022/05/danse-statues-v2.png
+qr_code: /images/qr/qr-statue-magique.png
 console_nom: Fono-image
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1707337743.fnmg
 gratuite: true

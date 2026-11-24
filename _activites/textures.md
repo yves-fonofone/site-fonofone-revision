@@ -7,7 +7,7 @@ auteurs: Syrine Daigneault, enseignante en arts plastiques
 realisation: Réalisation en dyade et au TNI
 niveau: À partir du 2e cycle du primaire
 duree: 1 ou 2 périodes Une initiation préalable à Fonofone est requise
-qr_code: /images/2023/03/appel-eleves.png
+qr_code: /images/qr/qr-textures.png
 console_nom: Fono-image des élèves
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1713734671.fnmg
 gratuite: true

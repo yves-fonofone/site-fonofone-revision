@@ -4,7 +4,7 @@ sous_titre: "(et fondu-enchaîné)"
 discipline: musique-web
 categorie: Langage musical
 ordre: 3
-qr_code: /images/2022/10/babel-300x300.png
+qr_code: /images/qr/qr-babelweb.png
 console_nom: Fono-image
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1655836692.fnmg
 gratuite: true

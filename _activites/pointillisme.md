@@ -7,7 +7,7 @@ auteurs: Francis Lépine, enseignant en art dramatique, arts numériques et cin�
 realisation: Réalisation individuelle 
 niveau: À partir du 1er cycle du secondaire
 duree: De 2 à 4 périodes Une initiation préalable à Fonofone est requise
-qr_code: /images/2023/06/pointillisme-dessins-a-faire.png
+qr_code: /images/qr/qr-pointillisme.png
 console_nom: Fono-image avec vos dessins
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1687544008.fnmg
 gratuite: true

@@ -9,7 +9,7 @@ auteurs: Caroline Bergeron, Geneviève Desautels, Marjolaine Gouin et Channie To
 realisation: Réalisation collective ou en équipe 
 niveau: À partir du 2e cycle du primaire
 duree: De 1 ou 4 périodes
-qr_code: /images/2023/07/radioactifs.png
+qr_code: /images/qr/qr-radioactif.png
 console_nom: Fono-image
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1698266453.fnmg
 gratuite: true

@@ -8,7 +8,7 @@ auteurs: 'Caroline Bergeron, Geneviève Desautels, Marjolaine Gouin et Channie T
 realisation: Réalisation en équipe
 niveau: À partir du 2e cycle du primaire
 duree: De 2 à 4 périodes
-qr_code: /images/2024/06/danse-regards.png
+qr_code: /images/qr/qr-danser-sur-les-mots.png
 console_nom: Fono-image
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1718725009.fnmg
 gratuite: true

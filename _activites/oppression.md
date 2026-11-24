@@ -8,7 +8,7 @@ auteurs: Émilie Poirier,  enseignante en art dramatique
 realisation: Réalisation en équipe
 niveau: À partir du 2e cycle du secondaire
 duree: De 4 à 6 périodes
-qr_code: /images/2024/12/theatre-image.png
+qr_code: /images/qr/qr-oppression.png
 console_nom: Fono-image
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1734133787.fnmg
 gratuite: true

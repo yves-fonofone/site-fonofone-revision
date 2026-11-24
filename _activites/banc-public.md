@@ -9,7 +9,7 @@ auteurs: Francis Lépine, enseignant en art dramatique et cinéma. L'image a ét
 realisation: Réalisation en équipe
 niveau: À partir du 3e cycle du primaire
 duree: 2 périodes Tableau numérique interactif requis
-qr_code: /images/2023/04/banc-public-1.png
+qr_code: /images/qr/qr-banc-public.png
 console_nom: Fono-image
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1683747698.fnmg
 gratuite: true

@@ -8,7 +8,7 @@ auteurs: Caroline Bergeron, enseignante en danse
 realisation: Réalisation en équipe
 niveau: À partir du 2e cycle du primaire
 duree: De 2 à 4 périodes
-qr_code: /images/2024/12/hasards-danse.png
+qr_code: /images/qr/qr-place-aux-hasards.png
 console_nom: Fono-image (à construire)
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1733413093.fnmg
 gratuite: true

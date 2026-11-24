@@ -7,7 +7,7 @@ auteurs: Syrine Daigneault, enseignante en arts plastiques
 realisation: Réalisation en équipe ou individuelle
 niveau: À partir du 3e cycle du primaire
 duree: De 2 à 3 périodes
-qr_code: /images/2024/05/perspective-en-diminution-2.png
+qr_code: /images/qr/qr-perspective.png
 console_nom: Fono-image
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1717364859.fnmg
 gratuite: true

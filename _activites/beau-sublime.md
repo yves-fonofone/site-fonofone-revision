@@ -7,7 +7,7 @@ auteurs: Syrine Daigneault, enseignante en arts plastiques
 realisation: Réalisation individuelle
 niveau: À partir du 3e cycle du primaire
 duree: De 3 à 4 périodes
-qr_code: "/images/2022/06/beau-sublime-v2.png"
+qr_code: /images/qr/qr-beau-sublime.png
 console_nom: Fono-image
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1709678955.fnmg
 gratuite: true

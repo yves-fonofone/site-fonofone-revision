@@ -4,7 +4,7 @@ sous_titre: Verticalité (improvisation dirigée)
 discipline: musique-web
 categorie: Langage musical
 ordre: 6
-qr_code: /images/2025/01/explosions.png
+qr_code: /images/qr/qr-eclats-web.png
 console_nom: Fono-image
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1737743258.fnmg
 gratuite: true
