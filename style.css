@@ -333,3 +333,13 @@ a.disc:hover, .disc--music a:hover { transform: translateY(-3px); box-shadow: 0 
   .achat-ipad__icone img { width: 64px; height: 64px; border-radius: 12px; }
   .achat-ipad__store { justify-self: start; }
 }
+
+/* Listes de lecture audio (page Artistes) */
+.playlist { list-style: none; counter-reset: piste; padding: 0; margin: 12px 0 28px; border: 1px solid var(--card-border); border-radius: var(--radius); overflow: hidden; }
+.playlist li { counter-increment: piste; display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 4px 16px; padding: 10px 16px; border-top: 1px solid var(--card-border); }
+.playlist li:first-child { border-top: 0; }
+.playlist li:nth-child(even) { background: #f6f8fa; }
+.playlist__titre::before { content: counter(piste) ". "; color: var(--muted); }
+.playlist__titre { font-weight: 500; }
+.playlist__duree { color: var(--muted); font-size: 13px; }
+.prose .playlist audio { grid-column: 1 / -1; width: 100%; max-width: none; height: 36px; margin: 0; }
