@@ -3,7 +3,6 @@ titre: micro-montage
 discipline: musique-tablette
 categorie: Procédés de composition
 ordre: 16
-image: /images/2018/04/pique-mixeur-1.png
 gratuite: true
 realisation: "Travail individuel, puis collectif"
 ---
