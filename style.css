@@ -371,3 +371,30 @@ li.extrait p { margin: 0; }
 
 /* Ancres : le titre visé reste visible sous la barre de menu fixe */
 .prose h2[id] { scroll-margin-top: 70px; }
+
+/* Bouton « Revenir en haut » (toutes les pages) */
+.haut-de-page {
+  position: fixed; right: 20px; bottom: 20px; z-index: 60;
+  width: 48px; height: 48px; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  background: var(--navy); color: #fff; text-decoration: none;
+  font: 600 22px/1 Poppins, sans-serif;
+  box-shadow: 0 4px 14px rgba(0,0,0,.25);
+  transition: background .15s, transform .15s;
+}
+.haut-de-page:hover, .haut-de-page:focus-visible { background: var(--red); transform: translateY(-2px); outline: none; }
+/* Navigateurs récents : le bouton n'apparaît qu'une fois la page défilée (CSS seul) */
+@supports (animation-timeline: scroll()) {
+  .haut-de-page {
+    animation: apparition linear both;
+    animation-timeline: scroll(root);
+    animation-range: 0 400px;
+  }
+  @keyframes apparition {
+    from { opacity: 0; visibility: hidden; transform: translateY(12px); }
+    to   { opacity: 1; visibility: visible; transform: none; }
+  }
+}
+@media (max-width: 480px) { .haut-de-page { right: 14px; bottom: 14px; width: 44px; height: 44px; } }
+@media print { .haut-de-page { display: none; } }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } .haut-de-page { transition: none; } }
