@@ -11,9 +11,15 @@ gratuite: true
 niveau: "À partir du 2e cycle du primaire"
 realisation: "Réalisation collective, individuelle, ou au TNI"
 duree: "1 période"
+mise_en_page: fonofone
+bandeau: /images/bandeaux/intensites.jpg
+etiquette: "Musique-en ligne"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 Cette activité amène l'élève à développer sa perception des nuances, du plus doux au plus fort. Réalisée en équipe, elle contribue à développer l'attention et le sens de la pulsation. 
 
@@ -26,7 +32,16 @@ L'activité peut également être réalisée en mode individuel.
 Élèves de 2e cycle, Collège Bourget, Rigaud, Québec  
  Vidéo captée par l'enseignant: François Gauthier
 
-![echelle-intensites](../images/2022/11/echelle-intensites-300x300.png)
+![echelle-intensites](../images/2022/11/echelle-intensites-300x300.png){: .qr}
+
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Intentions pédagogiques
 
@@ -34,9 +49,18 @@ L'activité peut également être réalisée en mode individuel.
 - Initier l'élève à la perception du phrasé musical.
 - Initier l'élève de la sensation de la pulsation.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 2e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -46,12 +70,18 @@ Au terme de cette activité:
 - L’élève sera capable d'identifier une phrase musicale (contour mélodique et rythmique).
 - L'élève sera capable de développer une stratégie pour entrer en rythme chaque nouvelle reprise de l'extrait musical (perception de la pulsation et bon réflexe dans l'exécution).
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Langage musical : échelle des intensité
 - Appréciation : phrasé musical
 
 #### qualite
+
+</aside>
+</section>
 
 ## Repères et ressources culturelles
 

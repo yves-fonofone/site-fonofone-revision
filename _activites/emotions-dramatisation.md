@@ -10,9 +10,15 @@ gratuite: true
 niveau: "À partir du 3e cycle du primaire"
 realisation: "Réalisation en équipe"
 duree: "2 périodes"
+mise_en_page: fonofone
+bandeau: /images/bandeaux/capture-decran-2023-01-13-a-031717.jpg
+etiquette: "Art dramatique"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 Cette activité a pour but d'amener les élèves à inventer et jouer une courte histoire conçue à partir de l'expression vocale de six niveaux d'émotions.  
  Elle se fait en équipes. On doit pouvoir disposer d'un ordinateur par équipe (chromebook, tablette ou autres) et, idéalement, d'un TNI.
@@ -21,16 +27,34 @@ Bien qu'autonome, elle peut s'inscrire dans la suite de l'activité [[Les émoti
 
 **< Propositions de réalisation**
 
-![histoire-emotions](../images/2023/01/histoire-emotions.png)
+![histoire-emotions](../images/2023/01/histoire-emotions.png){: .qr}
+
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Intentions pédagogiques
 
 - Amener l'élève à créer en équipe un texte dramatique qui intègre l'exagération des émotions.
 - Amener l'élève à utiliser les moyens corporels connus pour présenter son histoire.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 3e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -39,12 +63,18 @@ Au terme de l’activité
 - L’élève est capable de créer une histoire avec une narration.
 - L’élève sera capable d’utiliser ses moyens corporels pour interpréter les émotions dans sa création.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Structure :  
  forme du discours, narration
 - Langage dramatique :  
  moyens corporels, attitude, mimique, rythme
+
+</aside>
+</section>
 
 ## Repères et ressources culturelles
 

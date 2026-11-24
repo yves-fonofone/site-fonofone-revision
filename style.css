@@ -488,3 +488,28 @@ li.extrait p { margin: 0; }
   .fiche-bandeau h1 { font-size: 32px; }
   .fiche-bandeau .sous-titre { display: block; font-size: 18px; margin-top: 6px; }
 }
+
+/* Fiches « fonofone » écrites en Markdown : mêmes styles que Caractère 1 */
+.fiche--fonofone .fiche-contenu h2 {
+  position: relative; margin: 40px 0 16px; padding: 0 0 0 40px; border: 0;
+  font: 500 25px/1.1 Poppins, sans-serif; color: #333; scroll-margin-top: 70px;
+}
+.fiche--fonofone .fiche-contenu h2::before {
+  content: ""; position: absolute; left: 0; top: 50%; width: 25px; height: 25px; margin-top: -12.5px;
+  border-radius: 50%; background: #ff524e;
+}
+.fiche--fonofone .fiche-contenu h3 { margin: 24px 0 8px; font: 500 20px/1.2 Poppins, sans-serif; }
+.fiche--fonofone .fiche-contenu h4 { margin: 20px 0 5px; color: #05b7ae; font: 500 19px/1.2 Poppins, sans-serif; }
+.fiche--fonofone .fiche-contenu ul:not(.playlist) { list-style: none; padding: 0; margin: 12px 0; }
+.fiche--fonofone .fiche-contenu ul:not(.playlist) > li { position: relative; padding-left: 20px; margin: 6px 0; }
+.fiche--fonofone .fiche-contenu ul:not(.playlist) > li::before {
+  content: ""; position: absolute; left: 0; top: .55em; width: 9px; height: 9px; border-radius: 50%; background: #2674aa;
+}
+.fiche--fonofone .fiche-contenu img { max-width: 100%; height: auto; }
+.fiche--fonofone .encadre > h3:first-child, .fiche--fonofone .encadre__texte > :first-child { margin-top: 4px; }
+.encadre--description:not(:has(.encadre__media)) { grid-template-columns: 1fr; }
+.encadre__media img { display: block; width: 100%; border-radius: 4px; }
+.fiche--fonofone .rangee { align-items: start; }
+.fiche--fonofone .rangee > .encadre { margin-top: 56px; }
+@media (max-width: 900px) { .fiche--fonofone .rangee > .encadre { margin-top: 0; } }
+.fiche--fonofone .fiche-contenu img.qr { width: 120px; height: 120px; }

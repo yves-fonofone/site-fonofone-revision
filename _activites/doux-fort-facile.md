@@ -11,9 +11,15 @@ gratuite: true
 niveau: "À partir du 1er cycle du primaire"
 realisation: "Réalisation collective, individuelle, ou au TNI"
 duree: "1/2 période"
+mise_en_page: fonofone
+bandeau: /images/bandeaux/doux-fort-scaled.jpg
+etiquette: "Musique-en ligne"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 Cette activité permet à l'élève de bien comprendre la différence entre un son doux et fort et de raffiner sa perception des nuances.
 
@@ -27,14 +33,32 @@ Très simple à réaliser, elle ne nécessite aucune manipulation autre que le d
 
 #### Camp musical Père-Lindsay, Val-St-Côme, Québec
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Initier les élèves aux notions d’intensité et de nuance.
 - Initier les élèves aux procédés de crescendo-decrescendo et de rupture.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - Préscolaire et 1er cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -44,10 +68,16 @@ Au terme de l'activité:
 - L'élève sera capable de faire des essais d'enchainement en combinant des éléments.
 - L'élève sera capable d'interpréter un crescendo/decrescendo et un effet de rupture.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Langage musical : intensités (doux/fort), nuances (crescendo/decrescendo)
 - Procédés de composition : contraste, rupture, effet de [masque](../lexique.html#masque)
+
+</aside>
+</section>
 
 ## Repères culturels
 

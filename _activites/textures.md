@@ -11,9 +11,15 @@ qr_code: /images/qr/qr-textures.png
 console_nom: Fono-image des élèves
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1713734671.fnmg
 gratuite: true
+mise_en_page: fonofone
+bandeau: /images/bandeaux/jeanne-darc.jpg
+etiquette: "Arts plastiques"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 - Réalisation en dyade et au TNI
 - À partir du 2e cycle du primaire
@@ -26,15 +32,33 @@ Cette activité vise à améliorer la capacité d'analyse d'une oeuvre picturale
 
 Aller à  < Propositions de réalisation
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Amener l'élève à observer attentivement une œuvre d'art
 - Amener l'élève à percevoir, et exprimer à l'aide des sons, les subtilités expressives et émotionnelles d'une œuvre d'art.
 - Amener l'élève à utiliser précisément le vocabulaire disciplinaire.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 2e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -44,6 +68,9 @@ Au terme de cette activité:
 - L'élève sera capable d'identifier les éléments de langage plastique dans l'œuvre étudiée.
 - L'élève sera en mesure à l'aide des sons de percevoir et d'exprimer ples différences de texture, couleurs et expressions dans l'œuvre étudiée.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Langage plastique  
@@ -51,6 +78,9 @@ Au terme de cette activité:
  -  Couleur pigmentaire
 
 #### qualite
+
+</aside>
+</section>
 
 ## Repères et ressources culturelles
 

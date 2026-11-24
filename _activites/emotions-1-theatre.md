@@ -10,9 +10,15 @@ gratuite: true
 niveau: "À partir du 2e cycle du primaire"
 realisation: "Réalisation en équipe"
 duree: "De 1 à 3 périodes"
+mise_en_page: fonofone
+bandeau: /images/bandeaux/capture-decran-2023-01-13-a-031717.jpg
+etiquette: "Art dramatique"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 Cette activité permet à l’élève d'apprendre à exprimer ses émotions par le geste et par la voix, dans une gradation allant jusqu'à l'exagération.
 
@@ -34,15 +40,33 @@ Les élèves devront imaginer et enregistrer avec leur voix les sons corresponda
 
 Voir : <  **Propositions de réalisation**
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Amener l’élève à utiliser la technique théâtrale de l’exagération.
 - Amener l’élève à exprimer les émotions par les moyens corporels.
 - (Option 2) Amener l'élève à exprimer différentes émotions par des sons vocaux autres que la parole.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 2e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -52,12 +76,18 @@ Au terme de l’activité
 - L’élève sera capable d’utiliser la technique théâtrale de l'exagération.
 - L’élève sera capable de créer différentes nuances en utilisant l’intensité, la hauteur et le timbre de la voix.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Langage dramatique :  
  - moyens vocaux (voix parlée- intensité- hauteur- timbre)  
  -moyen corporels (geste, mimique)
 - Techniques théâtrales : jeu clownesque- exagération
+
+</aside>
+</section>
 
 ## Repères culturels
 

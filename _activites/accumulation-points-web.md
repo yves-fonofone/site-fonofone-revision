@@ -11,9 +11,15 @@ gratuite: true
 niveau: "À partir du 2e cycle du primaire"
 realisation: "Réalisation en collectif"
 duree: "1 à 2 périodes"
+mise_en_page: fonofone
+bandeau: /images/bandeaux/fond-bleu.jpg
+etiquette: "Musique-en ligne"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 À travers cette activité, l'élève s'initiera au procédé d'[accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs., utilisé dans les musiques de toutes traditions (voir [**< procédés formels**](https://fonofone.org/ressources-pedagogiques/illustrations-musicales/)).  
  Il/elle se familiarisera également avec des techniques d'accélération rythmique. Ce pourra être également l'occasion d'aborder la notion de polyphonie.
@@ -34,15 +40,33 @@ L'activité peut se décliner en plusieurs étapes cumulatives, en fonction du t
 
 ###  Pour une suite, aller à : [[Accumulation-création]](accumulation-creation.html)
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Familiariser l'élève avec les procédés d'[accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs. et d'accélération rythmique.
 - En option, introduire l'élève à la notion de polyphonie (superposition de voix distinctes).
 - Améliorer la réponse de l'élève aux gestes de direction.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 3e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -51,12 +75,18 @@ Au terme de l'activité:
 - L'élève sera capable d'utiliser/choisir intensité et nuances, durée, hauteur et qualité du son.
 - L'élève sera capable de t *rouver des idées liées au langage, règles et outils propre à la musique qui émergent de la proposition*
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - [Accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs., [rythme aléatoire](../lexique.html#rythme-aleatoire)Non mesuré, imprévisible., [spatialisation](../lexique.html#spatialisation)En mixage de musique, la spatialisation est utilisée pour répartir dans l'espace les différents instruments afin de favoriser leur intelligibilité., [glissando](../lexique.html#glissando)Un glissando (du français « glisser ») est un terme musical d'origine italienne qui désigne le glissement continu d'un son dans un mouvement ascendant ou descendant. Le glissando peut être produit par la voix humaine et, entre autres, par les instruments à cordes frottées et le trombone à coulisse. Un effet de glissando peut être produit sur des instruments à..., polyphonie
 - Règles de musique d'ensemble
 
 #### qualite
+
+</aside>
+</section>
 
 ## Repères culturels
 

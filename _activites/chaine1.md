@@ -13,9 +13,15 @@ console_nom: "Fono-image"
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1668029718.fnmg
 gratuite: true
 source: https://fonofone.org/activite/chaine1/
+mise_en_page: fonofone
+bandeau: /images/bandeaux/chaine-1-scaled.jpg
+etiquette: "Pour débuter..."
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 Cette activité permet à l'élève de développer son habileté à créer des mouvements de fondus-enchaînés réussis entre les sons (glisser subtilement d'un son à l'autre sans trou sonore).
 
@@ -23,15 +29,33 @@ En plus d'aider l'élève à bien comprendre la manipulation des zones dans l'in
 
 < Propositions de réalisation
 
-![faire-une-chaine](../images/2022/10/faire-une-chaine.png)
+![faire-une-chaine](../images/2022/10/faire-une-chaine.png){: .qr}
+
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Intentions pédagogiques
 
 - Initier les élèves au procédé de fondu-enchaîné.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - Tous niveaux, premiers contacts avec Fonofone
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -40,10 +64,16 @@ Au terme de cette activité :
 - L'élève sera capable d'appliquer la technique propre aux zones bleues dans l'interface image de Fonofone.
 - L’élève sera capable d'organiser les zones de manière à produire un enchaînement réussi d'un son à l'autre (pas de trou dans le passage).
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Fondu-enchaîné
 - Technique de manipulation des outils
+
+</aside>
+</section>
 
 ## Suggestion de réalisation
 

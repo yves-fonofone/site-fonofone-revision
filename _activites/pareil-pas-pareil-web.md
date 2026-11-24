@@ -13,9 +13,15 @@ console_nom: "Fono-image"
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1665184352.fnmg
 gratuite: true
 source: https://fonofone.org/activite/pareil-pas-pareil-web/
+mise_en_page: fonofone
+bandeau: /images/bandeaux/pareil-pas-pareil-1-scaled.jpg
+etiquette: "Pour débuter..."
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 Cette activité vise à développer la capacité d'analyse de l'élève et à favoriser l'intégration du vocabulaire musical.
 
@@ -25,7 +31,16 @@ L'intérêt de l'activité est d'amener l'élève à décrire précisément le c
 
 < Propositions de réalisation
 
-![pareil-pas-pareil](../images/2022/10/pareil-pas-pareil.png)
+![pareil-pas-pareil](../images/2022/10/pareil-pas-pareil.png){: .qr}
+
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Intentions pédagogiques
 
@@ -36,9 +51,18 @@ L'intérêt de l'activité est d'amener l'élève à décrire précisément le c
 
 - Favoriser l'intégration des notions musicales par la manipulation des outils Fonofone.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 2e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -47,11 +71,17 @@ Au terme de l'activité:
 - L’élève sera capable d'identifier les sons entendus en se référant aux caractéristiques du langage musical (nuances, timbres, rythmes, hauteurs de sons, harmonie, mélodie).
 - L’élève sera capable de dégager et décrire les similitudes et les différences des sons entendus en utilisant le langage musical propre aux caractéristiques des sons.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Aspects affectifs
 - contraste
 - Éléments de langage relatifs à l'intensité, au timbre, au rythme.
+
+</aside>
+</section>
 
 ## Proposition de réalisation 1
 

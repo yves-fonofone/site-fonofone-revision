@@ -7,9 +7,15 @@ gratuite: true
 niveau: "À partir du 3e cycle du primaire"
 realisation: "Réalisation individuelle ou en équipe"
 duree: "De 1 à 2 périodes"
+mise_en_page: fonofone
+bandeau: /images/bandeaux/proche-loin.jpg
+etiquette: "Musique-tablette"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 Cette activité vise à développer la perception auditive de l'élève et son habileté à percevoir et créer des plans selon les différents paramètres du son : volume sonore, hauteur, timbre, qualité, durée. Elle contribuera également au développement du sens de la polyphonie.
 
@@ -19,14 +25,32 @@ Elle peut être réalisée individuellement ou en petites équipes.
 
 Aller à : <Propositions de réalisation
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Familiariser l'élève avec les concepts de plan sonore et de perspective sonore.
 - L'amener à prendre conscience des éléments qui influencent sa perception de la localisation d’un son dans l’espace (timbre, intensité, [réverbération](../lexique.html#reverberation), etc.) et à enrichir ou remettre en question ses représentations initiales par l’analyse comparée des sons.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 3e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -35,6 +59,9 @@ Au terme de cette activité :
 - L'élève sera capable de  situer les sons dans un espace acoustique.
 - L'élève sera capable de créer une perspective sonore constituée de deux plans (ou plus) répondant à différents critères (voir la proposition de réalisation).
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Perception des sons doux et forts
@@ -42,6 +69,9 @@ Au terme de cette activité :
 - Notions de polyphonie
 
 #### réalisation
+
+</aside>
+</section>
 
 ## Suggestions de réalisation
 

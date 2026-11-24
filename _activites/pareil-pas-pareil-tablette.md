@@ -7,7 +7,12 @@ ordre: 5
 image: "/images/2022/10/pareil-pas-pareil-1-scaled.jpg"
 gratuite: true
 source: https://fonofone.org/activite/pareil-pas-pareil-tablette/
+mise_en_page: fonofone
+bandeau: /images/bandeaux/pareil-pas-pareil-1-scaled.jpg
+etiquette: "Musique-tablette"
 ---
+
+{% include consoles.html %}
 
 ## Objectif principal : association/opposition entre les sons
 

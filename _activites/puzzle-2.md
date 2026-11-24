@@ -8,22 +8,45 @@ gratuite: true
 niveau: "À partir du 2e cycle du primaire"
 realisation: "Réalisation individuelle"
 duree: "1/2 période ou plus"
+mise_en_page: fonofone
+etiquette: "Musique-tablette"
 ---
 
 ## Description
 
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
+
 > La banque "Puzzle 2" propose trois collages constitués d'extraits provenant d'oeuvres différentes. Dans chaque collage, il y a trois segments provenant d'une même œuvre qu'il s'agit d'abord de repérer, puis d'assembler pour pouvoir les enchaîner.
 
 #### Aller à la < Réalisation
+
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Intentions pédagogiques
 
 - Examiner un extrait musical au regard d’éléments de contenu.
 - Explorer le répertoire.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 2e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -32,12 +55,18 @@ Au terme de cette activité :
 - L’élève sera capable d'identifier les segments d'une même oeuvre.
 - L’élève aura développé son habileté rythmique.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Reconnaissance des styles
 - Éléments de langage relatifs au rythme.
 
 #### Réalisation
+
+</aside>
+</section>
 
 ## Suggestion de réalisation
 

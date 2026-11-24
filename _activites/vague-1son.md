@@ -9,9 +9,15 @@ gratuite: true
 niveau: "À partir de 2e cycle du primaire"
 realisation: "Réalisation collective"
 duree: "1/2 période ou plus"
+mise_en_page: fonofone
+bandeau: /images/bandeaux/vague-3.jpg
+etiquette: "Musique-tablette"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 Voici une activité très simple à réaliser qui permettra à l'élève de s'initier aux mouvements de  crescendo/decrescendo et à la notion de fondu-enchaîné. Elle constitue un excellent exercice d'écoute et contribue au développement de l'acuité auditive.
 
@@ -19,15 +25,33 @@ L'élève découvrira également la notion de [spatialisation](../lexique.html#s
 
 Aller à : < **suggestion de réalisation**
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Familiariser les élèves avec les concepts de fondu-enchaîné, de [fusion](../lexique.html#fusion)Par différents procédés, chercher à combiner deux sons ou plus de telle sorte qu'ils se mélangent bien, comme dans une sauce. Outils à prioriser : 1.  le volume (apparier l'intensité des différents sons) 2. le filtre (apparier la "couleur" des sons) 3. les outils de transposition (apparier les hauteurs et la vitesse) et de [spatialisation](../lexique.html#spatialisation)En mixage de musique, la spatialisation est utilisée pour répartir dans l'espace les différents instruments afin de favoriser leur intelligibilité.. 
 - Développer l'acuité auditive et l'attention aux autres.
 - Améliorer la réponse des élèves aux gestes de direction.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 2e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -37,11 +61,17 @@ Au terme de cette activité :
 - L’élève sera capable de répondre de manière précise aux gestes de direction.
 - L’élève aura développé la capacité d'écoute et d'attention aux autres lui permettant de bien fusionner sa source sonore avec celles de l'ensemble.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Éléments de langage relatifs à l'intensité, au timbre.
 
 #### réalisation
+
+</aside>
+</section>
 
 ## Suggestion de réalisation
 

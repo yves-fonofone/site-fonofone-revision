@@ -12,9 +12,14 @@ qr_code: /images/qr/qr-oppression.png
 console_nom: Fono-image
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1734133787.fnmg
 gratuite: true
+mise_en_page: fonofone
+etiquette: "Art dramatique"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 Réalisation d'un **"Théâtre-image"** autour du thème de l'oppression, inspiré de l'univers du dramaturge brésilien Augusto Boal
 
@@ -29,15 +34,33 @@ Seconde étape :
 
 **< Propositions de réalisation**
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Amener les élèves à mettre en scène en photos un extrait d’une tirade de Shakespeare représentant l'oppresseur et l'opprimé.
 - Amener les élèves à développer la technique du Théâtre image.
 - Amener l'élève à découvrir les œuvres de Shakespeare et l’esthétique de Boal.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 2e cycle du secondaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -47,11 +70,17 @@ Au terme de cette activité:
 - L’élève sera capable de relever les passages marquants les plus signifiants dans la structure dramatique pour l’interprétation d’un personnage ou la mise en scène de l’œuvre.
 - L’élève se familiarisera avec les œuvres de Shakespeare et l’esthétique de Boal.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Moyens corporels et expressifs
 - Moyens vocaux et expressifs
 - *Procédé de réalisation [art dramatique et multimédia]*
+
+</aside>
+</section>
 
 ## Repères et ressources culturelles
 

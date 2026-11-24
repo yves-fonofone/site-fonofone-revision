@@ -11,9 +11,15 @@ gratuite: true
 niveau: "À partir du 3e cycle du primaire"
 realisation: "Réalisation individuelle ou au TNI"
 duree: "1 période"
+mise_en_page: fonofone
+bandeau: /images/bandeaux/proche-loin.jpg
+etiquette: "Musique-en ligne"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 À partir de la fin du XVIIIè siècle, les oeuvres classiques occidentales comportent souvent une voix dominante (la mélodie) accompagnée de voix secondaires (l'accompagnement), légèrement en arrière-plan.
 
@@ -23,12 +29,24 @@ Cette activité permet d'explorer cette approche de manière plus "cinématograp
 
 < Propositions de réalisation
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Éveiller l'élève à la perception de la [perspective sonore](https://www.cairn.info/revue-communications-2009-2-page-139.htm) (plans ou couches sonores situées è des distances relatives les unes des autres).  Il/elle prend conscience des éléments qui influencent sa perception de la localisation d’un son dans l’espace (timbre, intensité, [réverbération](../lexique.html#reverberation), etc.) et enrichit ou remet en question ses représentations initiales par l’analyse comparée des sons.
 
 - Développer l’habileté de l'élève à créer un effet de perspective sonore.
 - Développer l'habileté de l'élève à manipuler les outils Fonofone.
+
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
 
 ### Niveau suggéré
 
@@ -37,6 +55,12 @@ Cette activité permet d'explorer cette approche de manière plus "cinématograp
 #### Préalables
 
 Connaissance requise des outils [ **volume** ] - [ **filtre** ] - [ **[réverbération](../lexique.html#reverberation)** ]
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -48,6 +72,9 @@ Au terme de l'activité:
 - L'élève sera capable de superposer deux ou trois couches sonores bien distinctes (plans sonores).
 - L'élève sera capable d'identifier et de calibrer les outils appropriés pour créer l'effet d'éloignement du son.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Nuances, contrastes
@@ -55,6 +82,9 @@ Au terme de l'activité:
 - Technique de manipulation appropriée
 
 #### qualite
+
+</aside>
+</section>
 
 ## Repères culturels
 

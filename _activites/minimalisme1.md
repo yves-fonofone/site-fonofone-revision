@@ -11,9 +11,15 @@ gratuite: true
 niveau: "À partir du 3e cycle du primaire"
 realisation: "Réalisation individuelle ou en équipe"
 duree: "De 2 à 3 périodes"
+mise_en_page: fonofone
+bandeau: /images/bandeaux/fond-bleu.jpg
+etiquette: "Musique-en ligne"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 - Réalisation individuelle, ou en équipe
 - À partir du 3e cycle du primaire
@@ -31,7 +37,16 @@ Elle permet également d’initier les élèves à différents procédés de com
 Réalisations en équipe, Collège Bourget, Rigaud, Québec  
  Enseignant: François Gauthier
 
-![ostinato-rythmique.png](../images/2025/01/ostinato-rythmique.png)
+![ostinato-rythmique.png](../images/2025/01/ostinato-rythmique.png){: .qr}
+
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Intentions pédagogiques
 
@@ -39,9 +54,18 @@ Réalisations en équipe, Collège Bourget, Rigaud, Québec
 - Amener l'élève à observer une pulsation rythmique
 - Amener l'élève à faire preuve de créativité (choix des sons, structure mélodique, fin originale)
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 3e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -52,6 +76,9 @@ Au terme de cette activité:
 
 - L’élève sera capable de construire son idée musicale en appliquant un procédé.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Pulsation rythmique
@@ -59,6 +86,9 @@ Au terme de cette activité:
 - Procédé de composition : [accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs. et [ostinato](../lexique.html#ostinato)L'ostinato est un procédé de composition musicale consistant à répéter obstinément une formule rythmique, mélodique ou harmonique accompagnant de manière immuable les différents éléments thématiques durant tout le morceau. L'ostinato est souvent basé sur la basse — basse contrainte, soutenue ou obligée — on parle alors de basso ostinato. Les chaconnes, les passacailles et les grounds sont des modèles du...
 
 #### qualite
+
+</aside>
+</section>
 
 ## Repères culturels
 

@@ -11,9 +11,14 @@ qr_code: /images/qr/qr-pointillisme.png
 console_nom: Fono-image avec vos dessins
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1687544008.fnmg
 gratuite: true
+mise_en_page: fonofone
+etiquette: "Arts plastiques"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 - Réalisation individuelle 
 - À partir du 1er cycle du secondaire
@@ -29,7 +34,16 @@ Deux options sont offertes :
 
       < *La Rapide* : Interprétation sonore de dessins fournis par les élèves de l'école de l'Altitude, Pierrefonds, Québec (1 période)
 
-![pointillisme-dessins](../images/2023/06/pointillisme-dessins.png)
+![pointillisme-dessins](../images/2023/06/pointillisme-dessins.png){: .qr}
+
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Intentions pédagogiques
 
@@ -37,9 +51,18 @@ Deux options sont offertes :
 - À l'aide de la sonorisation de son image, amener l'élève à approfondir l'analyse de son dessin.
 - Amener l'élève à exprimer clairement son intention, avec le vocabulaire disciplinaire.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 1er cycle du secondaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -50,6 +73,9 @@ Au terme de cette activité
 - L’élève aura acquis la capacité de réaliser un parcours sonore favorisant l'interprétation de son dessin.
 - L'élève sera capable de communiquer son intention avec le vocabulaire disciplinaire.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Langage plastique  
@@ -57,6 +83,9 @@ Au terme de cette activité
  - motif
 
 #### qualite
+
+</aside>
+</section>
 
 ## Repères culturels
 

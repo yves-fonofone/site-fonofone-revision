@@ -7,7 +7,12 @@ ordre: 2
 image: "/images/2018/06/son-cache.png"
 gratuite: true
 source: https://fonofone.org/activite/effet-de-masque/
+mise_en_page: fonofone
+bandeau: /images/bandeaux/son-cache.jpg
+etiquette: "Musique-tablette"
 ---
+
+{% include consoles.html %}
 
 ## Contenu : effet de masque, chaos, rupture et contraste
 

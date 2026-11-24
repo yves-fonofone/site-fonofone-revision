@@ -9,7 +9,11 @@ niveau: "À partir du 3e cycle du primaire"
 duree: "De 3 à 4 périodes"
 gratuite: true
 source: https://fonofone.org/activite/sketch-book/
+mise_en_page: fonofone
+etiquette: "Arts plastiques"
 ---
+
+{% include consoles.html %}
 
 Projet réalisé par Anne Isabelle Leonard, artiste interdisciplinaire
 

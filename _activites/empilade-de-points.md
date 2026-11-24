@@ -8,7 +8,11 @@ gratuite: true
 niveau: "Du 3e cycle primaire au 2e cycle secondaire"
 realisation: "Réalisation collective"
 duree: "De 1 à 2 périodes"
+mise_en_page: fonofone
+etiquette: "Musique-tablette"
 ---
+
+{% include consoles.html %}
 
 ## Contenu principal : [accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs. par la multiplication de sons brefs
 

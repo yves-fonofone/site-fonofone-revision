@@ -11,9 +11,14 @@ gratuite: true
 niveau: "À partir du 1er cycle du primaire"
 realisation: "En collectif-un ordinateur ou tablette par élève"
 duree: "1 période"
+mise_en_page: fonofone
+etiquette: "Musique-en ligne"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 Cette activité amusante autour du souhait de bonne journée en plusieurs langues permet aux élèves d'assimiler la notion de crescendo-decrescendo et de fondu-enchaîné. Ils/elles découvriront également ce qu'est un véritable son doux. 
 
@@ -21,15 +26,33 @@ Cette activité amusante autour du souhait de bonne journée en plusieurs langue
 
 Réalisation au Camp musical Père-Lindsay, Val-St-Côme, Québec
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Initier les élèves aux notions d’intensité et de nuance.
 - Initier les élèves aux procédés de crescendo-decrescendo et de rupture.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - Préscolaire et 1er cycle
 - Tous niveaux : premier contact avec Fono-Image
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -38,6 +61,9 @@ Au terme de cette activité :
 - L’élève sera capable d'identifier/différencier/utiliser les nuances
 - L’élève sera capable de réaliser les mouvements de crescendo/decrescendo appropriés et, en option, des gestes fluides de [glissando](../lexique.html#glissando)Un glissando (du français « glisser ») est un terme musical d'origine italienne qui désigne le glissement continu d'un son dans un mouvement ascendant ou descendant. Le glissando peut être produit par la voix humaine et, entre autres, par les instruments à cordes frottées et le trombone à coulisse. Un effet de glissando peut être produit sur des instruments à....
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Crescendo/decrescendo, [glissando](../lexique.html#glissando)Un glissando (du français « glisser ») est un terme musical d'origine italienne qui désigne le glissement continu d'un son dans un mouvement ascendant ou descendant. Le glissando peut être produit par la voix humaine et, entre autres, par les instruments à cordes frottées et le trombone à coulisse. Un effet de glissando peut être produit sur des instruments à...
@@ -45,6 +71,9 @@ Au terme de cette activité :
 - Réponse aux indications du chef
 
 #### realisation
+
+</aside>
+</section>
 
 ## Suggestion de réalisation
 

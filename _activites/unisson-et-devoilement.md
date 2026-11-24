@@ -7,7 +7,12 @@ ordre: 1
 image: "/images/2019/09/header_activites_oiseaudefeu_ba-ndeau_omnifone_1300x250px_v2.png"
 gratuite: true
 source: https://fonofone.org/activite/unisson-et-devoilement/
+mise_en_page: fonofone
+bandeau: /images/bandeaux/header_activites_oiseaudefeu_ba-ndeau_omnifone_1300x250px_v2.jpg
+etiquette: "L'Oiseau de Feu (OM)"
 ---
+
+{% include consoles.html %}
 
 ### Présentation :
 

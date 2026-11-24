@@ -8,9 +8,14 @@ gratuite: true
 niveau: "À partir du 2e cycle du primaire"
 realisation: "Réalisation individuelle"
 duree: "1/2 période ou plus"
+mise_en_page: fonofone
+etiquette: "Musique-tablette"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 La banque contient une série d'extraits découpés en trois segments.
 
@@ -18,14 +23,32 @@ Le but de l'activité est de reconstituer l'extrait complet en trouvant et réun
 
 #### Aller à la < Réalisation
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Examiner un extrait musical au regard d’éléments de contenu.
 - Explorer le répertoire.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 2e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -34,12 +57,18 @@ Au terme de cette activité :
 - L’élève sera capable d'identifier les segments d'une même oeuvre.
 - L’élève aura développé.e son habileté rythmique.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Reconnaissance des styles
 - Éléments de langage relatifs au rythme.
 
 #### Réalisation
+
+</aside>
+</section>
 
 ## Suggestion de réalisation
 

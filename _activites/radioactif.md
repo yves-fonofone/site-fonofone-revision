@@ -13,9 +13,15 @@ qr_code: /images/qr/qr-radioactif.png
 console_nom: Fono-image
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1698266453.fnmg
 gratuite: true
+mise_en_page: fonofone
+bandeau: /images/bandeaux/nuclear-baril.jpg
+etiquette: "Danse"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 - Réalisation collective ou en équipe 
 - À partir du 2e cycle du primaire
@@ -40,15 +46,33 @@ Nous proposons trois niveaux d'exécution, sollicitant de plus en plus la prise 
 
 [![](../images/2023/07/radioactifs-journal-300x171.png)](../documents/2023/08/radioactifs-journal-de-bord.pdf)
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Amener l’élève à exploiter des idées de création.
 - Amener l’élève à exploiter des éléments du langage de la danse (les efforts) pour inventer une danse.
 - Amener l’élève à appliquer les règles relatives aux mouvements d’ensemble en dansant en réponse aux indications sonores et visuelles de "fono-image".
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 2e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -56,6 +80,9 @@ Au terme de l'activité:
 
 - L'élève sera capable d'inventer une danse répondant à la thématique.
 - L'élève sera capable d'élaborer sa chorégraphie en relation avec un parcours sonore.
+
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
 
 ### Savoirs essentiels
 
@@ -65,6 +92,9 @@ Au terme de l'activité:
 - Effort soutenu
 
 #### qualite
+
+</aside>
+</section>
 
 ## Repères culturels
 

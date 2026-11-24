@@ -8,9 +8,15 @@ gratuite: true
 niveau: "À partir du 1er cycle du primaire"
 realisation: "Réalisation collective"
 duree: "1/2 période ou plus"
+mise_en_page: fonofone
+bandeau: /images/bandeaux/doux-fort-scaled.jpg
+etiquette: "Musique-tablette"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 Cette activité permet à l'élève de bien comprendre la différence entre un son doux et fort et de comprendre la notion de contraste -d'intensités, mais aussi de caractères.
 
@@ -20,15 +26,33 @@ L'élève se familiarisera avec l'usage de l'outil "mélangeur".
 
 Aller à : <Suggestions de réalisation
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Initier les élèves aux notions d’intensité et de nuance.
 - Initier les élèves aux procédés de crescendo-decrescendo et de rupture.
 - Initier les élèves à l'effet de [masque](../lexique.html#masque).
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 1er cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -38,12 +62,18 @@ Au terme de l'activité:
 - L'élève sera capable d'interpréter un crescendo/decrescendo et un effet de rupture.
 - L'élève sera capable de réaliser un effet de [masque](../lexique.html#masque).
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Langage musical : intensités (doux/fort), nuances (crescendo/decrescendo)
 - Procédés de composition : contraste, rupture, effet de [masque](../lexique.html#masque)
 
 #### realisation
+
+</aside>
+</section>
 
 ## Suggestion de réalisation
 

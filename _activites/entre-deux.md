@@ -10,6 +10,9 @@ duree: "De 3 à 4 périodes"
 image: "/images/2023/05/site-entre-deux.jpg"
 gratuite: true
 source: https://fonofone.org/activite/entre-deux/
+mise_en_page: fonofone
+bandeau: /images/bandeaux/site-entre-deux.jpg
+etiquette: "Musique-en ligne"
 ---
 
 Projet réalisé par Karine Blanchette, artiste visuelle et enseignante en arts plastiques et [Véronique Girard](http://noisefairy.com/), artiste sonore et médiatrice.
@@ -44,6 +47,9 @@ Sur le plan sonore, Véronique a choisi des sons qui allaient bien avec les émo
 
 ## Description
 
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
+
 Pour réaliser le projet Entre-deux, les élèves travaillent en dyades et créent une composition qui s’inspire de souvenirs tirés de leur expérience scolaire.
 
 Le résultat est une œuvre visuelle et sonore qui se situe à la frontière entre réel et imaginaire.
@@ -58,18 +64,36 @@ Création visuelle
 
 Création sonore
 
-![projets-pluridisciplinaires-entre-deux](../images/2023/05/projets-pluridisciplinaires-entre-deux.png)
+![projets-pluridisciplinaires-entre-deux](../images/2023/05/projets-pluridisciplinaires-entre-deux.png){: .qr}
 
 [Ouvrir Fono-image](https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1683048185.fnmg)
+
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Intentions pédagogiques
 
 - Développer la capacité de développer un discours musical (une forme) et de l'interpréter.
 - Développer la capacité d’évocation poétique.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 3e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -79,11 +103,17 @@ Au terme de l'activité:
 - L'élève sera capable de (re)connaître, analyser et combiner les possibilités de modes visuels et sonores pour générer du sens [(Compétence multimodale)](https://lab-yrinthe.ca/education/competences-lmm/).
 - L'élève sera capable de s'initier à de nouveaux registres visuels (art abstrait) et sonores (électroacoustique).
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - C1: Démarche de création
 - C3 : Apprécier une œuvre
 - CT : Exercer sa pensée créatrice, collaborer, communiquer.
+
+</aside>
+</section>
 
 ## Repères et ressources culturelles
 

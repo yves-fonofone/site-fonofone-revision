@@ -12,6 +12,9 @@ console_nom: "Fono-image"
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1687971645.fnmg
 gratuite: true
 source: https://fonofone.org/activite/automatisation/
+mise_en_page: fonofone
+bandeau: /images/bandeaux/automatisation-scaled.jpg
+etiquette: "Pour débuter..."
 ---
 
 Les fonctions d'automatisation de la console Fono-image permettent d'enregistrer et de reproduire le mouvement du curseur, ce qui est très pratique, entre autres pour les activités en danse et théâtre : n'ayant plus à parcourir manuellement l'image avec le curseur, l'eneignant.e peut alors "oublier" le tableau numérique interactif pour se concentrer sur le jeu des élèves.
@@ -30,15 +33,24 @@ Après visionnement de la vidéo, on pourra passer à l'activité d'intégration
 
 ## Description
 
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
+
 À partir de la console "fono-image" proposer à vos élèves de réaliser un parcours sonore qui sera automatisé et mis en boucle.
 
 Les directives varieront selon la discipline, le niveau et la connaissance de Fonofone de vos élèves.
 
 < Propositions de réalisation
 
-![automatisation](../images/2023/06/automatisation-1.png)
+![automatisation](../images/2023/06/automatisation-1.png){: .qr}
 
 #### Integration
+
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
 
 ## Suggestion de réalisation
 

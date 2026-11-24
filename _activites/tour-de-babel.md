@@ -9,9 +9,14 @@ gratuite: true
 niveau: "À partir du 3e cycle du primaire"
 realisation: "Réalisation collective"
 duree: "1 période"
+mise_en_page: fonofone
+etiquette: "Musique-tablette"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 Cette activité est une variante de l'activité [[Glissando]](glissando-tablette.html).
 
@@ -23,15 +28,33 @@ Après avoir expliqué aux élèves le mythe de la Tour de Babel et et le sens f
 
 Aller à : < suggestion de réalisation
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Sensibiliser les élèves aux notions d'ordre et de désordre en musique.
 - Initier les élèves aux techniques de [glissando](../lexique.html#glissando)Un glissando (du français « glisser ») est un terme musical d'origine italienne qui désigne le glissement continu d'un son dans un mouvement ascendant ou descendant. Le glissando peut être produit par la voix humaine et, entre autres, par les instruments à cordes frottées et le trombone à coulisse. Un effet de glissando peut être produit sur des instruments à... et de [réverbération](../lexique.html#reverberation).
 - Améliorer la réponse des élèves aux gestes de direction.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 3e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -41,6 +64,9 @@ Au terme de cette activité :
 - L’élève sera capable de produire avec fluidité un [glissando](../lexique.html#glissando)Un glissando (du français « glisser ») est un terme musical d'origine italienne qui désigne le glissement continu d'un son dans un mouvement ascendant ou descendant. Le glissando peut être produit par la voix humaine et, entre autres, par les instruments à cordes frottées et le trombone à coulisse. Un effet de glissando peut être produit sur des instruments à....
 - L’élève sera capable de répondre de manière précise aux gestes de direction.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Aspects affectifs
@@ -48,6 +74,9 @@ Au terme de cette activité :
 - Éléments de langage relatifs à aux notions de tension/détente.
 
 #### qualite
+
+</aside>
+</section>
 
 ## Repères culturels
 

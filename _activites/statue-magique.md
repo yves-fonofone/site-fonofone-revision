@@ -11,9 +11,15 @@ gratuite: true
 niveau: "À partir du 1er cycle du primaire"
 realisation: "Réalisation collective ou en équipe"
 duree: "1 ou 2 périodes"
+mise_en_page: fonofone
+bandeau: /images/bandeaux/danseuses.jpg
+etiquette: "Danse"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 - Réalisation en collectif
 - À partir du 1er cycle du primaire
@@ -28,14 +34,32 @@ Cette activité vise à développer l'imagination gestuelle en intelligence avec
 Réalisation à l'école primaire Le Plateau, Montréal, Québec   
  Enseignante : Audrey Bellerose-Battaglini
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Amener les élèves à découvrir les mouvements répétitifs.
 - Initier les élèves à la création de mouvements répétitifs.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 1er cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -43,6 +67,9 @@ Au terme de l'activité:
 
 - L’élève sera capable d'appliquer une démarche pour créer des mouvements répétitifs.
 - L'élève sera capable d'appliquer des stratégies de réponse aux indices sonores.
+
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
 
 ### Savoirs essentiels
 
@@ -52,6 +79,9 @@ Au terme de l'activité:
 - Position de départ et de fin d'une danse
 
 #### qualite
+
+</aside>
+</section>
 
 ## Repères culturels
 

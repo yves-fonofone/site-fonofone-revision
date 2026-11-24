@@ -13,6 +13,9 @@ console_nom: "Fono-image"
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1650324702.fnmg
 gratuite: true
 source: https://fonofone.org/activite/foret-descriptive-web/
+mise_en_page: fonofone
+bandeau: /images/bandeaux/img-5758.jpg
+etiquette: "Musique-en ligne"
 ---
 
 <div class="video"><iframe src="https://player.vimeo.com/video/956747127?h=c9f084478c&badge=0&autopause=0&player_id=0&app_id=58479&dnt=1" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy" title="Vidéo"></iframe></div>
@@ -22,6 +25,9 @@ Enseignante : Julie Daoust
 
 ## Description
 
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
+
 Ce projet comporte deux volets. Dans le premier, les élèves sont invités à créer une sonorisation réaliste -ou descriptive- de la forêt en utilisant essentiellement les sons de la banque [nature], puis à inventer un parcours (forme) qu'ils exécuteront en direct devant la classe et/ou enregistreront.
 Dans le second volet (voir [Forêt mystérieuse](la-foret-etrange-web.html)) ils seront appelés à créer un monde sonore imaginaire, en fonction de ce que leur inspire l'image transformée de la forêt.
 
@@ -29,13 +35,25 @@ Ce projet peut être réalisé à partir d'autres images de l'environnement (par
 
 < Propositions de réalisation
 
-![promenade-en-foret](../images/2022/04/promenade-en-foret.png)
+![promenade-en-foret](../images/2022/04/promenade-en-foret.png){: .qr}
+
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Intentions pédagogiques
 
 - Améliorer chez les élèves la perception des intensités et des nuances.
 - Initier les élèves aux procédés de composition liés à l'intensité et aux nuances (rupture, fondus, [masque](../lexique.html#masque)).
 - Initier les élèves à la manipulation des outils appropriés.
+
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
 
 ### Niveau suggéré
 
@@ -45,6 +63,12 @@ Préalable
 - Être familiarisé avec les techniques de
 *fondu-enchaîné* et de *perspective.*Voir : [Proche-loin](proche-loin-web.html)
 
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Objectifs d'apprentissage
 
 Au terme de cette activité :
@@ -53,11 +77,17 @@ Au terme de cette activité :
 - L'élève sera capable de structurer l'emplacement des zones de façon à permettre un parcours fluide dans l'image.
 - L'élève sera capable d'imaginer et exécuter un parcours révélant une forme ( faire percevoir une évolution en amenant des éléments nouveaux, des retours de motifs, des éléments surprise, réaliser une fermeture bien perceptible).
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Démarche de création
 
 #### qualite
+
+</aside>
+</section>
 
 ## Repères culturels
 

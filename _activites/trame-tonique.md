@@ -9,7 +9,12 @@ gratuite: true
 niveau: "À partir du 3e cycle du primaire"
 realisation: "Réalisation collective"
 duree: "1 période"
+mise_en_page: fonofone
+bandeau: /images/bandeaux/012070190020-scaled.jpg
+etiquette: "Musique-tablette"
 ---
+
+{% include consoles.html %}
 
 ## Contenu principal  : harmonie
 

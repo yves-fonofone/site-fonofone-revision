@@ -7,7 +7,11 @@ gratuite: true
 niveau: "À partir du 2e cycle du secondaire"
 realisation: "Réalisation collective"
 duree: "1 période"
+mise_en_page: fonofone
+etiquette: "Musique-tablette"
 ---
+
+{% include consoles.html %}
 
 ## Procédé formel : rythme pulsé, décélération
 

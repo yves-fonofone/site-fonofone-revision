@@ -7,7 +7,12 @@ ordre: 1
 image: "/images/2018/04/intrus.png"
 gratuite: true
 source: https://fonofone.org/activite/le-son-cache/
+mise_en_page: fonofone
+bandeau: /images/bandeaux/intrus.jpg
+etiquette: "Musique-tablette"
 ---
+
+{% include consoles.html %}
 
 Réalisation individuelle ou au TNIÀ partir du 1er cycle-Primaire15 minutes
 

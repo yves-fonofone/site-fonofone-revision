@@ -11,9 +11,14 @@ gratuite: true
 niveau: "À partir du 3e cycle du primaire"
 realisation: "Réalisation collective ou en équipe"
 duree: "1 ou 2 périodes"
+mise_en_page: fonofone
+etiquette: "Musique-en ligne"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 Ce jeu d'improvisation très motivant vise à développer la compréhension de la notion de verticalité.
 
@@ -21,15 +26,33 @@ Il contribue également à stimuler l'attention (réponse immédiate au signe du
 
 Aller à : < Suggestion de réalisation
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Initier l'élève à la notion de verticalité en musique.
 - Affiner chez l'élève la perception des caractéristiques de l’attaque : ferme, douce, etc.
 - Améliorer la réponse de l'élève aux gestes de direction.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 3e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -39,6 +62,9 @@ Au terme de cette activité :
 - L'élève sera capable de répondre instantanément aux signes du chef.
 - L'élève désigné pour diriger le groupe sera capable de précision dans ses signes.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Verticalité
@@ -46,6 +72,9 @@ Au terme de cette activité :
 - Habileté à répondre aux signes du chef
 
 #### qualite
+
+</aside>
+</section>
 
 ## Repères culturels
 

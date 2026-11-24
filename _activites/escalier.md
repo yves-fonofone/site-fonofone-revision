@@ -7,9 +7,15 @@ gratuite: true
 niveau: "À partir du 1er cycle du primaire"
 realisation: "Réalisation individuelle ou collective"
 duree: "1 période"
+mise_en_page: fonofone
+bandeau: /images/bandeaux/capture-decran-le-2024-04-17-a-163154.jpg
+etiquette: "Musique-tablette"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 Cette activité vise à développer la perception des nuances, du plus doux au plus fort.
 
@@ -17,14 +23,32 @@ Après avoir choisi un son percussif et court, l'élève construira, à l'aide d
 
 Aller à : **Propositions de réalisation**
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Améliorer chez les élèves la perception des nuances.
 - Familiariser les élèves avec l' outil[arpégiateur.](../outils.html)
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 1er cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -34,12 +58,18 @@ Au terme de l'activité:
 - L’élève sera capable de coupler le métronome à l’arpégiateur.
 - L’élève sera capable d’activer la lecture en répondant avec précision aux gestes de direction.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - perception du doux et du fort
 - Éléments de langage relatifs à l'intensité, au timbre, au rythme.
 
 #### realisation
+
+</aside>
+</section>
 
 ## Suggestion de réalisation
 

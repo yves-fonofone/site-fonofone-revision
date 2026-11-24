@@ -9,9 +9,15 @@ gratuite: true
 niveau: "À partir du 2e cycle du primaire"
 realisation: "Réalisation collective"
 duree: "1/2 période ou plus"
+mise_en_page: fonofone
+bandeau: /images/bandeaux/vague-poly.jpg
+etiquette: "Musique-tablette"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 Cette activité est une version polyphonique de l'activité [Vague-1 son]. Elle vise le même objectif : développement de l'écoute et de l'habileté à faire de manière musicale des gestes de crescendo/decrescendo.
 
@@ -21,15 +27,33 @@ Aller à : < **Suggestion de réalisation**
 
 Camp Père-Lindsay, Val-St-Côme, Québec
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Familiariser les élèves avec des notions telles que fondu-enchaîné, [fusion](../lexique.html#fusion)Par différents procédés, chercher à combiner deux sons ou plus de telle sorte qu'ils se mélangent bien, comme dans une sauce. Outils à prioriser : 1.  le volume (apparier l'intensité des différents sons) 2. le filtre (apparier la "couleur" des sons) 3. les outils de transposition (apparier les hauteurs et la vitesse), [accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs., [spatialisation](../lexique.html#spatialisation)En mixage de musique, la spatialisation est utilisée pour répartir dans l'espace les différents instruments afin de favoriser leur intelligibilité., son soutenu.
 - Affiner chez les élèves la perception des nuances.
 - Améliorer la réponse des élèves aux gestes de direction.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 2e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -38,9 +62,15 @@ Au terme de cette activité :
 - L’élève sera capable de réaliser des crescendo/decrescendo fluides.
 - L’élève sera capable de calibrer son volume en fonction de l’ensemble.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Éléments de langage relatifs à l'intensité, à la notion de crescendo/decrescendo.
+
+</aside>
+</section>
 
 ## Outils
 

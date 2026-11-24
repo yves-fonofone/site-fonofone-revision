@@ -10,7 +10,12 @@ duree: "De 1 à 3 périodes (selon l’option)"
 image: "/images/2018/06/capture-decran-2019-08-21-a-17-41-22.png"
 gratuite: true
 source: https://fonofone.org/activite/la-foret-etrange/
+mise_en_page: fonofone
+bandeau: /images/bandeaux/capture-decran-2019-08-21-a-17-41-22.jpg
+etiquette: "Musique-tablette"
 ---
+
+{% include consoles.html %}
 
 ## Contenu principal : fondu enchaîné
 

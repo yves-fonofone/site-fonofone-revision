@@ -5,7 +5,11 @@ categorie: Procédés de composition
 ordre: 16
 gratuite: true
 realisation: "Travail individuel, puis collectif"
+mise_en_page: fonofone
+etiquette: "Musique-tablette"
 ---
+
+{% include consoles.html %}
 
 ## Contenu principal : objet sonore hybride
 

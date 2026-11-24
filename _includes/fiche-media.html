@@ -1,0 +1,7 @@
+{%- comment -%} Illustration de la fiche, à droite dans l'encadré de description (champ « image »). {%- endcomment -%}
+{%- if page.image %}
+<figure class="encadre__media">
+  <img src="{{ page.image | relative_url }}" alt="" loading="lazy">
+  {%- if page.legende %}<figcaption>{{ page.legende }}</figcaption>{% endif %}
+</figure>
+{%- endif %}

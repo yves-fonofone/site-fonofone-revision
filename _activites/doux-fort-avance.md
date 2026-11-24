@@ -10,9 +10,15 @@ gratuite: true
 niveau: "À partir du 3e cycle du primaire"
 realisation: "Réalisation collective ou au TNI"
 duree: "1 période"
+mise_en_page: fonofone
+bandeau: /images/bandeaux/doux-fort-scaled.jpg
+etiquette: "Musique-en ligne"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 - Réalisation collective ou au TNI
 - À partir du 3e cycle du primaire
@@ -24,15 +30,33 @@ Pour donner une suite créative à cette activité, aller à : [[doux/fort-créa
 
 < Propositions de réalisation
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Améliorer chez les élèves la perception des intensités et des nuances.
 - Initier les élèves aux procédés de composition liés à l'intensité et aux nuances (rupture, fondus, [masque](../lexique.html#masque)).
 - Initier les élèves à la manipulation des outils appropriés.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 3e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -42,6 +66,9 @@ Au terme de l'activité:
 - L’élève sera capable de choisir des sons appropriés répondant bien à la proposition.
 - L'élève sera capable de manipuler adéquatement l'outil [volume] de Fonofone pour obtenir l'effet visé.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Procédés de composition : contraste, rupture, effet de [masque](../lexique.html#masque).
@@ -49,6 +76,9 @@ Au terme de l'activité:
 - Technique de manipulation
 
 #### qualite
+
+</aside>
+</section>
 
 ## Repères culturels
 

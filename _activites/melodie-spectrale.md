@@ -8,7 +8,11 @@ gratuite: true
 niveau: "À partir du 1er cycle du secondaire"
 realisation: "Réalisation collective"
 duree: "1 période"
+mise_en_page: fonofone
+etiquette: "Musique-tablette"
 ---
+
+{% include consoles.html %}
 
 ## Contenu principal : mélodie de timbre
 

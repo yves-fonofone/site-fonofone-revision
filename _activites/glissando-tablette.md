@@ -9,9 +9,15 @@ gratuite: true
 niveau: "Pour le primaire et le secondaire"
 realisation: "Réalisation collective"
 duree: "1/2 période ou plus"
+mise_en_page: fonofone
+bandeau: /images/bandeaux/eventail-3-scaled.jpg
+etiquette: "Musique-tablette"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 #### Très simple à réaliser, cette activité permet d'aborder plusieurs notions de distance entre les sons : unisson, octave, cluster, micro-intervalles.
 
@@ -27,6 +33,12 @@ duree: "1/2 période ou plus"
 
 **Proposition de réalisation >**
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
 ## Outils
 
 bldblblblblblblblblblblblblblblblblblb
@@ -39,14 +51,26 @@ bldblblblblblblblblblblblblblblblblblb
 
 ![vari-metro.png](../images/2018/04/vari-metro.jpg)
 
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Initier les élèves aux notions d'unisson, octave, [cluster](../lexique.html#cluster), micro-intervalles, consonance/dissonance.
 - Familiariser les élèves avec le procédé de [glissando.](../lexique.html#glissando)
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 2e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -56,12 +80,18 @@ Au terme de l'activité:
 - L’élève sera capable de différencier les consonances des dissonances.
 - (En option) L'élève sera capable d'appliquer une technique pour créer un son continu à l'aide de l'outil [ **métronome** ].
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Unisson, relation d' **octave, cluster, consonance-dissonance**
 - Procédés de composition : **glissando**
 - Technique de manipulation appropriée
 - Réponse aux indications du chef
+
+</aside>
+</section>
 
 ## Repères culturels
 

@@ -12,9 +12,15 @@ gratuite: true
 niveau: "À partir du 3e cycle du primaire"
 realisation: "Réalisation en équipe"
 duree: "2 périodes"
+mise_en_page: fonofone
+bandeau: /images/bandeaux/paris-g848556830-640.jpg
+etiquette: "Art dramatique"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 *Des voleurs s’introduisent dans un musée durant la nuit pour dérober le joyau de la Couronne bavaroise.*  
  *Ils doivent faire le moins de bruit possible pour éviter de se faire prendre par la Sécurité. Leur méfait sera t-il réussi?*
@@ -26,14 +32,32 @@ L’activité présentée peut aisément être simplifiée pour les élèves du 
 
 **< Propositions de réalisation**
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Amener les élèves à scénariser et à jouer une séquence dramatique gestuelle à partir d’une banque établie d’effets sonores.
 - Développer chez les élèves la capacité du travail en équipe : capacité de communiquer ses idées et de s'ouvrir à celles des autres.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 3e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -42,6 +66,9 @@ Au terme de cette activité:
 - L’élève sera capable de construire un personnage en utilisant uniquement des moyens corporels.
 - L’élève sera capable de construire et de jouer son personnage en lien avec les effets sonores.
 - L'élève aura développé sa capacité de travailler en équipe.
+
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
 
 ### Savoirs essentiels
 
@@ -52,6 +79,9 @@ Au terme de cette activité:
 - Développement de la fable
 
 #### qualite
+
+</aside>
+</section>
 
 ## Repères culturels
 

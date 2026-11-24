@@ -11,6 +11,9 @@ duree: "De 3 à 4 périodes"
 image: "/images/2024/06/theatre-objets-scaled.jpg"
 gratuite: true
 source: https://fonofone.org/activite/theatre-objets/
+mise_en_page: fonofone
+bandeau: /images/bandeaux/theatre-objets-scaled.jpg
+etiquette: "Musique-en ligne"
 ---
 
 Projet réalisé par [Karine St-Arnaud](https://www.theatresouslamain.com/theatresouslamain.com/Accueil.html), comédienne et marionnettiste, et [Yves Daoust](https://electrocd.com/fr/artiste/daoust_yv/yves-daoust), compositeur.
@@ -37,6 +40,9 @@ Voici le fruit de ce travail !
 
 ## Description
 
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
+
 - Réalisation en équipe
 - À partir du 3e cycle du primaire
 - De 3 à 4 périodes
@@ -47,17 +53,35 @@ Suite interdisciplinaire : en cours de français, demander à l'élève d'écrir
 
 <Propositions de réalisation
 
-![objets-animes](../images/2024/06/objets-animes.png)
+![objets-animes](../images/2024/06/objets-animes.png){: .qr}
 
 [Ouvrir Fono-image](https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1718908979.fnmg)
+
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Intentions pédagogiques
 
 - Amener l’élève à créer avec de la matière inanimée un personnage expressif : par sa respiration, sa démarche et la direction du regard.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 3e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -67,12 +91,18 @@ Au terme de l'activité:
 - L’élève sera capable de donner vie au personnage par sa manipulation de l’objet.
 - L’élève sera capable de créer une courte séquence sonorisée pour rendre le personnage expressif.-L’élève sera capable de collaborer avec ses pairs pour créer un dialogue entre le son et le mouvement.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Technique théâtrale : marionnette
 - Personnification : respiration, direction du regard, démarche
 - Environnement sonore : bruitage
 - Mode de théâtralisation : objet ludique
+
+</aside>
+</section>
 
 ## Repères et ressources culturelles
 

@@ -10,9 +10,15 @@ gratuite: true
 niveau: "À partir du 3e cycle du primaire"
 realisation: "Réalisation en équipe"
 duree: "1 à 2 périodes"
+mise_en_page: fonofone
+bandeau: /images/bandeaux/doux-fort-scaled.jpg
+etiquette: "Musique-en ligne"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 - Réalisation en équipe
 - À partir du 3e cycle du primaire
@@ -22,14 +28,32 @@ En équipes de 3 ou 4, les élèves devront créer une phrase d'environ une minu
 
 **< Propositions de réalisation**
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Développer le sens de la forme (et sa représentation graphique en optionnelle).
 - Développer des stratégies propres à la musique d’ensemble.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 3e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -38,6 +62,9 @@ Au terme de l'activité:
 - L’élève sera capable de créer une forme autour des notions de contraste, d'intensité et de rupture.
 - L'équipe sera capable d'appliquer des stratégies pour bien synchroniser les interventions de chacun dans l'exécution de leur pièce.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Procédé de composition (contraste, rupture, effet de [masque](../lexique.html#masque))
@@ -45,6 +72,9 @@ Au terme de l'activité:
 - Règles de musique d'ensemble
 
 #### qualite
+
+</aside>
+</section>
 
 ## Repères culturels
 

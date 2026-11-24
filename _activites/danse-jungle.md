@@ -13,19 +13,37 @@ qr_code: /images/qr/qr-danse-jungle.png
 console_nom: Fono-image
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1733778672.fnmg
 gratuite: true
+mise_en_page: fonofone
+bandeau: /images/bandeaux/jungle.jpg
+etiquette: "Danse"
 ---
 
 ## Description
 
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
+
 Autour de la thématique de la jungle, l'élève sera amené.e à explorer différentes gestuelles en réponse aux sons proposés dans le Fono-image.
 
 Lire : **< Propositions de réalisation**
+
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Intentions pédagogiques
 
 - Amener l'élève à explorer différentes gestuelles inspirées de la thématique de la jungle à partir des sons et des images proposées.
 - Amener l’élève à accepter l’imprévu et à s’ajuster aux choix de parcours des sons de chaque élève.
 - Amener l'élève à réaliser un parcours cohérent à travers les sons du Fono-image (développement de la psychomotricité).
+
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
 
 ### Niveau suggéré
 
@@ -40,6 +58,12 @@ Lire : **< Propositions de réalisation**
 
 *Le Fono-image* peut être modifié par l’enseignant.e pour complexifier la tâche.
 
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Objectifs d'apprentissage
 
 Au terme de cette activité, l’élève sera capable :
@@ -47,6 +71,9 @@ Au terme de cette activité, l’élève sera capable :
 - de participer physiquement à l’activité en réaction aux sons, aux images, aux paroles, aux mouvements de ses pairs;
 - de s'adapter et de réagir rapidement aux différentes propositions de parcours de ses pairs sur le Fono-image;
 - de réaliser au TNI un parcours cohérent à travers les sons et images du Fono-image.
+
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
 
 ### Savoirs essentiels
 
@@ -61,6 +88,9 @@ Au terme de cette activité, l’élève sera capable :
 **Compétence interagir avec son milieu**
 
 - S’impliquer dans le groupe :  contribuer à la réalisation d’une activité ou d’un projet collectif
+
+</aside>
+</section>
 
 ## Repères culturels
 

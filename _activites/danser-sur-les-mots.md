@@ -12,9 +12,14 @@ qr_code: /images/qr/qr-danser-sur-les-mots.png
 console_nom: Fono-image
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1718725009.fnmg
 gratuite: true
+mise_en_page: fonofone
+etiquette: "Danse"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 - Réalisation en équipe
 - À partir du 2e cycle du primaire
@@ -28,15 +33,33 @@ soit, en collaboration avec l'enseignant.e de français, inviter les élèves à
 
 < Propositions de réalisation
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Amener l’élève à exploiter des idées de création inspirées par la thématique d’un poème dans une perspective interdisciplinaire.
 - Amener l’élève à exploiter des éléments du langage de la danse pour créer une danse qui travaille la symbolique du mouvement.
 - Option poème original : amener l’élève à utiliser sa propre voix comme support sonore pour une création.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 2e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -44,6 +67,9 @@ Au terme de cette activité, l’élève sera capable de :
 
 - s’inspirer d’un poème pour créer une danse en équipe et la présenter en suivant un trajet créé sur *fono-image*.
 - dans l'option interdisciplinaire, composer un poème, l'enregistrer, l'intégrer dans Fono-image et créer le parcours en soutien à sa création.
+
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
 
 ### Savoirs essentiels
 
@@ -60,6 +86,9 @@ Au terme de cette activité, l’élève sera capable de :
 - Emplacements
 
 #### qualite
+
+</aside>
+</section>
 
 ## Repères culturels
 

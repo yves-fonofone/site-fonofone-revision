@@ -12,15 +12,29 @@ qr_code: /images/qr/qr-place-aux-hasards.png
 console_nom: Fono-image (à construire)
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1733413093.fnmg
 gratuite: true
+mise_en_page: fonofone
+etiquette: "Danse"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 L’improvisation est au cœur de cette activité. Inspiré·es par le chorégraphe contemporain Merce Cunningham (1919-2009) qui a travaillé la notion du hasard en danse, les élèves danseront une œuvre « sur le moment » en se basant sur des sons associés à des séquences de mouvements préalablement déterminées.
 
 Lire : < Propositions de réalisation
 
-![hasard-caroline](../images/2024/12/hasard-caroline.png)
+![hasard-caroline](../images/2024/12/hasard-caroline.png){: .qr}
+
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Intentions pédagogiques
 
@@ -29,9 +43,18 @@ Lire : < Propositions de réalisation
 - Amener l’élève à répondre de manière dansée aux indications sonores de F *ono-image*.
 - Amener l’élève à expérimenter, par l’improvisation, des éléments du langage et de la technique de la danse.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 1er cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -40,6 +63,9 @@ Au terme de cette activité, l’élève sera capable :
 - d'improviser de manière structurée avec l’ensemble de la classe;
 - de répondre rapidement et de s'ajuster aux propositions sonores;
 - d'intégrer dans ses improvisations les éléments appris du langage et de la technique de la danse.
+
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
 
 ### Savoirs essentiels
 
@@ -53,6 +79,9 @@ Au terme de cette activité, l’élève sera capable :
 
 - Fonctions, effets et utilisation du son (musicalité)
 - Relations avec l’environnement scénique et l’environnement multimédia
+
+</aside>
+</section>
 
 ## Repères culturels
 

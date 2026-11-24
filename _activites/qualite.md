@@ -10,22 +10,45 @@ gratuite: true
 niveau: "À partir du 2e cycle du primaire"
 realisation: "Réalisation individuelle ou au TNI"
 duree: "1 période ou moins"
+mise_en_page: fonofone
+etiquette: "Musique-en ligne"
 ---
 
 ## Description
 
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
+
 Cette activité vise à initier l'élève aux notions de base du timbre et de la durée. Pour les élèves plus avancés dans la compréhension des outils Fonofone, elle offre la possibilité d'explorer plus avant ces notions et d'intégrer certains procédés de composition.
 
 < Propositions de réalisation
+
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Intentions pédagogiques
 
 - Initier les élèves aux notions de sons "hauteurs" et de sons "bruits"
 - Sensibiliser les élèves aux divers comportements du son dans la durée : son bref et sec, son bref résonnant,  son continu.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 1er cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -34,9 +57,15 @@ Au terme de cette activité :
 - L’élève sera capable de distinguer les sons "hauteurs" des sons "bruits".
 - L'élève saura faire la différence entre un son sec, résonnant, granuleux et lisse.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Langage musical : qualité de son (timbre, durée)
+
+</aside>
+</section>
 
 ## Repères culturels
 

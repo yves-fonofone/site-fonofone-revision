@@ -13,9 +13,15 @@ qr_code: /images/qr/qr-banc-public.png
 console_nom: Fono-image
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1683747698.fnmg
 gratuite: true
+mise_en_page: fonofone
+bandeau: /images/bandeaux/banc-public.jpg
+etiquette: "Art dramatique"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 Autour du thème du banc public, cette activité permet à l’élève d’explorer un personnage en interaction avec les autres élèves et en réaction au parcours sonore sur la console Fono-image.
 
@@ -23,15 +29,33 @@ Autour du thème du banc public, cette activité permet à l’élève d’explo
 
 École de L'Altitude, Pierrefonds, Québec
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Autour du banc public, amener les élèves à imaginer un personnage  et à le jouer dans une séquence improvisée.
 - Amener l'élève à interagir avec les autres joueurs.
 - Amener l'élève à adapter son improvisation en réagissant rapidement aux sons.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 3e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -40,11 +64,17 @@ Au terme de cette activité:
 - L’élève sera capable de jouer le personnage qu'il aura imaginé en interagissant avec les autres joueurs.
 - L'élève sera capable d'adapter rapidement son improvisation aux divers sons de la console "fono-image". 
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Langage dramatique: moyens corporels, moyens vocaux
 - Techniques de jeu: attention, écoute
 - Éléments expressifs: caractère du personnage
+
+</aside>
+</section>
 
 ## Repères et ressources culturelles
 

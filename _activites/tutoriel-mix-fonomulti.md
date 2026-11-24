@@ -13,9 +13,15 @@ console_nom: "Fono-multi"
 console: https://fonofone.org/fonoweb-multi/
 gratuite: true
 source: https://fonofone.org/activite/tutoriel-mix-fonomulti/
+mise_en_page: fonofone
+bandeau: /images/bandeaux/fond-bleu.jpg
+etiquette: "Pour débuter..."
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 *Ce tutoriel démontre comment créer de nouveaux sons dans Fonofone-multi par mixage en temps réel de 2 ou 3 sons, avec ou non des manipulations temporelles.*
 
@@ -25,18 +31,36 @@ Après visionnement de la vidéo, l'enseignant.e pourra proposer aux élèves un
 
 <div class="video"><iframe src="https://player.vimeo.com/video/945985326?h=0ea459b52d&badge=0&autopause=0&player_id=0&app_id=58479&dnt=1" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy" title="Vidéo"></iframe></div>
 
-![fono-multi-qr2](../images/2024/04/fono-multi-qr2.png)
+![fono-multi-qr2](../images/2024/04/fono-multi-qr2.png){: .qr}
 
 [Ouvrir Fono-multi](https://fonofone.org/fonoweb-multi/)
+
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Intentions pédagogiques
 
 - Améliorer chez l'élève la compréhension des outils Fonofone.
 - Sensibiliser l'élève à la notion de polyphonie (perception distincte des trois sons superposés).
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - Tous niveaux
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -44,10 +68,16 @@ Au terme de cette activité :
 
 - L'élève sera capable de créer un nouveau son en superposant trois sources différentes.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Langage musical : perspective sonore
 - Procédés de composition : polyphonie
+
+</aside>
+</section>
 
 ## Proposition de réalisation
 

@@ -13,9 +13,15 @@ console_nom: "Fono-image"
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1650327690.fnmg
 gratuite: true
 source: https://fonofone.org/activite/la-foret-etrange-web/
+mise_en_page: fonofone
+bandeau: /images/bandeaux/foret.jpg
+etiquette: "Musique-en ligne"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 Suite à la réalisation de l'activité [Promenade en forêt](foret-descriptive-web.html), les élèves seront ici amenés à passer du descriptif à l'imaginaire en exprimant par la transformation des sons ce que l'image provoque : sensation de mystère ? de magie ? d'inquiétude ? de merveilleux ?
 
@@ -23,16 +29,34 @@ On peut appliquer cette démarche à d'autres environnements, par exemple une im
 
 #### Aller à : Suggestion de réalisation
 
-![foret-mysterieuse](../images/2022/11/foret-mysterieuse.png)
+![foret-mysterieuse](../images/2022/11/foret-mysterieuse.png){: .qr}
+
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Intentions pédagogiques
 
 - Amener l'élève à développer son imaginaire
 - Initier l'élève à la forme d'un discours musical
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 3e cycle du primaire, pour élèves ayant déjà une connaissance approfondie des outils Fonofone
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -45,10 +69,16 @@ générer des idées, les structurer, établir un discours musical, expérimente
  - montée de tension, [rupture, ](doux-fort-creation.html)[accumulation ](accumulation-creation.html)
  - éléments-surprise
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Discours musical, évocation poétique
 - Forme
+
+</aside>
+</section>
 
 ## Repères culturels
 

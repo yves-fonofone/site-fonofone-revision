@@ -11,9 +11,15 @@ qr_code: /images/qr/qr-perspective.png
 console_nom: Fono-image
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1717364859.fnmg
 gratuite: true
+mise_en_page: fonofone
+bandeau: /images/bandeaux/fond-bleu.jpg
+etiquette: "Arts plastiques"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 - Réalisation en équipe ou individuelle
 - À partir du 3e cycle du primaire
@@ -28,15 +34,33 @@ L'activité peut se réaliser en deux étapes :
 
 < Propositions de réalisation
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Initier l'élève à la notion de perspective par diminution.
 - Amener l'élève à à créer une image illustrant la notion de perspective par diminution.
 - Amener l'élève à raffiner par le son sa perception de la perspective.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 3e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -46,6 +70,9 @@ Au terme de cette activité :
 - L'élève sera capable de créer une image explorant la notion de perspective.
 - L'élève sera en mesure à l'aide des sons d'exprimer et de rendre perceptible aux autres les différents plans du tableau étudié et/ou de sa propre image.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 Langage plastique :
@@ -53,6 +80,9 @@ Langage plastique :
 - Perspective en diminution
 
 #### qualite
+
+</aside>
+</section>
 
 ## Repères et ressources culturelles
 

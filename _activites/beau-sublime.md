@@ -11,9 +11,15 @@ qr_code: /images/qr/qr-beau-sublime.png
 console_nom: Fono-image
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1709678955.fnmg
 gratuite: true
+mise_en_page: fonofone
+bandeau: /images/bandeaux/sublime-scaled.jpg
+etiquette: "Arts plastiques"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 Comprendre les caractéristiques de l'esthétique du Sublime et les appliquer dans un projet de création.
 
@@ -23,6 +29,15 @@ Idéalement, les élèves auront travaillé en préalable les notions suivantes 
 
 [< Proposition de SAÉ](../documents/2024/06/sae-beau-sublime.pdf)
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Développer chez l'élève la compétence 3 :  
@@ -30,9 +45,18 @@ Idéalement, les élèves auront travaillé en préalable les notions suivantes 
 - Amener l'élève à exploiter des éléments du langage disciplinaire dans un projet de création.
 - Amener l'élève à utiliser le son pour amplifier la portée émotionnelle de sa création.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 3e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -43,6 +67,9 @@ Au terme de cette activité :
 
 - L’élève sera capable de créer une image illustrant ces deux niveaux de perception et de *l'interpréter* à l'aide de Fonofone par un choix judicieux de sons renforçant notre perception des deux plans.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 Langage plastique :
@@ -50,6 +77,9 @@ Langage plastique :
 →couleur pigmentaire
 
 →représentation de l'espace
+
+</aside>
+</section>
 
 ## Repères culturels
 

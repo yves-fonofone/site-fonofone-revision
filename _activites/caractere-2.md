@@ -11,9 +11,15 @@ gratuite: true
 niveau: "À partir du 1er cycle du secondaire"
 realisation: "Réalisation en équipe (3 élèves ou plus)"
 duree: "2 périodes"
+mise_en_page: fonofone
+bandeau: /images/bandeaux/capture-decran-2023-01-13-a-031717.jpg
+etiquette: "Musique-en ligne"
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 - Réalisation en équipe
 - À partir du 3e cycle du primaire
@@ -30,15 +36,33 @@ Il est fortement recommandé de réaliser en préalable l'activité  **[Caract�
 Réalisation au Collège Bourget, 3e année primaire  
  Enseignant : François Gauthier
 
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
+
 ## Intentions pédagogiques
 
 - Amener l'élève à faire le lien entre un caractère musical à exprimer et les éléments langagiers  qui permettront de le communiquer.
 - Développer le sens formel.
 - Être capable de travailler en équipe.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 3e cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -48,11 +72,17 @@ Au terme de cette activité:
 - L’élève sera capable de concevoir un déroulement formel fondé sur l'opposition de caractères.
 - L'élève aura amélioré sa capacité de travailler en équipe.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Aspects affectifs
 - Procédés de composition : contraste, rupture, retours motiviques
 - Interprétation en collectif
+
+</aside>
+</section>
 
 ## Repères et ressources culturelles
 

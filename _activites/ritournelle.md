@@ -9,7 +9,12 @@ gratuite: true
 niveau: "À partir du 1er cycle du secondaire"
 realisation: "Réalisation collective"
 duree: "De 1 à 2 périodes"
+mise_en_page: fonofone
+bandeau: /images/bandeaux/ternaire-scaled.jpg
+etiquette: "Musique-tablette"
 ---
+
+{% include consoles.html %}
 
 ## Opposition entre deux caractères
 

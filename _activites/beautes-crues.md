@@ -10,7 +10,12 @@ duree: "De 3 à 4 périodes"
 image: "/images/2024/03/beautes-scaled.jpg"
 gratuite: true
 source: https://fonofone.org/activite/beautes-crues/
+mise_en_page: fonofone
+bandeau: /images/bandeaux/beautes-scaled.jpg
+etiquette: "Musique-en ligne"
 ---
+
+{% include consoles.html %}
 
 Projet réalisé par [Karina Bleau](https://fonofone.ca/galerie?view=article&id=20&catid=9), artiste plasticienne et [Félix Boisvert](https://fonofone.ca/galerie?view=article&id=20&catid=9), compositeur
 

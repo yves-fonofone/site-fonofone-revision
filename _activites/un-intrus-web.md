@@ -13,9 +13,15 @@ console_nom: "Fono-multi"
 console: https://fonofone.org/fonoweb-multi/?activity=NnwxMjk1OSQ-
 gratuite: true
 source: https://fonofone.org/activite/un-intrus-web/
+mise_en_page: fonofone
+bandeau: /images/bandeaux/intrus.jpg
+etiquette: "Pour débuter..."
 ---
 
 ## Description
+
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
 
 #### Repérer le corps étranger dans le son
 
@@ -23,20 +29,38 @@ Ce défi amusant aiguise la capacité d'écoute et d'attention de l'élève et l
 
 < Proposition de réalisation
 
-![intrus](../images/2022/04/intrus.png)
+![intrus](../images/2022/04/intrus.png){: .qr}
 
 Exemple de réalisation
 
 <div class="video"><iframe src="https://player.vimeo.com/video/760638251?h=a130baa2f0&badge=0&autopause=0&player_id=0&app_id=58479&dnt=1" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy" title="Vidéo"></iframe></div>
+
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Intentions pédagogiques
 
 - Apprendre à discriminer les sons
 - En option : développer la compréhension du métronome
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Niveau suggéré
 
 - À partir du 1er cycle du primaire
+
+</aside>
+</section>
+
+<section class="rangee" markdown="1">
+<div class="rangee__principal" markdown="1">
 
 ## Objectifs d'apprentissage
 
@@ -45,6 +69,9 @@ Au terme de l'activité:
 - L’élève sera capable d'identifier et repérer des "accidents" à l'intérieur d'un son.
 - (En option) L'élève sera capable de manipuler le métronome.
 
+</div>
+<aside class="encadre encadre--teinte" markdown="1">
+
 ### Savoirs essentiels
 
 - Identifier des changements
@@ -52,6 +79,9 @@ Au terme de l'activité:
 - Contrastes
 
 #### L'Intrus
+
+</aside>
+</section>
 
 ## Proposition de réalisation
 

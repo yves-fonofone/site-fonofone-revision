@@ -29,7 +29,7 @@ layout: default
     <div class="fiche-contenu">
 {{ content }}
     </div>
-    <p class="fiche__retour"><a href="{{ retour_url | relative_url }}">← Toutes les activités {% if d %}{{ d.titre }}{% endif %}</a></p>
+    <p class="fiche__retour"><a href="{{ retour_url | relative_url }}">← {% if page.section %}{{ retour_titre }}{% else %}Toutes les activités {% if d %}{{ d.titre }}{% endif %}{% endif %}</a></p>
   </article>
   {%- else %}
   <article class="fiche">

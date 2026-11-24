@@ -13,10 +13,22 @@ console_nom: "Fono-image"
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1688423674.fnmg
 gratuite: true
 source: https://fonofone.org/activite/tutoriel1-fono-image/
+mise_en_page: fonofone
+bandeau: /images/bandeaux/premieres-etapes-3-scaled.jpg
+etiquette: "Pour débuter..."
 ---
 
 ## Description
 
+<section class="encadre encadre--description" markdown="1">
+<div class="encadre__texte" markdown="1">
+
 *Exploration des fonctions de base de la console Fono-image. Ouvrir la console et réaliser les étapes, dans l'ordre.*
 
-![console-fono-image-premieres-etapes](../images/2022/07/console-fono-image-premieres-etapes.png)
+![console-fono-image-premieres-etapes](../images/2022/07/console-fono-image-premieres-etapes.png){: .qr}
+
+</div>
+{% include fiche-media.html %}
+</section>
+
+{% include consoles.html %}
