@@ -4,14 +4,14 @@
 brouillon: true
 
 titre: Essai
-sous_titre: Sous-titre à préciser
+sous_titre: à développer
 discipline: musique-web
 categorie: Langage musical
 ordre: 99
 etiquette: Musique-en ligne
 mise_en_page: fonofone
 
-realisation: Réalisation individuelle ou en équipe
+realisation: Réalisation individuelle
 niveau: À partir du 2e cycle du primaire
 duree: 1 période
 
@@ -19,7 +19,7 @@ console_nom: Fono-image
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/Essai.fnmg
 qr_code: /images/qr/qr-essai.png
 
-gratuite: true
+
 ---
 
 ## Description
@@ -27,7 +27,7 @@ gratuite: true
 <section class="encadre encadre--description" markdown="1">
 <div class="encadre__texte" markdown="1">
 
-Décrivez l'activité en quelques phrases : ce que l'élève fait avec le Fono-image et ce qu'il découvre.
+C'est une première ébauche
 
 </div>
 {% include fiche-media.html %}
@@ -40,8 +40,8 @@ Décrivez l'activité en quelques phrases : ce que l'élève fait avec le Fono-i
 
 ## Intentions pédagogiques
 
-- Amener l'élève à…
-- Amener l'élève à…
+- Amener l'élève à comprendre
+- Amener l'élève à comprendre
 
 </div>
 <aside class="encadre encadre--teinte" markdown="1">
@@ -60,8 +60,8 @@ Décrivez l'activité en quelques phrases : ce que l'élève fait avec le Fono-i
 
 Au terme de cette activité, l'élève sera capable :
 
-- de…
-- de…
+- de se débrouiller
+- idem
 
 </div>
 <aside class="encadre encadre--teinte" markdown="1">
