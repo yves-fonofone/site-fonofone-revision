@@ -3,7 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{% if page.titre %}{{ page.titre }} – Fonofone{% else %}Fonofone – créer | interpréter | apprécier{% endif %}</title>
+<title>{% if page.brouillon %}[Brouillon] {% endif %}{% if page.titre %}{{ page.titre }} – Fonofone{% else %}Fonofone – créer | interpréter | apprécier{% endif %}</title>
+{%- if page.brouillon %}
+<meta name="robots" content="noindex, nofollow">
+{%- endif %}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ '/style.css' | relative_url }}?v={{ site.time | date: '%s' }}">

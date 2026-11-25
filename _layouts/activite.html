@@ -11,6 +11,9 @@ layout: default
   {%- assign retour_titre = retour_page.titre | default: retour_titre -%}
 {%- endif -%}
 <div class="page wrap page--{{ page.discipline }}">
+  {%- if page.brouillon %}
+  <p class="avis-brouillon"><strong>Brouillon</strong> — cette fiche n'apparaît dans aucune liste du site. Pour la publier, retirez la ligne <code>brouillon: true</code> de son en-tête.</p>
+  {%- endif %}
   {%- if page.mise_en_page == "fonofone" %}
   {%- comment -%}
     Mise en page fidèle à fonofone.org : bandeau illustré, puces bleues, titres à pastille rouge.

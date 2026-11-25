@@ -2,8 +2,9 @@
   Liste automatiquement les activités de la discipline de la page (page.discipline),
   regroupées selon l'ordre des rubriques de la page (page.rubriques).
   Une activité dont la rubrique n'est pas dans la liste apparaît sous « Autres activités ».
+  Une fiche avec « brouillon: true » n'apparaît dans aucune liste (elle reste consultable à son adresse).
 {%- endcomment -%}
-{%- assign acts = site.activites | where: "discipline", page.discipline | where_exp: "a", "a.section == nil" | sort: "ordre" -%}
+{%- assign acts = site.activites | where: "discipline", page.discipline | where_exp: "a", "a.section == nil" | where_exp: "a", "a.brouillon == nil" | sort: "ordre" -%}
 {%- for rubrique in page.rubriques %}
 {%- assign groupe = acts | where: "categorie", rubrique -%}
 {%- if groupe.size > 0 %}
