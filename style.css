@@ -514,3 +514,30 @@ li.extrait p { margin: 0; }
 .fiche--fonofone .rangee > .encadre { margin-top: 56px; }
 @media (max-width: 900px) { .fiche--fonofone .rangee > .encadre { margin-top: 0; } }
 .fiche--fonofone .fiche-contenu img.qr { width: 120px; height: 120px; }
+
+/* Page « Construire ses activités » (modèle fonofone.org) */
+.construire .fiche-bandeau { margin-bottom: 40px; align-items: flex-end; }
+.construire__encadre {
+  border: 4px double #d6d6d6; border-radius: 15px; background: #fff;
+  padding: 24px 48px 28px; font: 400 15px/1.6 Poppins, sans-serif; color: #333;
+}
+.construire__encadre h2 { margin: 0 0 20px -24px; font: 400 24px/1.2 Poppins, sans-serif; color: #ff6600; border: 0; padding: 0; }
+.construire__encadre p { margin: 0 0 14px; }
+.construire__fin { margin-top: 24px !important; text-align: center; font: 400 24px/1.2 Poppins, sans-serif; color: #ff6600; }
+.construire__consoles { display: flex; flex-direction: column; gap: 48px; margin: 56px 0 40px; }
+.construire__console { display: flex; align-items: flex-start; max-width: 620px; margin-left: 56px; }
+.construire__console img { width: 120px; height: 120px; flex: none; }
+.construire__console a {
+  flex: 1; margin-left: -12px; padding: 12px 20px; border-radius: 12px;
+  background: var(--navy); color: #fff; text-align: center; text-decoration: none;
+  font: 500 18px/1.3 Poppins, sans-serif; transition: background .15s;
+}
+.construire__console a:hover { background: var(--red); }
+.construire__partage { font-size: 14px; color: var(--muted); }
+.construire__partage a { color: var(--arts); }
+@media (max-width: 600px) {
+  .construire__encadre { padding: 20px; }
+  .construire__encadre h2 { margin-left: 0; }
+  .construire__console { margin-left: 0; flex-direction: column; align-items: center; gap: 12px; }
+  .construire__console a { margin-left: 0; width: 100%; }
+}
