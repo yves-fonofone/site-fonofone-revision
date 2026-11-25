@@ -72,7 +72,8 @@ a { color: inherit; }
 .logo__word { display: block; font-size: clamp(56px, 9vw, 104px); font-weight: 700; letter-spacing: -.04em; color: #111; }
 .logo__o { position: relative; }
 .logo__o::after {
-  content: ""; position: absolute; left: 50%; top: 58%; width: .22em; height: .22em;
+  /* Centre du « o » de Poppins gras, mesuré : 0,318 em du bord gauche, 0,769 em du haut */
+  content: ""; position: absolute; left: .318em; top: .769em; width: .22em; height: .22em;
   transform: translate(-50%, -50%); border-radius: 50%; background: var(--red);
 }
 .logo__sub { display: block; font-size: clamp(28px, 4.4vw, 52px); font-weight: 400; text-transform: uppercase; letter-spacing: .02em; margin-top: 4px; }
