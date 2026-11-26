@@ -80,34 +80,29 @@ Au terme de cette activité:
  -  Textures  
  -  Couleur pigmentaire
 
-#### qualite
-
 </aside>
 </section>
 
-## Repères et ressources culturelles
+<section class="rangee rangee--reperes reperes-photos">
+<div>
+<h2>Repères et ressources culturelles</h2>
+<div class="encadre encadre--liens">
+<ul class="puces">
+<li><a href="https://fr.wikipedia.org/wiki/Jeanne_d%27Arc" target="_blank" rel="noopener"><strong>Jeanne d'Arc (~1412 - 1431)</strong></a></li>
+<li><a href="https://fr.wikipedia.org/wiki/Louis-Maurice_Boutet_de_Monvel" target="_blank" rel="noopener"><strong>Louis Maurice Boutet de Monvel (1850 - 1913)</strong></a></li>
+<li><a href="https://www.museio.org/story/her-appeal-to-the-dauphin-by-louis-maurice-boutet-de-monvel" target="_blank" rel="noopener"><strong>Baladodiffusion A Long Look Slow Art, « Her Appeal to the Dauphin by Louis Maurice Boutet de Monvel » (9 novembre 2019)</strong></a></li>
+<li><a href="http://revuevision.ca/lappreciation-doeuvres-dart/" target="_blank" rel="noopener"><strong>Visual Thinking Strategy</strong></a></li>
+</ul>
+</div>
+</div>
+<figure class="reperes-image">
+<a class="agrandir" id="monvel" href="#monvel-grand" title="Cliquer pour agrandir"><img src="../images/2023/03/monvel-dauphin-fonofone-complet-scaled.jpeg" alt="Louis Maurice Boutet de Monvel, Son appel au Dauphin" width="1400" height="704" loading="lazy"></a>
+<a class="agrandi" id="monvel-grand" href="#monvel" title="Cliquer pour revenir"><img src="../images/2023/03/monvel-dauphin-fonofone-complet-scaled.jpeg" alt="Louis Maurice Boutet de Monvel, Son appel au Dauphin (agrandie)" width="1400" height="704" loading="lazy"></a>
+<figcaption>Louis Maurice <strong>Boutet de Monvel</strong>, <em>Son appel au Dauphin</em> (Série Jeanne d'Arc : II), 1906. National Gallery of Art.<br>(Domaine public)</figcaption>
+</figure>
+</section>
 
-- [Jeanne d'Arc (~1412 - 1431)](https://fr.wikipedia.org/wiki/Jeanne_d%27Arc)
-
-- [Louis Maurice Boutet de Monvel (1850 - 1913)](https://fr.wikipedia.org/wiki/Louis-Maurice_Boutet_de_Monvel)
-
-- [Baladodiffusion A Long Look Slow Art, « Her Appeal to the Dauphin by Louis Maurice Boutet de Monvel » (9 novembre 2019)](https://www.museio.org/story/her-appeal-to-the-dauphin-by-louis-maurice-boutet-de-monvel)
-- [Visual Thinking Strategy](http://revuevision.ca/lappreciation-doeuvres-dart/)
-
-![monvel-dauphin-fonofone-complet-scaled.jpeg](../images/2023/03/monvel-dauphin-fonofone-complet-scaled.jpeg)
-
-<table style="font-family: Roboto, Helvetica, sans-serif; font-size: 16px;">
-<tbody>
-<tr>
-<td><span style="font-weight: 400;">Louis Maurice <strong>Boutet de Monvel</strong>, </span><em><span style="font-weight: 400;">Son appel au Dauphin</span></em><span style="font-weight: 400;"> (Série Jeanne d'Arc : II), 1906. National Gallery of Art.&nbsp;</span><p></p>
-<p>(Domaine public)</p></td>
-</tr>
-</tbody>
-</table>
-
-#### realisation
-
-## Proposition de réalisation
+## Proposition de réalisation {#realisation}
 
 #### Préparation
 

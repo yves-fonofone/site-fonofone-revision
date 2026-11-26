@@ -623,3 +623,10 @@ li.extrait p { margin: 0; }
 .reperes-oeuvre figcaption { margin-top: 10px; font: 400 14px/1.5 Roboto, sans-serif; }
 .reperes-oeuvre figcaption a { font-size: 14px; }
 @media (max-width: 900px) { .fiche--fonofone .reperes-oeuvre { margin-top: 0; } }
+/* Image seule à droite des repères culturels (ex. Textures, couleurs, expressions) */
+.reperes-image { margin: 40px 0 0; }
+.reperes-image img { display: block; width: 100%; height: auto; }
+.reperes-image figcaption { margin-top: 10px; font: italic 400 14px/1.5 Roboto, sans-serif; color: #444; }
+.encadre--liens .puces li { margin: 10px 0; }
+.encadre--liens .puces a { font-size: 15px; }
+@media (max-width: 900px) { .reperes-image { margin-top: 0; } }
