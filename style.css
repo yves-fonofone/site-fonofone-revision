@@ -169,7 +169,25 @@ a.disc:hover, .disc--music a:hover { transform: translateY(-3px); box-shadow: 0 
 .tile a { text-decoration: none; color: inherit; display: block; }
 .tile img { display: block; width: 100%; aspect-ratio: 16 / 10; object-fit: cover; border-radius: 0; background: #e5e5e5; }
 .tile h3 { margin: 14px 16px 6px; font-size: 17px; }
-.tile ul { margin: 0 16px 16px; padding-left: 18px; font-size: 13px; color: var(--muted); line-height: 1.5; }
+.tile { position: relative; }
+.tile > a::after { content: ""; position: absolute; inset: 0; } /* toute la tuile est cliquable */
+.tile ul { margin: 0 16px 16px; padding: 0; list-style: none; font-size: 13px; color: var(--muted); line-height: 1.5; }
+/* Icônes : niveau, réalisation, durée (dans cet ordre) */
+.tile li { position: relative; padding-left: 24px; margin-bottom: 4px; }
+.tile li::before {
+  content: ""; position: absolute; left: 0; top: 1px; width: 16px; height: 16px;
+  background: var(--tile-color, var(--navy)); -webkit-mask: var(--icone) center / contain no-repeat; mask: var(--icone) center / contain no-repeat;
+}
+.tile li:nth-child(1) { --icone: url("data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 24 24%27 fill=%27none%27 stroke=%27black%27 stroke-width=%272%27 stroke-linecap=%27round%27 stroke-linejoin=%27round%27%3E%3Cpath d=%27M22 9L12 5 2 9l10 4 10-4v6%27/%3E%3Cpath d=%27M6 10.6V16a6 3 0 0 0 12 0v-5.4%27/%3E%3C/svg%3E"); }
+.tile li:nth-child(2) { --icone: url("data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 24 24%27 fill=%27none%27 stroke=%27black%27 stroke-width=%272%27 stroke-linecap=%27round%27 stroke-linejoin=%27round%27%3E%3Ccircle cx=%279%27 cy=%277%27 r=%274%27/%3E%3Cpath d=%27M3 21v-2a4 4 0 0 1 4-4h4a4 4 0 0 1 4 4v2%27/%3E%3Cpath d=%27M16 3.13a4 4 0 0 1 0 7.75%27/%3E%3Cpath d=%27M21 21v-2a4 4 0 0 0-3-3.85%27/%3E%3C/svg%3E"); }
+.tile li:nth-child(3) { --icone: url("data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 24 24%27 fill=%27none%27 stroke=%27black%27 stroke-width=%272%27 stroke-linecap=%27round%27 stroke-linejoin=%27round%27%3E%3Ccircle cx=%2712%27 cy=%2712%27 r=%279%27/%3E%3Cpath d=%27M12 7v5l3 3%27/%3E%3C/svg%3E"); }
+.tile li:last-child { padding-right: 40px; margin-bottom: 0; }
+/* Flèche rouge en bas à droite */
+.tile::after {
+  content: ""; position: absolute; right: 14px; bottom: 12px; width: 28px; height: 28px; border-radius: 50%;
+  background: var(--red) url("data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 24 24%27 fill=%27none%27 stroke=%27black%27 stroke-width=%272%27 stroke-linecap=%27round%27 stroke-linejoin=%27round%27%3E%3Cpath d=%27M5 12h14M13 6l6 6-6 6%27 stroke=%27white%27/%3E%3C/svg%3E") center / 16px no-repeat; transition: transform .15s; pointer-events: none;
+}
+.tile:hover::after { transform: translateX(3px); }
 
 /* Pied de page */
 .footer { background: var(--navy); color: #fff; padding: 40px 0 32px; font-size: 14px; }
