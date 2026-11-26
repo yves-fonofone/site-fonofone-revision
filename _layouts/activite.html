@@ -51,7 +51,7 @@ layout: default
     <div class="fiche-contenu">
 {{ content }}
     </div>
-    <p class="fiche__retour"><a href="{{ retour_url | relative_url }}">← {% if page.section or page.retour %}{{ retour_titre }}{% else %}Toutes les activités {% if d %}{{ d.titre }}{% endif %}{% endif %}</a></p>
+    <p class="fiche__retour"><a href="{{ retour_url | relative_url }}">← {% if page.section or page.retour %}{{ retour_titre }}{% elsif page.discipline == "oiseau-de-feu" %}Toutes les activités {{ d.titre }}{% else %}Toutes les activités d’apprentissage{% if d %} – {{ d.titre }}{% endif %}{% endif %}</a></p>
   </article>
   {%- else %}
   <article class="fiche">
@@ -86,7 +86,7 @@ layout: default
     <div class="prose">
 {{ content }}
     </div>
-    <p class="fiche__retour"><a href="{{ retour_url | relative_url }}">← {% if page.section or page.retour %}{{ retour_titre }}{% else %}Toutes les activités {% if d %}{{ d.titre }}{% endif %}{% endif %}</a></p>
+    <p class="fiche__retour"><a href="{{ retour_url | relative_url }}">← {% if page.section or page.retour %}{{ retour_titre }}{% elsif page.discipline == "oiseau-de-feu" %}Toutes les activités {{ d.titre }}{% else %}Toutes les activités d’apprentissage{% if d %} – {{ d.titre }}{% endif %}{% endif %}</a></p>
   </article>
   {%- endif %}
 </div>
