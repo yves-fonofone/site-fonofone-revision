@@ -9,7 +9,7 @@
   --menu-hover: #fbe97a;
   --ink: #333;
   --muted: #666;
-  --paper: #fff;
+  --paper: #f3f6fa; /* fond de page bleu ciel pâle */
   --quote-bg: #dfe8ec;
   --card-border: #ddd;
   --radius: 10px;
@@ -465,8 +465,8 @@ li.extrait p { margin: 0; }
   border-radius: 50%; background: #ff524e;
 }
 /* Encadrés turquoise */
-.fiche--fonofone .encadre { border: 2px solid #5fa7a7; border-radius: 10px; padding: 16px 24px; }
-.fiche--fonofone .encadre--teinte { background: rgba(52, 211, 206, .13); }
+.fiche--fonofone .encadre { border: 2px solid #5fa7a7; border-radius: 10px; padding: 16px 24px; background: #fff; }
+.fiche--fonofone .encadre--teinte { background: #e5f9f9; } /* = turquoise .13 sur blanc */
 .fiche--fonofone .encadre h3 { margin: 4px 0 8px; font: 500 20px/1.2 Poppins, sans-serif; }
 .encadre--description { display: grid; grid-template-columns: 2fr 1fr; gap: 32px; align-items: start; }
 .encadre__texte { padding: 8px 16px; }
