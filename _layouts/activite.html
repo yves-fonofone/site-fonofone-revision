@@ -24,11 +24,19 @@ layout: default
       <a class="fiche-bandeau__etiquette" href="{{ retour_url | relative_url }}">{{ page.etiquette | default: retour_titre }}</a>
       <h1>{{ page.titre }}{% if page.sous_titre %} <span class="sous-titre">{{ page.sous_titre }}</span>{% endif %}</h1>
     </header>
+    {%- if page.video %}<div class="fiche-intro">{% endif %}
     <ul class="fiche-chapeau">
       {%- if page.niveau %}<li>{{ page.niveau }}</li>{% endif %}
       {%- if page.realisation %}<li>{{ page.realisation }}</li>{% endif %}
       {%- if page.duree %}<li>{{ page.duree }}</li>{% endif %}
     </ul>
+    {%- if page.video %}
+    <figure class="fiche-video">
+      <div class="video"><iframe src="{{ page.video }}" title="{{ page.titre }}" allow="fullscreen; picture-in-picture" loading="lazy"></iframe></div>
+      {%- if page.video_legende %}<figcaption>{{ page.video_legende }}</figcaption>{% endif %}
+    </figure>
+    </div>
+    {%- endif %}
     <div class="fiche-contenu">
 {{ content }}
     </div>

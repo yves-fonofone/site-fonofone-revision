@@ -586,3 +586,10 @@ li.extrait p { margin: 0; }
 .avis-brouillon { margin: 0 0 20px; padding: 12px 16px; border-radius: 8px; background: #fff4cc; border: 1px solid #f5d547; font-size: 14px; }
 .avis-brouillon code { background: rgba(0,0,0,.06); padding: 1px 6px; border-radius: 4px; }
 @media (max-width: 560px) { .consoles { grid-template-columns: 1fr; } } /* consoles côte à côte sauf sur téléphone */
+/* Vidéo d’en-tête de fiche (champ « video ») : à droite du niveau / réalisation / durée */
+.fiche-intro { display: grid; grid-template-columns: 2fr 1fr; gap: 32px; align-items: start; margin: 24px 0 32px; }
+.fiche-intro .fiche-chapeau { margin: 0; }
+.fiche-video { margin: 0; }
+.fiche-video .video { border-radius: 0; margin: 0; }
+.fiche-video figcaption { margin-top: 10px; font-size: 13px; text-align: right; color: #555; }
+@media (max-width: 700px) { .fiche-intro { grid-template-columns: 1fr; } }

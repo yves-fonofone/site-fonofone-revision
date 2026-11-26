@@ -14,6 +14,9 @@ gratuite: true
 mise_en_page: fonofone
 bandeau: /images/bandeaux/sublime-scaled.jpg
 etiquette: "Arts plastiques"
+# Vidéo en haut à droite, à côté du niveau / réalisation / durée
+video: https://player.vimeo.com/video/1028926331?badge=0&autopause=0
+video_legende: École primaire Catherine-Soumillard, Lachine, Québec
 ---
 
 ## Description
