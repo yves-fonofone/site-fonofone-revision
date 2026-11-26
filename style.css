@@ -630,3 +630,55 @@ li.extrait p { margin: 0; }
 .encadre--liens .puces li { margin: 10px 0; }
 .encadre--liens .puces a { font-size: 15px; }
 @media (max-width: 900px) { .reperes-image { margin-top: 0; } }
+/* ---- Fiches de projet (ex. Beautés crues) : blocs comme sur fonofone.org ---- */
+.fiche--fonofone > .fiche-contenu > .fiche-intro:first-child { margin-top: 8px; }
+.pastille-grise { display: inline-block; margin: 0; padding: 6px 14px; border-radius: 10px; background: #e9e9e9; font-size: 14px; }
+.pastille-grise a, .realisations a, .carte a { color: #2674aa; }
+.bloc-gris { background: #e9e9e9; border-radius: 10px; padding: 18px 22px; margin: 28px 0; font-size: 14px; }
+.bloc-gris h4 { margin: 0 0 8px; font: 600 15px/1.3 Poppins, sans-serif; }
+.bloc-gris p { margin: 0 0 6px; }
+.bloc-gris--grand { padding: 22px 28px; font-size: 15px; }
+.bloc-gris__titre { font: 500 19px/1.3 Poppins, sans-serif; margin-bottom: 14px !important; }
+.realisations__titre { border: 1px solid #ccc; border-radius: 10px; background: #fff; padding: 10px 16px; margin: 0 0 12px; font-weight: 500; font-size: 14px; }
+.realisations__vignettes { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 12px; }
+.realisations__vignettes a { display: block; transition: transform .15s; }
+.realisations__vignettes a:hover { transform: translateY(-3px); }
+.realisations__vignettes img { display: block; width: 100%; height: auto; }
+.projet-entete { border-top: 3px solid #d6d6d6; margin: 48px 0 20px; padding-top: 14px; }
+.projet-entete h3 { margin: 0 0 10px; font: 400 20px/1.3 Poppins, sans-serif; text-transform: none; }
+.projet-entete__pastilles { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 32px; }
+.pastille { display: inline-block; padding: 6px 22px; border-radius: 20px; font-size: 14px; }
+.pastille--magenta { background: #b0245c; color: #fff; }
+.pastille--jaune { background: #f9e46c; color: #333; }
+.pastille--marine { margin-left: auto; background: #0d3643; color: #fff; border-radius: 3px; padding: 14px 20px; box-shadow: 0 0 0 3px #c9d3d6; }
+.rangee--cartes { display: grid; grid-template-columns: 2fr 1fr; gap: 8px; align-items: start; margin: 32px 0; }
+.rangee--egale { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: start; margin: 24px 0 40px; }
+.carte { background: #fff; border-radius: 12px; padding: 16px 24px; box-shadow: 0 1px 4px rgba(0,0,0,.06); }
+.carte h4 { margin: 0 0 10px; font: 600 16px/1.3 Poppins, sans-serif; }
+.carte p { margin: 0 0 6px; font-size: 14px; }
+.carte .puces li { font-size: 14px; }
+.carte--jaune { background: #fde86f; box-shadow: none; }
+.carte--turquoise { background: #24cdc8; box-shadow: none; }
+.carte--turquoise h4 { color: #fff; }
+.rangee--egale .carte h2 { margin: 0 0 8px; font-size: 22px; }
+.fiche--fonofone .petit { font-size: 14px; margin: 4px 0 4px 32px; }
+.etapes { background: #e4e4e4; border-radius: 12px; padding: 24px 0 32px; margin: 24px 0; }
+.etapes__carte { background: #fff; border-radius: 12px; padding: 32px 32px 40px; }
+.etape__titre { margin: 0 0 20px; font: 600 18px/1.3 Poppins, sans-serif; }
+.etape__titre small { font-size: 12px; font-weight: 600; }
+.etape__titre--sep { border-top: 3px solid #d6d6d6; padding-top: 16px; margin-top: 32px; }
+.carte--grise-bord { border: 1px solid #ccc; box-shadow: 0 1px 4px rgba(0,0,0,.08); margin-bottom: 24px; }
+.carte--grise { background: #efefef; box-shadow: none; margin-bottom: 24px; }
+.carte--vide { min-height: 40px; }
+.etape__rangee { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: start; }
+.etape__rangee > div:last-child { padding: 12px 0 0; font-size: 14px; }
+.fiche--fonofone h4.orange { color: #f26b21; font: 400 19px/1.25 Poppins, sans-serif; margin: 0 0 6px; }
+@media (max-width: 900px) {
+  .realisations__vignettes { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .rangee--cartes, .rangee--egale, .etape__rangee { grid-template-columns: 1fr; }
+  .pastille--marine { margin-left: 0; }
+  .etapes__carte { padding: 24px 18px; }
+}
+.fiche--fonofone .bloc-gris h4, .fiche--fonofone .carte h4 { color: #222; }
+.fiche--fonofone .carte--turquoise h4 { color: #fff; }
+.fiche--fonofone .carte h4.orange { color: #f26b21; }

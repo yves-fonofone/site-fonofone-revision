@@ -29,11 +29,13 @@ layout: default
     {%- assign initiale = page.auteurs | slice: 0 -%}
     <p class="fiche-auteurs">Proposition {% if "AEIOUYÉÈÊÀÂÎÔ" contains initiale %}d’{% else %}de {% endif %}{{ page.auteurs }}</p>
     {%- endif %}
+    {%- unless page.sans_chapeau %}
     <ul class="fiche-chapeau">
       {%- if page.niveau %}<li>{{ page.niveau }}</li>{% endif %}
       {%- if page.realisation %}<li>{{ page.realisation }}</li>{% endif %}
       {%- if page.duree %}<li>{{ page.duree }}</li>{% endif %}
     </ul>
+    {%- endunless %}
     {%- if page.video %}
     </div>
     <figure class="fiche-video">
