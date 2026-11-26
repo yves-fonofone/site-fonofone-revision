@@ -686,3 +686,37 @@ li.extrait p { margin: 0; }
 .pastille-grise, .bloc-gris, .carte--grise { background: #fff; }
 .bloc-gris, .carte--grise { box-shadow: 0 1px 4px rgba(0,0,0,.06); }
 .etapes { background: transparent; padding: 0; }
+/* ---- Fiches de projet à boîtes bleues (ex. Entre deux), fond de page conservé ---- */
+.boite { background: #fff; border: 2px solid #2b6290; border-radius: 10px; padding: 22px 28px; margin: 16px 0 32px; font-size: 14px; }
+.boite p { margin: 0 0 8px; }
+.fiche--fonofone .boite h4 { margin: 0 0 8px; font: 600 15px/1.3 Poppins, sans-serif; color: #222; }
+.fiche--fonofone h4.bleu, .fiche--fonofone .boite h4.bleu { color: #2674aa; font: 500 16px/1.3 Poppins, sans-serif; margin: 24px 0 10px; }
+.boite--demarche { margin-top: 32px; }
+.demarche__questions p { font-style: italic; margin: 0 0 4px; }
+.demarche__questions p:nth-child(2) { text-align: right; margin-right: 4%; }
+.demarche__questions p:nth-child(3) { text-align: right; margin-right: 4%; }
+.demarche__questions p:nth-child(4) { text-align: right; margin-right: 4%; margin-bottom: 12px; }
+.demarche__realisations { display: flex; align-items: center; gap: 12px; margin-top: 20px !important; font-size: 15px; }
+.demarche__realisations img { width: 140px; height: auto; }
+.boutons-bleus { display: grid; grid-template-columns: repeat(3, 1fr); gap: 32px; margin-top: 12px; }
+.boutons-bleus a { display: block; padding: 10px 12px; border-radius: 6px; background: #2b6290; color: #fff; text-align: center; text-decoration: none; font: 500 15px/1.3 Poppins, sans-serif; transition: background .15s; }
+.boutons-bleus a:hover { background: var(--red); }
+.projet-entete--simple { border-top: 0; margin-top: 56px; }
+.puces--gras li { font-weight: 600; }
+.boite__liens { margin-left: 120px !important; line-height: 1.9; }
+.boite__liens a { color: #2b6290; }
+.encadre--etroit { max-width: 480px; }
+.fiche--fonofone .encadre--liens h4 { margin: 0 0 8px; font: 500 16px/1.3 Poppins, sans-serif; color: #222; }
+.materiel { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; margin: 4px 0 8px 24px; }
+.materiel ul { margin: 0; padding-left: 16px; }
+.materiel li { margin: 2px 0; }
+.deux-colonnes { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: start; }
+.trois-colonnes { display: grid; grid-template-columns: repeat(3, 1fr); gap: 32px; align-items: start; }
+.trois-colonnes h4.bleu { margin-top: 0 !important; }
+.puces--retrait { margin-left: 24px !important; }
+.fiche--fonofone .rangee--cartes h2 { margin-top: 0; }
+@media (max-width: 900px) {
+  .boutons-bleus, .materiel, .deux-colonnes, .trois-colonnes { grid-template-columns: 1fr; gap: 12px; }
+  .demarche__questions p { text-align: left !important; }
+  .boite__liens { margin-left: 0 !important; }
+}
