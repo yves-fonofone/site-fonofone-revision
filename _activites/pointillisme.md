@@ -10,6 +10,9 @@ duree: De 2 à 4 périodes Une initiation préalable à Fonofone est requise
 qr_code: /images/qr/qr-pointillisme.png
 console_nom: Fono-image avec vos dessins
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1687544008.fnmg
+console2_nom: Fono-image, dessins fournis
+console2: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1721745608.fnmg
+qr_code2: /images/2023/06/pointillisme-dessins.png
 gratuite: true
 mise_en_page: fonofone
 etiquette: "Arts plastiques"
@@ -33,8 +36,6 @@ Deux options sont offertes :
       **< *La Totale*** : création des dessins par vos élèves et interprétation sonore (de 2 à 4 périodes)
 
       < *La Rapide* : Interprétation sonore de dessins fournis par les élèves de l'école de l'Altitude, Pierrefonds, Québec (1 période)
-
-![pointillisme-dessins](../images/2023/06/pointillisme-dessins.png){: .qr}
 
 </div>
 {% include fiche-media.html %}
