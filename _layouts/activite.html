@@ -10,6 +10,10 @@ layout: default
   {%- assign retour_page = site.pages | where: "url", retour_url | first -%}
   {%- assign retour_titre = retour_page.titre | default: retour_titre -%}
 {%- endif -%}
+{%- if page.retour -%}
+  {%- assign retour_url = page.retour -%}
+  {%- assign retour_titre = page.retour_titre | default: retour_titre -%}
+{%- endif -%}
 <div class="page wrap page--{{ page.discipline }}">
   {%- if page.brouillon %}
   <p class="avis-brouillon"><strong>Brouillon</strong> — cette fiche n'apparaît dans aucune liste du site. Pour la publier, retirez la ligne <code>brouillon: true</code> de son en-tête.</p>
@@ -47,7 +51,7 @@ layout: default
     <div class="fiche-contenu">
 {{ content }}
     </div>
-    <p class="fiche__retour"><a href="{{ retour_url | relative_url }}">← {% if page.section %}{{ retour_titre }}{% else %}Toutes les activités {% if d %}{{ d.titre }}{% endif %}{% endif %}</a></p>
+    <p class="fiche__retour"><a href="{{ retour_url | relative_url }}">← {% if page.section or page.retour %}{{ retour_titre }}{% else %}Toutes les activités {% if d %}{{ d.titre }}{% endif %}{% endif %}</a></p>
   </article>
   {%- else %}
   <article class="fiche">
@@ -82,7 +86,7 @@ layout: default
     <div class="prose">
 {{ content }}
     </div>
-    <p class="fiche__retour"><a href="{{ retour_url | relative_url }}">← {% if page.section %}{{ retour_titre }}{% else %}Toutes les activités {% if d %}{{ d.titre }}{% endif %}{% endif %}</a></p>
+    <p class="fiche__retour"><a href="{{ retour_url | relative_url }}">← {% if page.section or page.retour %}{{ retour_titre }}{% else %}Toutes les activités {% if d %}{{ d.titre }}{% endif %}{% endif %}</a></p>
   </article>
   {%- endif %}
 </div>

@@ -14,6 +14,9 @@ mise_en_page: fonofone
 bandeau: /images/bandeaux/site-entre-deux.jpg
 etiquette: "Musique-en ligne"
 sans_chapeau: true
+# Lien de retour en bas de page
+retour: /projets-arts-plastiques.html
+retour_titre: Projets de création - Arts plastiques
 console_nom: Fono-image
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1683048185.fnmg
 qr_code: /images/2023/05/projets-pluridisciplinaires-entre-deux.png
