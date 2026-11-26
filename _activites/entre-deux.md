@@ -95,7 +95,7 @@ Ensuite, les deux membres de l'équipe combinent leur dessin en superposant les 
 </section>
 
 <h2>Repères et ressources culturelles</h2>
-<div class="encadre encadre--liens encadre--etroit">
+<div class="encadre encadre--liens encadre--etroit encadre--blanc">
 <p><a href="https://lab-yrinthe.ca/education/competences-lmm/" target="_blank" rel="noopener"><strong>Lab-yrinthe</strong></a></p>
 </div>
 
