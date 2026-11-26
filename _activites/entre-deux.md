@@ -12,7 +12,7 @@ gratuite: true
 source: https://fonofone.org/activite/entre-deux/
 mise_en_page: fonofone
 bandeau: /images/bandeaux/site-entre-deux.jpg
-etiquette: "Musique-en ligne"
+etiquette: "Arts plastiques"
 sans_chapeau: true
 # Lien de retour en bas de page
 retour: /projets-arts-plastiques.html
