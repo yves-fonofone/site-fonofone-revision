@@ -596,3 +596,13 @@ li.extrait p { margin: 0; }
 .fiche-auteurs { margin: 24px 0 0; font-size: 14px; color: #444; }
 .fiche-auteurs + .fiche-chapeau { margin-top: 12px; }
 .fiche-intro .fiche-auteurs { margin-top: 0; }
+/* Repères culturels avec photos (ex. le Beau et le Sublime) */
+.reperes-photos { gap: 48px; }
+.reperes-photos h2 { margin-top: 0; }
+.fiche--fonofone .encadre--liens { border: 2px solid #2b6290; border-radius: 10px; background: #e3e9f0; padding: 20px 28px; margin-left: 56px; }
+.encadre--liens p { margin: 6px 0 14px; }
+.encadre--liens a { color: #2b6290; font-size: 18px; }
+.photos-duo { display: grid; grid-template-columns: 1fr 1.15fr; gap: 20px; align-items: start; margin-top: 40px; }
+.photos-duo img { display: block; width: 100%; height: auto; border-radius: 0; }
+.photos-duo p { font: 400 15px/1.55 Roboto, sans-serif; margin: 12px 0 0; }
+@media (max-width: 900px) { .encadre--liens { margin-left: 0; } .photos-duo { margin-top: 0; } }

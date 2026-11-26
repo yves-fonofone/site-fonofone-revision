@@ -84,23 +84,24 @@ Langage plastique :
 </aside>
 </section>
 
-## Repères culturels
-
-[< Le Sublime dans l'art](https://www.elwani.com/blogs/news/le-sublime-dans-lart)
-
-[< Grand Tour (1)](https://histoiredesarts.culture.gouv.fr/Dossiers-thematiques/Le-Grand-Tour-et-voyage-d-artistes-en-Italie-du-XVIIe-au-XIXe-siecles)
-
-< [Grand Tour (2)](https://fr.wikipedia.org/wiki/Grand_Tour)
-
-![athena2.png](../images/2022/06/athena2.jpg)
-
-![mont-cervin.png](../images/2022/05/mont-cervin.png)
-
-**↑Mont Cervin,** Suisse.  
- Crédit photo : Sam Ferrara
-
-**←Athéna Mattéi,** musée du Louvre  
- Crédit photo : Jean-Pol Grandmont
+<section class="rangee rangee--reperes reperes-photos">
+<div>
+<h2>Repères culturels</h2>
+<div class="encadre encadre--liens">
+<p><a href="https://www.elwani.com/blogs/news/le-sublime-dans-lart" target="_blank" rel="noopener">&lt; Le Sublime dans l'art</a></p>
+<p><a href="https://histoiredesarts.culture.gouv.fr/Dossiers-thematiques/Le-Grand-Tour-et-voyage-d-artistes-en-Italie-du-XVIIe-au-XIXe-siecles" target="_blank" rel="noopener">&lt; Grand Tour (1)</a></p>
+<p><a href="https://fr.wikipedia.org/wiki/Grand_Tour" target="_blank" rel="noopener">&lt; Grand Tour (2)</a></p>
+</div>
+</div>
+<div class="photos-duo">
+<img src="../images/2022/06/athena2.jpg" alt="Athéna Mattéi, musée du Louvre" width="917" height="1400" loading="lazy">
+<div>
+<img src="../images/2022/05/mont-cervin.png" alt="Mont Cervin, Suisse" width="357" height="237" loading="lazy">
+<p><strong>↑Mont Cervin,</strong> Suisse.<br>Crédit photo : Sam Ferrara</p>
+<p><strong>←Athéna Mattéi,</strong> musée du Louvre<br>Crédit photo : Jean-Pol Grandmont</p>
+</div>
+</div>
+</section>
 
 #### réalisation
 
