@@ -4,7 +4,6 @@ sous_titre: "(unisson - micro-intervalles - consonance/dissonance)"
 discipline: musique-tablette
 categorie: Langage musical
 ordre: 4
-auteurs: réalisation >
 gratuite: true
 niveau: "Pour le primaire et le secondaire"
 realisation: "Réalisation collective"

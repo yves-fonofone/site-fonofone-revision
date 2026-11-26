@@ -4,7 +4,6 @@ sous_titre: "(unisson - micro-intervalles - consonance/dissonance)"
 discipline: musique-web
 categorie: Procédés de composition
 ordre: 9
-auteurs: réalisation >
 console_nom: Fonofone
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1737563440.fnmg
 gratuite: true

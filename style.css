@@ -593,3 +593,6 @@ li.extrait p { margin: 0; }
 .fiche-video .video { border-radius: 0; margin: 0; }
 .fiche-video figcaption { margin-top: 10px; font-size: 13px; text-align: right; color: #555; }
 @media (max-width: 700px) { .fiche-intro { grid-template-columns: 1fr; } }
+.fiche-auteurs { margin: 24px 0 0; font-size: 14px; color: #444; }
+.fiche-auteurs + .fiche-chapeau { margin-top: 12px; }
+.fiche-intro .fiche-auteurs { margin-top: 0; }
