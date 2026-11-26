@@ -10,6 +10,8 @@ duree: 1 ou 2 périodes Une initiation préalable à Fonofone est requise
 qr_code: /images/qr/qr-textures.png
 console_nom: Fono-image des élèves
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1713734671.fnmg
+console2_nom: l’œuvre au TNI
+console2: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1713734569.fnmg
 gratuite: true
 mise_en_page: fonofone
 bandeau: /images/bandeaux/jeanne-darc.jpg
