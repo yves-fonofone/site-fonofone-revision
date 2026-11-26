@@ -1,6 +1,6 @@
 {%- assign a = include.activite -%}
 <a class="tile" href="{{ a.url | relative_url }}">
-  {%- if a.image %}<img src="{{ a.image | relative_url }}" alt="" loading="lazy">{% endif %}
+  {%- if a.image and page.tuiles_sans_image != true %}<img src="{{ a.image | relative_url }}" alt="" loading="lazy">{% endif %}
   <h3>{{ a.titre }}</h3>
   <ul>
     {%- if a.niveau %}<li>{{ a.niveau }}</li>{% endif %}
