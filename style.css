@@ -682,3 +682,7 @@ li.extrait p { margin: 0; }
 .fiche--fonofone .bloc-gris h4, .fiche--fonofone .carte h4 { color: #222; }
 .fiche--fonofone .carte--turquoise h4 { color: #fff; }
 .fiche--fonofone .carte h4.orange { color: #f26b21; }
+/* Beautés crues et fiches de projet : fond de page commun, blocs de texte en blanc */
+.pastille-grise, .bloc-gris, .carte--grise { background: #fff; }
+.bloc-gris, .carte--grise { box-shadow: 0 1px 4px rgba(0,0,0,.06); }
+.etapes { background: transparent; padding: 0; }
