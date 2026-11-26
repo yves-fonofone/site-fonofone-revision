@@ -28,7 +28,7 @@ Comprendre les caractéristiques de l'esthétique du Sublime et les appliquer da
 
 Idéalement, les élèves auront travaillé en préalable les notions suivantes : -couleurs chaudes/froides -valeurs claires/foncées -perspective en diminution.
 
-< Propositions de réalisation
+[< Propositions de réalisation](#realisation)
 
 [< Proposition de SAÉ](../documents/2024/06/sae-beau-sublime.pdf)
 
@@ -103,9 +103,8 @@ Langage plastique :
 </div>
 </section>
 
-#### réalisation
 
-## Propositions de réalisation
+## Propositions de réalisation {#realisation}
 
 #### Cours 1 - Introduction esthétique et historique
 
