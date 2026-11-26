@@ -12,6 +12,7 @@ console_nom: Fono-image des élèves
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1713734671.fnmg
 console2_nom: l’œuvre au TNI
 console2: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1713734569.fnmg
+qr_code2: /images/qr/qr-textures-tni.png
 gratuite: true
 mise_en_page: fonofone
 bandeau: /images/bandeaux/jeanne-darc.jpg
