@@ -165,12 +165,11 @@ a.disc:hover, .disc--music a:hover { transform: translateY(-3px); box-shadow: 0 
 .page--art-dramatique { --tile-color: var(--drama); }
 .page--arts-plastiques { --tile-color: var(--arts); }
 .prose h1 + p > a + a::before { content: "·"; margin: 0 10px; color: var(--muted); }
-.tile:hover { transform: translateY(-3px); box-shadow: 0 8px 20px rgba(0,0,0,.12); }
-.tile a { text-decoration: none; color: inherit; display: block; }
+.tile:hover { box-shadow: 0 8px 20px rgba(0,0,0,.12); }
+.tiles .tile, .tiles .tile:hover { display: block; text-decoration: none; color: inherit; } /* la tuile entière est un lien */
 .tile img { display: block; width: 100%; aspect-ratio: 16 / 10; object-fit: cover; border-radius: 0; background: #e5e5e5; }
 .tile h3 { margin: 14px 16px 6px; font-size: 17px; }
 .tile { position: relative; }
-.tile > a::after { content: ""; position: absolute; inset: 0; z-index: 1; } /* toute la tuile est cliquable */
 .tile ul { margin: 0 16px 16px; padding: 0; list-style: none; font-size: 13px; color: var(--muted); line-height: 1.5; }
 /* Icônes : niveau, réalisation, durée (dans cet ordre) */
 .tile li { position: relative; padding-left: 24px; margin-bottom: 4px; }
@@ -185,7 +184,7 @@ a.disc:hover, .disc--music a:hover { transform: translateY(-3px); box-shadow: 0 
 /* Flèche rouge en bas à droite */
 .tile::after {
   content: ""; position: absolute; right: 14px; bottom: 12px; width: 28px; height: 28px; border-radius: 50%;
-  background: var(--red) url("data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 24 24%27 fill=%27none%27 stroke=%27black%27 stroke-width=%272%27 stroke-linecap=%27round%27 stroke-linejoin=%27round%27%3E%3Cpath d=%27M5 12h14M13 6l6 6-6 6%27 stroke=%27white%27/%3E%3C/svg%3E") center / 16px no-repeat; transition: transform .15s; pointer-events: none; z-index: 2;
+  background: var(--red) url("data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 24 24%27 fill=%27none%27 stroke=%27black%27 stroke-width=%272%27 stroke-linecap=%27round%27 stroke-linejoin=%27round%27%3E%3Cpath d=%27M5 12h14M13 6l6 6-6 6%27 stroke=%27white%27/%3E%3C/svg%3E") center / 16px no-repeat; transition: transform .15s; pointer-events: none;
 }
 .tile:hover::after { transform: translateX(3px); }
 
