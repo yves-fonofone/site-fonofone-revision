@@ -94,7 +94,8 @@ Langage plastique :
 </div>
 </div>
 <div class="photos-duo">
-<img src="../images/2022/06/athena2.jpg" alt="Athéna Mattéi, musée du Louvre" width="917" height="1400" loading="lazy">
+<a class="agrandir" id="athena" href="#athena-grand" title="Cliquer pour agrandir"><img src="../images/2022/06/athena2.jpg" alt="Athéna Mattéi, musée du Louvre" width="917" height="1400" loading="lazy"></a>
+<a class="agrandi" id="athena-grand" href="#athena" title="Cliquer pour revenir"><img src="../images/2022/06/athena2.jpg" alt="Athéna Mattéi, musée du Louvre (agrandie)" width="917" height="1400" loading="lazy"></a>
 <div>
 <img src="../images/2022/05/mont-cervin.png" alt="Mont Cervin, Suisse" width="357" height="237" loading="lazy">
 <p><strong>↑Mont Cervin,</strong> Suisse.<br>Crédit photo : Sam Ferrara</p>
