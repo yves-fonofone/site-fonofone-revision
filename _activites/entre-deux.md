@@ -76,7 +76,7 @@ Ensuite, les deux membres de l'équipe combinent leur dessin en superposant les 
 <li>Développer la capacité d’évocation poétique.</li>
 </ul>
 </div>
-<aside class="encadre encadre--liens"><h4>Niveau suggéré</h4>
+<aside class="encadre encadre--liens encadre--blanc"><h4>Niveau suggéré</h4>
 <ul class="puces"><li>À partir du 3e cycle du primaire</li></ul></aside>
 </section>
 
@@ -90,7 +90,7 @@ Ensuite, les deux membres de l'équipe combinent leur dessin en superposant les 
 <li>L'élève sera capable de s'initier à de nouveaux registres visuels (art abstrait) et sonores (électroacoustique).</li>
 </ul>
 </div>
-<aside class="encadre encadre--liens"><h4>Savoirs essentiels</h4>
+<aside class="encadre encadre--liens encadre--blanc"><h4>Savoirs essentiels</h4>
 <ul class="puces"><li>C1: Démarche de création</li><li>C3 : Apprécier une œuvre</li><li>CT : Exercer sa pensée créatrice, collaborer, communiquer.</li></ul></aside>
 </section>
 

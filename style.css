@@ -720,3 +720,4 @@ li.extrait p { margin: 0; }
   .demarche__questions p { text-align: left !important; }
   .boite__liens { margin-left: 0 !important; }
 }
+.fiche--fonofone .encadre--blanc { background: #fff; }
