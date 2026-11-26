@@ -135,6 +135,25 @@ a.disc:hover, .disc--music a:hover { transform: translateY(-3px); box-shadow: 0 
 #q5:checked ~ .quotes__dots label:nth-child(5),
 #q6:checked ~ .quotes__dots label:nth-child(6) { background: var(--yellow); }
 .quotes input:focus-visible ~ .quotes__dots { outline: 2px solid var(--navy); outline-offset: 4px; }
+/* Défilement automatique en boucle (6 témoignages × 7 s) tant qu’aucun point n’a été cliqué */
+@keyframes temoignage {
+  0% { opacity: 0; visibility: visible; } 2.5% { opacity: 1; } 14% { opacity: 1; }
+  16.6% { opacity: 0; visibility: visible; } 16.7%, 100% { opacity: 0; visibility: hidden; }
+}
+.quotes:not(:has(input:checked)) figure,
+.quotes:not(:has(input:checked)) .quotes__dots label { animation-name: temoignage; animation-duration: 42s; animation-timing-function: linear; animation-iteration-count: infinite; }
+.quotes:not(:has(input:checked)) .quotes__dots label { animation-name: point-actif; }
+@keyframes point-actif { 0%, 16.6% { background: var(--yellow); } 16.7%, 100% { background: rgba(13,54,67,.25); } }
+.quotes figure:nth-child(2), .quotes__dots label:nth-child(2) { animation-delay: 7s; }
+.quotes figure:nth-child(3), .quotes__dots label:nth-child(3) { animation-delay: 14s; }
+.quotes figure:nth-child(4), .quotes__dots label:nth-child(4) { animation-delay: 21s; }
+.quotes figure:nth-child(5), .quotes__dots label:nth-child(5) { animation-delay: 28s; }
+.quotes figure:nth-child(6), .quotes__dots label:nth-child(6) { animation-delay: 35s; }
+.quotes:hover figure, .quotes:hover .quotes__dots label { animation-play-state: paused; } /* pause au survol pour lire */
+@media (prefers-reduced-motion: reduce) {
+  .quotes:not(:has(input:checked)) figure, .quotes:not(:has(input:checked)) .quotes__dots label { animation: none; }
+  .quotes:not(:has(input:checked)) figure:first-child { opacity: 1; visibility: visible; }
+}
 
 /* Pages intérieures */
 .page { padding-top: 32px; padding-bottom: 64px; }
