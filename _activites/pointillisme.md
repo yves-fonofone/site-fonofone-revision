@@ -83,23 +83,25 @@ Au terme de cette activité
  - texture  
  - motif
 
-#### qualite
 
 </aside>
 </section>
 
-## Repères culturels
+<section class="rangee rangee--reperes reperes-photos">
+<div>
+<h2>Repères culturels</h2>
+<div class="encadre encadre--liens">
+<p><a href="https://fr.wikipedia.org/wiki/Pointillisme" target="_blank" rel="noopener"><strong>Pointillisme</strong></a></p>
+<p><a href="https://fr.wikipedia.org/wiki/Georges_Seurat" target="_blank" rel="noopener"><strong>Georges Seurat</strong></a></p>
+</div>
+</div>
+<figure class="encadre encadre--liens reperes-oeuvre">
+<a class="agrandir" id="seurat" href="#seurat-grand" title="Cliquer pour agrandir"><img src="../images/2023/06/georges-seurat.jpg" alt="Georges Seurat, Un dimanche après-midi à l'Île de la Grande Jatte" width="1400" height="928" loading="lazy"></a>
+<a class="agrandi" id="seurat-grand" href="#seurat" title="Cliquer pour revenir"><img src="../images/2023/06/georges-seurat.jpg" alt="Georges Seurat, Un dimanche après-midi à l'Île de la Grande Jatte (agrandie)" width="1400" height="928" loading="lazy"></a>
+<figcaption><a href="https://fr.wikipedia.org/wiki/Un_dimanche_apr%C3%A8s-midi_%C3%A0_l%27%C3%8Ele_de_la_Grande_Jatte" target="_blank" rel="noopener"><em>Un dimanche après-midi à l'Île de la Grande Jatte</em></a><br>(1884-1886) <a href="https://fr.wikipedia.org/wiki/Art_Institute_of_Chicago" target="_blank" rel="noopener">Art Institute of Chicago</a></figcaption>
+</figure>
+</section>
 
-### **[Pointillisme](https://fr.wikipedia.org/wiki/Pointillisme)**
-
-### [Georges Seurat](https://fr.wikipedia.org/wiki/Georges_Seurat)
-
-![georges-seurat.jpg](../images/2023/06/georges-seurat.jpg)
-
-[*Un dimanche après-midi à l'Île de la Grande Jatte*](https://fr.wikipedia.org/wiki/Un_dimanche_apr%C3%A8s-midi_%C3%A0_l%27%C3%8Ele_de_la_Grande_Jatte)  
- (1884-1886) [Art Institute of Chicago](https://fr.wikipedia.org/wiki/Art_Institute_of_Chicago)
-
-#### Pointillisme-réalisation
 
 ## Propositions de réalisation
 
@@ -134,7 +136,6 @@ L'enseignant.e peut énoncer des règles, par exemple :
 - *Explique-nous le choix de tes sons pour chaque zone: qu'est-ce qu'ils expriment? quelle association fais-tu entre le son et la section du dessin?*
 - Parcours sonore : *pourquoi as-tu choisi ce parcours? Quelle interprétation du dessin ("histoire") permet-il, selon toi?*
 
-#### rapide
 
 #### Option (dessins fournis)
 

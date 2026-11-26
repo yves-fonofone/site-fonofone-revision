@@ -617,3 +617,9 @@ li.extrait p { margin: 0; }
 .agrandi:target img { width: auto; height: auto; max-width: 100%; max-height: 100%; box-shadow: 0 10px 40px rgba(0,0,0,.5); }
 /* Petite image source : l’étirer à la largeur de l’écran (sinon elle resterait à sa taille réelle) */
 .agrandi--petite:target img { width: min(100%, 1100px, calc((100vh - 48px) * 1.5)); }
+/* Œuvre dans un encadré à droite des repères culturels (ex. Pointillisme) */
+.fiche--fonofone .reperes-oeuvre { margin: 40px 0 0; padding: 16px; }
+.reperes-oeuvre img { display: block; width: 100%; height: auto; }
+.reperes-oeuvre figcaption { margin-top: 10px; font: 400 14px/1.5 Roboto, sans-serif; }
+.reperes-oeuvre figcaption a { font-size: 14px; }
+@media (max-width: 900px) { .fiche--fonofone .reperes-oeuvre { margin-top: 0; } }
