@@ -543,10 +543,10 @@ li.extrait p { margin: 0; }
 .construire__encadre p { margin: 0 0 14px; }
 .construire__fin { margin-top: 24px !important; text-align: center; font: 400 24px/1.2 Poppins, sans-serif; color: #ff6600; }
 .construire__consoles { display: flex; flex-direction: column; gap: 48px; margin: 56px 0 40px; }
-.construire__console { display: flex; align-items: flex-start; max-width: 620px; margin-left: 56px; }
+.construire__console { display: flex; align-items: center; max-width: 660px; margin-left: 56px; }
 .construire__console img { width: 120px; height: 120px; flex: none; }
 .construire__console a {
-  flex: 1; margin-left: -12px; padding: 12px 20px; border-radius: 12px;
+  flex: 1; margin-left: 28px; padding: 12px 20px; border-radius: 12px;
   background: var(--navy); color: #fff; text-align: center; text-decoration: none;
   font: 500 18px/1.3 Poppins, sans-serif; transition: background .15s;
 }
