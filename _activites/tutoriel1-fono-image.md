@@ -10,6 +10,7 @@ niveau: "Tous niveaux"
 duree: "1/2 période"
 image: "/images/2022/07/premieres-etapes-3-scaled.jpg"
 console_nom: "Fono-image"
+qr_code: /images/2022/07/console-fono-image-premieres-etapes.png
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1688423674.fnmg
 gratuite: true
 source: https://fonofone.org/activite/tutoriel1-fono-image/
@@ -25,10 +26,6 @@ etiquette: "Pour débuter..."
 
 *Exploration des fonctions de base de la console Fono-image. Ouvrir la console et réaliser les étapes, dans l'ordre.*
 
-![console-fono-image-premieres-etapes](../images/2022/07/console-fono-image-premieres-etapes.png){: .qr}
-
 </div>
-{% include fiche-media.html %}
-</section>
-
 {% include consoles.html %}
+</section>
