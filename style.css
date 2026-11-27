@@ -500,10 +500,10 @@ li.extrait p { margin: 0; }
 .console img { width: 80px; height: 80px; flex: none; }
 .console__bouton {
   flex: 1; display: block; text-align: center; text-decoration: none;
-  background: #5fa7a7; color: #fff !important; border-radius: 10px; padding: 14px 10px;
+  background: var(--navy); color: #fff !important; border-radius: 10px; padding: 14px 10px;
   font: 500 18px/1.3 Roboto, Helvetica, sans-serif; transition: background .15s;
 }
-.console__bouton:hover { background: var(--navy); }
+.console__bouton:hover { background: #5fa7a7; }
 /* Rangées : contenu à gauche, encadré à droite */
 .rangee { display: grid; grid-template-columns: 2fr 1fr; gap: 32px; align-items: center; margin: 8px 0 24px; }
 .rangee--reperes { grid-template-columns: 1fr 1fr; align-items: start; }
