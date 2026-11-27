@@ -108,7 +108,7 @@ Au terme de l'activité:
 - L'enseignant.e au TNI choisit un son proche et, à la proposition des élèves, expérimente différents outils [volume] [filtre] [réverbération]... susceptibles de  créer l'illusion que le son s'éloigne. (Ce peut être par la combinaison de plus d'un outil).
 - L'enseignant.e demande aux élèves de définir ce qui a changé dans le son maintenant perçu comme lointain (moins fort? - moins précis? - plus "sombre"?...)
 
-<ol class="playlist">
+<ol class="playlist playlist--compacte">
   <li><span class="playlist__titre">ambiance-1</span> <span class="playlist__duree">0:13</span>
     <audio controls preload="none" src="../audio/activites/proche-loin-web/ambiance-1.mp3"></audio></li>
   <li><span class="playlist__titre">bonjour-hello</span> <span class="playlist__duree">0:10</span>

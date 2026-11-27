@@ -61,7 +61,7 @@ Chaque élève choisit librement un son dans la banque [accu-points].
 
 ### Banque de son
 
-<ol class="playlist">
+<ol class="playlist playlist--compacte">
   <li><span class="playlist__titre">bambou attq</span> <span class="playlist__duree">0:05</span>
     <audio controls preload="none" src="../audio/activites/empilade-de-points/bambou-attq.mp3"></audio></li>
   <li><span class="playlist__titre">bambou attq-gr</span> <span class="playlist__duree">0:05</span>
@@ -108,7 +108,7 @@ En plus du son de bambou, chaque élève sélectionne dans les onglets 2 et 3 le
  **Quelles sont les caractéristiques associatives communes aux trois textures?**  
  **(le registre, l'harmonie consonante autour d'une même fondamentale, la douceur...).**
 
-<ol class="playlist">
+<ol class="playlist playlist--compacte">
   <li><span class="playlist__titre">tenue_sol_re</span> <span class="playlist__duree">0:05</span>
     <audio controls preload="none" src="../audio/activites/empilade-de-points/tenue_sol_re.mp3"></audio></li>
   <li><span class="playlist__titre">mélopée</span> <span class="playlist__duree">0:05</span>

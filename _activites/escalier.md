@@ -120,7 +120,7 @@ Produire collectivement un crescendo clairement perceptible. On doit utiliser l
 - *Est-ce qu'on était bien synchrone?*
 - *Est-ce que le passage d'un groupe à l'autre (effet de fondu-enchaîné) s'est bien réalisé : a t-on senti le mouvement spatial d'un sous-groupe à l'autre?*
 
-<ol class="playlist">
+<ol class="playlist playlist--compacte">
   <li><span class="playlist__titre">escalier (fragment)-stairs</span> <span class="playlist__duree">0:01</span>
     <audio controls preload="none" src="../audio/activites/escalier/escalier-fragment-stairs.mp3"></audio></li>
   <li><span class="playlist__titre">fouet-whip</span> <span class="playlist__duree">0:02</span>
