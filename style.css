@@ -484,7 +484,7 @@ li.extrait p { margin: 0; }
   border-radius: 50%; background: #ff524e;
 }
 /* Encadrés turquoise */
-.fiche--fonofone .encadre { border: 2px solid #5fa7a7; border-radius: 10px; padding: 16px 24px; background: #fff; }
+.fiche--fonofone .encadre { border: 2px solid #2b6290; border-radius: 10px; padding: 16px 24px; background: #fff; }
 .fiche--fonofone .encadre--teinte { background: #e5f9f9; } /* = turquoise .13 sur blanc */
 .fiche--fonofone .encadre h3 { margin: 4px 0 8px; font: 500 20px/1.2 Poppins, sans-serif; }
 .encadre--description { display: grid; grid-template-columns: 2fr 1fr; gap: 32px; align-items: start; }
@@ -639,7 +639,7 @@ li.extrait p { margin: 0; }
 .bloc-gris p { margin: 0 0 6px; }
 .bloc-gris--grand { padding: 22px 28px; font-size: 15px; }
 .bloc-gris__titre { font: 500 19px/1.3 Poppins, sans-serif; margin-bottom: 14px !important; }
-.realisations__titre { border: 1px solid #ccc; border-radius: 10px; background: #fff; padding: 10px 16px; margin: 0 0 12px; font-weight: 500; font-size: 14px; }
+.realisations__titre { border: 2px solid #2b6290; border-radius: 10px; background: #fff; padding: 10px 16px; margin: 0 0 12px; font-weight: 500; font-size: 14px; }
 .realisations__vignettes { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 12px; }
 .realisations__vignettes a { display: block; transition: transform .15s; }
 .realisations__vignettes a:hover { transform: translateY(-3px); }
@@ -653,7 +653,7 @@ li.extrait p { margin: 0; }
 .pastille--marine { margin-left: auto; background: #0d3643; color: #fff; border-radius: 3px; padding: 14px 20px; box-shadow: 0 0 0 3px #c9d3d6; }
 .rangee--cartes { display: grid; grid-template-columns: 2fr 1fr; gap: 8px; align-items: start; margin: 32px 0; }
 .rangee--egale { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: start; margin: 24px 0 40px; }
-.carte { background: #fff; border-radius: 12px; padding: 16px 24px; box-shadow: 0 1px 4px rgba(0,0,0,.06); }
+.carte { background: #fff; border-radius: 12px; border: 2px solid #2b6290; padding: 16px 24px; box-shadow: 0 1px 4px rgba(0,0,0,.06); }
 .carte h4 { margin: 0 0 10px; font: 600 16px/1.3 Poppins, sans-serif; }
 .carte p { margin: 0 0 6px; font-size: 14px; }
 .carte .puces li { font-size: 14px; }
@@ -667,7 +667,7 @@ li.extrait p { margin: 0; }
 .etape__titre { margin: 0 0 20px; font: 600 18px/1.3 Poppins, sans-serif; }
 .etape__titre small { font-size: 12px; font-weight: 600; }
 .etape__titre--sep { border-top: 3px solid #d6d6d6; padding-top: 16px; margin-top: 32px; }
-.carte--grise-bord { border: 1px solid #ccc; box-shadow: 0 1px 4px rgba(0,0,0,.08); margin-bottom: 24px; }
+.carte--grise-bord { border: 2px solid #2b6290; box-shadow: 0 1px 4px rgba(0,0,0,.08); margin-bottom: 24px; }
 .carte--grise { background: #efefef; box-shadow: none; margin-bottom: 24px; }
 .carte--vide { min-height: 40px; }
 .etape__rangee { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: start; }
