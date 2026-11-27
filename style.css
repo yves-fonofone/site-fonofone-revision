@@ -759,3 +759,7 @@ li.extrait p { margin: 0; }
 .fiche--fonofone .rangee--liste-etroite .playlist__titre { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .fiche--fonofone .rangee--liste-etroite .playlist__duree { display: none; }
 .fiche--fonofone .encadre--suggestions { padding: 8px 32px 28px; } /* encadré englobant les Suggestions de réalisation (ex. Caractère 1) */
+/* Repères culturels en texte (ex. doux/fort) : texte plus petit, aligné sur le « R » du titre de section */
+.fiche--fonofone .encadre--reperes-texte { padding-left: 39px; font-size: 14px; }
+.fiche--fonofone .encadre--reperes-texte p { font-size: 14px; }
+.fiche--fonofone .encadre--reperes-texte h3, .fiche--fonofone .encadre--reperes-texte h4 { font-size: 16px; }
