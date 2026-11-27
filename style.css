@@ -738,9 +738,13 @@ li.extrait p { margin: 0; }
 .voir-aussi li { margin: 0; padding: 0; }
 .voir-aussi li::before { display: none !important; }
 .encadre--description-video .encadre__media .video { border-radius: 0; margin: 0; }
-@media (max-width: 900px) { .encadre--description-video { padding: 18px; } .description__liens { grid-template-columns: 1fr; } }
+@media (max-width: 900px) { .encadre--description-video { padding: 18px; grid-template-columns: 1fr; gap: 20px; } .description__liens { grid-template-columns: 1fr; } }
 /* Bandeau doux/fort : titre descendu sous le tracé du dessin */
 .fiche-bandeau[style*="doux-fort"] { align-items: flex-end; padding-bottom: 14px; }
+/* Échelle d’intensités : titre en haut à gauche, au-dessus des nuances (image calée en haut) */
+.fiche-bandeau[style*="intensites"] { align-items: flex-start; padding-top: 4px; background-position: center top; }
+.fiche-bandeau[style*="intensites"] .sous-titre { position: relative; top: -12px; }
+@media (max-width: 900px) { .fiche-bandeau[style*="intensites"] .sous-titre { display: block; top: 0; margin: 0; font-size: 18px; } }
 .fiche-bandeau h1.titre-petit { font-size: 44px; } /* titre long (champ titre_petit), ex. doux/fort – création */
 @media (max-width: 900px) { .fiche-bandeau h1.titre-petit { font-size: 34px; } }
 @media (max-width: 600px) { .fiche-bandeau h1.titre-petit { font-size: 28px; } }
