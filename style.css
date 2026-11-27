@@ -781,3 +781,6 @@ li.extrait p { margin: 0; }
 .exemples figcaption { margin-bottom: 14px; font: 600 15px/1.45 Roboto, Helvetica, sans-serif; color: #222; }
 .exemples img { display: block; max-width: 100%; height: auto; }
 @media (max-width: 800px) { .exemples { grid-template-columns: 1fr; gap: 24px; } .exemples figure { padding: 0; border-left: 0; } }
+.exemples--deux { grid-template-columns: repeat(2, 1fr); align-items: center; }
+@media (max-width: 800px) { .exemples--deux { grid-template-columns: 1fr; } }
+.exemples--deux img { margin: 0 auto; }

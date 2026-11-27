@@ -150,7 +150,10 @@ On commence par le son doux, puis à l'aide du volume Fonofone, on fait apparaî
 
 #### Exemples de réalisation :
 
-![dx-fort-tni.png](../images/2022/04/dx-fort-tni.png)
+<div class="exemples exemples--deux">
+<figure><img src="../images/2022/04/dx-fort-tni-1.png" width="336" alt="Démarrer le son fort, puis le son doux" loading="lazy"></figure>
+<figure><img src="../images/2022/04/dx-fort-tni-2.png" width="474" alt="Monter graduellement le volume du son fort" loading="lazy"></figure>
+</div>
 
 #### Réalisation collective (idéalement une tablette, chromebook ou autre, par élève)
 
@@ -181,4 +184,7 @@ On commence par le son doux, puis à l'aide du volume Fonofone, on fait apparaî
 
 #### Exemples de réalisations
 
-![dx-ff-collectif.png](../images/2022/04/dx-ff-collectif.png)
+<div class="exemples exemples--deux">
+<figure><img src="../images/2022/04/dx-ff-collectif-1.png" width="465" alt="Tous ensemble, démarrer les sons forts, puis les sons doux ; on prend bien le temps d'écouter la texture douce" loading="lazy"></figure>
+<figure><img src="../images/2022/04/dx-ff-collectif-2.png" width="345" alt="Tous ensemble, démarrer d'abord les sons forts, puis les sons doux, puis baisser graduellement le volume des sons forts" loading="lazy"></figure>
+</div>
