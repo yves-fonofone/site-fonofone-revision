@@ -82,7 +82,7 @@ etiquette: Musique-en ligne
 <h2 class="titre-pastille">Repères culturels</h2>
 
 <section class="rangee rangee--reperes">
-  <div class="encadre encadre--teinte encadre--reperes">
+  <div class="encadre encadre--blanc encadre--reperes">
     <h4><a href="https://fr.wikipedia.org/wiki/Robert_Schumann" target="_blank" rel="noopener">Robert Schumann</a></h4>
     <p><a href="https://www.youtube.com/watch?v=0zxLqNg6OfQ" target="_blank" rel="noopener">Scènes d'enfants, op 15 - Fürchtenmachen</a></p>
     <h4><a href="https://fr.wikipedia.org/wiki/Modeste_Moussorgski" target="_blank" rel="noopener">Modeste Moussorgsky</a></h4>
