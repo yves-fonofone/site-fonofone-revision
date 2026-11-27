@@ -763,3 +763,10 @@ li.extrait p { margin: 0; }
 .fiche--fonofone .encadre--reperes-texte { padding-left: 39px; font-size: 14px; }
 .fiche--fonofone .encadre--reperes-texte p { font-size: 14px; }
 .fiche--fonofone .encadre--reperes-texte h3, .fiche--fonofone .encadre--reperes-texte h4 { font-size: 16px; }
+/* Espacement égal entre les sections à pastille rouge : 48 px au-dessus de chaque titre */
+.fiche--fonofone .fiche-contenu > h2 { margin-top: 48px; }
+.fiche--fonofone .fiche-contenu > h2:first-child { margin-top: 8px; }
+.fiche--fonofone .fiche-contenu > .rangee:has(> * > h2:first-child) { align-items: start; margin-top: 48px; }
+.fiche--fonofone .fiche-contenu > .rangee > * > h2:first-child { margin-top: 0; }
+.fiche--fonofone .fiche-contenu > h2 + .rangee { margin-top: 24px; } /* rangée placée sous son propre titre (ex. Beautés crues) : pas de saut de section */
+.fiche--fonofone .fiche-contenu > audio { display: block; margin: 8px 0; }
