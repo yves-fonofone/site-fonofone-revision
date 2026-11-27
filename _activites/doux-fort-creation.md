@@ -12,6 +12,7 @@ realisation: "Réalisation en équipe"
 duree: "1 à 2 périodes"
 mise_en_page: fonofone
 bandeau: /images/bandeaux/doux-fort-scaled.jpg
+titre_petit: true
 etiquette: "Musique-en ligne"
 ---
 

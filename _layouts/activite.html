@@ -27,7 +27,7 @@ layout: default
   <article class="fiche fiche--fonofone">
     <header class="fiche-bandeau"{% if page.bandeau %} style="background-image:url('{{ page.bandeau | relative_url }}')"{% endif %}>
       <a class="fiche-bandeau__etiquette" href="{{ retour_url | relative_url }}">{{ page.etiquette | default: retour_titre }}</a>
-      <h1>{{ page.titre }}{% if page.sous_titre %} <span class="sous-titre">{{ page.sous_titre }}</span>{% endif %}</h1>
+      <h1{% if page.titre_petit %} class="titre-petit"{% endif %}>{{ page.titre }}{% if page.sous_titre %} <span class="sous-titre">{{ page.sous_titre }}</span>{% endif %}</h1>
     </header>
     {%- if page.video %}<div class="fiche-intro"><div>{% endif %}
     {%- if page.auteurs %}
