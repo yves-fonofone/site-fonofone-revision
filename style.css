@@ -750,9 +750,3 @@ li.extrait p { margin: 0; }
 .fiche--fonofone .rangee__liste .playlist--compacte { margin-left: auto; }
 .fiche--fonofone .playlist--compacte li { grid-template-columns: 1fr auto 200px; padding: 0 8px; gap: 8px; font-size: 12px; line-height: 1.2; }
 .prose .fiche--fonofone .playlist--compacte audio, .fiche--fonofone .playlist--compacte audio { width: 200px; height: 24px; }
-/* Liste d'extraits sur 2 colonnes égales, sous l'encadré (ex. Caractère 1 : 21 extraits → 11 + 10) */
-.rangee__liste--pleine { grid-column: 1 / -1; }
-.fiche--fonofone .playlist--2col { max-width: none; margin-left: 0 !important; display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: repeat(11, auto); grid-auto-flow: column; column-gap: 0; }
-.fiche--fonofone .playlist--2col li:nth-child(12) { border-top: 0; }
-.fiche--fonofone .playlist--2col li:nth-child(n+12) { border-left: 1px solid var(--card-border); }
-@media (max-width: 700px) { .fiche--fonofone .playlist--2col { grid-template-columns: 1fr; grid-template-rows: none; grid-auto-flow: row; } .fiche--fonofone .playlist--2col li:nth-child(n+12) { border-left: 0; } .fiche--fonofone .playlist--2col li:nth-child(12) { border-top: 1px solid var(--card-border); } }
