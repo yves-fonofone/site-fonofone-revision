@@ -737,3 +737,5 @@ li.extrait p { margin: 0; }
 .voir-aussi li::before { display: none !important; }
 .encadre--description-video .encadre__media .video { border-radius: 0; margin: 0; }
 @media (max-width: 900px) { .encadre--description-video { padding: 18px; } .description__liens { grid-template-columns: 1fr; } }
+/* Bandeau doux/fort : titre descendu sous le tracé du dessin */
+.fiche-bandeau[style*="doux-fort"] { align-items: flex-end; padding-bottom: 14px; }
