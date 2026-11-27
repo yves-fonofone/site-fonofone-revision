@@ -119,6 +119,8 @@ Au terme de cette activité :
 
 ## Ouverture à la création
 
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
 ### Un exemple...
 
 - Demander aux élèves quel est le contraire de la verticalité. (horizontalité : son tenu, long, profil mélodique doux...).
@@ -126,3 +128,6 @@ Au terme de cette activité :
 - Développer collectivement ou en équipe une trame à partir de ces sons.
 - Trouver dans les banques ou créer un son vertical (attaque ferme).
 - Se mettre d'accord sur le déroulement (forme) fondé sur l'opposition entre verticalité et horizontalité...
+
+</section>
+

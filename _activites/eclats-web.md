@@ -122,6 +122,8 @@ Au terme de cette activité :
 
 ## Ouverture à la création
 
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
 ### Un exemple...
 
 En préalable, on peut réaliser l'activité [[doux/fort]](doux-fort-facile.html)
@@ -131,3 +133,6 @@ En préalable, on peut réaliser l'activité [[doux/fort]](doux-fort-facile.html
 - Développer collectivement ou en équipe une trame à partir de ces sons.
 - Tracer une zone jaune et choisir (ou créer) un son à attaque ferme (verticalité).
 - Se mettre d'accord sur le déroulement (forme) fondé sur l'opposition entre verticalité et horizontalité...
+
+</section>
+
