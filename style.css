@@ -11,6 +11,7 @@
   --muted: #666;
   --paper: #f3f6fa; /* fond de page bleu ciel pâle */
   --cadre: #d3dae3; /* ligne des encadrés : gris un peu plus foncé que le fond */
+  --bleu-doux: #004b65; /* boutons des consoles et cadre du titre des fiches */
   --quote-bg: #dfe8ec;
   --card-border: #ddd;
   --radius: 10px;
@@ -452,7 +453,7 @@ li.extrait p { margin: 0; }
 .fiche--fonofone p { margin: 8px 0; }
 .fiche-bandeau {
   position: relative; height: 200px; padding: 20px; border-radius: 20px 20px 0 0;
-  background: var(--navy) center / cover no-repeat;
+  background: var(--bleu-doux) center / cover no-repeat;
   display: flex; align-items: center;
 }
 .fiche-bandeau h1 { margin: 0; color: #fff; font: 600 56px/1.1 Poppins, sans-serif; text-shadow: 0 2px 8px rgba(0,0,0,.45); }
@@ -500,7 +501,7 @@ li.extrait p { margin: 0; }
 .console img { width: 80px; height: 80px; flex: none; }
 .console__bouton {
   flex: 1; display: block; text-align: center; text-decoration: none;
-  background: var(--navy); color: #fff !important; border-radius: 10px; padding: 14px 10px;
+  background: var(--bleu-doux); color: #fff !important; border-radius: 10px; padding: 14px 10px;
   font: 500 18px/1.3 Roboto, Helvetica, sans-serif; transition: background .15s;
 }
 .console__bouton:hover { background: #5fa7a7; }
@@ -742,3 +743,5 @@ li.extrait p { margin: 0; }
 .fiche-bandeau h1.titre-petit { font-size: 44px; } /* titre long (champ titre_petit), ex. doux/fort – création */
 @media (max-width: 900px) { .fiche-bandeau h1.titre-petit { font-size: 34px; } }
 @media (max-width: 600px) { .fiche-bandeau h1.titre-petit { font-size: 28px; } }
+/* Bandeau uni « fond-bleu » : remplacé par la couleur du cadre de titre */
+.fiche-bandeau[style*="fond-bleu"] { background-image: none !important; }
