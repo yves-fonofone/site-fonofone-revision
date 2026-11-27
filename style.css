@@ -758,3 +758,4 @@ li.extrait p { margin: 0; }
 .prose .fiche--fonofone .rangee--liste-etroite .playlist--compacte audio, .fiche--fonofone .rangee--liste-etroite .playlist--compacte audio { width: 180px; }
 .fiche--fonofone .rangee--liste-etroite .playlist__titre { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .fiche--fonofone .rangee--liste-etroite .playlist__duree { display: none; }
+.fiche--fonofone .encadre--suggestions { padding: 8px 32px 28px; } /* encadré englobant les Suggestions de réalisation (ex. Caractère 1) */

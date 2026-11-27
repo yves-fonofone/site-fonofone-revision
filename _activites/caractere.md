@@ -138,7 +138,7 @@ etiquette: Musique-en ligne
 
 <h2 class="titre-pastille" id="preparation">Suggestions de réalisation</h2>
 
-<section class="suggestions">
+<section class="suggestions encadre encadre--suggestions">
   <div>
     <h4>Quelques pistes de préparation</h4>
     <ul class="puces">
