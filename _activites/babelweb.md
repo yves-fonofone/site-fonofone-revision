@@ -77,26 +77,22 @@ Au terme de cette activité :
 
 #### Préparation
 
-#### 1.
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+**1.**
 
 - L'enseignant fait entendre chacun des souhaits de bonne journée en demandant aux élèves d'en d'identifier la langue.  
  (Le "bonjour" français est *malicieusement* inversé, ce qui permet de faire connaître aux élèves la fonction d'inversion de la lecture).
 - Demander aux élèves d'agencer les souhaits (zones) avec leur énoncé écrit.
 
-</section>
-
-#### 2.
-
-<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+**2.**
 
 - Chaque élève choisit un "bonjour" dans la langue de son choix. Puis, il/elle ouvre la console "Fonofone" de la zone choisie.
 - L'élève prépare le volume en le montant au maximum et attend le signe du chef pour démarrer le son.
 
-Option 1 : crescendo-decrescendo, rupture
-
 </section>
+
+#### Option 1 : crescendo-decrescendo, rupture
 
 <section class="encadre encadre--blanc encadre--options encadre--options-2">
 <div class="options__col" markdown="1">
@@ -120,10 +116,10 @@ Option 1 : crescendo-decrescendo, rupture
 - *As-tu éprouvé des difficultés à ouvrir "Fonofone" et à appliquer les instructions de programmation ?*
 - *Quelles stratégies utilises-tu pour bien suivre les gestes du chef ? Quelles sont les plus efficaces?*
 
-Option 2 : fondu-enchaîné
-
 </div>
 </section>
+
+#### Option 2 : fondu-enchaîné
 
 <section class="encadre encadre--blanc encadre--options encadre--options-2">
 <div class="options__col" markdown="1">
