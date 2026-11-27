@@ -44,7 +44,7 @@ Bien qu'autonome, elle peut s'inscrire dans la suite de l'activité [[Les émoti
 - Amener l'élève à utiliser les moyens corporels connus pour présenter son histoire.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -64,7 +64,7 @@ Au terme de l’activité
 - L’élève sera capable d’utiliser ses moyens corporels pour interpréter les émotions dans sa création.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

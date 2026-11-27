@@ -51,7 +51,7 @@ etiquette: "Musique-en ligne"
 - Familiariser les élèves avec le procédé de [glissando.](../lexique.html#glissando)
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -72,7 +72,7 @@ Au terme de l'activité:
 - (En option) L'élève sera capable d'appliquer une technique pour créer un son continu à l'aide de l'outil [ **métronome** ].
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

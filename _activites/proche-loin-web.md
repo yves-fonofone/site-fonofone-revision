@@ -46,7 +46,7 @@ Cette activité permet d'explorer cette approche de manière plus "cinématograp
 - Développer l'habileté de l'élève à manipuler les outils Fonofone.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -73,7 +73,7 @@ Au terme de l'activité:
 - L'élève sera capable d'identifier et de calibrer les outils appropriés pour créer l'effet d'éloignement du son.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

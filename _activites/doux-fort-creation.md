@@ -43,7 +43,7 @@ En équipes de 3 ou 4, les élèves devront créer une phrase d'environ une minu
 - Développer des stratégies propres à la musique d’ensemble.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -63,7 +63,7 @@ Au terme de l'activité:
 - L'équipe sera capable d'appliquer des stratégies pour bien synchroniser les interventions de chacun dans l'exécution de leur pièce.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

@@ -53,7 +53,7 @@ Deux options sont offertes :
 - Amener l'élève à exprimer clairement son intention, avec le vocabulaire disciplinaire.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -75,7 +75,7 @@ Au terme de cette activité
 - L'élève sera capable de communiquer son intention avec le vocabulaire disciplinaire.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

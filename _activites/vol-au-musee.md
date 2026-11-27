@@ -47,7 +47,7 @@ L’activité présentée peut aisément être simplifiée pour les élèves du 
 - Développer chez les élèves la capacité du travail en équipe : capacité de communiquer ses idées et de s'ouvrir à celles des autres.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -68,7 +68,7 @@ Au terme de cette activité:
 - L'élève aura développé sa capacité de travailler en équipe.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

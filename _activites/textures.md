@@ -51,7 +51,7 @@ Aller à  < Propositions de réalisation
 - Amener l'élève à utiliser précisément le vocabulaire disciplinaire.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -72,7 +72,7 @@ Au terme de cette activité:
 - L'élève sera en mesure à l'aide des sons de percevoir et d'exprimer ples différences de texture, couleurs et expressions dans l'œuvre étudiée.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

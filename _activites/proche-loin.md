@@ -40,7 +40,7 @@ Aller à : <Propositions de réalisation
 - L'amener à prendre conscience des éléments qui influencent sa perception de la localisation d’un son dans l’espace (timbre, intensité, [réverbération](../lexique.html#reverberation), etc.) et à enrichir ou remettre en question ses représentations initiales par l’analyse comparée des sons.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -60,7 +60,7 @@ Au terme de cette activité :
 - L'élève sera capable de créer une perspective sonore constituée de deux plans (ou plus) répondant à différents critères (voir la proposition de réalisation).
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

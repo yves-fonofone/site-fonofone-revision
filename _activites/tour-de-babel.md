@@ -44,7 +44,7 @@ Aller à : < suggestion de réalisation
 - Améliorer la réponse des élèves aux gestes de direction.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -65,7 +65,7 @@ Au terme de cette activité :
 - L’élève sera capable de répondre de manière précise aux gestes de direction.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

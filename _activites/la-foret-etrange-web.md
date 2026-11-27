@@ -46,7 +46,7 @@ On peut appliquer cette démarche à d'autres environnements, par exemple une im
 - Initier l'élève à la forme d'un discours musical
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -70,7 +70,7 @@ générer des idées, les structurer, établir un discours musical, expérimente
  - éléments-surprise
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

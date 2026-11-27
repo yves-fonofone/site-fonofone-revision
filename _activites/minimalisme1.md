@@ -55,7 +55,7 @@ Réalisations en équipe, Collège Bourget, Rigaud, Québec
 - Amener l'élève à faire preuve de créativité (choix des sons, structure mélodique, fin originale)
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -77,7 +77,7 @@ Au terme de cette activité:
 - L’élève sera capable de construire son idée musicale en appliquant un procédé.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

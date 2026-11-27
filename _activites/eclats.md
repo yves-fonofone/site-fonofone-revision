@@ -41,7 +41,7 @@ Camp musical Père-Lindsay, Val-St-Côme, Québec
 - Améliorer la réponse de l'élève aux gestes de direction
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -62,7 +62,7 @@ Au terme de cette activité :
 - L'élève désigné pour diriger le groupe sera capable de précision dans ses signes.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

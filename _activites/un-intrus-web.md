@@ -50,7 +50,7 @@ Exemple de réalisation
 - En option : développer la compréhension du métronome
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -70,7 +70,7 @@ Au terme de l'activité:
 - (En option) L'élève sera capable de manipuler le métronome.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

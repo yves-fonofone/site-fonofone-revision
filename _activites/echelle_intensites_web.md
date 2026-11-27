@@ -50,7 +50,7 @@ L'activité peut également être réalisée en mode individuel.
 - Initier l'élève de la sensation de la pulsation.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -71,7 +71,7 @@ Au terme de cette activité:
 - L'élève sera capable de développer une stratégie pour entrer en rythme chaque nouvelle reprise de l'extrait musical (perception de la pulsation et bon réflexe dans l'exécution).
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

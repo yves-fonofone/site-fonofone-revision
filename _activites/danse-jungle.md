@@ -43,7 +43,7 @@ Lire : **< Propositions de réalisation**
 - Amener l'élève à réaliser un parcours cohérent à travers les sons du Fono-image (développement de la psychomotricité).
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -73,7 +73,7 @@ Au terme de cette activité, l’élève sera capable :
 - de réaliser au TNI un parcours cohérent à travers les sons et images du Fono-image.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

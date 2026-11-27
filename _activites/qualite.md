@@ -38,7 +38,7 @@ Cette activité vise à initier l'élève aux notions de base du timbre et de la
 - Sensibiliser les élèves aux divers comportements du son dans la durée : son bref et sec, son bref résonnant,  son continu.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -58,7 +58,7 @@ Au terme de cette activité :
 - L'élève saura faire la différence entre un son sec, résonnant, granuleux et lisse.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

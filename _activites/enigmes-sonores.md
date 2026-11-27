@@ -48,7 +48,7 @@ Il s'agit de retrouver dans les banques COSIMU le son original que l'enseignant 
 - Développer la compréhension des outils Fonofone
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -68,7 +68,7 @@ Au terme de l'activité,
 - L'élève sera capable d'expliquer l'effet sur le son des différents outils Fonofone.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

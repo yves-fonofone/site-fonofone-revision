@@ -44,7 +44,7 @@ Lire : < Propositions de réalisation
 - Amener l’élève à expérimenter, par l’improvisation, des éléments du langage et de la technique de la danse.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -65,7 +65,7 @@ Au terme de cette activité, l’élève sera capable :
 - d'intégrer dans ses improvisations les éléments appris du langage et de la technique de la danse.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

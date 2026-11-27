@@ -46,7 +46,7 @@ Pour donner une suite créative à cette activité, aller à : [[doux/fort-créa
 - Initier les élèves à la manipulation des outils appropriés.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -67,7 +67,7 @@ Au terme de l'activité:
 - L'élève sera capable de manipuler adéquatement l'outil [volume] de Fonofone pour obtenir l'effet visé.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

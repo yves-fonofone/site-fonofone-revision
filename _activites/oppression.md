@@ -50,7 +50,7 @@ Seconde étape :
 - Amener l'élève à découvrir les œuvres de Shakespeare et l’esthétique de Boal.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -71,7 +71,7 @@ Au terme de cette activité:
 - L’élève se familiarisera avec les œuvres de Shakespeare et l’esthétique de Boal.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

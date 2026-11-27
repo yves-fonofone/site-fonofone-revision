@@ -52,7 +52,7 @@ etiquette: Musique-en ligne
       <li>Explorer le répertoire.</li>
     </ul>
   </div>
-  <aside class="encadre encadre--teinte">
+  <aside class="encadre encadre--blanc">
     <h3>Niveau suggéré</h3>
     <ul class="puces">
       <li>À partir du 2e cycle du primaire</li>
@@ -69,7 +69,7 @@ etiquette: Musique-en ligne
       <li>L’élève sera capable d’identifier ou différencier des éléments de langage.</li>
     </ul>
   </div>
-  <aside class="encadre encadre--teinte">
+  <aside class="encadre encadre--blanc">
     <h3>Savoirs essentiels</h3>
     <ul class="puces">
       <li>Aspects affectifs</li>

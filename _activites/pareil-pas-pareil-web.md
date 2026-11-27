@@ -52,7 +52,7 @@ L'intérêt de l'activité est d'amener l'élève à décrire précisément le c
 - Favoriser l'intégration des notions musicales par la manipulation des outils Fonofone.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -72,7 +72,7 @@ Au terme de l'activité:
 - L’élève sera capable de dégager et décrire les similitudes et les différences des sons entendus en utilisant le langage musical propre aux caractéristiques des sons.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

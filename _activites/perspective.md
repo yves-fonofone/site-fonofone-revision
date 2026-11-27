@@ -50,7 +50,7 @@ L'activité peut se réaliser en deux étapes :
 - Amener l'élève à raffiner par le son sa perception de la perspective.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -71,7 +71,7 @@ Au terme de cette activité :
 - L'élève sera en mesure à l'aide des sons d'exprimer et de rendre perceptible aux autres les différents plans du tableau étudié et/ou de sa propre image.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

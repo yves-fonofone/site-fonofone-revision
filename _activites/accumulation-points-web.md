@@ -56,7 +56,7 @@ L'activité peut se décliner en plusieurs étapes cumulatives, en fonction du t
 - Améliorer la réponse de l'élève aux gestes de direction.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -76,7 +76,7 @@ Au terme de l'activité:
 - L'élève sera capable de t *rouver des idées liées au langage, règles et outils propre à la musique qui émergent de la proposition*
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

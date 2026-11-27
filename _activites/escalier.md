@@ -38,7 +38,7 @@ Aller à : **Propositions de réalisation**
 - Familiariser les élèves avec l' outil[arpégiateur.](../outils.html)
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -59,7 +59,7 @@ Au terme de l'activité:
 - L’élève sera capable d’activer la lecture en répondant avec précision aux gestes de direction.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

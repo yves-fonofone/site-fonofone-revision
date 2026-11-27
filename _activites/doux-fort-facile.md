@@ -48,7 +48,7 @@ Très simple à réaliser, elle ne nécessite aucune manipulation autre que le d
 - Initier les élèves aux procédés de crescendo-decrescendo et de rupture.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -69,7 +69,7 @@ Au terme de l'activité:
 - L'élève sera capable d'interpréter un crescendo/decrescendo et un effet de rupture.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

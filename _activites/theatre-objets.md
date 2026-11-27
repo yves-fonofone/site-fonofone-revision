@@ -71,7 +71,7 @@ Suite interdisciplinaire : en cours de français, demander à l'élève d'écrir
 - Amener l’élève à créer avec de la matière inanimée un personnage expressif : par sa respiration, sa démarche et la direction du regard.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -92,7 +92,7 @@ Au terme de l'activité:
 - L’élève sera capable de créer une courte séquence sonorisée pour rendre le personnage expressif.-L’élève sera capable de collaborer avec ses pairs pour créer un dialogue entre le son et le mouvement.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

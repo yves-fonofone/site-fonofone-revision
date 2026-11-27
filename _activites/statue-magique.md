@@ -49,7 +49,7 @@ Réalisation à l'école primaire Le Plateau, Montréal, Québec 
 - Initier les élèves à la création de mouvements répétitifs.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -69,7 +69,7 @@ Au terme de l'activité:
 - L'élève sera capable d'appliquer des stratégies de réponse aux indices sonores.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

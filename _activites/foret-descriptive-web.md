@@ -53,7 +53,7 @@ Ce projet peut être réalisé à partir d'autres images de l'environnement (par
 - Initier les élèves à la manipulation des outils appropriés.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -78,7 +78,7 @@ Au terme de cette activité :
 - L'élève sera capable d'imaginer et exécuter un parcours révélant une forme ( faire percevoir une évolution en amenant des éléments nouveaux, des retours de motifs, des éléments surprise, réaliser une fermeture bien perceptible).
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

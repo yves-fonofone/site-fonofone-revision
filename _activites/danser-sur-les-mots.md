@@ -49,7 +49,7 @@ soit, en collaboration avec l'enseignant.e de français, inviter les élèves à
 - Option poème original : amener l’élève à utiliser sa propre voix comme support sonore pour une création.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -69,7 +69,7 @@ Au terme de cette activité, l’élève sera capable de :
 - dans l'option interdisciplinaire, composer un poème, l'enregistrer, l'intégrer dans Fono-image et créer le parcours en soutien à sa création.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

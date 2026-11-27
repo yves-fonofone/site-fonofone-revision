@@ -49,7 +49,7 @@ Idéalement, les élèves auront travaillé en préalable les notions suivantes 
 - Amener l'élève à utiliser le son pour amplifier la portée émotionnelle de sa création.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -71,7 +71,7 @@ Au terme de cette activité :
 - L’élève sera capable de créer une image illustrant ces deux niveaux de perception et de *l'interpréter* à l'aide de Fonofone par un choix judicieux de sons renforçant notre perception des deux plans.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

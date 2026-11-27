@@ -45,7 +45,7 @@ En plus d'aider l'élève à bien comprendre la manipulation des zones dans l'in
 - Initier les élèves au procédé de fondu-enchaîné.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -65,7 +65,7 @@ Au terme de cette activité :
 - L’élève sera capable d'organiser les zones de manière à produire un enchaînement réussi d'un son à l'autre (pas de trou dans le passage).
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

@@ -45,7 +45,7 @@ Autour du thème du banc public, cette activité permet à l’élève d’explo
 - Amener l'élève à adapter son improvisation en réagissant rapidement aux sons.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -65,7 +65,7 @@ Au terme de cette activité:
 - L'élève sera capable d'adapter rapidement son improvisation aux divers sons de la console "fono-image". 
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

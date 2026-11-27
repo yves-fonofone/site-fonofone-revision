@@ -42,7 +42,7 @@ Aller à : <Suggestions de réalisation
 - Initier les élèves à l'effet de [masque](../lexique.html#masque).
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -63,7 +63,7 @@ Au terme de l'activité:
 - L'élève sera capable de réaliser un effet de [masque](../lexique.html#masque).
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

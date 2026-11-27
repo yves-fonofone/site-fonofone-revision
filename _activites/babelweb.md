@@ -41,7 +41,7 @@ Réalisation au Camp musical Père-Lindsay, Val-St-Côme, Québec
 - Initier les élèves aux procédés de crescendo-decrescendo et de rupture.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -62,7 +62,7 @@ Au terme de cette activité :
 - L’élève sera capable de réaliser les mouvements de crescendo/decrescendo appropriés et, en option, des gestes fluides de [glissando](../lexique.html#glissando)Un glissando (du français « glisser ») est un terme musical d'origine italienne qui désigne le glissement continu d'un son dans un mouvement ascendant ou descendant. Le glissando peut être produit par la voix humaine et, entre autres, par les instruments à cordes frottées et le trombone à coulisse. Un effet de glissando peut être produit sur des instruments à....
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

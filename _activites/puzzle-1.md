@@ -38,7 +38,7 @@ Le but de l'activité est de reconstituer l'extrait complet en trouvant et réun
 - Explorer le répertoire.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -58,7 +58,7 @@ Au terme de cette activité :
 - L’élève aura développé.e son habileté rythmique.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

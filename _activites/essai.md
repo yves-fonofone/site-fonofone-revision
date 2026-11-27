@@ -44,7 +44,7 @@ C'est une première ébauche
 - Amener l'élève à comprendre
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -64,7 +64,7 @@ Au terme de cette activité, l'élève sera capable :
 - idem
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

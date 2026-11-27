@@ -56,7 +56,7 @@ Voir : <  **Propositions de réalisation**
 - (Option 2) Amener l'élève à exprimer différentes émotions par des sons vocaux autres que la parole.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -77,7 +77,7 @@ Au terme de l’activité
 - L’élève sera capable de créer différentes nuances en utilisant l’intensité, la hauteur et le timbre de la voix.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 

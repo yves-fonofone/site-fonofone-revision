@@ -62,7 +62,7 @@ Nous proposons trois niveaux d'exécution, sollicitant de plus en plus la prise 
 - Amener l’élève à appliquer les règles relatives aux mouvements d’ensemble en dansant en réponse aux indications sonores et visuelles de "fono-image".
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Niveau suggéré
 
@@ -82,7 +82,7 @@ Au terme de l'activité:
 - L'élève sera capable d'élaborer sa chorégraphie en relation avec un parcours sonore.
 
 </div>
-<aside class="encadre encadre--teinte" markdown="1">
+<aside class="encadre encadre--blanc" markdown="1">
 
 ### Savoirs essentiels
 
