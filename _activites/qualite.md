@@ -115,20 +115,27 @@ L’enseignant.e fait jouer chacun des sons et demande aux élèves de les décr
 
 </section>
 
-#### Réalisation, première étape
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
 
-<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+#### Réalisation, première étape
 
 - Inviter les élèves à choisir dans les banques Fonofone quatre nouveaux sons correspondant à chacune des quatre qualités.  
  Les sons peuvent être transformés.
 
-</section>
+</div>
+<div class="options__col" markdown="1">
+
+#### Suggestions de rétroaction/objectivation
+
+- *En quoi les sons que tu as choisis répondent-ils aux quatre qualités?*
+
+</div>
+<div class="options__col" markdown="1">
 
 #### Option défis
 
-### (pour élèves plus avancés, ayant une bonne connaissance des outils Fonofone)
-
-<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+(pour élèves plus avancés, ayant une bonne connaissance des outils Fonofone)
 
 Par ordre de difficulté :
 
@@ -139,19 +146,10 @@ Par ordre de difficulté :
 - Transformer le son sec ou le son résonnant en son continu (et granuleux)
 - Faire « chanter » le son granuleux
 
-</section>
+</div>
+<div class="options__col" markdown="1">
 
 #### Suggestions de rétroaction/objectivation
-
-<section class="encadre encadre--blanc encadre--bloc" markdown="1">
-
-- *En quoi les sons que tu as choisis répondent-ils aux quatre qualités?*
-
-</section>
-
-#### Suggestions de rétroaction/objectivation
-
-<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 Pour chaque défi :
 
@@ -159,9 +157,7 @@ Pour chaque défi :
 - *Es-tu satisfait du résultat ? Si ou/non, pourquoi ?*
 - *Que pourrais-tu améliorer?*
 
-</section>
-
-<section class="encadre encadre--blanc encadre--options encadre--options-2">
+</div>
 <div class="options__col" markdown="1">
 
 #### Autre défi
@@ -179,4 +175,3 @@ Pour chaque défi :
 
 </div>
 </section>
-
