@@ -18,23 +18,26 @@ etiquette: "Musique-en ligne"
 
 ## Description
 
-<section class="encadre encadre--description" markdown="1">
-<div class="encadre__texte" markdown="1">
-
-Cette activité permet à l'élève de bien comprendre la différence entre un son doux et fort et de raffiner sa perception des nuances.
-
-Très simple à réaliser, elle ne nécessite aucune manipulation autre que le déclenchement des sons.
-
-< Propositions de réalisation
-
-**Voir aussi :**      [doux/fort avancé](doux-fort-avance.html)  
- [doux/fort, création](doux-fort-avance.html)  
- [proche/loin](proche-loin-web.html)
-
-#### Camp musical Père-Lindsay, Val-St-Côme, Québec
-
+<section class="encadre encadre--description encadre--description-video">
+<div class="encadre__texte">
+<p>Cette activité permet à l'élève de bien comprendre la différence entre un son doux et fort et de raffiner sa perception des nuances.</p>
+<p>Très simple à réaliser, elle ne nécessite aucune manipulation autre que le déclenchement des sons.</p>
+<div class="description__liens">
+<p><a href="#realisation">&lt; Propositions de réalisation</a></p>
+<div class="voir-aussi">
+<p><strong>Voir aussi :</strong></p>
+<ul>
+<li><a href="doux-fort-avance.html">doux/fort avancé</a></li>
+<li><a href="doux-fort-creation.html">doux/fort, création</a></li>
+<li><a href="proche-loin-web.html">proche/loin</a></li>
+</ul>
 </div>
-{% include fiche-media.html %}
+</div>
+</div>
+<figure class="encadre__media">
+<div class="video"><iframe src="https://player.vimeo.com/video/293455200?h=9a0a3eccc9&amp;badge=0&amp;autopause=0&amp;dnt=1" title="doux/fort – Camp musical Père-Lindsay" allow="fullscreen; picture-in-picture" loading="lazy"></iframe></div>
+<figcaption>Camp musical Père-Lindsay, Val-St-Côme, Québec</figcaption>
+</figure>
 </section>
 
 {% include consoles.html %}
@@ -89,9 +92,7 @@ Au terme de l'activité:
 
 [Sonate "Pathétique", introduction (1799)](https://youtube.com/clip/UgkxwRJNHWHxZlfXFCE7Vg4B9LAGlpELufNq)
 
-#### realisation
-
-## Suggestion de réalisation
+<h2 id="realisation">Suggestion de réalisation</h2>
 
 #### En guise de préparation : expérience acoustique
 

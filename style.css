@@ -725,3 +725,15 @@ li.extrait p { margin: 0; }
 /* Lien de retour selon la page d’origine (#depuis-…) */
 .fiche__retours .fiche__retour:not(.retour--defaut) { display: none; }
 .ancre-depuis { display: block; height: 0; scroll-margin-top: 100vh; }
+/* ---- Encadré Description avec vidéo à droite (ex. doux/fort) ---- */
+.encadre--description-video { grid-template-columns: 1.15fr 1fr; gap: 48px; align-items: center; padding: 26px 18px 10px 40px; }
+.encadre--description-video .encadre__texte p { margin: 0 0 8px; }
+.description__liens { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin-top: 14px; }
+.description__liens a { color: #2674aa; text-decoration: none; }
+.description__liens a:hover { text-decoration: underline; }
+.voir-aussi p { margin: 0 !important; font-size: 14px; }
+.voir-aussi ul { list-style: none; margin: 2px 0 0 22px; padding: 0; }
+.voir-aussi li { margin: 0; padding: 0; }
+.voir-aussi li::before { display: none !important; }
+.encadre--description-video .encadre__media .video { border-radius: 0; margin: 0; }
+@media (max-width: 900px) { .encadre--description-video { padding: 18px; } .description__liens { grid-template-columns: 1fr; } }
