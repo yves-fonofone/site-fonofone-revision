@@ -1,0 +1,38 @@
+{%- comment -%}
+  Lien de retour en bas d'une fiche.
+  Une même fiche peut être listée sur plusieurs pages (ex. un tutoriel d'initiation
+  repris en Musique, Danse, Arts plastiques…). Chaque tuile de ces pages ajoute
+  « #depuis-<page> » à l'adresse ; la fiche affiche alors le lien vers la page d'où
+  l'on vient (CSS :target, sans JavaScript). Sans repère, le lien par défaut s'affiche.
+  Paramètres : include.url, include.titre (lien par défaut) ;
+  include.ancres=true n’écrit que les repères invisibles, à placer en haut de la fiche.
+{%- endcomment -%}
+{%- assign cible = page.url | split: "/" | last | prepend: "activites/" -%}
+{%- unless include.ancres %}
+<div class="fiche__retours">
+<p class="fiche__retour retour--defaut"><a href="{{ include.url | relative_url }}">← {{ include.titre }}</a></p>
+{%- endunless -%}
+{%- for p in site.pages -%}
+  {%- assign est_initiation = false -%}
+  {%- assign est_projets = false -%}
+  {%- if p.url contains "/initiation-" -%}{%- assign est_initiation = true -%}{%- endif -%}
+  {%- if p.url contains "/projets-" -%}{%- assign est_projets = true -%}{%- endif -%}
+  {%- if est_initiation or est_projets -%}
+    {%- if p.content contains cible -%}
+      {%- assign pid = p.url | remove: "/" | remove: ".html" -%}
+      {%- assign disc_url = p.url | replace: "/initiation-", "/" | replace: "/projets-", "/" -%}
+      {%- assign disc = site.data.menu.disciplines | where: "url", disc_url | first -%}
+      {%- if include.ancres %}<span class="ancre-depuis" id="depuis-{{ pid }}"></span>{% continue %}{% endif -%}
+      {%- if est_initiation -%}
+        {%- capture libelle -%}Toutes les activités d’initiation à Fonofone – {{ disc.titre }}{%- endcapture -%}
+      {%- else -%}
+        {%- assign libelle = p.titre -%}
+      {%- endif %}
+<p class="fiche__retour retour--{{ pid }}"><a href="{{ p.url | relative_url }}">← {{ libelle }}</a></p>
+<style>.page:has(#depuis-{{ pid }}:target) .retour--defaut { display: none; } .page:has(#depuis-{{ pid }}:target) .retour--{{ pid }} { display: block; }</style>
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor %}
+{%- unless include.ancres %}
+</div>
+{%- endunless %}

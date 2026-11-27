@@ -15,6 +15,7 @@ layout: default
   {%- assign retour_titre = page.retour_titre | default: retour_titre -%}
 {%- endif -%}
 <div class="page wrap page--{{ page.discipline }}">
+  {%- include retour.html ancres=true %}
   {%- if page.brouillon %}
   <p class="avis-brouillon"><strong>Brouillon</strong> — cette fiche n'apparaît dans aucune liste du site. Pour la publier, retirez la ligne <code>brouillon: true</code> de son en-tête.</p>
   {%- endif %}
@@ -51,7 +52,8 @@ layout: default
     <div class="fiche-contenu">
 {{ content }}
     </div>
-    <p class="fiche__retour"><a href="{{ retour_url | relative_url }}">← {% if page.section == "initiation" and page.retour == nil %}Toutes les activités d’initiation à Fonofone{% if d %} – {{ d.titre }}{% endif %}{% elsif page.section or page.retour %}{{ retour_titre }}{% elsif page.discipline == "oiseau-de-feu" %}Toutes les activités {{ d.titre }}{% else %}Toutes les activités d’apprentissage{% if d %} – {{ d.titre }}{% endif %}{% endif %}</a></p>
+    {%- capture libelle_retour -%}{% if page.section == "initiation" and page.retour == nil %}Toutes les activités d’initiation à Fonofone{% if d %} – {{ d.titre }}{% endif %}{% elsif page.section or page.retour %}{{ retour_titre }}{% elsif page.discipline == "oiseau-de-feu" %}Toutes les activités {{ d.titre }}{% else %}Toutes les activités d’apprentissage{% if d %} – {{ d.titre }}{% endif %}{% endif %}{%- endcapture %}
+    {% include retour.html url=retour_url titre=libelle_retour %}
   </article>
   {%- else %}
   <article class="fiche">
@@ -86,7 +88,8 @@ layout: default
     <div class="prose">
 {{ content }}
     </div>
-    <p class="fiche__retour"><a href="{{ retour_url | relative_url }}">← {% if page.section == "initiation" and page.retour == nil %}Toutes les activités d’initiation à Fonofone{% if d %} – {{ d.titre }}{% endif %}{% elsif page.section or page.retour %}{{ retour_titre }}{% elsif page.discipline == "oiseau-de-feu" %}Toutes les activités {{ d.titre }}{% else %}Toutes les activités d’apprentissage{% if d %} – {{ d.titre }}{% endif %}{% endif %}</a></p>
+    {%- capture libelle_retour -%}{% if page.section == "initiation" and page.retour == nil %}Toutes les activités d’initiation à Fonofone{% if d %} – {{ d.titre }}{% endif %}{% elsif page.section or page.retour %}{{ retour_titre }}{% elsif page.discipline == "oiseau-de-feu" %}Toutes les activités {{ d.titre }}{% else %}Toutes les activités d’apprentissage{% if d %} – {{ d.titre }}{% endif %}{% endif %}{%- endcapture %}
+    {% include retour.html url=retour_url titre=libelle_retour %}
   </article>
   {%- endif %}
 </div>

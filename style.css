@@ -721,3 +721,6 @@ li.extrait p { margin: 0; }
   .boite__liens { margin-left: 0 !important; }
 }
 .fiche--fonofone .encadre--blanc { background: #fff; }
+/* Lien de retour selon la page d’origine (#depuis-…) */
+.fiche__retours .fiche__retour:not(.retour--defaut) { display: none; }
+.ancre-depuis { display: block; height: 0; scroll-margin-top: 100vh; }
