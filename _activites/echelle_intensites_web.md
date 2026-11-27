@@ -29,7 +29,7 @@ L'activité peut également être réalisée en mode individuel.
 
 <div class="ligne-qr">
 <h4>Activité connexe : <a href="proche-loin-web.html">&lt; proche-loin</a></h4>
-<img src="../images/2022/11/echelle-intensites-300x300.png" alt="Code QR : console Fono-image" class="qr">
+<a href="proche-loin-web.html"><img src="../images/2022/05/proche-loin-1.png" alt="Code QR : console de l’activité proche-loin" class="qr"></a>
 </div>
 
 </div>
