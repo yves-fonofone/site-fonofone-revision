@@ -14,19 +14,20 @@ etiquette: "Musique-tablette"
 
 ## Description
 
-<section class="encadre encadre--description" markdown="1">
+<section class="encadre encadre--description encadre--description-video" markdown="1">
 <div class="encadre__texte" markdown="1">
 
 Ce jeu d'improvisation très motivant vise à développer la compréhension de la notion de verticalité.
 
 Il contribue également à stimuler l'attention (réponse immédiate au signe du chef), la créativité et la participation active.
 
-Aller à : < Suggestion de réalisation
-
-Camp musical Père-Lindsay, Val-St-Côme, Québec
+[< Suggestion de réalisation](#realisation)
 
 </div>
-{% include fiche-media.html %}
+<figure class="encadre__media">
+<div class="video"><iframe src="https://player.vimeo.com/video/266193790?badge=0&amp;autopause=0&amp;dnt=1" title="Explosions – Camp musical Père-Lindsay" allow="fullscreen; picture-in-picture" loading="lazy"></iframe></div>
+<figcaption>Camp musical Père-Lindsay, Val-St-Côme, Québec</figcaption>
+</figure>
 </section>
 
 {% include consoles.html %}
