@@ -71,7 +71,7 @@ Au terme de cette activité :
 
 ## Repères culturels
 
-<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
+<section class="encadre encadre--blanc encadre--reperes-texte encadre--reperes-cols" markdown="1">
 
 #### [Léo Delibes](https://fr.wikipedia.org/wiki/L%C3%A9o_Delibes)
 

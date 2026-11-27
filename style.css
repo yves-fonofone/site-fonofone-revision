@@ -792,3 +792,9 @@ li.extrait p { margin: 0; }
 .fiche--fonofone .encadre--options > .options__col > :first-child { margin-top: 18px; }
 @media (max-width: 800px) { .fiche--fonofone .encadre--options-3 { grid-template-columns: 1fr; } }
 @media (max-width: 600px) { .fiche-bandeau h1 { min-width: 0; max-width: 100%; overflow-wrap: anywhere; } .fiche-bandeau .sous-titre { margin-left: 0; } } /* titres de bandeau : pas de débordement sur téléphone */
+
+/* Repères culturels en colonnes : chaque repère = un titre + un paragraphe, côte à côte */
+.fiche--fonofone .encadre--reperes-cols { display: grid; grid-auto-flow: column; grid-template-rows: auto auto; grid-auto-columns: 1fr; column-gap: 28px; padding-top: 16px; padding-bottom: 16px; }
+.fiche--fonofone .encadre--reperes-cols > h3, .fiche--fonofone .encadre--reperes-cols > h4 { margin: 0; align-self: end; }
+.fiche--fonofone .encadre--reperes-cols > p { margin: 4px 0 0; }
+@media (max-width: 760px) { .fiche--fonofone .encadre--reperes-cols { display: block; } .fiche--fonofone .encadre--reperes-cols > p { margin-bottom: 12px; } }
