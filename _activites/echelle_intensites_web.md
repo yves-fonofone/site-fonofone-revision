@@ -7,6 +7,9 @@ ordre: 5
 qr_code: /images/qr/qr-echelle-intensites-web.png
 console_nom: Réalisation en équipe
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1737572692.fnmg
+console2_nom: Réalisation individuelle
+console2: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1669250514.fnmg
+qr_code2: /images/2022/11/echelle-intensites-300x300.png
 gratuite: true
 niveau: "À partir du 2e cycle du primaire"
 realisation: "Réalisation collective, individuelle, ou au TNI"
