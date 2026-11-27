@@ -75,9 +75,9 @@ Au terme de cette activité :
 
 <h2 id="realisation">Suggestion de réalisation</h2>
 
-#### Préparation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Préparation
 
 **1.**
 
