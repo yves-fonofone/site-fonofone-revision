@@ -115,9 +115,9 @@ Au terme de l'activité:
 
 <h2 id="realisation">Propositions de réalisation</h2>
 
-#### En guise de préparation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### En guise de préparation
 
 L’enseignant.e crée des équipes de quatre et détermine la durée de la préparation.
 
@@ -136,9 +136,9 @@ Consignes de sonorisation :
 
 </section>
 
-#### Réalisation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Réalisation
 
 1. - Déterminer les rôles de chacun :
  - manipulation de la marionnette et des objets
@@ -161,9 +161,9 @@ Consignes de sonorisation :
 
 </section>
 
-#### Suggestions de rétroaction/objectivation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Suggestions de rétroaction/objectivation
 
 - L'histoire: *peux-tu décrire ton scénario?*
 - *Comment qualifierais-tu ta performance au regard de ton scénario, entre " très réussie" et "complètement ratée"?*
@@ -172,9 +172,9 @@ Consignes de sonorisation :
 
 </section>
 
-#### Piste d'évaluation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Piste d'évaluation
 
 - Efficacité de l’utilisation des connaissances liées aux éléments techniques et aux modes de théâtralisation.
 

@@ -134,9 +134,9 @@ L'objectif est de renforcer l'effet de perspective de l'image par le son.
 
 #### Option 2 -crée ta propre image
 
-#### Consignes
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Consignes
 
 - L'enseignant(e) détermine les consignes pour la réalisation du dessin (devant comporter au moins 4 zones, de la plus proche à la plus éloignée).
 - Sonorisation : limiter à **quatre** le nombre de zones, du plan le plus près au plan le plus éloigné.

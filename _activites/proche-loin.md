@@ -140,9 +140,9 @@ Au terme de cette activité :
 </div>
 </section>
 
-#### 3. Perspective à trois plans
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### 3. Perspective à trois plans
 
 Réalisation individuelle ou en équipes de trois
 
@@ -182,9 +182,9 @@ Chaque équipe doit réaliser une "image" sonore constituée de plusieurs plans.
 </div>
 </section>
 
-#### →Réalisation en équipe
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### →Réalisation en équipe
 
 (Peut faire également l'objet d'une évaluation)
 

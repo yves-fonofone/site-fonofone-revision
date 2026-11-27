@@ -110,18 +110,18 @@ Au terme de l'activité:
 
 Option 1 : le même parcours pour toutes les équipes
 
-#### Préparation - danse
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Préparation - danse
 
 - L'enseignant.e présente la thématique et projette au TNI la console "fono-image".
 - Une première séance sera consacrée à travailler dans de courtes improvisations dirigées chacun des types d'efforts correspondant aux quatre zones de la console "fono-image".
 
 </section>
 
-#### Préparation - trame sonore
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Préparation - trame sonore
 
 Le Fono-image "Radioactifs" est prêt à être utilisé (sonorisation par défaut des zones et parcours automatisé). Mais nous suggérons fortement d'intégrer les élèves dans la création de la trame sonore :
 

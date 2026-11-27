@@ -102,9 +102,9 @@ Au terme de cette activité:
 
 <h2 id="realisation">Propositions de réalisation</h2>
 
-#### En amorce
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### En amorce
 
 - Présenter très sommairement Augusto Boal.
 
@@ -161,9 +161,9 @@ On devra consacrer une bonne partie de période à la démonstration de l'applic
 </div>
 </section>
 
-#### Critères ou grille d'évaluation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Critères ou grille d'évaluation
 
 Voir les documents :
 

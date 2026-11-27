@@ -98,9 +98,9 @@ Au terme de l'activité:
 
 <h2 id="realisation">Suggestion de réalisation</h2>
 
-#### En guise de préparation : expérience acoustique
-
 <section class="encadre encadre--blanc encadre--preparation" markdown="1">
+
+#### En guise de préparation : expérience acoustique
 
 - L'enseignant demande à l'élève de trouver dans son environnement immédiat une façon de produire un bruit très doux.  
  Ce peut être, par exemple, un léger grattement sur la table, un doux frottement des cordes d'une guitare, un froissement léger de papier, un chuchotement.

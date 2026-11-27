@@ -71,9 +71,9 @@ Au terme de l'activité:
 
 <h2 id="realisation">Suggestion de réalisation</h2>
 
-#### Expérience acoustique
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Expérience acoustique
 
 En tapant dans ses mains ou sur des instruments à percussion, réaliser une belle courbe de crescendo en huit battues, de *ppp* à *fff*.
 

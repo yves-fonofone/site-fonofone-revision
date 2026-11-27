@@ -127,9 +127,9 @@ L'enseignant.e fait entendre chacun des souhaits de bonne journée en demandant 
 </div>
 </section>
 
-#### Variante
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Variante
 
 Le groupe est divisé en sept équipes qui se voient chacune confier un souhait de bonne journée différent, ce qui permet des mouvements de fondu/enchaîné et des jeux polyphoniques intéressants entre les groupes.
 

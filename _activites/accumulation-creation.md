@@ -126,9 +126,9 @@ Diviser le groupe en quelques équipes.
 </div>
 </section>
 
-#### Pistes d'évaluation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Pistes d'évaluation
 
 - *Le choix des sons était-il adéquat au regard de l'objectif ([accumulation](../lexique.html#accumulation) par ajouts de sons brefs)?*
 - *Est-ce que le procédé d'[accumulation](../lexique.html#accumulation) était bien perceptible ?*

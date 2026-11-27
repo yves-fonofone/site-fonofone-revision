@@ -106,9 +106,9 @@ Au terme de cette activité :
 </div>
 </section>
 
-#### Un exemple de réalisation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Un exemple de réalisation
 
 banque "sons divers" >  [souffle <>]
 

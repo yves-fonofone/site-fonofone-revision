@@ -82,9 +82,9 @@ volume
 
 mélangeur
 
-#### Réalisation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Réalisation
 
 - L'animateur choisit un segment et demande à l'élève de l'installer dans l'onglet 1.
 - L'élève cherche les deux autres segments et les installe dans les deux onglets inoccupés.
@@ -128,9 +128,9 @@ div_ S     div_ H     div_ F
 
 </section>
 
-#### Suggestions d'évaluation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Suggestions d'évaluation
 
 - *Est-ce que l'élève a été capable d'identifier les 3 segments d'un extrait ?*
 - *Est-ce que l'élève a réussi à les placer dans le bon ordre?*
@@ -139,9 +139,9 @@ div_ S     div_ H     div_ F
 
 </section>
 
-#### Pour aller plus loin : un jeu créatif, à réaliser en collectif
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Pour aller plus loin : un jeu créatif, à réaliser en collectif
 
 - Chaque élève choisit trois segments provenant de trois extraits différents.
 - Le chef (ce peut être un élève) pointe rapidement un élève à la fois qui déclenche instantanément un de ses extraits, en mode non bouclé.

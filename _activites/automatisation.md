@@ -53,9 +53,9 @@ Les directives varieront selon la discipline, le niveau et la connaissance de Fo
 
 <h2 id="realisation">Suggestion de réalisation</h2>
 
-#### Réalisation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Réalisation
 
 Option 1.
 
@@ -73,9 +73,9 @@ Ou toute autre variante selon votre imagination et l'habileté que vous souhaite
 
 </section>
 
-#### Art dramatique et danse
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Art dramatique et danse
 
 Développer une activité où les élèves, en équipes, inventeront une saynète provoquée par le parcours sonore qu'ils/elles auront créé (bouclé ou non).
 

@@ -132,9 +132,9 @@ Période 3 : Interprétation
 </div>
 </section>
 
-#### Pistes d'évaluation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Pistes d'évaluation
 
 - Choix des sons et des transformations : expriment-elles bien le thème choisi par l'équipe?
 - Disposition des zones : permet-elle des relations efficaces de fondus/enchaînés entre les sons?

@@ -138,9 +138,9 @@ L'enseignant.e peut énoncer des règles, par exemple :
 </div>
 </section>
 
-#### Suggestions de rétroaction/objectivation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Suggestions de rétroaction/objectivation
 
 - Intégration à Fono-image : *est-ce que cette opération a été facile/difficile ? Pourquoi?* (Intégration de la technique).
 - *Explique-nous pourquoi tu as choisi de placer les zones sonores sur telle et telle section du dessin.*
@@ -149,9 +149,9 @@ L'enseignant.e peut énoncer des règles, par exemple :
 
 </section>
 
-#### Option (dessins fournis)
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Option (dessins fournis)
 
 - L'enseignant.e répartit les dessins entre les élèves.
 - Les élèves sonorisent leur dessin en suivant les consignes de la **deuxième étape de l'option 1**.

@@ -68,17 +68,17 @@ L’utilisation du métronome permet de ralentir les répétitions du fragment s
 
 <h2 id="realisation">Réalisation</h2>
 
-#### En option :
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### En option :
 
 L'enseignant(2) montre préalablement à l'élève comment utiliser le métronome pour ralentir les répétitions du court fragment sonore isolé (l'accident), ce qui en facilite la perception.
 
 </section>
 
-#### Consignes et réalisation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Consignes et réalisation
 
 - L’enseignant(e) demande à l'élève de choisir le son [ Intrus 1]
 - L'élève doit bien écouter le son et tenter de repérer le corps étranger.
@@ -87,9 +87,9 @@ L'enseignant(2) montre préalablement à l'élève comment utiliser le métronom
 
 </section>
 
-#### Option créative
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Option créative
 
 - On demande aux élèves de réaliser leur propre "intrus" (voir la vidéo).
 - Inviter un(e) élève à jouer sa réalisation devant le groupe (idéalement projetée au TNI).
@@ -107,9 +107,9 @@ L'enseignant(2) montre préalablement à l'élève comment utiliser le métronom
 
 </section>
 
-#### Option créative
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Option créative
 
 - La réalisation technique a t-elle été bien comprise et bien réalisée?
 - L'inclusion de "l'intrus" est-elle réussie ? (son bref, se démarquant du son continu).

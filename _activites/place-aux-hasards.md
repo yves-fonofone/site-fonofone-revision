@@ -97,9 +97,9 @@ Au terme de cette activité, l’élève sera capable :
 
 <h2 id="realisation">Suggestions de réalisation</h2>
 
-#### Préparation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Préparation
 
 Fono-image à construire
 

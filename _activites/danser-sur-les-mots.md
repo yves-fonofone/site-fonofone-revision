@@ -142,17 +142,17 @@ Au terme de cette activité, l’élève sera capable de :
 </div>
 </section>
 
-#### Option 2 - Réalisation interdisciplinaire, en collaboration avec l'enseignant.e de français
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Option 2 - Réalisation interdisciplinaire, en collaboration avec l'enseignant.e de français
 
 Nécessite de la part des enseignant.es et des élèves une connaissance approfondie de la manipulation de Fono-image, particulièrement de la méthode d'enregistrement.
 
 </section>
 
-#### Préparation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Préparation
 
 - En collaboration avec l'enseignant.e de danse, l’enseignant·e de français détermine la stratégie pour l'écriture et le choix des poèmes. Piste :  
  Dans chaque équipe, les élèves lisent et analysent le poème écrit par chacun des membres. Puis, les membres de l'équipe s'entendent pour choisir l'un des poèmes ou en recomposent un nouveau à partir de fragments de tirés de chaque poème.

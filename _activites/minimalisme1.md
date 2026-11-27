@@ -184,9 +184,9 @@ Au terme de cette activité:
 </div>
 </section>
 
-#### Quelques pistes pour varier et terminer
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Quelques pistes pour varier et terminer
 
 Quand tous les pas de l'arpégiateur ont été montés, on peut introduire une variation.  
  Par exemple :

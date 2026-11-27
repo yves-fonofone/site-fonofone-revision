@@ -84,9 +84,9 @@ Au terme de l'activité:
 
 <h2 id="realisation">Proposition de réalisation 1</h2>
 
-#### Première étape
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Première étape
 
 - L'enseignant.e installe dans l'onglet 1 le son-modèle de son choix (le son [arpège_électr] est installé par défaut).
 - L’enseignant.e demande à l'élève de choisir et de charger dans l'onglet 2 un son qui s'associe bien, selon lui, au son modèle.

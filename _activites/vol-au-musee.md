@@ -95,9 +95,9 @@ Au terme de cette activité:
 
 <h2 id="realisation">Propositions de réalisation</h2>
 
-#### Mise en situation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Mise en situation
 
 ***"Vous êtes des voleurs qui s’introduisent dans un* *musée pour dérober un joyau de la Couronne bavaroise.* *Vous êtes seuls, le musée est totalement silencieux. Soyez* *attentifs aux sons que vous allez entendre et réagissez selon votre instinct.***  
  ***Attention ! Ne faites aucun bruit ! Il y a des gardiens de sécurité et ils ne* *doivent pas vous prendre."***

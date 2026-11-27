@@ -84,9 +84,9 @@ outil de sélection
 
 mélangeur
 
-#### Réalisation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Réalisation
 
 - L'enseignant.e demande à l'élève d'installer l'un des 3 collages **dans les 3 onglets**.
 - L'élève doit d'abord chercher à identifier les 3 segments d'une même œuvre, disséminés dans le collage.
@@ -112,9 +112,9 @@ Fauré, Sicilienne
 
 <audio controls preload="none" src="../audio/activites/puzzle-2/faure_sicilienne-1.mp3"></audio>
 
-#### Suggestions d'évaluation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Suggestions d'évaluation
 
 - *Est-ce que l'élève a été capable d'identifier les 3 segments d'un extrait ?*
 - *Dans quelle mesure l'élève a t-il/elle réussi à l'aide de l'outil de sélection à les isoler dans chacun des onglets ?*
@@ -123,9 +123,9 @@ Fauré, Sicilienne
 
 </section>
 
-#### Pour aller plus loin : un jeu créatif, à réaliser en collectif
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Pour aller plus loin : un jeu créatif, à réaliser en collectif
 
 - Chaque élève choisit trois segments provenant de trois extraits différents.
 - Le chef (ce peut être un élève) pointe rapidement un élève à la fois qui déclenche instantanément un de ses extraits, en mode non bouclé.

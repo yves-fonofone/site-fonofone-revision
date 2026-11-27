@@ -81,9 +81,9 @@ Au terme de l'activité,
 
 <h2 id="realisation">Propositions de réalisation</h2>
 
-#### Proposition 1
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Proposition 1
 
 Dans la banque [local] du menu Sons, l'enseignant en musique François Gauthier a déposé 11 transformations de sons provenant de la banque originale [COSIMU]. À l'aide des divers outils Fonofone, il a altéré ces sons.
 Le jeu consiste à trouver les sons originaux et à identifier la nature des transformations. (Voir les[ Résolutions](../documents/2022/11/resolutions-enigmes-1.pdf))
@@ -99,9 +99,9 @@ Variante
 
 #### Proposition 2
 
-#### Les élèves créent leur propre énigme
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Les élèves créent leur propre énigme
 
 1ère option : réalisation individuelle
 

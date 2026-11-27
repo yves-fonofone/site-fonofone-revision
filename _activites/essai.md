@@ -83,26 +83,26 @@ Au terme de cette activité, l'élève sera capable :
 
 <h2 id="realisation">Suggestions de réalisation</h2>
 
-#### Préparation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Préparation
 
 …
 
 </section>
 
-#### Réalisation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Réalisation
 
 1. Première étape
 2. Deuxième étape
 
 </section>
 
-#### Évaluation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Évaluation
 
 …
 

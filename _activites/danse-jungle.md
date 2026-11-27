@@ -117,27 +117,27 @@ Au 1er cycle du secondaire :
 
 p- En collaboration avec l'enseignant.e de géographie ou d'arts plastiques, trouver (ou mieux dessiner) une nouvelle image et l'intégrer au Fono-image.
 
-#### Préparation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Préparation
 
 - L'enseignant.e présente l'activité. Il/elle fait jouer chacun des sons et donne des exemples de parcours.
 - On travaille les mouvements associés à chacun des sons
 
 </section>
 
-#### Réalisation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Réalisation
 
 - Les élèves sont invités à tour de rôle à venir au TNI réaliser un parcours de leur choix à travers les sons.
 - Les autres élèves dansent en devant adapter leur enchainement des mouvements en fonction du parcours proposé.
 
 </section>
 
-#### Suites et réinvestissement
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Suites et réinvestissement
 
 Primaire et secondaire
 
@@ -149,9 +149,9 @@ Secondaire
 
 </section>
 
-#### Évaluation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Évaluation
 
 **Par compétence avec les critères du programme CAPS**
 

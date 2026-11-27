@@ -164,9 +164,9 @@ Idéalement, on connectera l'ordinateur de l'équipe au TNI.
 </div>
 </section>
 
-#### Pistes d'évaluation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Pistes d'évaluation
 
 Dans quelle mesure l'équipe a t-elle respecté les directives énoncées dans le **Fichier élève** ?
 

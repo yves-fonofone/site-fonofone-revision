@@ -114,9 +114,9 @@ Au terme de l'activité:
 </div>
 </section>
 
-#### Évaluation de l'option création
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Évaluation de l'option création
 
 - La réalisation technique a t-elle été bien comprise et bien réalisée?
 - L'inclusion de "l'intrus" est-elle réussie ? (son bref, se démarquant du son continu).
