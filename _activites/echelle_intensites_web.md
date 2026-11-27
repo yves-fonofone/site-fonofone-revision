@@ -18,7 +18,7 @@ etiquette: "Musique-en ligne"
 
 ## Description
 
-<section class="encadre encadre--description" markdown="1">
+<section class="encadre encadre--description encadre--description-video" markdown="1">
 <div class="encadre__texte" markdown="1">
 
 Cette activité amène l'élève à développer sa perception des nuances, du plus doux au plus fort. Réalisée en équipe, elle contribue à développer l'attention et le sens de la pulsation. 
@@ -29,13 +29,13 @@ L'activité peut également être réalisée en mode individuel.
 
 #### Activité connexe : [< proche-loin](proche-loin-web.html)
 
-Élèves de 2e cycle, Collège Bourget, Rigaud, Québec  
- Vidéo captée par l'enseignant: François Gauthier
-
 ![echelle-intensites](../images/2022/11/echelle-intensites-300x300.png){: .qr}
 
 </div>
-{% include fiche-media.html %}
+<figure class="encadre__media">
+<div class="video"><iframe src="https://player.vimeo.com/video/804670894?h=775760740b&amp;badge=0&amp;autopause=0&amp;dnt=1" title="Échelle d'intensités" allow="fullscreen; picture-in-picture" loading="lazy"></iframe></div>
+<figcaption>Élèves de 2e cycle, Collège Bourget, Rigaud, Québec<br>Vidéo captée par l'enseignant : François Gauthier</figcaption>
+</figure>
 </section>
 
 {% include consoles.html %}
