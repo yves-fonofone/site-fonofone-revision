@@ -27,9 +27,10 @@ L'activité peut également être réalisée en mode individuel.
 
 [< Propositions de réalisation](#realisation)
 
-#### Activité connexe : [< proche-loin](proche-loin-web.html)
-
-![echelle-intensites](../images/2022/11/echelle-intensites-300x300.png){: .qr}
+<div class="ligne-qr">
+<h4>Activité connexe : <a href="proche-loin-web.html">&lt; proche-loin</a></h4>
+<img src="../images/2022/11/echelle-intensites-300x300.png" alt="Code QR : console Fono-image" class="qr">
+</div>
 
 </div>
 <figure class="encadre__media">

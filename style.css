@@ -798,3 +798,8 @@ li.extrait p { margin: 0; }
 .fiche--fonofone .encadre--reperes-cols > h3, .fiche--fonofone .encadre--reperes-cols > h4 { margin: 0; align-self: end; }
 .fiche--fonofone .encadre--reperes-cols > p { margin: 4px 0 0; }
 @media (max-width: 760px) { .fiche--fonofone .encadre--reperes-cols { display: block; } .fiche--fonofone .encadre--reperes-cols > p { margin-bottom: 12px; } }
+
+/* Titre suivi d'un code QR sur la même ligne (ex. Échelle d'intensités) */
+.fiche--fonofone .ligne-qr { display: flex; align-items: center; gap: 24px; margin: 16px 0; }
+.fiche--fonofone .ligne-qr h4 { margin: 0; }
+.fiche--fonofone .fiche-contenu .ligne-qr img.qr { width: 80px; height: 80px; }
