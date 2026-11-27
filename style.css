@@ -553,7 +553,7 @@ li.extrait p { margin: 0; }
 .encadre--description:not(:has(.encadre__media)) { grid-template-columns: 1fr; }
 .encadre__media img { display: block; width: 100%; border-radius: 4px; }
 .fiche--fonofone .rangee { align-items: start; }
-.fiche--fonofone .rangee > .encadre { margin-top: 56px; }
+.fiche--fonofone .rangee > .encadre { margin-top: 0; }
 @media (max-width: 900px) { .fiche--fonofone .rangee > .encadre { margin-top: 0; } }
 .fiche--fonofone .fiche-contenu img.qr { width: 120px; height: 120px; }
 
