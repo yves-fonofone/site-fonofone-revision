@@ -79,7 +79,7 @@ Au terme de cette activité :
 
 #### [Serge Garant](https://smcq.qc.ca/smcq/fr/artiste/garant_se/Serge_Garant/biographie)
 
-[**Circuits extrait)**](https://fonofone.org/illustration/circuits-1-9/)
+[**Circuits extrait**](https://fonofone.org/illustration/circuits-1-9/)
 
 ### [Alistair Macdonald](https://electrocd.com/en/artiste/macdonald_al/alistair-macdonald)
 
