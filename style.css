@@ -774,3 +774,10 @@ li.extrait p { margin: 0; }
 .fiche--fonofone .encadre--options { display: grid; grid-template-columns: 1fr 1fr; gap: 8px 48px; padding: 8px 32px 24px; margin: 24px 0; }
 .fiche--fonofone .encadre--options h4 { margin-top: 18px; }
 @media (max-width: 800px) { .fiche--fonofone .encadre--options { grid-template-columns: 1fr; } }
+/* Exemples de réalisation en 3 colonnes séparées par un filet turquoise (ex. doux/fort) */
+.exemples { display: grid; grid-template-columns: repeat(3, 1fr); margin: 12px 0 24px; }
+.exemples figure { margin: 0; padding: 0 24px; border-left: 1px solid #5fa7a7; }
+.exemples figure:first-child { padding-left: 0; border-left: 0; }
+.exemples figcaption { margin-bottom: 14px; font: 600 15px/1.45 Roboto, Helvetica, sans-serif; color: #222; }
+.exemples img { display: block; max-width: 100%; height: auto; }
+@media (max-width: 800px) { .exemples { grid-template-columns: 1fr; gap: 24px; } .exemples figure { padding: 0; border-left: 0; } }

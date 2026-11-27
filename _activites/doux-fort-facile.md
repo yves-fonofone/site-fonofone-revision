@@ -153,8 +153,8 @@ Au terme de l'activité:
 
 #### Quelques exemples de réalisation au TNI (2 sons) ou en collectif
 
-**Contraste, rupture et effet de masque ![](../images/2022/03/dx-fort-3-300x146.png)**
-
-**Entrée et sortie brusque des sons forts (contraste et rupture) ![](../images/2022/03/dx-fort-2-300x110.png)**
-
-**Dévoilement de la texture douce par decrescendo des sons forts** ![](../images/2022/03/dx-fort-2-2-300x117.png)
+<div class="exemples">
+<figure><figcaption>Contraste, rupture et effet de masque</figcaption><img src="../images/2022/03/dx-fort-3-300x146.png" alt="Contraste, rupture et effet de masque" loading="lazy"></figure>
+<figure><figcaption>Entrée et sortie brusque des sons forts (contraste et rupture)</figcaption><img src="../images/2022/03/dx-fort-2-300x110.png" alt="Entrée et sortie brusque des sons forts" loading="lazy"></figure>
+<figure><figcaption>Dévoilement de la texture douce par decrescendo des sons forts</figcaption><img src="../images/2022/03/dx-fort-2-2-300x117.png" alt="Dévoilement de la texture douce par decrescendo" loading="lazy"></figure>
+</div>
