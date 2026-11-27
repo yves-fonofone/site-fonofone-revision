@@ -770,3 +770,7 @@ li.extrait p { margin: 0; }
 .fiche--fonofone .fiche-contenu > .rangee > * > h2:first-child { margin-top: 0; }
 .fiche--fonofone .fiche-contenu > h2 + .rangee { margin-top: 24px; } /* rangée placée sous son propre titre (ex. Beautés crues) : pas de saut de section */
 .fiche--fonofone .fiche-contenu > audio { display: block; margin: 8px 0; }
+/* Options de réalisation et leurs rétroactions sur 2 colonnes parallèles (ex. doux/fort) */
+.fiche--fonofone .encadre--options { display: grid; grid-template-columns: 1fr 1fr; gap: 8px 48px; padding: 8px 32px 24px; margin: 24px 0; }
+.fiche--fonofone .encadre--options h4 { margin-top: 18px; }
+@media (max-width: 800px) { .fiche--fonofone .encadre--options { grid-template-columns: 1fr; } }

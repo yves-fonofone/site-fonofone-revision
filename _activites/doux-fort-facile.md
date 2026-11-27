@@ -106,6 +106,9 @@ Au terme de l'activité:
 - L'enseignant demande à l'élève de fermer les yeux pour bien écouter la texture très douce produite par l'ensemble des bruits.  
  Option : pointer tour à tour un élève, qui doit faire ressortir un peu son bruit de l'ensemble puis s'y fondre à nouveau.
 
+<section class="encadre encadre--blanc encadre--options">
+<div class="options__col" markdown="1">
+
 #### Option 1 : réalisation individuelle ou au TNI
 
 - Demander à l'élève de choisir un son doux et un son fort.
@@ -114,6 +117,9 @@ Au terme de l'activité:
  (effet de masque).
 - Lui demander d'arrêter le son fort : que remarque t-il ?
 - Inviter un autre élève à refaire l'expérience (TNI)
+
+</div>
+<div class="options__col" markdown="1">
 
 #### Suggestions de rétroaction/objectivation
 
@@ -124,18 +130,26 @@ Au terme de l'activité:
  - les deux sont dans des registres très différenciés, par exemple le son doux  est dans le grave alors que le son fort  est plus   aigu, ou le contraire;  
  - le son doux est mélodique alors que le son fort est bruiteux, ou le contraire...
 
-#### Option 2 : réalisation en collectif
+</div>
+<div class="options__col" markdown="1">
 
-#### Suggestions de rétroaction/objectivation
+#### Option 2 : réalisation en collectif
 
 - Demander aux élèves de choisir individuellement un son doux et un son fort.
 - Leur proposer divers scénarios de réalisation (voir les exemples plus bas) et choisir celui qui a l'adhésion de la majorité (on pourra proposer des variantes par la suite).
 - Interpréter le scénario choisi.
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Suggestions de rétroaction/objectivation
+
 - *Est-ce que notre exécution a bien fait ressortir le contraste entre les sons forts et les sons doux?*
-- *As-tu trouvé que les gestes de direction étaient clairs?  
- - Si oui / non, pourquoi?* (Il est intéressant de faire diriger un.e élève)
+- *As-tu trouvé que les gestes de direction étaient clairs? Si oui / non, pourquoi?* (Il est intéressant de faire diriger un.e élève)
 - *Est-ce qu'on entendait des sons doux à travers les sons forts? Si oui, qui peut dire lesquels - et pourquoi?*
+
+</div>
+</section>
 
 #### Quelques exemples de réalisation au TNI (2 sons) ou en collectif
 
