@@ -791,3 +791,17 @@ li.extrait p { margin: 0; }
 .fiche--fonofone .encadre--options > .options__col > :first-child { margin-top: 18px; }
 @media (max-width: 800px) { .fiche--fonofone .encadre--options-3 { grid-template-columns: 1fr; } }
 @media (max-width: 600px) { .fiche-bandeau h1 { min-width: 0; max-width: 100%; overflow-wrap: anywhere; } .fiche-bandeau .sous-titre { margin-left: 0; } } /* titres de bandeau : pas de débordement sur téléphone */
+
+/* Lexique : bouton « Retour à l'activité » (visible seulement quand on arrive d'une fiche) */
+.ancre-lexique { scroll-margin-top: 70px; }
+.lexique dt:has(.ancre-lexique:target) { background: var(--menu-hover); }
+.lexique-retour {
+  display: none; position: fixed; z-index: 50; right: 24px; bottom: 24px;
+  max-width: calc(100vw - 48px); flex-direction: column; gap: 2px;
+  padding: 12px 20px; border-radius: 28px; background: var(--red); color: #fff !important;
+  font: 600 15px/1.25 Poppins, sans-serif; text-decoration: none;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, .25);
+}
+.lexique-retour span { font-weight: 400; font-size: 13px; opacity: .9; }
+.lexique-retour:hover { filter: brightness(1.08); }
+@media (max-width: 600px) { .lexique-retour { right: 16px; bottom: 16px; max-width: calc(100vw - 32px); } }

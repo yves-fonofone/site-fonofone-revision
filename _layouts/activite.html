@@ -14,6 +14,7 @@ layout: default
   {%- assign retour_url = page.retour -%}
   {%- assign retour_titre = page.retour_titre | default: retour_titre -%}
 {%- endif -%}
+{%- assign lien_lexique = page.url | split: "/" | last | remove: ".html" | prepend: "lexique.html#" | append: "--" -%}
 <div class="page wrap page--{{ page.discipline }}">
   {%- include retour.html ancres=true %}
   {%- if page.brouillon %}
@@ -50,7 +51,7 @@ layout: default
     </div>
     {%- endif %}
     <div class="fiche-contenu">
-{{ content }}
+{{ content | replace: "lexique.html#", lien_lexique }}
     </div>
     {%- capture libelle_retour -%}{% if page.section == "initiation" and page.retour == nil %}Toutes les activités d’initiation à Fonofone{% if d %} – {{ d.titre }}{% endif %}{% elsif page.section or page.retour %}{{ retour_titre }}{% elsif page.discipline == "oiseau-de-feu" %}Toutes les activités {{ d.titre }}{% else %}Toutes les activités d’apprentissage{% if d %} – {{ d.titre }}{% endif %}{% endif %}{%- endcapture %}
     {% include retour.html url=retour_url titre=libelle_retour %}
@@ -86,7 +87,7 @@ layout: default
     </div>
     {%- endif %}
     <div class="prose">
-{{ content }}
+{{ content | replace: "lexique.html#", lien_lexique }}
     </div>
     {%- capture libelle_retour -%}{% if page.section == "initiation" and page.retour == nil %}Toutes les activités d’initiation à Fonofone{% if d %} – {{ d.titre }}{% endif %}{% elsif page.section or page.retour %}{{ retour_titre }}{% elsif page.discipline == "oiseau-de-feu" %}Toutes les activités {{ d.titre }}{% else %}Toutes les activités d’apprentissage{% if d %} – {{ d.titre }}{% endif %}{% endif %}{%- endcapture %}
     {% include retour.html url=retour_url titre=libelle_retour %}

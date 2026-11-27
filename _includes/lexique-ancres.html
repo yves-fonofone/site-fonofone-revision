@@ -1,0 +1,13 @@
+{%- comment -%}
+  Repères invisibles placés dans le titre d'un terme du lexique (paramètre include.terme).
+  Les fiches font pointer leurs liens vers « lexique.html#<fiche>--<terme> » ;
+  le repère ciblé fait apparaître le bouton « Retour à l'activité » (CSS :target, sans JavaScript).
+{%- endcomment -%}
+{%- capture a1 -%}lexique.html#{{ include.terme }}){%- endcapture -%}
+{%- capture a2 -%}lexique.html#{{ include.terme }}"{%- endcapture -%}
+{%- for f in site.activites -%}
+  {%- if f.content contains a1 or f.content contains a2 -%}
+    {%- assign slug = f.url | split: "/" | last | remove: ".html" -%}
+<span class="ancre-lexique" id="{{ slug }}--{{ include.terme }}"></span>
+  {%- endif -%}
+{%- endfor -%}
