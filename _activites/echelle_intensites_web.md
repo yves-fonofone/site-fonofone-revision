@@ -1,6 +1,7 @@
 ---
 titre: Échelle d’intensités
 sous_titre: crescendo et ostinato
+titre_petit: true
 discipline: musique-web
 categorie: Langage musical
 ordre: 5
