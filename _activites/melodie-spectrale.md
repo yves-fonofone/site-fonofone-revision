@@ -18,7 +18,7 @@ etiquette: "Musique-tablette"
 
 ### Objectif pédagogique
 
-- L'élève est capable de produire une [mélodie de timbre](../lexique.html#melodie-de-timbre)Créer une évolution temporelle non pas en variant la hauteur du son, comme dans une mélodie traditionnelle, mais en agissant sur sa "couleur" par des actions du filtre soit en atténuant les valeurs aiguës (passe-bas) ou les valeurs graves (passe-haut, soit en faisant ressortir une fréquence harmonique précise (bande supérieure du filtre Fonofone).   La mélodie de timbre (Klangfarbenmelodie) est... à l'aide du filtre.
+- L'élève est capable de produire une [mélodie de timbre](../lexique.html#melodie-de-timbre) à l'aide du filtre.
 
 ### Intentions pédagogiques
 

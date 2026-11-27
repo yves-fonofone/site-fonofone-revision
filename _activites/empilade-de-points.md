@@ -14,7 +14,7 @@ etiquette: "Musique-tablette"
 
 {% include consoles.html %}
 
-## Contenu principal : [accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs. par la multiplication de sons brefs
+## Contenu principal : [accumulation](../lexique.html#accumulation) par la multiplication de sons brefs
 
 ### Objectif pédagogique
 
@@ -22,7 +22,7 @@ L'élève est capable de répondre avec précision aux gestes de direction.
 
 ### Intentions pédagogiques
 
-- Familiariser les élèves avec une ou ou quelques-unes des notions suivantes : accélération, [rythme aléatoire](../lexique.html#rythme-aleatoire)Non mesuré, imprévisible., verticalité-horizontalité, densité, [spatialisation](../lexique.html#spatialisation)En mixage de musique, la spatialisation est utilisée pour répartir dans l'espace les différents instruments afin de favoriser leur intelligibilité., [glissando](../lexique.html#glissando)Un glissando (du français « glisser ») est un terme musical d'origine italienne qui désigne le glissement continu d'un son dans un mouvement ascendant ou descendant. Le glissando peut être produit par la voix humaine et, entre autres, par les instruments à cordes frottées et le trombone à coulisse. Un effet de glissando peut être produit sur des instruments à....
+- Familiariser les élèves avec une ou ou quelques-unes des notions suivantes : accélération, [rythme aléatoire](../lexique.html#rythme-aleatoire), verticalité-horizontalité, densité, [spatialisation](../lexique.html#spatialisation), [glissando](../lexique.html#glissando).
 - Amener les élèves à connaître les types d’attaque sonore : ferme, douce, sèche, avec résonance.
 - Améliorer la réponse des élèves aux gestes de direction.
 
@@ -129,13 +129,13 @@ En plus du son de bambou, chaque élève sélectionne dans les onglets 2 et 3 le
 
 Les élèves ont choisi  d'établir une toile de fond à partir des sons [mélopée] et [ritournelle], présents jusqu'à la fin. Différents sons se sont empilés graduellement, créant en avant-plan un joli paysage sonore s'estompant graduellement à la fin pour laisser place à la trame de fond, accompagnée de quelques sons de bambou.
 
-La forme de cette section B reprend donc, avec moins de densité,  le procédé compositionnel de la section A ([accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs. de sons de bambous) avec cette fois-ci des sources sonores hétérogènes.
+La forme de cette section B reprend donc, avec moins de densité,  le procédé compositionnel de la section A ([accumulation](../lexique.html#accumulation) de sons de bambous) avec cette fois-ci des sources sonores hétérogènes.
 
 #### Proposition 2
 
 (Période d'une heure, ou plus...)
 
 - Diviser le groupe en quelques équipes.
-- En s'inspirant des activités précédentes, chaque équipe est invitée à composer une courte pièce autour du procédé d'[accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs. : déterminer les sons, le scénario, et mettre en place l'exécution. L'enseignant incite les élèves à non pas reproduire les activités dirigées précédentes, mais à faire preuve d'imagination et d'inventivité.
+- En s'inspirant des activités précédentes, chaque équipe est invitée à composer une courte pièce autour du procédé d'[accumulation](../lexique.html#accumulation) : déterminer les sons, le scénario, et mettre en place l'exécution. L'enseignant incite les élèves à non pas reproduire les activités dirigées précédentes, mais à faire preuve d'imagination et d'inventivité.
 - Puis, chaque équipe exécute sa réalisation devant l'ensemble du goupe.
-- **Objectivation : dans chaque pièce, le procédé d'[accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs. est-il évident? Quel est dans chacune d'elles l'élément original qui se démarque des modèles (activités dirigées réalisées précédemment)? Peut-on décrire l’intention? La forme?**
+- **Objectivation : dans chaque pièce, le procédé d'[accumulation](../lexique.html#accumulation) est-il évident? Quel est dans chacune d'elles l'élément original qui se démarque des modèles (activités dirigées réalisées précédemment)? Peut-on décrire l’intention? La forme?**

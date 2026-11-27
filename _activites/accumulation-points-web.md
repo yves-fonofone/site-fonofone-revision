@@ -21,12 +21,12 @@ etiquette: "Musique-en ligne"
 <section class="encadre encadre--description" markdown="1">
 <div class="encadre__texte" markdown="1">
 
-À travers cette activité, l'élève s'initiera au procédé d'[accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs., utilisé dans les musiques de toutes traditions (voir [**< procédés formels**](https://fonofone.org/ressources-pedagogiques/illustrations-musicales/)).  
+À travers cette activité, l'élève s'initiera au procédé d'[accumulation](../lexique.html#accumulation), utilisé dans les musiques de toutes traditions (voir [**< procédés formels**](https://fonofone.org/ressources-pedagogiques/illustrations-musicales/)).  
  Il/elle se familiarisera également avec des techniques d'accélération rythmique. Ce pourra être également l'occasion d'aborder la notion de polyphonie.
 
 L'activité peut se décliner en plusieurs étapes cumulatives, en fonction du temps dont vous disposez, du niveau de vos élèves et des notions que vous voulez approfondir.
 
-- **< Étape 1 (C2)** - [Accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs. par entrées  
+- **< Étape 1 (C2)** - [Accumulation](../lexique.html#accumulation) par entrées  
    successives  
  - accélération du rythme
 
@@ -51,7 +51,7 @@ L'activité peut se décliner en plusieurs étapes cumulatives, en fonction du t
 
 ## Intentions pédagogiques
 
-- Familiariser l'élève avec les procédés d'[accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs. et d'accélération rythmique.
+- Familiariser l'élève avec les procédés d'[accumulation](../lexique.html#accumulation) et d'accélération rythmique.
 - En option, introduire l'élève à la notion de polyphonie (superposition de voix distinctes).
 - Améliorer la réponse de l'élève aux gestes de direction.
 
@@ -80,7 +80,7 @@ Au terme de l'activité:
 
 ### Savoirs essentiels
 
-- [Accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs., [rythme aléatoire](../lexique.html#rythme-aleatoire)Non mesuré, imprévisible., [spatialisation](../lexique.html#spatialisation)En mixage de musique, la spatialisation est utilisée pour répartir dans l'espace les différents instruments afin de favoriser leur intelligibilité., [glissando](../lexique.html#glissando)Un glissando (du français « glisser ») est un terme musical d'origine italienne qui désigne le glissement continu d'un son dans un mouvement ascendant ou descendant. Le glissando peut être produit par la voix humaine et, entre autres, par les instruments à cordes frottées et le trombone à coulisse. Un effet de glissando peut être produit sur des instruments à..., polyphonie
+- [Accumulation](../lexique.html#accumulation), [rythme aléatoire](../lexique.html#rythme-aleatoire), [spatialisation](../lexique.html#spatialisation), [glissando](../lexique.html#glissando), polyphonie
 - Règles de musique d'ensemble
 
 </aside>
@@ -125,9 +125,9 @@ Au terme de l'activité:
 #### Réalisation
 
 - Chaque élève choisit librement un son dans la banque [local]
-- L'enseignant.e commande les départs un à un, en prenant son temps pour que les élèves saisissent bien la valeur musicale du silence et des rythmes aléatoires. Varier les départs entre la gauche, la droite, le centre du groupe de façon à sensibiliser les élèves à l'effet de [spatialisation](../lexique.html#spatialisation)En mixage de musique, la spatialisation est utilisée pour répartir dans l'espace les différents instruments afin de favoriser leur intelligibilité..
+- L'enseignant.e commande les départs un à un, en prenant son temps pour que les élèves saisissent bien la valeur musicale du silence et des rythmes aléatoires. Varier les départs entre la gauche, la droite, le centre du groupe de façon à sensibiliser les élèves à l'effet de [spatialisation](../lexique.html#spatialisation).
 - Quand on a atteint le "Tutti", faire un long point d'orgue en invitant les élèves à bien écouter.
-- Puis l'enseignant.e, par un geste clair, invite les élèves à réduire graduellement la portion silence de leur son de façon à accentuer l'effet d'[accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs..
+- Puis l'enseignant.e, par un geste clair, invite les élèves à réduire graduellement la portion silence de leur son de façon à accentuer l'effet d'[accumulation](../lexique.html#accumulation).
 - Terminer par un decrescendo ou enchaîner avec l'étape 2.
 
 </div>
@@ -163,7 +163,7 @@ Ajout du [variateur de hauteur/vitesse]
 
 - Chaque élève transpose le son en choisissant une hauteur à son choix, dans les graves ou les aigus.
 - Observer une bonne pause pour bien prendre le temps d'écouter les rapports harmoniques.
-- Par un geste bien identifiable, l'enseignant.e commande un lent mouvement de [glissando](../lexique.html#glissando)Un glissando (du français « glisser ») est un terme musical d'origine italienne qui désigne le glissement continu d'un son dans un mouvement ascendant ou descendant. Le glissando peut être produit par la voix humaine et, entre autres, par les instruments à cordes frottées et le trombone à coulisse. Un effet de glissando peut être produit sur des instruments à... de tout le groupe vers l'extrême aigu.
+- Par un geste bien identifiable, l'enseignant.e commande un lent mouvement de [glissando](../lexique.html#glissando) de tout le groupe vers l'extrême aigu.
 - On termine par un decrescendo ou on enchaine avec l'étape 3.
 
 </div>

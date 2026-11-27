@@ -71,7 +71,7 @@ Réalisations en équipe, Collège Bourget, Rigaud, Québec
 
 Au terme de cette activité:
 
-- L'élève sera capable d'utiliser le procédé d'[ostinato](../lexique.html#ostinato)L'ostinato est un procédé de composition musicale consistant à répéter obstinément une formule rythmique, mélodique ou harmonique accompagnant de manière immuable les différents éléments thématiques durant tout le morceau. L'ostinato est souvent basé sur la basse — basse contrainte, soutenue ou obligée — on parle alors de basso ostinato. Les chaconnes, les passacailles et les grounds sont des modèles du....
+- L'élève sera capable d'utiliser le procédé d'[ostinato](../lexique.html#ostinato).
 - L’élève sera capable de se synchroniser à une pulsation.
 
 - L’élève sera capable de construire son idée musicale en appliquant un procédé.
@@ -83,7 +83,7 @@ Au terme de cette activité:
 
 - Pulsation rythmique
 - Mesure
-- Procédé de composition : [accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs. et [ostinato](../lexique.html#ostinato)L'ostinato est un procédé de composition musicale consistant à répéter obstinément une formule rythmique, mélodique ou harmonique accompagnant de manière immuable les différents éléments thématiques durant tout le morceau. L'ostinato est souvent basé sur la basse — basse contrainte, soutenue ou obligée — on parle alors de basso ostinato. Les chaconnes, les passacailles et les grounds sont des modèles du...
+- Procédé de composition : [accumulation](../lexique.html#accumulation) et [ostinato](../lexique.html#ostinato)
 
 </aside>
 </section>

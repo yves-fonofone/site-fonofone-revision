@@ -19,9 +19,9 @@ etiquette: "Musique-en ligne"
 <section class="encadre encadre--description" markdown="1">
 <div class="encadre__texte" markdown="1">
 
-Une suite créative à l'activité  [Accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs. de sons courts
+Une suite créative à l'activité  [Accumulation](../lexique.html#accumulation) de sons courts
 
-En équipe, les élèves doivent créer une courte pièce qui exploite le procédé d'[accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs.. Ils/elles déterminent les sons et la forme.  
+En équipe, les élèves doivent créer une courte pièce qui exploite le procédé d'[accumulation](../lexique.html#accumulation). Ils/elles déterminent les sons et la forme.  
  On peut utiliser la console F *onofone ou la console Fono-image.*
 
 [< Propositions de réalisation](#realisation)
@@ -39,7 +39,7 @@ En équipe, les élèves doivent créer une courte pièce qui exploite le procé
 
 ## Intentions pédagogiques
 
-- Familiariser l'élève avec le procédé  d'[accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs..
+- Familiariser l'élève avec le procédé  d'[accumulation](../lexique.html#accumulation).
 - Amener l'élève à développer la capacité d'élaborer une idée musicale.
 - Développer chez l'élève la capacité de travailler en équipe.
 
@@ -60,7 +60,7 @@ En équipe, les élèves doivent créer une courte pièce qui exploite le procé
 
 Au terme de l'activité:
 
-- L'élève sera capable de créer une phrase musicale autour du procédé d'[accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs..
+- L'élève sera capable de créer une phrase musicale autour du procédé d'[accumulation](../lexique.html#accumulation).
 - L'élève sera capable d'exprimer des idées de développement en adéquation avec la proposition musicale et de concevoir une forme.
 - L'élève sera capable de travailler en équipe.
 
@@ -70,9 +70,9 @@ Au terme de l'activité:
 ### Savoirs essentiels
 
 Procédés de composition :  
- - [accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs.,  
+ - [accumulation](../lexique.html#accumulation),  
  - accélération,  
- - [glissando](../lexique.html#glissando)Un glissando (du français « glisser ») est un terme musical d'origine italienne qui désigne le glissement continu d'un son dans un mouvement ascendant ou descendant. Le glissando peut être produit par la voix humaine et, entre autres, par les instruments à cordes frottées et le trombone à coulisse. Un effet de glissando peut être produit sur des instruments à...
+ - [glissando](../lexique.html#glissando)
 
 </aside>
 </section>
@@ -112,7 +112,7 @@ Procédés de composition :
 
 Diviser le groupe en quelques équipes.
 
-- Chaque équipe est invitée à composer une courte pièce autour du procédé d'[accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs.. L'enseignant.e incite les élèves à faire preuve d'imagination et d'inventivité.
+- Chaque équipe est invitée à composer une courte pièce autour du procédé d'[accumulation](../lexique.html#accumulation). L'enseignant.e incite les élèves à faire preuve d'imagination et d'inventivité.
 - Dans chaque équipe, on choisit  les sons, le scénario, et on pratique l'enchaînement.
 - Puis, chaque équipe interprète sa réalisation devant l'ensemble du groupe.
 
@@ -130,8 +130,8 @@ Diviser le groupe en quelques équipes.
 
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
-- *Le choix des sons était-il adéquat au regard de l'objectif ([accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs. par ajouts de sons brefs)?*
-- *Est-ce que le procédé d'[accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs. était bien perceptible ?*
+- *Le choix des sons était-il adéquat au regard de l'objectif ([accumulation](../lexique.html#accumulation) par ajouts de sons brefs)?*
+- *Est-ce que le procédé d'[accumulation](../lexique.html#accumulation) était bien perceptible ?*
 - *Est-ce que l'équipe a su se démarquer des modèles (activités dirigées réalisées précédemment) par une proposition originale?*
 - *L'interprétation (C2) était-elle convaincante?*
 

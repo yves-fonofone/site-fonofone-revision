@@ -38,7 +38,7 @@ Camp Père-Lindsay, Val-St-Côme, Québec
 
 ## Intentions pédagogiques
 
-- Familiariser les élèves avec des notions telles que fondu-enchaîné, [fusion](../lexique.html#fusion)Par différents procédés, chercher à combiner deux sons ou plus de telle sorte qu'ils se mélangent bien, comme dans une sauce. Outils à prioriser : 1.  le volume (apparier l'intensité des différents sons) 2. le filtre (apparier la "couleur" des sons) 3. les outils de transposition (apparier les hauteurs et la vitesse), [accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs., [spatialisation](../lexique.html#spatialisation)En mixage de musique, la spatialisation est utilisée pour répartir dans l'espace les différents instruments afin de favoriser leur intelligibilité., son soutenu.
+- Familiariser les élèves avec des notions telles que fondu-enchaîné, [fusion](../lexique.html#fusion), [accumulation](../lexique.html#accumulation), [spatialisation](../lexique.html#spatialisation), son soutenu.
 - Affiner chez les élèves la perception des nuances.
 - Améliorer la réponse des élèves aux gestes de direction.
 
@@ -102,7 +102,7 @@ Camp musical Père-Lindsay, Val-St-Côme, Québec
 
 - L'enseignant (ou un élève) dirige les départs en pointant une équipe à la fois.
 - Au signal, l'équipe désignée monte doucement son volume jusqu'au niveau souhaité (crescendo).  
- On écoute très attentivement l'apparition de la vague suivante puis on baisse graduellement le volume (decrescendo) en s'appliquant à assurer une belle [fusion](../lexique.html#fusion)Par différents procédés, chercher à combiner deux sons ou plus de telle sorte qu'ils se mélangent bien, comme dans une sauce. Outils à prioriser : 1.  le volume (apparier l'intensité des différents sons) 2. le filtre (apparier la "couleur" des sons) 3. les outils de transposition (apparier les hauteurs et la vitesse) avec la vague suivante.
+ On écoute très attentivement l'apparition de la vague suivante puis on baisse graduellement le volume (decrescendo) en s'appliquant à assurer une belle [fusion](../lexique.html#fusion) avec la vague suivante.
 
 - Quand la vague a parcouru tout le groupe, l'enseignant peut ouvrir l'exercice en dirigeant des mouvements libres de crescendo/decrescendo.
 - **Objectivation : les sons choisis  étaient-ils adéquats? Étaient-ils de nature à bien se fusionner? (Écouter et analyser les choix de chacun). Les crescendo/decrescendo  étaient-ils bien exécutés? Le passage d'une équipe à l'autre s'est-il bien opéré ? (beaux mouvements de fondu/enchaîné, sans trou). Les consignes de l’enseignant ont-elles été bien suivies?**

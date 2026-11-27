@@ -40,7 +40,7 @@ Aller à : < suggestion de réalisation
 ## Intentions pédagogiques
 
 - Sensibiliser les élèves aux notions d'ordre et de désordre en musique.
-- Initier les élèves aux techniques de [glissando](../lexique.html#glissando)Un glissando (du français « glisser ») est un terme musical d'origine italienne qui désigne le glissement continu d'un son dans un mouvement ascendant ou descendant. Le glissando peut être produit par la voix humaine et, entre autres, par les instruments à cordes frottées et le trombone à coulisse. Un effet de glissando peut être produit sur des instruments à... et de [réverbération](../lexique.html#reverberation).
+- Initier les élèves aux techniques de [glissando](../lexique.html#glissando) et de [réverbération](../lexique.html#reverberation).
 - Améliorer la réponse des élèves aux gestes de direction.
 
 </div>
@@ -61,7 +61,7 @@ Aller à : < suggestion de réalisation
 Au terme de cette activité :
 
 - L'élève aura pris conscience du rapport entre tension et détente en musique.
-- L’élève sera capable de produire avec fluidité un [glissando](../lexique.html#glissando)Un glissando (du français « glisser ») est un terme musical d'origine italienne qui désigne le glissement continu d'un son dans un mouvement ascendant ou descendant. Le glissando peut être produit par la voix humaine et, entre autres, par les instruments à cordes frottées et le trombone à coulisse. Un effet de glissando peut être produit sur des instruments à....
+- L’élève sera capable de produire avec fluidité un [glissando](../lexique.html#glissando).
 - L’élève sera capable de répondre de manière précise aux gestes de direction.
 
 </div>
