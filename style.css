@@ -555,7 +555,7 @@ li.extrait p { margin: 0; }
 .fiche--fonofone .rangee { align-items: start; }
 .fiche--fonofone .rangee > .encadre { margin-top: 0; }
 @media (max-width: 900px) { .fiche--fonofone .rangee > .encadre { margin-top: 0; } }
-.fiche--fonofone .fiche-contenu img.qr { width: 120px; height: 120px; }
+.fiche--fonofone .fiche-contenu img.qr { width: 80px; height: 80px; }
 
 /* Page « Construire ses activités » (modèle fonofone.org) */
 .construire .fiche-bandeau { margin-bottom: 40px; align-items: flex-end; }
