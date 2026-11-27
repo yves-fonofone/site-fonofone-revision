@@ -750,3 +750,11 @@ li.extrait p { margin: 0; }
 .fiche--fonofone .rangee__liste .playlist--compacte { margin-left: auto; }
 .fiche--fonofone .playlist--compacte li { grid-template-columns: 1fr auto 200px; padding: 0 8px; gap: 8px; font-size: 12px; line-height: 1.2; }
 .prose .fiche--fonofone .playlist--compacte audio, .fiche--fonofone .playlist--compacte audio { width: 200px; height: 24px; }
+/* Repères + extraits : liste de la largeur des encadrés de droite (« Savoirs essentiels »), ex. Caractère 1 */
+.rangee--liste-etroite { grid-template-columns: 2fr 1fr; }
+.rangee--liste-etroite > .encadre--reperes { max-width: 558px; }
+.fiche--fonofone .rangee--liste-etroite .playlist--compacte { max-width: none; margin-left: 0; }
+.fiche--fonofone .rangee--liste-etroite .playlist--compacte li { grid-template-columns: minmax(0, 1fr) 180px; padding: 0 4px 0 6px; gap: 4px; font-size: 11px; }
+.prose .fiche--fonofone .rangee--liste-etroite .playlist--compacte audio, .fiche--fonofone .rangee--liste-etroite .playlist--compacte audio { width: 180px; }
+.fiche--fonofone .rangee--liste-etroite .playlist__titre { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.fiche--fonofone .rangee--liste-etroite .playlist__duree { display: none; }
