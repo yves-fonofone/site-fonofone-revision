@@ -100,11 +100,15 @@ Au terme de l'activité:
 
 #### En guise de préparation : expérience acoustique
 
+<section class="encadre encadre--blanc encadre--preparation" markdown="1">
+
 - L'enseignant demande à l'élève de trouver dans son environnement immédiat une façon de produire un bruit très doux.  
  Ce peut être, par exemple, un léger grattement sur la table, un doux frottement des cordes d'une guitare, un froissement léger de papier, un chuchotement.
 - On ajoute graduellement le bruit de chacun.
 - L'enseignant demande à l'élève de fermer les yeux pour bien écouter la texture très douce produite par l'ensemble des bruits.  
  Option : pointer tour à tour un élève, qui doit faire ressortir un peu son bruit de l'ensemble puis s'y fondre à nouveau.
+
+</section>
 
 <section class="encadre encadre--blanc encadre--options">
 <div class="options__col" markdown="1">

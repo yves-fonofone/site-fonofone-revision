@@ -784,3 +784,4 @@ li.extrait p { margin: 0; }
 .exemples--deux { grid-template-columns: repeat(2, 1fr); align-items: center; }
 @media (max-width: 800px) { .exemples--deux { grid-template-columns: 1fr; } }
 .exemples--deux img { margin: 0 auto; }
+.fiche--fonofone .encadre--preparation { padding: 14px 32px; margin: 12px 0 24px; } /* bloc de préparation encadré (ex. doux/fort) */
