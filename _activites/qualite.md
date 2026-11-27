@@ -93,9 +93,9 @@ Au terme de cette activité :
 
 <h2 id="realisation">Suggestion de réalisation</h2>
 
-#### Préparation
-
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+#### Préparation
 
 L’enseignant.e fait jouer chacun des sons et demande aux élèves de les décrire : qu’est-ce qui les caractérise? Qu’est-ce qui les différencie?
 
