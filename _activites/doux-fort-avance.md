@@ -119,6 +119,9 @@ Option : pointer tour à tour un élève, qui doit faire ressortir un peu son br
 
 #### Réalisation au tableau interactif
 
+<section class="encadre encadre--blanc encadre--options">
+<div class="options__col" markdown="1">
+
 #### Réalisation
 
 - Faire venir un élève au tableau et l'inviter à choisir dans les banques de sons Fonofone un son doux et un son fort.
@@ -130,6 +133,9 @@ Option : pointer tour à tour un élève, qui doit faire ressortir un peu son br
 
 On commence par le son doux, puis à l'aide du volume Fonofone, on fait apparaître graduellement le son fort, qui vient masquer le son doux.
 
+</div>
+<div class="options__col" markdown="1">
+
 #### Suggestions de rétroaction/objectivation
 
 - *Ton son doux est bien caché par le son fort. Peux-tu expliquer pourquoi?*
@@ -139,11 +145,17 @@ On commence par le son doux, puis à l'aide du volume Fonofone, on fait apparaî
  - les deux sont dans des registres très différenciés, par exemple le son doux  est dans le grave alors que le son fort  est plus   aigu, ou le contraire;  
  - le son doux est mélodique alors que le son fort est bruiteux, ou le contraire...
 
+</div>
+</section>
+
 #### Exemples de réalisation :
 
 ![dx-fort-tni.png](../images/2022/04/dx-fort-tni.png)
 
 #### Réalisation collective (idéalement une tablette, chromebook ou autre, par élève)
+
+<section class="encadre encadre--blanc encadre--options">
+<div class="options__col" markdown="1">
 
 #### Consignes
 
@@ -153,6 +165,9 @@ On commence par le son doux, puis à l'aide du volume Fonofone, on fait apparaî
 
 - L'enseignant.e dirige une première exécution puis invite des élèves à le faire, en choisissant une variante d'exécution.
 
+</div>
+<div class="options__col" markdown="1">
+
 #### Suggestions de rétroaction/objectivation
 
 - *Est-ce que tous les sons doux se fusionnaient bien ensemble?*  
@@ -160,6 +175,9 @@ On commence par le son doux, puis à l'aide du volume Fonofone, on fait apparaî
 - *Est-ce que l'ensemble des sons doux (ou l'un des sons) était audible à travers la masse de sons forts?*  
  Si c'était le cas, amener les élèves à en identifier les causes.
 - *Est-ce que les entrées et sorties ont été exécutées correctement ? Si non, que peut-on faire pour nous améliorer?*
+
+</div>
+</section>
 
 #### Exemples de réalisations
 

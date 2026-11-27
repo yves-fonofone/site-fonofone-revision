@@ -100,11 +100,10 @@ Au terme de l'activité:
 
 À réaliser en équipes de 3 ou 4 élèves
 
+<section class="encadre encadre--blanc encadre--options">
+<div class="options__col" markdown="1">
+
 #### Consignes
-
-#### Réalisation
-
-#### Rétroaction/objectivation
 
 - À l'aide de sons doux et de sons forts, créer une phrase d'environ 1 minute qui intègre au moins 2 des procédés suivants :  
  -masque -rupture -fusion  
@@ -112,6 +111,8 @@ Au terme de l'activité:
  et qui comporte un **élément-surprise**.
 -   En option :
 - Demander aux élèves de réaliser une partition graphique de leur phrase.
+
+#### Réalisation
 
 - Dans chaque équipe, on décide du choix des sons et on se les répartit.
 - On établit le parcours et on le pratique.  
@@ -121,6 +122,15 @@ Au terme de l'activité:
 
 - Chaque équipe est invitée à présenter sa démarche devant le groupe, puis à interpréter sa création.
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Rétroaction/objectivation
+
 - *Est-ce que les sons que tu as choisis ont changé ta perception de l'oeuvre? Si oui, pourquoi?*
 - *Explique-nous le choix de l'emplacement de tes zones (sons) : qu'as-tu voulu exprimer ou souligner?* (précision du vocabulaire disciplinaire).
 - *Peux-tu nous expliquer en quoi, selon toi, le son "x"que tu as choisi exprime la section du tableau à laquelle tu l'as attribué?*
+
+</div>
+</section>
+
