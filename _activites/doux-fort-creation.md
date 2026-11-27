@@ -27,7 +27,7 @@ etiquette: "Musique-en ligne"
 
 En équipes de 3 ou 4, les élèves devront créer une phrase d'environ une minute avec des sons doux et forts, qui intègre les notions de contraste et de rupture.
 
-**< Propositions de réalisation**
+[< Propositions de réalisation](#realisation)
 
 </div>
 {% include fiche-media.html %}
@@ -79,6 +79,8 @@ Au terme de l'activité:
 
 ## Repères culturels
 
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
+
 [**Ludwig Van Beethoven**](https://www.enthroned.be/beethoven-par-ou-commencer-avec-sa-musique/)(1770-1827)
 
 **[*Sonate* « Pathétique », op. 13, Introduction](https://youtube.com/clip/UgkxwRJNHWHxZlfXFCE7Vg4B9LAGlpELufNq)**
@@ -91,9 +93,10 @@ Au terme de l'activité:
 
 [Le vertige inconnu](https://www.youtube.com/watch?v=1D1H3JwuigY&ab_channel=sexisoverrated)
 
-#### réalisation
 
-## Propositions de réalisation
+</section>
+
+<h2 id="realisation">Propositions de réalisation</h2>
 
 À réaliser en équipes de 3 ou 4 élèves
 

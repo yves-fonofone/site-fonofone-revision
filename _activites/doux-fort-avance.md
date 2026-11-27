@@ -28,7 +28,7 @@ Cette activité permet l'approfondissement de la compréhension des notions d'in
 
 Pour donner une suite créative à cette activité, aller à : [[doux/fort-création]](doux-fort-creation.html)
 
-< Propositions de réalisation
+[< Propositions de réalisation](#realisation)
 
 </div>
 {% include fiche-media.html %}
@@ -82,6 +82,8 @@ Au terme de l'activité:
 
 ## Repères culturels
 
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
+
 #### [**Ludwig Van Beethoven**](https://www.enthroned.be/beethoven-par-ou-commencer-avec-sa-musique/) (1770-1827)
 
 **[*Sonate n* *o* *8* « Pathétique », op. 13, Introduction](https://youtube.com/clip/UgkxwRJNHWHxZlfXFCE7Vg4B9LAGlpELufNq)**
@@ -94,9 +96,10 @@ Au terme de l'activité:
 
 [Le vertige inconnu](https://www.youtube.com/watch?v=1D1H3JwuigY&ab_channel=sexisoverrated)
 
-#### réalisation
 
-## Suggestion de réalisation
+</section>
+
+<h2 id="realisation">Suggestion de réalisation</h2>
 
 #### Expérience acoustique
 

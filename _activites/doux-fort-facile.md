@@ -84,6 +84,8 @@ Au terme de l'activité:
 
 ## Repères culturels
 
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
+
 ### [Ana Sokolović](https://www.osm.ca/fr/ana-sokolovic/)
 
 [Géométrie sentimentale (1997)](https://fonofone.org/illustration/geometrie-sentimentale/)
@@ -91,6 +93,8 @@ Au terme de l'activité:
 ### [Ludwig van Beethoven](https://fr.wikipedia.org/wiki/Ludwig_van_Beethoven)
 
 [Sonate "Pathétique", introduction (1799)](https://youtube.com/clip/UgkxwRJNHWHxZlfXFCE7Vg4B9LAGlpELufNq)
+
+</section>
 
 <h2 id="realisation">Suggestion de réalisation</h2>
 
