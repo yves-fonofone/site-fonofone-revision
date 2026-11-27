@@ -88,8 +88,8 @@ etiquette: Musique-en ligne
     <h4><a href="https://fr.wikipedia.org/wiki/Modeste_Moussorgski" target="_blank" rel="noopener">Modeste Moussorgsky</a></h4>
     <p><a href="https://www.youtube.com/watch?v=WzYRzv8V1Fk" target="_blank" rel="noopener">Tableaux d'une exposition - le Gnome</a></p>
   </div>
-  <div class="rangee__liste">
-<ol class="playlist playlist--compacte">
+  <div class="rangee__liste rangee__liste--pleine">
+<ol class="playlist playlist--compacte playlist--2col">
   <li><span class="playlist__titre">Adams-China Gates</span> <span class="playlist__duree">0:09</span>
     <audio controls preload="none" src="../audio/activites/caractere/556.mp3"></audio></li>
   <li><span class="playlist__titre">Bach_Sinfonia</span> <span class="playlist__duree">0:08</span>
