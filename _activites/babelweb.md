@@ -93,6 +93,7 @@ Au terme de cette activité :
 </section>
 
 #### Option 1 : crescendo-decrescendo, rupture
+{: .noir}
 
 <section class="encadre encadre--blanc encadre--options encadre--options-2">
 <div class="options__col" markdown="1">
@@ -120,6 +121,7 @@ Au terme de cette activité :
 </section>
 
 #### Option 2 : fondu-enchaîné
+{: .noir}
 
 <section class="encadre encadre--blanc encadre--options encadre--options-2">
 <div class="options__col" markdown="1">

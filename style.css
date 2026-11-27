@@ -675,6 +675,7 @@ li.extrait p { margin: 0; }
 .etape__rangee { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: start; }
 .etape__rangee > div:last-child { padding: 12px 0 0; font-size: 14px; }
 .fiche--fonofone h4.orange { color: #f26b21; font: 400 19px/1.25 Poppins, sans-serif; margin: 0 0 6px; }
+.fiche--fonofone .fiche-contenu h4.noir { color: #222; }
 @media (max-width: 900px) {
   .realisations__vignettes { grid-template-columns: repeat(3, minmax(0, 1fr)); }
   .rangee--cartes, .rangee--egale, .etape__rangee { grid-template-columns: 1fr; }
