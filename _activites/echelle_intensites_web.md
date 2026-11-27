@@ -25,7 +25,7 @@ Cette activité amène l'élève à développer sa perception des nuances, du pl
 
 L'activité peut également être réalisée en mode individuel.
 
-< Propositions de réalisation
+[< Propositions de réalisation](#realisation)
 
 #### Activité connexe : [< proche-loin](proche-loin-web.html)
 
@@ -78,24 +78,23 @@ Au terme de cette activité:
 - Langage musical : échelle des intensité
 - Appréciation : phrasé musical
 
-#### qualite
-
 </aside>
 </section>
 
 ## Repères et ressources culturelles
 
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
+
 ### [L'histoire de l'ntensité en musique](https://fr.wikipedia.org/wiki/Nuance_(musique))
 
-#### réalisation
+</section>
 
-## Propositions de réalisation
+<h2 id="realisation">Propositions de réalisation</h2>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-3">
+<div class="options__col" markdown="1">
 
 #### Réalisation en équipe
-
-#### Réalisation individuelle
-
-#### Rétroaction/objectivation
 
 - Diviser le groupe en équipes de quatre ou cinq élèves.
 - Dans chaque équipe, on construit son échelle en répartissant entre chaque membre  les intensités, du plus doux au plus fort.
@@ -106,6 +105,11 @@ Variantes :
 
 - Demander aux équipes d'ajouter une "surprise" à leur enchaînement (touche créative).
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Réalisation individuelle
+
 - En utilisant la console Fono-image, l'élève construit son échelle d'intensité en suivant l'indication de la nuance pour chaque zone.
 
 Variantes :
@@ -114,8 +118,17 @@ Variantes :
 - (Intéressant au casque d'écoute)  
  Ajouter un mouvement de [panoramisation](../lexique.html#panoramisation)En audio, l'effet "panoramique" (pan) consiste à placer un son dans l'espace de telle sorte qu'on le perçoive comme provenant plus ou moins de la gauche ou de la droite. Ce peut être un point fixe ou, dans le cas d'un son qui se prolonge, un mouvement continu créant l'illusion acoustique d'un passage de gauche à droite ou de droite... en plaçant dans chaque zone le bouton de volume dans une position différente, de gauche à droite.
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Rétroaction/objectivation
+
 - E *st-ce que l'échelle est réussie* (progression bien perceptible d'une nuance à l'autre)? *Si non comment l'améliorer?*
 - *Est-ce que les entrées successives étaient bien en rythme? Si non, quelle stratégie adopter pour y arriver?*  
 - *Option choix de son propre son ou extrait :* *Es-tu convaincu de ton choix? Si oui/non, pourquoi?*  
 - Option "surprise" :  
  *Es-tu convaincu de ton choix? Si oui/non, pourquoi?*
+
+</div>
+</section>
+

@@ -25,7 +25,7 @@ etiquette: "Art dramatique"
 
 Autour du thème du banc public, cette activité permet à l’élève d’explorer un personnage en interaction avec les autres élèves et en réaction au parcours sonore sur la console Fono-image.
 
-**< Propositions de réalisation**
+[< Propositions de réalisation](#realisation)
 
 École de L'Altitude, Pierrefonds, Québec
 
@@ -78,19 +78,20 @@ Au terme de cette activité:
 
 ## Repères et ressources culturelles
 
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
+
 #### [Club Théâtre Sciences Po Aix](https://www.youtube.com/watch?v=37nn7hsZsdI&ab_channel=ClubTh%C3%A9%C3%A2treSciencesPoAix)
 
 #### [Match d'impro France - Suisse](https://www.youtube.com/watch?v=wME994tThMc&ab_channel=IMPROAlsace)
 
-#### réalisation
+</section>
 
-## Propositions de réalisation
+<h2 id="realisation">Propositions de réalisation</h2>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-3">
+<div class="options__col" markdown="1">
 
 #### Préparation
-
-#### Réalisation
-
-#### Rétroaction/objectivation
 
 On place trois chaises face au groupe.
 
@@ -98,10 +99,24 @@ On place trois chaises face au groupe.
 - L'enseignant.e demande aux élèves d'imaginer leur personnage.
 - L'enseignant.e invite les élèves à choisir un ou deux accessoires en lien avec leur personnage.
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Réalisation
+
 - L'enseignant.e désigne tour à tour les élèves qui prendront place sur les trois chaises.
 - L'enseignant.e déclenche les sons de son choix sur la console Fonofone (sur TNI ou autre).On peut aussi désigner un.e élève pour cette fonction, ce qui permet à l'enseignant.e de bien suivre le jeu dramatique.
+
+</div>
+<div class="options__col" markdown="1">
+
+#### Rétroaction/objectivation
 
 - *Est-ce que tu trouves que ton personnage fut convaincant ? si non/oui, en quoi*
 - *Es-tu satisfait.e de ton interaction avec les autres?*
 - *Es-tu satisfait.e de la façon dont tu as réagi aux propositions sonores?*
 - *Est-ce que tes accessoires t'ont aidé dans ton improvisation ? Comment?*
+
+</div>
+</section>
+

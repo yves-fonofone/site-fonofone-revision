@@ -24,7 +24,7 @@ Une suite créative à l'activité  [Accumulation](../lexique.html#accumulation
 En équipe, les élèves doivent créer une courte pièce qui exploite le procédé d'[accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs.. Ils/elles déterminent les sons et la forme.  
  On peut utiliser la console F *onofone ou la console Fono-image.*
 
-< Propositions de réalisation
+[< Propositions de réalisation](#realisation)
 
 ![accumulation-fnmg](../images/2022/10/accumulation-fnmg.png){: .qr}
 
@@ -74,12 +74,12 @@ Procédés de composition :
  - accélération,  
  - [glissando](../lexique.html#glissando)Un glissando (du français « glisser ») est un terme musical d'origine italienne qui désigne le glissement continu d'un son dans un mouvement ascendant ou descendant. Le glissando peut être produit par la voix humaine et, entre autres, par les instruments à cordes frottées et le trombone à coulisse. Un effet de glissando peut être produit sur des instruments à...
 
-#### qualite
-
 </aside>
 </section>
 
 ## Repères culturels
+
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
 
 #### **[Robert](https://fr.wikipedia.org/wiki/Robert_Schumann)[Schumann](https://fr.wikipedia.org/wiki/Robert_Schumann)**
 
@@ -99,7 +99,12 @@ Procédés de composition :
 
 #### Suggestions
 
-## Propositions de réalisation
+</section>
+
+<h2 id="realisation">Propositions de réalisation</h2>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
 
 #### Réalisation
 
@@ -111,13 +116,24 @@ Diviser le groupe en quelques équipes.
 - Dans chaque équipe, on choisit  les sons, le scénario, et on pratique l'enchaînement.
 - Puis, chaque équipe interprète sa réalisation devant l'ensemble du groupe.
 
+</div>
+<div class="options__col" markdown="1">
+
 #### Suggestions de rétroaction/objectivation
 
 - Inviter les membres de l'équipe à décrire l’intention, la forme.
 
+</div>
+</section>
+
 #### Pistes d'évaluation
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 - *Le choix des sons était-il adéquat au regard de l'objectif ([accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs. par ajouts de sons brefs)?*
 - *Est-ce que le procédé d'[accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs. était bien perceptible ?*
 - *Est-ce que l'équipe a su se démarquer des modèles (activités dirigées réalisées précédemment) par une proposition originale?*
 - *L'interprétation (C2) était-elle convaincante?*
+
+</section>
+

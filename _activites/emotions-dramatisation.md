@@ -6,6 +6,7 @@ ordre: 5
 image: /images/2023/03/fiche-equipe-300x179.png
 console_nom: Fono-image
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1679931875.fnmg
+qr_code: /images/2023/01/histoire-emotions.png
 gratuite: true
 niveau: "À partir du 3e cycle du primaire"
 realisation: "Réalisation en équipe"
@@ -25,9 +26,7 @@ Cette activité a pour but d'amener les élèves à inventer et jouer une courte
 
 Bien qu'autonome, elle peut s'inscrire dans la suite de l'activité [[Les émotions]](emotions-1-theatre.html), où les élèves auront travaillé l'improvisation gestuelle et, en option, l'improvisation vocale.
 
-**< Propositions de réalisation**
-
-![histoire-emotions](../images/2023/01/histoire-emotions.png){: .qr}
+[< Propositions de réalisation](#realisation)
 
 </div>
 {% include fiche-media.html %}
@@ -78,21 +77,24 @@ Au terme de l’activité
 
 ## Repères et ressources culturelles
 
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
+
 - [Qu'est-ce qu'une émotion](https://fondation-lamap.org/documentation-scientifique/qu-est-ce-que-les-emotions)
 - [L'exagération et le jeu clownesque](https://squat.telequebec.tv/videos/11079)
 - ["C'est pas sorcier"](https://www.youtube.com/watch?v=pyeXvjCVfy8&ab_channel=C%27estpassorcier)
 
 #### Réalisation-scénario
 
-## Propositions de réalisation
+</section>
+
+<h2 id="realisation">Propositions de réalisation</h2>
 
 ### Cours 1
 
+<section class="encadre encadre--blanc encadre--options encadre--options-3">
+<div class="options__col" markdown="1">
+
 #### Échauffement
-
-#### Réalisation
-
-#### Rétroaction/objectivation
 
 - L’enseignant.e fait jouer successivement le son de chaque niveau d’émotion (zones oranges). Les élèves improvisent un mouvement conséquent.
 
@@ -102,11 +104,21 @@ Au terme de l’activité
 - L'enseignant.e présente la structure de l'histoire attendue.
 - L'enseignant.e peut donner un exemple de réalisation au Fono-image projeté sur le TNI. 
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Réalisation
+
 - Dans chaque équipe on se répartit les rôles :  
  1 narrateur, également responsable du trajet sonore, -3 ou 4 acteurs.
 - L'équipe crée le scénario en se servant du **fichier équipe** (document PDF).
 - Sur l'ordinateur de l'équipe, on choisit les sons (banque "local") et on se met d'accord sur l'enchaînement. Variante :  
  Si les élèves ont une connaissance pertinente de Fonofone, l'enseignant.e peut leur donner la possibilité d'enregistrer leurs propres expressions vocales.
+
+</div>
+<div class="options__col" markdown="1">
+
+#### Rétroaction/objectivation
 
 À l'équipe :
 
@@ -116,7 +128,13 @@ Au terme de l’activité
 - *Quelle étape d'émotion est la mieux réussie dans la chaîne ?*
 - *Qu'est-ce qui pourrait être amélioré ? Comment ?*
 
+</div>
+</section>
+
 ### Cours 2
+
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
 
 #### Réalisation
 
@@ -126,6 +144,9 @@ Au terme de l’activité
 - Chaque équipe est invitée à jouer son histoire devant le groupe.
 
 Idéalement, on connectera l'ordinateur de l'équipe au TNI.
+
+</div>
+<div class="options__col" markdown="1">
 
 #### Rétroaction/objectivation
 
@@ -140,7 +161,12 @@ Idéalement, on connectera l'ordinateur de l'équipe au TNI.
 À l'ensemble du groupe:  
  Commentaire critique sur les mêmes points.
 
+</div>
+</section>
+
 #### Pistes d'évaluation
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 Dans quelle mesure l'équipe a t-elle respecté les directives énoncées dans le **Fichier élève** ?
 
@@ -155,3 +181,6 @@ Qualité de l'interprétation
 - Sonorisation Fonofone  
  L'élève au Fonofone a t-il fait preuve de créativité (beaucoup / un peu /pas du tout) :  
  Dans quelle mesure déclenchait-il des actions plutôt que d'être strictement en réaction?
+
+</section>
+

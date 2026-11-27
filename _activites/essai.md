@@ -75,19 +75,36 @@ Au terme de cette activité, l'élève sera capable :
 
 ## Repères culturels
 
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
+
 - [Titre d'une œuvre ou d'un artiste](https://exemple.org)
 
-## Suggestions de réalisation
+</section>
+
+<h2 id="realisation">Suggestions de réalisation</h2>
 
 #### Préparation
 
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
 …
 
+</section>
+
 #### Réalisation
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 1. Première étape
 2. Deuxième étape
 
+</section>
+
 #### Évaluation
 
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
 …
+
+</section>
+

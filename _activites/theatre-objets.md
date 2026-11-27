@@ -14,6 +14,9 @@ source: https://fonofone.org/activite/theatre-objets/
 mise_en_page: fonofone
 bandeau: /images/bandeaux/theatre-objets-scaled.jpg
 etiquette: "Musique-en ligne"
+console_nom: Fono-image
+console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1718908979.fnmg
+qr_code: /images/2024/06/objets-animes.png
 ---
 
 Projet réalisé par [Karine St-Arnaud](https://www.theatresouslamain.com/theatresouslamain.com/Accueil.html), comédienne et marionnettiste, et [Yves Daoust](https://electrocd.com/fr/artiste/daoust_yv/yves-daoust), compositeur.
@@ -51,11 +54,7 @@ Créer une courte saynète théâtrale et musicale et fabriquer un dispositif sc
 
 Suite interdisciplinaire : en cours de français, demander à l'élève d'écrire une histoire ou un poème inspiré de la saynète à laquelle il/elle a particip
 
-<Propositions de réalisation
-
-![objets-animes](../images/2024/06/objets-animes.png){: .qr}
-
-[Ouvrir Fono-image](https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1718908979.fnmg)
+[< Propositions de réalisation](#realisation)
 
 </div>
 {% include fiche-media.html %}
@@ -106,15 +105,19 @@ Au terme de l'activité:
 
 ## Repères et ressources culturelles
 
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
+
 ### [Donner vie à un objet - Benjamin Déziel](https://www.youtube.com/watch?v=WJB3H_leJUY)
 
 [Contes ZEN - Théâtre de la pire espèce](https://pire-espece.com/spectacles/contes-zen-du-potager/)
 
-#### realisation
+</section>
 
-## Propositions de réalisation
+<h2 id="realisation">Propositions de réalisation</h2>
 
 #### En guise de préparation
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 L’enseignant.e crée des équipes de quatre et détermine la durée de la préparation.
 
@@ -131,7 +134,11 @@ Consignes de sonorisation :
 - Les sons doivent participer à l’action dramatique en provoquant les actions dramatiques ou en réagissant à celles-ci.
 - Si on le souhaite, on peut installer une trame sonore de fond.
 
+</section>
+
 #### Réalisation
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 1. - Déterminer les rôles de chacun :
  - manipulation de la marionnette et des objets
@@ -141,20 +148,35 @@ Consignes de sonorisation :
 - Créer le scénario : imaginer un dispositif scénographique simple avec des ouvertures, des cachettes, des obstacles, des glissades, des amas, etc.
 - Trouver (ou fabriquer) les sons en s’entendant sur leur interaction avec l’action dramatique et organiser leur disposition sur le « Fono-image ».
 
+</section>
+
 ### 2.
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 - Répéter la saynète (gestes et sons) et ajuster si nécessaire.
 
 3. - Chaque équipe présente sa saynète devant la classe.
 *(Il est chaudement recommandé de filmer la performance -on peut tout simplement utiliser son téléphone).*
 
+</section>
+
 #### Suggestions de rétroaction/objectivation
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 - L'histoire: *peux-tu décrire ton scénario?*
 - *Comment qualifierais-tu ta performance au regard de ton scénario, entre " très réussie" et "complètement ratée"?*
 - Relation entre les sons et les actions : *quelle a été ta stratégie? Dans quelle mesure est-ce réussi? Qu'est-ce qui pourrait être amélioré?*
 - À l'ensemble du groupe : *quelle est votre lecture de cette saynète?*
 
+</section>
+
 #### Piste d'évaluation
 
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
 - Efficacité de l’utilisation des connaissances liées aux éléments techniques et aux modes de théâtralisation.
+
+</section>
+

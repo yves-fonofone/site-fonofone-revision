@@ -70,14 +70,14 @@ Au terme de l'activité:
 - Langage musical : intensités (doux/fort), nuances (crescendo/decrescendo)
 - Procédés de composition : contraste, rupture, effet de [masque](../lexique.html#masque)
 
-#### realisation
-
 </aside>
 </section>
 
-## Suggestion de réalisation
+<h2 id="realisation">Suggestion de réalisation</h2>
 
 #### En guise de préparation : expérience acoustique
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 - L'enseignant demande à l'élève de trouver dans son environnement immédiat une façon de produire un bruit très doux.  
  Ce peut être, par exemple, un léger grattement sur la table, un doux frottement des cordes d'une guitare, un froissement léger de papier, un chuchotement.
@@ -85,11 +85,14 @@ Au terme de l'activité:
 - L'enseignant demande à l'élève de fermer les yeux pour bien écouter la texture très douce produite par l'ensemble des bruits.  
  Option : pointer tour à tour un élève, qui doit faire ressortir un peu son bruit de l'ensemble puis s'y fondre à nouveau.
 
+</section>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
+
 #### Réalisation à la tablette
 
 #### Première étape : une texture très douce
-
-#### Suggestions de rétroaction/objectivation
 
 - L'enseignant.e demande à l'élève de choisir un son long qu'il perçoit comme doux et calme.  
  Par exemple : [ruisseau], [feuilles]...
@@ -97,11 +100,21 @@ Au terme de l'activité:
 - L'enseignant.e fait jouer le son de quelques élèves pour s'assurer que la consigne a été bien comprise.
 - L'enseignant.e commande les départs un à un, en s'assurant de la concentration d'écoute maximale de tous et en amenant les élèves à bien calibrer leur son de telle sorte qu'il se fusionne bien avec l'ensemble.
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Suggestions de rétroaction/objectivation
+
 - *Est-ce que tous les sons se sont bien fondus dans l'ensemble?*  
  S'il y a lieu, indiquer ceux qui ressortent et amener les élèves à identifier les causes (volume trop fort, son dont le timbre, la hauteur ou autre, se démarque trop des autres, etc.)
 - *As-tu bien écouté les autres et cherché à bien fusionner ton son dans l'ensemble ? Si oui, comment?*
 
+</div>
+</section>
+
 #### Deuxième étape : rupture et masque
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 - L'enseignant(e) demande d'ajouter un second son long, très fort et agressif, par exemple : [pétarade], [élastique-jam].
 
@@ -111,6 +124,8 @@ Au terme de l'activité:
 - *As-tu trouvé que les gestes de direction étaient clairs?  
  - Si oui / non, pourquoi?* (Il est intéressant de faire diriger un.e élève)
 - *Est-ce qu'on entendait des sons doux à travers les sons forts? Si oui, qui peut dire lesquels - et pourquoi?*
+
+</section>
 
 #### Quelques exemples de réalisation
 
@@ -125,3 +140,4 @@ Au terme de l'activité:
 **![](../images/2022/03/dx-fort-2-300x110.png)**
 
 ![](../images/2022/03/dx-fort-2-2-300x117.png)
+

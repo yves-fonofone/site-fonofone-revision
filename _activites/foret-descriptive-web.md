@@ -11,6 +11,7 @@ duree: "2 périodes"
 image: "/images/2022/04/img-5758.jpeg"
 console_nom: "Fono-image"
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1650324702.fnmg
+qr_code: /images/2022/04/promenade-en-foret.png
 gratuite: true
 source: https://fonofone.org/activite/foret-descriptive-web/
 mise_en_page: fonofone
@@ -33,9 +34,7 @@ Dans le second volet (voir [Forêt mystérieuse](la-foret-etrange-web.html)) ils
 
 Ce projet peut être réalisé à partir d'autres images de l'environnement (par exemple une image de centre-ville, réaliste et transformée) et ouvrir à la collaboration interdisciplinaire.
 
-< Propositions de réalisation
-
-![promenade-en-foret](../images/2022/04/promenade-en-foret.png){: .qr}
+[< Propositions de réalisation](#realisation)
 
 </div>
 {% include fiche-media.html %}
@@ -84,18 +83,20 @@ Au terme de cette activité :
 
 - Démarche de création
 
-#### qualite
-
 </aside>
 </section>
 
 ## Repères culturels
 
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
+
 #### [Luc Ferrari ](https://fr.wikipedia.org/wiki/Luc_Ferrari)(1929-2005)
 
 #### [Presque rien no. 2 ](https://www.youtube.com/watch?v=jC_bX0YRM90)(début) -1977
 
-## Suggestions de réalisation
+</section>
+
+<h2 id="realisation">Suggestions de réalisation</h2>
 
 #### →Expérience acoustique
 

@@ -785,3 +785,9 @@ li.extrait p { margin: 0; }
 @media (max-width: 800px) { .exemples--deux { grid-template-columns: 1fr; } }
 .exemples--deux img { margin: 0 auto; }
 .fiche--fonofone .encadre--preparation { padding: 14px 32px; margin: 12px 0 24px; } /* bloc de préparation encadré (ex. doux/fort) */
+/* Modèle doux/fort appliqué aux fiches : blocs de réalisation encadrés, colonnes parallèles */
+.fiche--fonofone .encadre--bloc { padding: 14px 32px; margin: 12px 0 24px; }
+.fiche--fonofone .encadre--options-3 { grid-template-columns: repeat(3, 1fr); gap: 8px 36px; }
+.fiche--fonofone .encadre--options > .options__col > :first-child { margin-top: 18px; }
+@media (max-width: 800px) { .fiche--fonofone .encadre--options-3 { grid-template-columns: 1fr; } }
+@media (max-width: 600px) { .fiche-bandeau h1 { min-width: 0; max-width: 100%; overflow-wrap: anywhere; } .fiche-bandeau .sous-titre { margin-left: 0; } } /* titres de bandeau : pas de débordement sur téléphone */

@@ -20,7 +20,7 @@ Réalisation individuelle ou au TNIÀ partir du 1er cycle-Primaire15 minutes
 
 *Ce défi amusant aiguise la capacité d'écoute et d'attention de l'élève et lui permet de se familiariser avec l'outil de sélection (triangle jaune) et, en option, avec le métronome.*
 
-Propositions de réalisation >
+[Propositions de réalisation >](#realisation)
 
 ### Intentions pédagogiques
 
@@ -66,37 +66,55 @@ L’utilisation du métronome permet de ralentir les répétitions du fragment s
 
 [l'intrus 1](https://fonofone.org/video/lintrus-1//?modal=true) [l'intrus 2](https://fonofone.org/video/lintrus-2//?modal=true) [l'intrus 3](https://fonofone.org/video/lintrus-3//?modal=true) [l'intrus 4](https://fonofone.org/video/lintrus-4//?modal=true) [l'intrus 5](https://fonofone.org/?post_type=video&p=685&preview=true/?modal=true) [l'intrus 6](https://fonofone.org/video/lintrus-6//?modal=true)
 
-#### consigne
-
-## Réalisation
+<h2 id="realisation">Réalisation</h2>
 
 #### En option :
 
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
 L'enseignant(2) montre préalablement à l'élève comment utiliser le métronome pour ralentir les répétitions du court fragment sonore isolé (l'accident), ce qui en facilite la perception.
 
+</section>
+
 #### Consignes et réalisation
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 - L’enseignant(e) demande à l'élève de choisir le son [ Intrus 1]
 - L'élève doit bien écouter le son et tenter de repérer le corps étranger.
 - À l'aide de l'outil de sélection, l'élève tente de cibler l'intrus le plus précisément possible.
 - Quand on a trouvé, on lève la main et l'enseignant(e) vérifie. Si c'est réussi, l'élève reprend le jeu avec le son [Intrus 2], et ainsi de suite.
 
+</section>
+
 #### Option créative
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 - On demande aux élèves de réaliser leur propre "intrus" (voir la vidéo).
 - Inviter un(e) élève à jouer sa réalisation devant le groupe (idéalement projetée au TNI).
 - Inviter un(e) autre élève à venir tenter de repérer le son "intrus".
 
+</section>
+
 ### Évaluation
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 - Rapidité de l'élève à identifier le corps étranger et à l'isoler
 - Précision de la sélection
 - Manipulation adéquate de l'outil de sélection et, en option, du métronome.
 
+</section>
+
 #### Option créative
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 - La réalisation technique a t-elle été bien comprise et bien réalisée?
 - L'inclusion de "l'intrus" est-elle réussie ? (son bref, se démarquant du son continu).
+
+</section>
 
 ## Ouverture à la création
 

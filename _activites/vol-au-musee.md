@@ -30,7 +30,7 @@ En équipe, les élèves imagineront une séquence dramatique gestuelle inspiré
 
 L’activité présentée peut aisément être simplifiée pour les élèves du premier cycle du primaire ou complexifiée pour les élèves du deuxième cycle du secondaire (voir la section VARIANTES).
 
-**< Propositions de réalisation**
+[< Propositions de réalisation](#realisation)
 
 </div>
 {% include fiche-media.html %}
@@ -78,12 +78,12 @@ Au terme de cette activité:
 - Réponse aux repères sonores
 - Développement de la fable
 
-#### qualite
-
 </aside>
 </section>
 
 ## Repères culturels
+
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
 
 #### [Couronne royale de Bavière](https://fr.wikipedia.org/wiki/Couronne_royale_de_Bavi%C3%A8re)
 
@@ -91,22 +91,32 @@ Au terme de cette activité:
 
 #### [Résidence de Munich](https://fr.wikipedia.org/wiki/R%C3%A9sidence_de_Munich)
 
-## Propositions de réalisation
+</section>
+
+<h2 id="realisation">Propositions de réalisation</h2>
 
 #### Mise en situation
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 ***"Vous êtes des voleurs qui s’introduisent dans un* *musée pour dérober un joyau de la Couronne bavaroise.* *Vous êtes seuls, le musée est totalement silencieux. Soyez* *attentifs aux sons que vous allez entendre et réagissez selon votre instinct.***  
  ***Attention ! Ne faites aucun bruit ! Il y a des gardiens de sécurité et ils ne* *doivent pas vous prendre."***
 
+</section>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-3">
+<div class="options__col" markdown="1">
+
 #### Préparation
-
-#### Réalisation
-
-#### Rétroaction/objectivation
 
 - L'enseignant.e, après avoir bien expliqué l'objectif de l'activité, fait écouter au TNI chaque effet sonore.
 - L'enseignant.e divise le groupe en équipes de 4 ou 5 membres.
 - Dans chaque équipe, on désigne l'élève "sonorisateur", qui aura la tâche d'effectuer le parcours sonore au TNI ou à l'ordinateur.
+
+</div>
+<div class="options__col" markdown="1">
+
+#### Réalisation
 
 Dans chaque équipe :
 
@@ -122,12 +132,20 @@ Dans chaque équipe :
 - Introduire les notions de jeu majeur/jeu mineur.
 - Ajouter une technique théâtrale comme le masque neutre.
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Rétroaction/objectivation
+
 - Animer une discussion en grand groupe à propos des présentations des élèves.
 - Modeler l’appréciation et l’utilisation du vocabulaire disciplinaire en reformulant certains commentaires ou en demandant aux élèves de préciser leur pensée.
 
 Voir : [**Grille d'évaluation**](../documents/2023/04/vol-au-musee-grille-eval.pdf)
 
  Proposée par Émilie Poirier
+
+</div>
+</section>
 
 ## Pour aller plus loin
 

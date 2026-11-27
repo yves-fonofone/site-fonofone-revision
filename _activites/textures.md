@@ -102,13 +102,12 @@ Au terme de cette activité:
 </figure>
 </section>
 
-## Proposition de réalisation {#realisation}
+<h2 id="realisation">Proposition de réalisation</h2>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-3">
+<div class="options__col" markdown="1">
 
 #### Préparation
-
-#### Réalisation
-
-#### Rétroaction/objectivation
 
 En préalable, un cours pourra être consacré au parcours des ressources culturelles proposées et à une exploration au TNI du tableau de Louis Maurice Boutet de Monvel.
 
@@ -118,11 +117,25 @@ En préalable, un cours pourra être consacré au parcours des ressources cultur
 N.B.  
  On peut également choisir de traiter chacune des notions en trois périodes distinctes.
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Réalisation
+
 - Les élèves en dyade analysent le tableau selon l'angle d'observation choisi et déterminent **cinq** sections à interpréter par un son.
 - Raffiner l'emplacement des zones, par exemple en les entrecroisant pour produire des effets de fondu-enchaîné.
 - S'entendre sur un parcours et pratiquer l'enchaînement (on peut automatiser celui-ci).
 - L'enseignant.e invite à tour de rôle les équipes à venir présenter leur enchaînement devant le groupe.
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Rétroaction/objectivation
+
 - *Est-ce que les sons que tu as choisis ont changé ta perception de l'oeuvre? Si oui, pourquoi?*
 - *Explique-nous le choix de l'emplacement de tes zones (sons) : qu'as-tu voulu exprimer ou souligner?* (précision du vocabulaire disciplinaire).
 - *Peux-tu nous expliquer en quoi, selon toi, le son "x"que tu as choisi exprime la section du tableau à laquelle tu l'as attribué?*
+
+</div>
+</section>
+

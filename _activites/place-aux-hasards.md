@@ -85,17 +85,21 @@ Au terme de cette activité, l’élève sera capable :
 
 ## Repères culturels
 
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
+
 #### [Merce Cunningham et John Cage](https://www.youtube.com/watch?v=R1Tijk_aM3U)
 
 #### [Le hasard dans l'oeuvre de Merce Cunningham](https://www.ledevoir.com/culture/danse/102973/danse-l-inepuisable-beaute-du-hasard)
 
 #### [Le parcours de Merce Cunningham](https://www.mercecunningham.org/about/merce-cunningham/)
 
-#### hasard
+</section>
 
-## Suggestions de réalisation
+<h2 id="realisation">Suggestions de réalisation</h2>
 
 #### Préparation
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 Fono-image à construire
 
@@ -110,6 +114,11 @@ Les 5 zones du F *ono-image*  :
 5. Improvisation libre
 
 (Si on dispose de peu de temps, on peut choisir le.)
+
+</section>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
 
 #### Réalisation
 
@@ -134,6 +143,9 @@ Proposition 3
 L'activité est amenée dans un lieu autre que le studio de danse, tel que le faisait Merce Cunningham (ex. : cafétéria de l’école, parc, bibliothèque, salle des casiers, etc.).  
  Les élèves devront adapter leur improvisation à ce nouvel environnement.
 
+</div>
+<div class="options__col" markdown="1">
+
 #### Suggestions de rétroaction/objectivation après chaque séance
 
 - *Comment la notion du hasard s’est-elle manifestée dans votre improvisation?*
@@ -143,3 +155,7 @@ L'activité est amenée dans un lieu autre que le studio de danse, tel que le fa
 - *Qu’avez-vous perçu en observant vos camarades improviser?*
 
 - *Quels défis avez-vous rencontrés lors de votre expérimentation de cette activité? Quelles stratégies avez-vous mobilisées pour les surmonter?*
+
+</div>
+</section>
+

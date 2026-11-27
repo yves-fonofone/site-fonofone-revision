@@ -31,7 +31,7 @@ Idéalement, chaque élève disposera d'une tablette ou d'un Chromebook.
 
 Il est fortement recommandé de réaliser en préalable l'activité  **[Caractères (émotions)](caractere.html)**
 
-< Propositions de réalisation
+[< Propositions de réalisation](#realisation)
 
 Réalisation au Collège Bourget, 3e année primaire  
  Enseignant : François Gauthier
@@ -86,6 +86,8 @@ Au terme de cette activité:
 
 ## Repères et ressources culturelles
 
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
+
 ### [Le caractère en musique](https://fr.wikipedia.org/wiki/Caract%C3%A8re_(musique))
 
 ### **[Robert Schumann](https://fr.wikipedia.org/wiki/Robert_Schumann)**
@@ -96,15 +98,14 @@ Au terme de cette activité:
 
 [Tableaux d'une exposition - le Gnome](https://www.youtube.com/watch?v=WzYRzv8V1Fk&ab_channel=scottbrothersduo)
 
-#### réalisation
+</section>
 
-## Propositions de réalisation
+<h2 id="realisation">Propositions de réalisation</h2>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-3">
+<div class="options__col" markdown="1">
 
 #### Préparation
-
-#### Réalisation
-
-#### Rétroaction/objectivation
 
 Il est recommandé de réaliser d'abord l'activité **[Caractère 1](caractere.html)**
 
@@ -113,12 +114,26 @@ Il est recommandé de réaliser d'abord l'activité **[Caractère 1](caractere.h
 - L'enseignant.e explique aux élèves ce qu'est une forme A-B-A et les invite à proposer des variantes.
 - Revenir ensuite sur la notion de caractère. L'emploi d'émoticônes est une piste intéressante (voir la vidéo). Nous suggérons également l'article suivant : [<Indications de caractères.](https://fr.wikipedia.org/wiki/Caract%C3%A8re_(musique))
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Réalisation
+
 - Dans chaque équipe on choisit **3 ou 4 caractères différents** et on les répartit entre les membres.
 - À partir des banques de sons **Fonofone** on choisit des sons ou extraits musicaux exprimant le caractère recherché (on peut transformer les sons).
 - L'équipe s'entend sur la forme (ordre d'enchaînement des moments différents, reprises...).  
  L'enseignant.e peut imposer une directive formelle, par exemple que la phrase se termine avec le son (caractère) du début, mais transformé (A').
 - Pratiquer l'enchaînement, puis l'interpréter devant la classe.
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Rétroaction/objectivation
+
 - *Est-ce que les sons que tu as choisis ont changé ta perception de l'oeuvre? Si oui, pourquoi?*
 - *Explique-nous le choix de l'emplacement de tes zones (sons) : qu'as-tu voulu exprimer ou souligner?* (précision du vocabulaire disciplinaire).
 - *Peux-tu nous expliquer en quoi, selon toi, le son "x"que tu as choisi exprime la section du tableau à laquelle tu l'as attribué?*
+
+</div>
+</section>
+

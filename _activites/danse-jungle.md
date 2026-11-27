@@ -94,13 +94,17 @@ Au terme de cette activité, l’élève sera capable :
 
 ## Repères culturels
 
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
+
 ####  < [La faune et la flore en Amazonie](https://awe-amazonia.com/index.php/la-faune-et-la-flore-en-amazonie/)
 
 #### [< L'explorateur Jacques Cousteau en Amazonie](https://www.google.com/search?q=Cousteau+Amazonie&oq=Cousteau+Amazonie&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgWGB7SAQg1NDk2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:08c86f80,vid:d0gQSKXiOis,st:0)
 
 #### dans la jungle
 
-## Suggestions de réalisation
+</section>
+
+<h2 id="realisation">Suggestions de réalisation</h2>
 
 Concevoir l'activité en quelques phases ne dépassant pas 15 minutes chacune pour permettre aux élèves de maintenir leur attention à la tâche.  
  Par exemple, en fonction du nombre d'élèves :  
@@ -115,15 +119,25 @@ p- En collaboration avec l'enseignant.e de géographie ou d'arts plastiques, tro
 
 #### Préparation
 
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
 - L'enseignant.e présente l'activité. Il/elle fait jouer chacun des sons et donne des exemples de parcours.
 - On travaille les mouvements associés à chacun des sons
 
+</section>
+
 #### Réalisation
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 - Les élèves sont invités à tour de rôle à venir au TNI réaliser un parcours de leur choix à travers les sons.
 - Les autres élèves dansent en devant adapter leur enchainement des mouvements en fonction du parcours proposé.
 
+</section>
+
 #### Suites et réinvestissement
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 Primaire et secondaire
 
@@ -133,7 +147,11 @@ Secondaire
 
 - En collaboration avec l’enseignant.e d’univers social, demander aux élèves de faire une courte recherche sur l’explorateur Jacques Cousteau. 
 
+</section>
+
 #### Évaluation
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 **Par compétence avec les critères du programme CAPS**
 
@@ -141,3 +159,6 @@ Secondaire
 
 **Exploiter l’information** :  recours aux données pertinentes : action, réaction ou prise de décision.  
  **Interagir avec son milieu** : participation à la vie de groupe.
+
+</section>
+

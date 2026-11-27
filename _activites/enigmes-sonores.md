@@ -10,6 +10,7 @@ niveau: "À partir du 3e cycle du primaire"
 duree: "1 période Requis : bonne connaissance des outils Fonofone"
 console_nom: "Fono-image"
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1698791704.fnmg
+qr_code: /images/2022/06/les-enigmes-sonores.png
 gratuite: true
 source: https://fonofone.org/activite/enigmes-sonores/
 mise_en_page: fonofone
@@ -27,9 +28,7 @@ Cette activité vise un double objectif : d'une part contribuer à la compréhen
 
 Il s'agit de retrouver dans les banques COSIMU le son original que l'enseignant a manipulé pour créer l'énigme.
 
-<Propositions de réalisation
-
-![les-enigmes-sonores](../images/2022/06/les-enigmes-sonores.png){: .qr}
+[< Propositions de réalisation](#realisation)
 
 [Cliquez ici pour les réponses](../documents/2022/11/resolutions-enigmes-1.pdf)
 
@@ -80,9 +79,11 @@ Au terme de l'activité,
 </aside>
 </section>
 
-## Propositions de réalisation
+<h2 id="realisation">Propositions de réalisation</h2>
 
 #### Proposition 1
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 Dans la banque [local] du menu Sons, l'enseignant en musique François Gauthier a déposé 11 transformations de sons provenant de la banque originale [COSIMU]. À l'aide des divers outils Fonofone, il a altéré ces sons.
 Le jeu consiste à trouver les sons originaux et à identifier la nature des transformations. (Voir les[ Résolutions](../documents/2022/11/resolutions-enigmes-1.pdf))
@@ -94,9 +95,13 @@ Variante
 
 - L'élève "défait" les transformations du son-énigme pour le ramener à l'état original.
 
+</section>
+
 #### Proposition 2
 
 #### Les élèves créent leur propre énigme
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 1ère option : réalisation individuelle
 
@@ -109,4 +114,5 @@ Variante
 - Les deux membres de l'équipe partagent leur énigme; c'est à qui trouvera le premier le son original de l'autre.
 - On peut pousser plus loin : le gagnant sera celui ou celle qui aura réussi avant l'autre à reconstituer le son original (trouver les bons traitements et ramener les valeurs à leurs positions neutres).
 
-#### propositions
+</section>
+

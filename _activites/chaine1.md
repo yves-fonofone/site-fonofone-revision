@@ -11,6 +11,7 @@ duree: "1/2 période ou plus"
 image: "/images/2022/10/chaine-1-scaled.jpg"
 console_nom: "Fono-image"
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1668029718.fnmg
+qr_code: /images/2022/10/faire-une-chaine.png
 gratuite: true
 source: https://fonofone.org/activite/chaine1/
 mise_en_page: fonofone
@@ -27,9 +28,7 @@ Cette activité permet à l'élève de développer son habileté à créer des m
 
 En plus d'aider l'élève à bien comprendre la manipulation des zones dans l'interface image de Fonofone, elle constitue une bonne préparation aux travaux plus créatifs qui feront appel à la capacité de créer une pièce musicale.
 
-< Propositions de réalisation
-
-![faire-une-chaine](../images/2022/10/faire-une-chaine.png){: .qr}
+[< Propositions de réalisation](#realisation)
 
 </div>
 {% include fiche-media.html %}
@@ -75,7 +74,7 @@ Au terme de cette activité :
 </aside>
 </section>
 
-## Suggestion de réalisation
+<h2 id="realisation">Suggestion de réalisation</h2>
 
 #### Étapes
 

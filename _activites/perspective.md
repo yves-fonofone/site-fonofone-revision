@@ -32,7 +32,7 @@ L'activité peut se réaliser en deux étapes :
 1.  Sonorisation d'une image proposée
 2. création et sonorisation de sa propre image.
 
-< Propositions de réalisation
+[< Propositions de réalisation](#realisation)
 
 </div>
 {% include fiche-media.html %}
@@ -79,33 +79,37 @@ Langage plastique :
 
 - Perspective en diminution
 
-#### qualite
-
 </aside>
 </section>
 
 ## Repères et ressources culturelles
+
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
 
 [Perspective en diminution - Récit Arts](https://www.youtube.com/watch?v=82oWBwH1BW0&list=PLyTvn5hHbw2YR-3NedVnMpWv97HThOzPq&index=19&ab_channel=R%C3%89CITARTS)
 
 [L'âge de chaise](https://www.google.com/search?q=L%27%C3%A2ge+de+chaise+ONF&oq=L%27%C3%A2ge+de+chaise+ONF&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEJMTQ3NjdqMGo0qAIIsAIB&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:4232bfa0,vid:q0Gvk8840bk,st:0)  
  Film d'animation de [Jean-Thomas Bédard](https://www.onf.ca/cineastes/jean-thomas-bedard/)
 
-#### realisation
+</section>
 
-## Propositions de réalisation
+<h2 id="realisation">Propositions de réalisation</h2>
 
 #### Option 1 - sur une image fournie
 
+<section class="encadre encadre--blanc encadre--options encadre--options-3">
+<div class="options__col" markdown="1">
+
 #### Préparation
-
-#### Réalisation
-
-#### Rétroaction/objectivation
 
 - Projeter au TBI une œuvre où la perspective en diminution est aisément repérable. Par exemple,  
  [*Christ remettant les clés à saint Pierre*, de Perugin1481-1482.](https://fr.wikipedia.org/wiki/Perspective_lin%C3%A9aire#/media/Fichier:Entrega_de_las_llaves_a_San_Pedro_(Perugino).jpg)
 - Demander aux élèves quel  personnage est le plus près de nous dans l’image et pourquoi? Lequel est le plus éloigné et pourquoi? Encercler les personnages afin de montrer la différence entre les différentes grandeurs de cercles et leur effet de perspective. Il s’agit de la perspective par diminution.
+
+</div>
+<div class="options__col" markdown="1">
+
+#### Réalisation
 
 L'objectif est de renforcer l'effet de perspective de l'image par le son.
 
@@ -116,16 +120,31 @@ L'objectif est de renforcer l'effet de perspective de l'image par le son.
 - En se servant des outils Fonofone (essentiellement le volume et le filtre) on *place* le son en fonction de l'effet de profondeur recherché.
 - Chaque équipe est appelée à interpréter sa sonorisation devant le groupe.
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Rétroaction/objectivation
+
 - *Si on écoute tes sons dans l'ordre que tu as créé, du plus proche au plus loin, est-ce qu'on perçoit bien l'éloignement ? Si oui/non, pourquoi?*
 - *Est-ce que ta sonorisation accentue l'effet de perspective de l'image? Si oui/non, pourquoi?*
 - *Qu'est-ce qui pourrait être amélioré?*
+
+</div>
+</section>
 
 #### Option 2 -crée ta propre image
 
 #### Consignes
 
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
 - L'enseignant(e) détermine les consignes pour la réalisation du dessin (devant comporter au moins 4 zones, de la plus proche à la plus éloignée).
 - Sonorisation : limiter à **quatre** le nombre de zones, du plan le plus près au plan le plus éloigné.
+
+</section>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
 
 #### Réalisation
 
@@ -135,9 +154,16 @@ L'objectif est de renforcer l'effet de perspective de l'image par le son.
 - L'élève choisit les sons et les manipule au besoin, de façon à ce qu'ils expriment l'effet de proximité et d'éloignement recherché.
 - En option : l'élève peut créer un parcours de son image et l'automatiser.
 
+</div>
+<div class="options__col" markdown="1">
+
 #### Rétroaction/objectivation
 
 - *Peux-tu décrire comment tu as réalisé l'effet de perspective en diminution dans ton dessin?*
 - *Si on écoute tes sons dans l'ordre que tu as créé, du plus proche au plus loin, est-ce qu'on perçoit bien l'éloignement ? Si oui/non, pourquoi?*
 - *Est-ce que ta sonorisation accentue l'effet de perspective de ton dessin? Si oui/non, pourquoi?*
 - *Qu'est-ce qui pourrait être amélioré?*
+
+</div>
+</section>
+

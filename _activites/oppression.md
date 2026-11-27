@@ -32,7 +32,7 @@ Seconde étape :
 
 (L’activité pourrait par la suite être complexifiée en créant et en ajoutant des brides du monologue intérieur du personnage oppressé sous forme de chœur pour mettre davantage en valeur son état psychologique.)
 
-**< Propositions de réalisation**
+[< Propositions de réalisation](#realisation)
 
 </div>
 {% include fiche-media.html %}
@@ -84,6 +84,8 @@ Au terme de cette activité:
 
 ## Repères et ressources culturelles
 
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
+
 [<Shakespeare](https://fr.wikipedia.org/wiki/William_Shakespeare)
 
 [< Roméo et Juliette](https://fr.wikipedia.org/wiki/Rom%C3%A9o_et_Juliette)
@@ -96,11 +98,13 @@ Au terme de cette activité:
 
 [< Augusto Boal](https://etincelle-theatre-forum.com/a-lorigine-du-theatre-forum-augusto-boal/)
 
-#### théâtre-image
+</section>
 
-## Propositions de réalisation
+<h2 id="realisation">Propositions de réalisation</h2>
 
 #### En amorce
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 - Présenter très sommairement Augusto Boal.
 
@@ -111,11 +115,12 @@ Au terme de cette activité:
 
 On devra consacrer une bonne partie de période à la démonstration de l'application web Fonofone (Fono-image et mini-studio Fonofone). On pourra s'appuyer sur les différents tutoriels offerts [**ici**](https://fonofone.org/art-dramatique/jeux-dinitiation/)et également sur la page tutoriel de la.
 
+</section>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-3">
+<div class="options__col" markdown="1">
+
 #### Préparation
-
-#### Réalisation
-
-#### Rétroaction/objectivation
 
 - Expliquer les étapes de travail (voir le document *Théâtre-L’oppression-Shakespeare)*
 - Présenter les 4 scènes (vous pouvez aussi en choisir d’autres).  
@@ -125,6 +130,11 @@ On devra consacrer une bonne partie de période à la démonstration de l'applic
  Lady Macbeth manipule Macbeth pour qu’il tue le Roi Duncan afin de prendre sa place sur le trône.  
  **Hamlet (acte 3, scène IV)**  
  Hamlet méprise et accuse sa mère Gertrude pour avoir assassiné son mari et avoir épousé le frère de ce dernier. **Mesure pour mesure (acte 2, scène IV)** Angelo, un ministre d’État, demande à Isabelle de lui offrir sa virginité en échange de la vie de son frère condamné à mort.
+
+</div>
+<div class="options__col" markdown="1">
+
+#### Réalisation
 
 Étapes
 
@@ -138,14 +148,27 @@ On devra consacrer une bonne partie de période à la démonstration de l'applic
 - Mettre en scène (orchestrer) un parcours sonore  pour la présentation devant la classe (il peut être [**automatisé**](https://fonofone.org/activite/automatisation/)).
 - Chaque équipe présente au TNI sa réalisation devant le groupe.
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Rétroaction/objectivation
+
 - *Est-ce que tu trouves que les photographies des personnage sont convaincantes ? si non/oui, en quoi?*
 - *Est-ce que tu trouves que les enregistrements sonores sont convaincants ? si non/oui, en quoi?*
 - Es-tu satisfait du parcours (déroulement de l'histoire) réalisé sur le Fono-image?
 - *Si tu as utilisé des accessoires, en quoi ont-ils contribué à exprimer les personnages?*
 
+</div>
+</section>
+
 #### Critères ou grille d'évaluation
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 Voir les documents :
 
 - [**L’oppression-Shakespeare**](../documents/2024/12/theatre-loppression-shakespeare-accompagnement.pdf)
 - [**Grille 2e cycle secondaire**](../documents/2024/12/grille-2e-cycle-secondaire.pdf)
+
+</section>
+

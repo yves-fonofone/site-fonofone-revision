@@ -30,9 +30,9 @@ Cette activité permet d’exploiter des notions relatives à l’organisation r
 Elle permet également d’initier les élèves à différents procédés de composition présents dans certaines musiques minimalistes. Elle peut aussi servir de point de départ pour une activité synthèse de création dans laquelle les élèves exploiteront diverses notions vues en classe.  
  Il est fortement suggéré de commencer par la réalisation individuelle, ce qui permettra aux élèves de bien assimiler le procédé et la technique d'exécution et facilitera par la suite la réalisation en équipe.
 
-**< Propositions de réalisation individuelle**
+**[< Propositions de réalisation individuelle](#realisation)**
 
-< Proposition de réalisation en équipe
+[< Proposition de réalisation en équipe](#realisation)
 
 Réalisations en équipe, Collège Bourget, Rigaud, Québec  
  Enseignant: François Gauthier
@@ -85,12 +85,12 @@ Au terme de cette activité:
 - Mesure
 - Procédé de composition : [accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs. et [ostinato](../lexique.html#ostinato)L'ostinato est un procédé de composition musicale consistant à répéter obstinément une formule rythmique, mélodique ou harmonique accompagnant de manière immuable les différents éléments thématiques durant tout le morceau. L'ostinato est souvent basé sur la basse — basse contrainte, soutenue ou obligée — on parle alors de basso ostinato. Les chaconnes, les passacailles et les grounds sont des modèles du...
 
-#### qualite
-
 </aside>
 </section>
 
 ## Repères culturels
+
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
 
 #### [Steve Reich](https://fr.wikipedia.org/wiki/Steve_Reich)
 
@@ -104,21 +104,27 @@ Au terme de cette activité:
 
 #### Individuelle
 
-## Propositions de réalisation
+</section>
+
+<h2 id="realisation">Propositions de réalisation</h2>
 
 #### Réalisation individuelle
 
+<section class="encadre encadre--blanc encadre--options encadre--options-3">
+<div class="options__col" markdown="1">
+
 #### Préparation
-
-#### Réalisation
-
-#### Rétroaction/objectivation
 
 - L'élève choisit un son dans la banque [sons brefs] ou [sons résonnants] et l'installe dans Fonofone 1 et 2.
 - L'élève va à [l'arpégiateur](https://fonofone.org/video/arpegiateur-web/) de la première console "Fonofone"  et crée un relief mélodique en ajustant chaque pas à la hauteur souhaitée.
 - Puis, il/elle refait l'opération pour la seconde console "Fonofone".
 - Si on utilise Fonofone en version web, bien s'assurer que les métronomes sont activés et réglés à la même valeur de pulsation.
 - **ATTENTION !** Quand cette préparation est terminée, ne pas oublier de bien remettre à **0** tous les boutons de volume des deux arpégiateurs, puis désactiver la lecture.
+
+</div>
+<div class="options__col" markdown="1">
+
+#### Réalisation
 
 - L'élève active le bouton général de lecture (triangle blanc, barre de menu). Les deux consoles "Fonofone" sont alors synchrones.
 - L'élève monte une première ligne verte (potentiomètre de volume) du premier arpégiateur.
@@ -128,23 +134,35 @@ Au terme de cette activité:
 - L'enseignant.e invite quelques élèves à présenter leur création devant la classe.  
  On commente.
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Rétroaction/objectivation
+
 - *Est-ce que l’intervalle de quatre répétitions a été respecté entre chacune des entrées?*
 - *Est-ce qu’on percevait clairement le contraste de registre entre les deux consoles?*
 - *Les 2 consoles étaient-elles bien synchronisées?*
 - *Que penses-tu de ta fin? Peux-tu nous expliquer ton choix?*
 
+</div>
+</section>
+
 #### Réalisation en équipe
 
+<section class="encadre encadre--blanc encadre--options encadre--options-3">
+<div class="options__col" markdown="1">
+
 #### Préparation
-
-#### Réalisation
-
-#### Rétroaction/objectivation
 
 - L'enseignant.e divise le groupe en équipes.
 - Dans chaque équipe on se met d'accord sur le choix du son (le même pour tous).
 - Chaque élève prépare son arpégiateur : il/elle crée un relief mélodique en ajustant chaque pas à la hauteur souhaitée.
 - Bien s'assurer que les métronomes sont activés et réglés à la même valeur de pulsation. **ATTENTION !** Quand cette préparation est terminée, ne pas oublier de bien remettre à **0** tous les boutons de volume de l'arpégiateur.
+
+</div>
+<div class="options__col" markdown="1">
+
+#### Réalisation
 
 - Dans l'équipe, on se met d'accord sur l'ordre de succession.
 - On invente une fin.
@@ -154,11 +172,21 @@ Au terme de cette activité:
  - On termine de façon **inventive.**
 - L'enseignant.e invite chaque équipe à présenter sa création devant la classe.
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Rétroaction/objectivation
+
 - *Est-ce que l’intervalle de quatre répétitions a été respecté entre chacune des entrées?*
 - *Est-ce que le passage d'un membre à l'autre de l'équipe s'est bien passé?*
 - *Que penses-tu de ta fin? Peux-tu nous expliquer ton choix?*
 
+</div>
+</section>
+
 #### Quelques pistes pour varier et terminer
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 Quand tous les pas de l'arpégiateur ont été montés, on peut introduire une variation.  
  Par exemple :
@@ -178,3 +206,6 @@ Réalisation collective dirigée par l'enseignant :
  A. construction  
  B. jeux de fondus entre les 3 équipes  
  C. (A') Déconstruction
+
+</section>
+

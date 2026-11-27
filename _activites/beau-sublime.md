@@ -106,20 +106,29 @@ Langage plastique :
 </section>
 
 
-## Propositions de réalisation {#realisation}
+<h2 id="realisation">Propositions de réalisation</h2>
 
 #### Cours 1 - Introduction esthétique et historique
 
+<section class="encadre encadre--blanc encadre--options encadre--options-3">
+<div class="options__col" markdown="1">
+
 #### Préparation - Arts plastiques
-
-#### Préparation - Son
-
-#### Cahier de l'élève
 
 - L'enseignant.e présente la thématique et amène les élèves par des exemples à saisir la distinction entre le Beau et le Sublime. Projeter le document :[**Beau et Sublime.**](https://www.canva.com/design/DAF6Ew_SiGk/led1o1NoMTIKv9myO494qw/edit)
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Préparation - Son
+
 - L'enseignant.e fait jouer les sons de la banque [local] du préparés pour cette activité.
 - Discussion avec les élèves : *quels sons selon toi, conviennent le mieux pour renforcer ta perception du "beau" et du "sublime" ? Pourquoi?*
+
+</div>
+<div class="options__col" markdown="1">
+
+#### Cahier de l'élève
 
 #### [< Révision](../documents/2024/05/revision-lp.pdf)
 
@@ -127,45 +136,72 @@ Langage plastique :
 
 [< Schéma - "Sublime"](../documents/2024/05/schema-sublime.pdf)
 
+</div>
+</section>
+
 #### Cours 2 (3) - Création des dessins
 
+<section class="encadre encadre--blanc encadre--options encadre--options-3">
+<div class="options__col" markdown="1">
+
 #### Préparation
-
-#### Réalisation
-
-#### Rétroaction/objectivation
 
 - L'enseignant.e présente aux élèves les éléments à intégrer dans leur image (un carnet de l'élève pourrait être élaboré à cette fin).
 - L'enseignant.e invite l'élève à choisir dans la banque [local] de Fonofone le son qui lui servira de source d'inspiration pour la création de son image.
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Réalisation
+
 - L'élève crée son dessin en s'inspirant des sons choisis dans Fonofone qui évoquent pour elle et lui des images de représentation du Beau et du Sublime.
+
+</div>
+<div class="options__col" markdown="1">
+
+#### Rétroaction/objectivation
 
 - *Peux-tu indiquer quels sont les éléments dans ton image qui expriment l'idée du Beau et du Sublime?*
 - *Quels sont les moyens plastiques que tu as utilisés pour rendre bien perceptible ton idée?*
 - *Les sons que tu as choisis t'ont-ils inspirés ? Si oui, comment ? Si non, pourquoi?*
 
+</div>
+</section>
+
 #### Cours 3 (4) - Sonorisation des dessins
 
+<section class="encadre encadre--blanc encadre--options encadre--options-3">
+<div class="options__col" markdown="1">
+
 #### Préparation
-
-#### Réalisation
-
-#### Rétroaction/objectivation
 
 - Si les dessins ont été réalisés sur papier, il faudra numériser ceux-ci afin de pouvoir les intégrer dans la console Fono-image fournie.  
  (La méthode la plus simple consiste à demander à l'élève de photographier son image à l'aide de sa tablette).
 - Si nécessaire, l'enseignant.e vérifie la compréhension des élèves de la manipulation de Fono-image.
 - L'enseignant.e expose les consignes de réalisation.
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Réalisation
+
 - L'élève télécharge le fichier Fono-image "Le Sublime". Dans la barre de menu il/elle clique sur l'icône [image] et importe son dessin.
 - L'élève trace quelques zones sur les sections de son dessin qu'il/elle veut veut sonoriser (les sons peuvent être modifiés avec les outils Fonofone).
 - L'élève s'assure que les zones  s'entrecroisent de façon à passer en fondu-enchaîné d'un son à l'autre.
 - L'élève conçoit son parcours à travers son dessin. Il/elle peut l'automatiser.
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Rétroaction/objectivation
+
 - L'enseignant.e invite quelques élèves à faire entendre leur réalisation (connecter si possible leur tablette au TNI).
 - *Quelle était ton intention dans le choix de tes sons?*
 - *Est-ce que les sons que tu as choisis nous aident à comprendre ton image? Si oui/non pourquoi?*
 - *Quelle émotion, à ton avis, exprime chacun de tes sons?*
+
+</div>
+</section>
 
 ### [< Liste et évaluation](../documents/2024/05/liste-et-evaluation.pdf)
 

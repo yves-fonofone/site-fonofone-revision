@@ -70,7 +70,7 @@ Au terme de cette activité :
 </aside>
 </section>
 
-## Suggestion de réalisation
+<h2 id="realisation">Suggestion de réalisation</h2>
 
 #### Outils
 
@@ -83,6 +83,8 @@ volume
 mélangeur
 
 #### Réalisation
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 - L'animateur choisit un segment et demande à l'élève de l'installer dans l'onglet 1.
 - L'élève cherche les deux autres segments et les installe dans les deux onglets inoccupés.
@@ -124,14 +126,22 @@ div_ P      div_ I      div_ A
 
 div_ S     div_ H     div_ F
 
+</section>
+
 #### Suggestions d'évaluation
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 - *Est-ce que l'élève a été capable d'identifier les 3 segments d'un extrait ?*
 - *Est-ce que l'élève a réussi à les placer dans le bon ordre?*
 - *Combien de problèmes ont été réussis?* (On peut fixer une durée maximale pour compléter chaque enchaînement).
 - *Dans quelle mesure l'élève a t-il réussi à enchaîner les 3 segments des extraits en respectant le rythme?*
 
+</section>
+
 #### Pour aller plus loin : un jeu créatif, à réaliser en collectif
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 - Chaque élève choisit trois segments provenant de trois extraits différents.
 - Le chef (ce peut être un élève) pointe rapidement un élève à la fois qui déclenche instantanément un de ses extraits, en mode non bouclé.
@@ -139,3 +149,6 @@ div_ S     div_ H     div_ F
 OPTION
 
 - Transformer (mais pas trop...)  les segments (lecture inversée, transposition, filtre...)
+
+</section>
+

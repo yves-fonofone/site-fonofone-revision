@@ -10,6 +10,7 @@ duree: "1 période"
 image: "/images/2023/06/automatisation-scaled.jpg"
 console_nom: "Fono-image"
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1687971645.fnmg
+qr_code: /images/2023/06/automatisation-1.png
 gratuite: true
 source: https://fonofone.org/activite/automatisation/
 mise_en_page: fonofone
@@ -40,9 +41,7 @@ Après visionnement de la vidéo, on pourra passer à l'activité d'intégration
 
 Les directives varieront selon la discipline, le niveau et la connaissance de Fonofone de vos élèves.
 
-< Propositions de réalisation
-
-![automatisation](../images/2023/06/automatisation-1.png){: .qr}
+[< Propositions de réalisation](#realisation)
 
 #### Integration
 
@@ -52,9 +51,11 @@ Les directives varieront selon la discipline, le niveau et la connaissance de Fo
 
 {% include consoles.html %}
 
-## Suggestion de réalisation
+<h2 id="realisation">Suggestion de réalisation</h2>
 
 #### Réalisation
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 Option 1.
 
@@ -70,13 +71,25 @@ L'élève devra trouver de nouveaux sons, déterminer et automatiser le parcours
 
 Ou toute autre variante selon votre imagination et l'habileté que vous souhaitez renforcer chez vos élèves.
 
+</section>
+
 #### Art dramatique et danse
 
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
 Développer une activité où les élèves, en équipes, inventeront une saynète provoquée par le parcours sonore qu'ils/elles auront créé (bouclé ou non).
+
+</section>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
 
 #### Arts plastiques
 
 Développer une activité où les élèves auront à créer un parcours sonore en boucle, interprétatif de leurs dessins (ou d'une image fournie).
+
+</div>
+<div class="options__col" markdown="1">
 
 #### Suggestions de rétroaction/objectivation
 
@@ -87,3 +100,7 @@ En fonction de l'option choisie:
 - *Es-tu satisfait de ton parcours? si oui/non, pourquoi?*
 - *Es-tu satisfait de la disposition de tes zones? Si oui/non, pourquoi?*
 - *Es-tu satisfait de la disposition de tes zones et du choix de tes sons? Si oui/non, pourquoi?*
+
+</div>
+</section>
+

@@ -66,14 +66,14 @@ Au terme de l'activité:
 - perception du doux et du fort
 - Éléments de langage relatifs à l'intensité, au timbre, au rythme.
 
-#### realisation
-
 </aside>
 </section>
 
-## Suggestion de réalisation
+<h2 id="realisation">Suggestion de réalisation</h2>
 
 #### Expérience acoustique
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 En tapant dans ses mains ou sur des instruments à percussion, réaliser une belle courbe de crescendo en huit battues, de *ppp* à *fff*.
 
@@ -82,16 +82,30 @@ On peut imaginer toutes sortes de variantes, par exemple :
 - faire quatre groupes et passer la séquence en continuité d'un groupe à l'autre;
 - diviser la classe en deux groupes. Le groupe de gauche va de  *ppp* à *fff* et le groupe de droite fait simultanément la séquence contraire (*fff* à  *ppp* ).
 
-#### Réalisation individuelle
+</section>
 
-#### Rétroaction/objectivation
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
+
+#### Réalisation individuelle
 
 - L'enseignant.e demande à l'élève de choisir un son sec et court (ce peut être une portion d'un son long, déterminée à l'aide de l'outil de sélection).
 - Avec l'outil  *arpégiateur* l'élève réalise une séquence d'intensités progressives de huit pas, du très doux au très fort.
 - On écoute et commente la réalisation de chacun.
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Rétroaction/objectivation
+
 - *Es-tu satisfait de ta courbe d'intensité ? Si oui/non, pourquoi?*
 - *As-tu bien compris le fonctionnement de l'arpégiateur? Si non, qu'est-ce que tu n'as pas compris?*
+
+</div>
+</section>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
 
 #### Réalisation collective
 
@@ -102,6 +116,9 @@ Produire collectivement un crescendo clairement perceptible. On doit utiliser l
 
 ⇒ En option: inviter chaque élève à choisir un autre son.
 
+</div>
+<div class="options__col" markdown="1">
+
 #### Rétroaction/objectivation
 
 - Est-ce que tout le groupe était bien synchrone?
@@ -111,6 +128,9 @@ Produire collectivement un crescendo clairement perceptible. On doit utiliser l
 
 - *L’ensemble donnait-il une impression d’homogénéité malgré les différents sons ou, au contraire, certains sons se détachaient-ils?*
 - *Si c’était le cas, peut-on expliquer pourquoi et trouver des solutions* (par exemple, en invitant les élèves à ajuster leur volume général de façon à créer un bel équilibre “orchestral” de l’ensemble)?
+
+</div>
+</section>
 
 #### Une variante intéressante :
 
@@ -136,3 +156,4 @@ Produire collectivement un crescendo clairement perceptible. On doit utiliser l
 </ol>
 
 #### Quelques exemples de sons appropriés
+

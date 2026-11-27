@@ -11,6 +11,7 @@ duree: "1/2période"
 image: "/images/2022/10/pareil-pas-pareil-1-scaled.jpg"
 console_nom: "Fono-image"
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1665184352.fnmg
+qr_code: /images/2022/10/pareil-pas-pareil.png
 gratuite: true
 source: https://fonofone.org/activite/pareil-pas-pareil-web/
 mise_en_page: fonofone
@@ -29,9 +30,7 @@ Il n'y a pas de mauvaises réponses, toutes les relations d'association et d'opp
 
 L'intérêt de l'activité est d'amener l'élève à décrire précisément le critère qu'il a retenu.
 
-< Propositions de réalisation
-
-![pareil-pas-pareil](../images/2022/10/pareil-pas-pareil.png){: .qr}
+[< Propositions de réalisation](#realisation)
 
 </div>
 {% include fiche-media.html %}
@@ -83,18 +82,28 @@ Au terme de l'activité:
 </aside>
 </section>
 
-## Proposition de réalisation 1
+<h2 id="realisation">Proposition de réalisation 1</h2>
 
 #### Première étape
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 - L'enseignant.e installe dans l'onglet 1 le son-modèle de son choix (le son [arpège_électr] est installé par défaut).
 - L’enseignant.e demande à l'élève de choisir et de charger dans l'onglet 2 un son qui s'associe bien, selon lui, au son modèle.
 - L’enseignant.e demande à l'élève de choisir et de charger dans l'onglet 3 un son qui s'oppose, selon lui, au son modèle.
 
+</section>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
+
 #### Deuxième étape
 
 - L'élève présente et commente sa réalisation à l’ensemble de la classe en commençant par l'association. Il doit justifier ses choix.
 - On reprend, mais cette fois en présentant et en commentant les oppositions.
+
+</div>
+<div class="options__col" markdown="1">
 
 #### Rétroaction/objectivation
 
@@ -103,6 +112,9 @@ Au terme de l'activité:
 *- quelqu'un d'autre a t-il fait la même association / opposition? Si oui, pourquoi?
  - Est-ce que le son associé au son-modèle pourrait plutôt être mis dans l'onglet "opposition" ? Si oui, décrire ce qui les différencie.
  - Est-ce que le son opposé au son-modèle pourrait plutôt être mis dans l'onglet "association" ? Si oui, décrire en quoi ils se ressemblent, quelle caractéristique ils ont en commun.*
+
+</div>
+</section>
 
 ## Proposition de réalisation 2
 

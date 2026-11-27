@@ -29,7 +29,7 @@ etiquette: "Danse"
 Cette activité vise à développer l'imagination gestuelle en intelligence avec les propositions sonores.  
  Les élèves sont disséminés dans le local en position figée (statue). Ils doivent réagir au son (Fono-image projeté au TNI) en créant un mouvement répétitif.
 
-< Propositions de réalisation
+[< Propositions de réalisation](#realisation)
 
 Réalisation à l'école primaire Le Plateau, Montréal, Québec   
  Enseignante : Audrey Bellerose-Battaglini
@@ -78,12 +78,12 @@ Au terme de l'activité:
 - Niveaux haut, moyen et bas
 - Position de départ et de fin d'une danse
 
-#### qualite
-
 </aside>
 </section>
 
 ## Repères culturels
+
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
 
 #### [**Lucinda Childs**](https://fr.wikipedia.org/wiki/Lucinda_Childs)
 
@@ -95,17 +95,16 @@ Au terme de l'activité:
 
 #### [**Philip Glass**](https://fr.wikipedia.org/wiki/Philip_Glass)
 
-#### statues-réalisation
+</section>
 
-## Propositions de réalisation
+<h2 id="realisation">Propositions de réalisation</h2>
 
 Cliquer **[ICI](https://vimeo.com/948747705/de95ed1a30?share=copy)** pour visionner une réalisation avec un groupe de niveau secondaire. L'enseignante a adapté l'activité en utilisant une image et des sons de son choix.
 
+<section class="encadre encadre--blanc encadre--options encadre--options-3">
+<div class="options__col" markdown="1">
+
 #### Préparation
-
-#### Réalisation
-
-#### Rétroaction/objectivation
 
 - Diviser le groupe en dix équipes (une par "statue").
 - Chaque membre de l'équipe tente de prendre la pose suggérée par l'image de sa statue.
@@ -114,6 +113,11 @@ Cliquer **[ICI](https://vimeo.com/948747705/de95ed1a30?share=copy)** pour vision
 
 **REMARQUE** :  
  Si on dispose de suffisamment de temps, on pourra inviter les équipes à choisir leurs sons ou extraits musicaux dans les banques Fonofone.
+
+</div>
+<div class="options__col" markdown="1">
+
+#### Réalisation
 
 - L'enseignant.e déplace le curseur sur les différentes poses de l'image.
 - L'élève (la statue) exécute son mouvement uniquement lorsqu'il/elle entend le son de sa pose.
@@ -125,6 +129,11 @@ Cliquer **[ICI](https://vimeo.com/948747705/de95ed1a30?share=copy)** pour vision
 
 ou même combiner les deux modes.
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Rétroaction/objectivation
+
 - *Comment fais-tu pour bien imiter la pose?*
 - *De quelle façon procèdes-tu pour bien improviser des mouvements répétitifs?*
 - *Comment as-tu exploité les différentes positions du corps?*
@@ -132,3 +141,7 @@ ou même combiner les deux modes.
 - *Quelle stratégie as-tu utilisée pour t'exécuter au bon moment?*
 - *Comment as-tu fait pour garder ta concentration jusqu'à ton tour?*
 - (optionnel) *Qu'est-ce qui motive ton choix du son ou de l'extrait musical?*
+
+</div>
+</section>
+

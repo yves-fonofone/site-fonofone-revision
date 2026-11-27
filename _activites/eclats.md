@@ -70,39 +70,51 @@ Au terme de cette activité :
 - Qualité du son
 - Habileté à répondre aux signes du chef
 
-#### qualite
-
 </aside>
 </section>
 
 ## Repères culturels
 
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
+
 [Ludwig van Beethoven](https://fr.wikipedia.org/wiki/Ludwig_van_Beethoven)
 
 [Symphonie #3, op. 55, mouvement 1](https://www.youtube.com/watch?v=BgIjGSPmk7I&ab_channel=VerachtetmirdieMeisternicht)
 
-#### réalisation-impro
+</section>
 
-## Suggestion de réalisation
+<h2 id="realisation">Suggestion de réalisation</h2>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-3">
+<div class="options__col" markdown="1">
 
 #### Préparation
-
-#### Réalisation
-
-#### Rétroaction/objectivation
 
 - Diviser le groupe en équipes de quelques élèves.
 - Chaque élève choisit dans la banque [Sons brefs] un ou deux sons "riches", comportant une attaque ferme et forte. (L'élève peut aussi fabriquer ses sons, par exemple en isolant un fragment d'attaque dans un son long).
 - Déclenchement du son :  
  on doit être en mode **piqué** et la fonction **boucle** doit être désactivée.
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Réalisation
+
 - L’élève volontaire pour diriger pointe tour à tour et de manière non régulière les équipes dont les membres doivent instantanément déclencher un de leurs deux sons.
 - Les élèves doivent réagir instantanément au signe du chef.
 - Reprendre en faisant diriger un autre élève.
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Rétroaction/objectivation
+
 - ***L** es sons choisis répondaient-ils bien à l’objectif de l’activité (blocs d’attaques nets et bien découpés) ?*
 - *A t-on bien répondu aux signes du chef ?*
 - *Les gestes du chef étaient-ils clairs et précis?*
+
+</div>
+</section>
 
 ## Ouverture à la création
 

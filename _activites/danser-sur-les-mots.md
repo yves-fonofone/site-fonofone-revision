@@ -31,7 +31,7 @@ On peut soit utiliser l'extrait intégré du poème de [St-Denys Garneau,](https
 
 soit, en collaboration avec l'enseignant.e de français, inviter les élèves à composer leur propre poème et à l'intégrer au Fono-image selon le modèle proposé.
 
-< Propositions de réalisation
+[< Propositions de réalisation](#realisation)
 
 </div>
 {% include fiche-media.html %}
@@ -85,12 +85,12 @@ Au terme de cette activité, l’élève sera capable de :
 
 - Emplacements
 
-#### qualite
-
 </aside>
 </section>
 
 ## Repères culturels
+
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
 
 #### Caroline Carlson
 
@@ -102,26 +102,35 @@ Au terme de cette activité, l’élève sera capable de :
 
 [**Cie "Cas public"**](http://caspublic.org)
 
-#### réalisation
+</section>
 
-## Suggestion de réalisation
+<h2 id="realisation">Suggestion de réalisation</h2>
 
 #### Option 1 - poème intégré
 
+<section class="encadre encadre--blanc encadre--options encadre--options-3">
+<div class="options__col" markdown="1">
+
 #### Préparation
-
-#### Réalisation
-
-#### Rétroaction/objectivation
 
 - Diviser votre groupe en équipes de 3 à 5 élèves.
 - Projeter le fono-image au TNI.
 - Faire jouer dans l'ordre chacun des vers puis parcourir les mot-clés des zones bleues.  
  Vous pouvez automatiser le parcours à travers les zones bleues (voir tutoriel) ou l'improviser au moment de la performance des groupes, ce qui leur ajoutera un défi supplémentaire.
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Réalisation
+
 - En équipe, les élèves s'entendent sur les mouvements à associer à chacun des mots-clés (gestes symboliques et gestes du quotidien).
 - Les élèves pratiquent  les mouvements et les enchaînements.
 - Chaque équipe exécute sa chorégraphie devant l'ensemble du groupe.
+
+</div>
+<div class="options__col" markdown="1">
+
+#### Rétroaction/objectivation
 
 - *De quelle façon avez-vous intégré les gestes symboliques et les gestes du quotidien à votre création?*
 
@@ -130,14 +139,28 @@ Au terme de cette activité, l’élève sera capable de :
 - *Quels liens pouvez-vous faire entre la poésie et la danse?*
 - *Quels défis avez-vous rencontrés dans la préparation et l'exécution? Quelles stratégies avez-vous mobilisées pour les surmonter?*
 
+</div>
+</section>
+
 #### Option 2 - Réalisation interdisciplinaire, en collaboration avec l'enseignant.e de français
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 Nécessite de la part des enseignant.es et des élèves une connaissance approfondie de la manipulation de Fono-image, particulièrement de la méthode d'enregistrement.
 
+</section>
+
 #### Préparation
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 - En collaboration avec l'enseignant.e de danse, l’enseignant·e de français détermine la stratégie pour l'écriture et le choix des poèmes. Piste :  
  Dans chaque équipe, les élèves lisent et analysent le poème écrit par chacun des membres. Puis, les membres de l'équipe s'entendent pour choisir l'un des poèmes ou en recomposent un nouveau à partir de fragments de tirés de chaque poème.
+
+</section>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
 
 #### Réalisation
 
@@ -149,6 +172,9 @@ Chaque équipe enregistre dans Fono-image le poème en entier puis,  séparéme
 - Chaque équipe désigne un membre qui sera chargé d'exécuter le parcours dans Fono-image.  
  Ou mieux : l'équipe automatise le parcours de telle sorte que tous les membres puissent participer à la danse.
 
+</div>
+<div class="options__col" markdown="1">
+
 #### Rétroaction/objectivation
 
 - Comment avez-vous procédé pour choisir votre poème? Était-ce difficile ou facile de s'entendre dans l'équipe? Si oui/non, pourquoi?
@@ -156,3 +182,7 @@ Chaque équipe enregistre dans Fono-image le poème en entier puis,  séparéme
 - *Comment décrivez-vous la co-relation entre les gestes de votre danse et les mots?*
 - *Pouvez-vous expliquer le sens de votre parcours à travers les mots? (votre "histoire")*
 - *Avez-vous éprouvé des difficultés dans la construction du Fono-image  (enregistrement -création des zones -automatisation) ? Si oui, lesquelles?*
+
+</div>
+</section>
+

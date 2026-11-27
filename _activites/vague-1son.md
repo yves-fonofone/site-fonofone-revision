@@ -68,18 +68,15 @@ Au terme de cette activité :
 
 - Éléments de langage relatifs à l'intensité, au timbre.
 
-#### réalisation
-
 </aside>
 </section>
 
-## Suggestion de réalisation
+<h2 id="realisation">Suggestion de réalisation</h2>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-3">
+<div class="options__col" markdown="1">
 
 #### Préparation
-
-#### Réalisation
-
-#### Rétroaction/objectivation
 
 - L'enseignant.e explique l'objectif de l'activité et fait entendre quelques sons très différents, demandant aux élèves lequel, selon eux, se prête le mieux à l'exercice.
 - On s'entend sur le son (par défaut, le son [souffle <>] est installé dans l'activité).
@@ -87,21 +84,43 @@ Au terme de cette activité :
 - OPTION  
  Dans chaque équipe, à l'aide du variateur de [hauteur/vitesse](../outils.html), les élèves s'entendent sur une même transposition du son (non excessive!) ce qui ajoutera une richesse timbrale dans le passage d'une équipe à l'autre.
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Réalisation
+
 - En suivant le geste de l'enseignant.e, l'équipe désignée monte doucement le potentiomètre de volume jusqu'au niveau souhaité (crescendo).
 - On écoute très attentivement l'apparition du son de l'équipe suivante et on réduit graduellement le volume (decrescendo) en s'appliquant à assurer un passage doux et sans "trou".
 - Quand la vague a parcouru tout le groupe, l'enseignant.e peut ouvrir l'exercice en dirigeant des mouvements libres de crescendo/decrescendo.
 - À la reprise, l'enseignant.e peut confier la direction à un élève volontaire.
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Rétroaction/objectivation
+
 - *Le passage d'une équipe à l'autre s'est-il bien opéré (beaux mouvements de fondu/enchaîné, sans "trou" d'un passage à l'autre)?*
 - *A t-on bien senti les déplacements dans l'espace ?*
 - *Qu'est-ce qui pourrait être amélioré?*
 
+</div>
+</section>
+
 #### Un exemple de réalisation
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 banque "sons divers" >  [souffle <>]
 
+</section>
+
 ### Activités connexes
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 - [la vague-sources multiples](https://fonofone.org/la-vague/)
 - [effet de masque](https://fonofone.org/effet-de-masque/)
 - [chorale](https://fonofone.org/trame-tonique/)
+
+</section>
+

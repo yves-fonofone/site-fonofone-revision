@@ -42,7 +42,7 @@ L'image comporte quatre zones, correspondant chacune à un type d'effort :
 
 Nous proposons trois niveaux d'exécution, sollicitant de plus en plus la prise de décision et la créativité des élèves.
 
-**< Propositions de réalisation**
+[< Propositions de réalisation](#realisation)
 
 [![](../images/2023/07/radioactifs-journal-300x171.png)](../documents/2023/08/radioactifs-journal-de-bord.pdf)
 
@@ -91,12 +91,12 @@ Au terme de l'activité:
 - Effort soudain
 - Effort soutenu
 
-#### qualite
-
 </aside>
 </section>
 
 ## Repères culturels
+
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
 
 #### [**L'effort** (Télé-Québec en classe)](https://enclasse.telequebec.tv/contenu/Leffort-en-danse/2329)
 
@@ -104,22 +104,35 @@ Au terme de l'activité:
 
 #### [**Marie Curie** - Ohdio (Radio-Canada)](https://ici.radio-canada.ca/ohdio/premiere/emissions/les-annees-lumiere/segments/reportage/99534/science-radium-polonium-curie)
 
-## Propositions de réalisation
+</section>
+
+<h2 id="realisation">Propositions de réalisation</h2>
 
 Option 1 : le même parcours pour toutes les équipes
 
 #### Préparation - danse
 
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
 - L'enseignant.e présente la thématique et projette au TNI la console "fono-image".
 - Une première séance sera consacrée à travailler dans de courtes improvisations dirigées chacun des types d'efforts correspondant aux quatre zones de la console "fono-image".
 
+</section>
+
 #### Préparation - trame sonore
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 Le Fono-image "Radioactifs" est prêt à être utilisé (sonorisation par défaut des zones et parcours automatisé). Mais nous suggérons fortement d'intégrer les élèves dans la création de la trame sonore :
 
 - L'enseignant.e amène les élèves à s'entendre sur le choix des sons pour chaque zone (à partir de la banque de sons [local].
 - L'enseignant.e amène les élèves à s'entendre sur l'automatisation du parcours (ordre et durée), qui sera le même pour toutes les équipes.
 - L'enseignant.e réalise l'automatisation du parcours choisi [(voir le tutoriel).](https://fonofone.org/activite/automatisation/)
+
+</section>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
 
 #### Réalisation
 
@@ -130,6 +143,9 @@ Le Fono-image "Radioactifs" est prêt à être utilisé (sonorisation par défau
 - Les élèves doivent danser à l'unisson et peuvent utiliser le procédé de composition de la *répétition* pour reprendre en boucle un même mouvement.
 - Les élèves s'entendent sur les mouvements et les pratiquent.
 - Chaque équipe présente sa création devant l'ensemble de la classe.
+
+</div>
+<div class="options__col" markdown="1">
 
 #### Rétroaction/objectivation
 
@@ -144,11 +160,20 @@ Option 2 : création par les élèves du parcours à travers l'image
 Chaque équipe devra idéalement disposer d'un ordinateur ou tablette. Si on ne dispose que d'un TNI, inviter les équipes, à tour de rôle,  
  à venir y automatiser son parcours, puis à l'enregistrer.    [Voir le < tutoriel](https://fonofone.org/activite/automatisation/)
 
+</div>
+</section>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
+
 #### Réalisation
 
 - L'enseignant.e invite les équipes à créer et automatiser leur propre parcours.
 
 - Les quatre zones doivent être visitées au moins une fois. Prévoir entre 10 et 20 secondes par zone.
+
+</div>
+<div class="options__col" markdown="1">
 
 #### Rétroaction/objectivation
 
@@ -162,11 +187,20 @@ Option 3 : chaque équipe choisit ou crée les sons et  détermine le parcours 
 
 (Chaque équipe devra disposer d'un ordinateur ou d'une tablette).
 
+</div>
+</section>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
+
 #### Réalisation
 
 - L'enseignant.e ajoute un niveau de créativité supplémentaire en demandant aux élèves de choisir les sons de chaque "zone-effort", soit parmi ceux suggérés dans la banque " **local** ", soit en parcourant les diverses banques de Fonofone.  
  (Il faudra sans doute prévoir une période supplémentaire).
 - Les sons peuvent être transformés.
+
+</div>
+<div class="options__col" markdown="1">
 
 #### Rétroaction/objectivation
 
@@ -176,9 +210,17 @@ plus :
 
 - *Selon toi, est-ce que les sons que tu as choisis expriment bien les "zones-effort" ? Si oui/non, pourquoi?*
 
+</div>
+</section>
+
 ### Options pluridisciplinaires
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 - Faire appel à la classe de musique (de son école ou d'une autre école) pour créer la sonorisation.  
  Voir "Radioactifs-Musique"
 - Faire appel à la classe d'arts plastiques (de son école ou d'une autre école) pour créer une banque d'images.  
  Voir "Radiactifs-arts plastiques"
+
+</section>
+

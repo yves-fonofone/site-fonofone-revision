@@ -68,44 +68,58 @@ Au terme de cette activité :
 - Éléments de langage relatifs à l'intensité, au timbre, à la qualité du son.
 - Notions de polyphonie
 
-#### réalisation
-
 </aside>
 </section>
 
-## Suggestions de réalisation
+<h2 id="realisation">Suggestions de réalisation</h2>
 
 #### 1. Perspective sonore à deux plans
 
+<section class="encadre encadre--blanc encadre--options encadre--options-3">
+<div class="options__col" markdown="1">
+
 #### Préparation
-
-#### Réalisation
-
-#### Rétroaction/objectivation
 
 - Écouter et analyser la vidéo : qu'est-ce qui distingue les deux sons? Lequel sonne proche? Lequel sonne loin ? Pourquoi?
 - Faire jouer les sons de la banque [proche-loin] liée à l'activité en demandant aux élèves lesquels sonnent proche et lesquels sonnent loin.
 - Donner des exemples d'éloignement du son par l'emploi d'un outil : par exemple réduire le volume, ajouter de la [réverbération](../lexique.html#reverberation), utiliser le [filtre](../outils.html)...
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Réalisation
+
 - Demander à l'élève de choisir dans la banque [proche-loin] un son qui lui  semble proche et un autre qui lui semble loin.
 - L'élève fait jouer ensemble ses deux sons et à l’aide du [mélangeur](../outils.html) il  ajuste les niveaux, si nécessaire, de façon à entendre distinctement  l’un et l’autre tout en percevant  clairement deux plans distincts, un plan rapproché et un plan éloigné.
 - L'enseignant.e invite quelques élèves à présenter et commenter leur réalisation à l'ensemble du groupe.
+
+</div>
+<div class="options__col" markdown="1">
+
+#### Rétroaction/objectivation
 
 - *Explique ton choix des sons*  
  (amener l'élève à bien exprimer ce qui les distingue).
 - *Est-ce qu'on perçoit clairement deux plans sonores ? Si oui/non pourquoi ?* (Identifier ce qui les différentie : intensité? timbre? autre? )
 - *As-tu appliqué des traitements ? Si oui, pourquoi?*
 
+</div>
+</section>
+
 #### 2. Éloigner un son par manipulations
+
+<section class="encadre encadre--blanc encadre--options encadre--options-3">
+<div class="options__col" markdown="1">
 
 #### Préparation
 
-#### Réalisation
-
-#### Rétroaction/objectivation
-
 - Faire jouer la vidéo sans la montrer aux élèves. Leur demander de fermer les yeux pour bien visualiser le lieu.
 - Inviter les élèves à décrire ce qu'ils ont entendu : de quel lieu s'agit-il ? D'où vient la première voix (buenos dias) qu'on entend? La seconde?
+
+</div>
+<div class="options__col" markdown="1">
+
+#### Réalisation
 
 - Demander à l'élève de placer dans l'onglet 1 le son [gymnase] et dans les onglets 2 et 3 le son [bonjour]. Il/elle sélectionne l'un des "bonjour", dans la langue de son choix.
 - L' élève doit trouver la façon de placer le souhait de bonne journée choisi (l'onglet 2) dans le même plan que le son [gymnase].
@@ -115,18 +129,29 @@ Au terme de cette activité :
 
 - Refaire le même jeu, mais avec deux sons au choix de chacun.
 
-- *Est-ce que ton "image" est réussie? si oui/non, pourquoi?*
-- *Qu'est-ce qui pourrait être amélioré?*
-
-#### 3. Perspective à trois plans
-
-Réalisation individuelle ou en équipes de trois
-
-#### Réalisation
+</div>
+<div class="options__col" markdown="1">
 
 #### Rétroaction/objectivation
 
-#### →Réalisation individuelle
+- *Est-ce que ton "image" est réussie? si oui/non, pourquoi?*
+- *Qu'est-ce qui pourrait être amélioré?*
+
+</div>
+</section>
+
+#### 3. Perspective à trois plans
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
+Réalisation individuelle ou en équipes de trois
+
+</section>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
+
+#### Réalisation
 
 - On écoute et analyse <l'exemple ci-dessous.
 - Inviter l'élève à réaliser une  image sonore **à trois plans** (proche-moyen-éloigné) en utilisant trois sons au choix parmi toutes les banques accessibles.
@@ -141,13 +166,25 @@ Chaque équipe doit réaliser une "image" sonore constituée de plusieurs plans.
 - On se met d'accord sur la forme, sur le déroulement.  
  (Exemple : au début, tous les sons très doux et se confondant. Puis, tour à tour, on porte en avant un des ses sons, en montant le volume, en supprimant graduellement la [réverbération](../lexique.html#reverberation), ou tout autres procédés).
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Rétroaction/objectivation
+
+#### →Réalisation individuelle
+
 #### →Réalisation individuelle
 
 - *Les trois plans se dégagent-ils bien? Si oui/non, pourquoi?*
 - *Perçoit-on trois niveaux d'éloignement?*
 - *Qu'est-ce qui caractérise chacun de ces plans en termes de volume, couleur, espace, image subjective...*
 
+</div>
+</section>
+
 #### →Réalisation en équipe
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 (Peut faire également l'objet d'une évaluation)
 
@@ -155,4 +192,7 @@ Chaque équipe doit réaliser une "image" sonore constituée de plusieurs plans.
 - Avez-vous réussi à créer un effet de perspective comportant au moins trois plans distincts? Justifier.
 - Déroulement: quelle était votre intention formelle ? Réussie ou non ? Pourquoi?
 
+</section>
+
 #### Un exemple :
+

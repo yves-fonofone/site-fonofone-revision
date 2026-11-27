@@ -91,23 +91,24 @@ Au terme de l’activité
 
 ## Repères culturels
 
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
+
 #### **[Qu'est-ce qu'une émotion](https://actintheatre.com/fr/qu_est_ce_qu_une_emotion_sentiment)**
 
 #### [L'exagération et le jeu clownesque](https://squat.telequebec.tv/videos/11079)
 
 #### **"[C'est pas sorcier"](https://www.youtube.com/watch?v=pyeXvjCVfy8&ab_channel=C%27estpassorcier)**
 
-#### realisation1
+</section>
 
-## Propositions de réalisation
+<h2 id="realisation">Propositions de réalisation</h2>
 
 #### Option 1 - consoles Fono-image sonorisées
 
+<section class="encadre encadre--blanc encadre--options encadre--options-3">
+<div class="options__col" markdown="1">
+
 #### Échauffement
-
-#### Réalisation
-
-#### Rétroaction/objectivation
 
 - L’enseignant.e fait jouer successivement le son enregistré de chaque niveau d’émotion. Les élèves improvisent un mouvement conséquent.
 
@@ -117,10 +118,20 @@ Au terme de l’activité
 - Attribuer une émotion différente à chaque équipe,  
  ou toute autre approche à votre choix (par exemple travailler une seule émotion par période d'enseignement).
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Réalisation
+
 - Chaque équipe travaille les gestes pour les différents niveaux de son émotion.
 - L’enseignante invite chaque équipe à venir exécuter sa performance devant l’ensemble du groupe. (Un membre de l’équipe peut être invité à venir gérer le parcours au TNI)
 - Variante  
  Les différentes équipes étant dispersées dans la classe, l’enseignant.e promène librement le curseur d’une émotion à l’autre, les équipes devant réagir à LEUR émotion, les autres demeurant dans leur dernier état d’improvisation.
+
+</div>
+<div class="options__col" markdown="1">
+
+#### Rétroaction/objectivation
 
 À l'équipe :
 
@@ -129,15 +140,15 @@ Au terme de l’activité
 - *Quelle étape d'émotion est la mieux réussie dans la chaîne ?*
 - *Qu'est-ce qui pourrait être amélioré ? Comment ?*
 
-#### réalisation2
+</div>
+</section>
 
 #### Option 2 - consoles Fono-image à sonoriser
 
+<section class="encadre encadre--blanc encadre--options encadre--options-3">
+<div class="options__col" markdown="1">
+
 #### Échauffement
-
-#### Réalisation
-
-#### Rétroaction/objectivation
 
 - Exercices d'échauffement de la voix.
 
@@ -146,9 +157,19 @@ Au terme de l’activité
 - Diviser le groupe en équipes.
 - Attribuer une émotion différente à chaque équipe (ou toute autre approche à votre choix).
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Réalisation
+
 - Accorder  aux équipes une courte période de recherche des expressions vocales  correspondant à chaque niveau d’intensités de leur émotion.
 - On enregistre à tour de rôle les sons de chaque équipe.
 - Pour la suite, procéder comme suggéré à **l’option 1**.
+
+</div>
+<div class="options__col" markdown="1">
+
+#### Rétroaction/objectivation
 
 À l'équipe:
 
@@ -156,4 +177,8 @@ Au terme de l’activité
 - *Quelle étape est la mieux réussie?*
 - *Qu'est-ce qui pourrait être amélioré ? Comment ?*
 
+</div>
+</section>
+
 #### émotions sonorisées
+

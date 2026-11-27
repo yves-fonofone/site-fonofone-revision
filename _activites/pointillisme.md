@@ -103,7 +103,10 @@ Au terme de cette activité
 </section>
 
 
-## Propositions de réalisation
+<h2 id="realisation">Propositions de réalisation</h2>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
 
 #### Option - création de son propre dessin
 
@@ -124,23 +127,36 @@ L'enseignant.e peut énoncer des règles, par exemple :
 - L'élève détermine le parcours du curseur à travers son dessin et peut l'automatiser. ([voir tutoriel](https://fonofone.org/activite/automatisation/))
 - Présentation devant la classe.
 
+</div>
+<div class="options__col" markdown="1">
+
 #### Suggestions de rétroaction/objectivation
 
 - *Explique-nous en quoi ton dessin s'inspire de l'esprit et des techniques du pointillisme.*
 - *Qu'as-tu voulu exprimer par ton dessin?*
 
+</div>
+</section>
+
 #### Suggestions de rétroaction/objectivation
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 - Intégration à Fono-image : *est-ce que cette opération a été facile/difficile ? Pourquoi?* (Intégration de la technique).
 - *Explique-nous pourquoi tu as choisi de placer les zones sonores sur telle et telle section du dessin.*
 - *Explique-nous le choix de tes sons pour chaque zone: qu'est-ce qu'ils expriment? quelle association fais-tu entre le son et la section du dessin?*
 - Parcours sonore : *pourquoi as-tu choisi ce parcours? Quelle interprétation du dessin ("histoire") permet-il, selon toi?*
 
+</section>
 
 #### Option (dessins fournis)
 
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
 - L'enseignant.e répartit les dessins entre les élèves.
 - Les élèves sonorisent leur dessin en suivant les consignes de la **deuxième étape de l'option 1**.
+
+</section>
 
 ## Suggestion de réalisation interdisciplinaire
 

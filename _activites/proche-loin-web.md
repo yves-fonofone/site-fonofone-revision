@@ -27,7 +27,7 @@ Cette activité permet d'explorer cette approche de manière plus "cinématograp
 
 Élèves plus avancés : créer une perspective à trois plans.
 
-< Propositions de réalisation
+[< Propositions de réalisation](#realisation)
 
 </div>
 {% include fiche-media.html %}
@@ -81,18 +81,18 @@ Au terme de l'activité:
 - Procédés de composition : polyphonie
 - Technique de manipulation appropriée
 
-#### qualite
-
 </aside>
 </section>
 
 ## Repères culturels
 
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
+
 ### [Claude Debussy](https://fr.wikipedia.org/wiki/Claude_Debussy)
 
 [**Préludes, Livre 2,1. Brouillards**](https://youtube.com/clip/Ugkxfi6UjkyvGD2lRY__UUXhCJz9Cli90rrl)
 
-#### plans
+</section>
 
 ## Préparation
 
@@ -145,17 +145,23 @@ Au terme de l'activité:
     <audio controls preload="none" src="../audio/activites/proche-loin-web/cloche.m4a"></audio></li>
 </ol>
 
-## Propositions de réalisation
+<h2 id="realisation">Propositions de réalisation</h2>
 
 1. Créer un effet de perspective sonore
 
-#### Réalisation
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
 
-#### Suggestions de rétroaction/objectivation
+#### Réalisation
 
 - Demander à l'élève de choisir dans la banque [local] un son qui lui  semble proche et un autre qui lui semble loin. (L'élève peut aussi choisir un extrait musical dans la banque [sons ATMA].
 - L'élève fait jouer ensemble ses deux sons et,  à l’aide des outils [volume], [filtre], [réverbération] il ajuste les niveaux et la "couleur" de façon à ce qu’il entende distinctement les deux sons sur deux plans distincts, un plan rapproché et un plan éloigné.
 - L'élève présente son mixage à l'ensemble du groupe et justifie ses choix de sons.
+
+</div>
+<div class="options__col" markdown="1">
+
+#### Suggestions de rétroaction/objectivation
 
 - *Est-ce tu entends bien les deux sons? Si oui/non pourquoi ?*
 - *Est-ce que tu perçois bien le son proche et le son lointain? Si oui, pourquoi? Qu’est-ce qui les distingue ? Sinon, à ton avis qu'est-ce qui ne va pas?*
@@ -164,16 +170,29 @@ Au terme de l'activité:
 
 2. Éloigner un son à l'aide de manipulations
 
-#### Réalisation
+</div>
+</section>
 
-#### Suggestions de rétroaction/objectivation
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
+
+#### Réalisation
 
 - Demander aux élèves de placer dans le premier Fonofone le son [ gymnase ] et dans les Fonofone 2 et 3 le son [ Buenos Dias ], les volumes à 0.
 - Les élèves doivent trouver la façon de placer le [ Buenos Dias ] du second Fonofone dans le même plan que le son [gymnase]. (On doit avoir l'impression que la voix sort d'un haut-parleur placé dans le gymnase.
 - On invite quelques élèves à faire entendre leur mixage.
 - Si l'exercice a été convaincant,  inviter un.e élève à monter le volume du Fonofone 3 : le[Buenos Dias ] "sort" du gymnase, il passe en avant-plan, comme si la personne était tout près de nous.
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Suggestions de rétroaction/objectivation
+
 - *Est-ce tu entends bien les deux sons? Si oui/non pourquoi ?*
 - *Est-ce que tu perçois bien le son proche et le son lointain? Si oui, pourquoi? Qu’est-ce qui les distingue ? Sinon, à ton avis qu'est-ce qui ne va pas?*
 
 *Quelques critères : précision (bien défini/flou) - couleur - volume - pourcentage sec/réfléchi ([réverbération](../lexique.html#reverberation))...*
+
+</div>
+</section>
+

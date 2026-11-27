@@ -83,12 +83,12 @@ Au terme de l'activité:
 - [Accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs., [rythme aléatoire](../lexique.html#rythme-aleatoire)Non mesuré, imprévisible., [spatialisation](../lexique.html#spatialisation)En mixage de musique, la spatialisation est utilisée pour répartir dans l'espace les différents instruments afin de favoriser leur intelligibilité., [glissando](../lexique.html#glissando)Un glissando (du français « glisser ») est un terme musical d'origine italienne qui désigne le glissement continu d'un son dans un mouvement ascendant ou descendant. Le glissando peut être produit par la voix humaine et, entre autres, par les instruments à cordes frottées et le trombone à coulisse. Un effet de glissando peut être produit sur des instruments à..., polyphonie
 - Règles de musique d'ensemble
 
-#### qualite
-
 </aside>
 </section>
 
 ## Repères culturels
+
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
 
 ### [Robert Schumann](https://fr.wikipedia.org/wiki/Robert_Schumann)
 
@@ -113,19 +113,27 @@ Au terme de l'activité:
     <audio controls preload="none" src="../audio/activites/accumulation-points-web/roy-acceleration.mp3"></audio></li>
 </ol>
 
-## Suggestion de réalisation
+</section>
+
+<h2 id="realisation">Suggestion de réalisation</h2>
 
 ### Étape 1
 
-#### Réalisation
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
 
-#### Suggestions de rétroaction/objectivation
+#### Réalisation
 
 - Chaque élève choisit librement un son dans la banque [local]
 - L'enseignant.e commande les départs un à un, en prenant son temps pour que les élèves saisissent bien la valeur musicale du silence et des rythmes aléatoires. Varier les départs entre la gauche, la droite, le centre du groupe de façon à sensibiliser les élèves à l'effet de [spatialisation](../lexique.html#spatialisation)En mixage de musique, la spatialisation est utilisée pour répartir dans l'espace les différents instruments afin de favoriser leur intelligibilité..
 - Quand on a atteint le "Tutti", faire un long point d'orgue en invitant les élèves à bien écouter.
 - Puis l'enseignant.e, par un geste clair, invite les élèves à réduire graduellement la portion silence de leur son de façon à accentuer l'effet d'[accumulation](../lexique.html#accumulation)Empilement par ajout progressif de motifs mélodiques ou de sons en boucle (répétitifs), de même famille ou pas. L’accumulation peut être également produite par l’ajout progressif d’instruments sur un même motif musical répété, par exemple le Boléro, de Maurice Ravel, ou par l’ajout de voix à différentes hauteurs..
 - Terminer par un decrescendo ou enchaîner avec l'étape 2.
+
+</div>
+<div class="options__col" markdown="1">
+
+#### Suggestions de rétroaction/objectivation
 
 - *As-tu répondu avec précision aux gestes de direction? Justifie ta réponse.*
 - *Dans quelle mesure as-tu réussi à éliminer graduellement la portion de silence du son?*
@@ -137,9 +145,19 @@ Au terme de l'activité:
 
 <audio controls preload="none" src="../audio/activites/accumulation-points-web/empilade-1.mp3"></audio>
 
+</div>
+</section>
+
 ### Étape 2
 
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
 Ajout du [variateur de hauteur/vitesse]
+
+</section>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
 
 #### Réalisation
 
@@ -147,6 +165,9 @@ Ajout du [variateur de hauteur/vitesse]
 - Observer une bonne pause pour bien prendre le temps d'écouter les rapports harmoniques.
 - Par un geste bien identifiable, l'enseignant.e commande un lent mouvement de [glissando](../lexique.html#glissando)Un glissando (du français « glisser ») est un terme musical d'origine italienne qui désigne le glissement continu d'un son dans un mouvement ascendant ou descendant. Le glissando peut être produit par la voix humaine et, entre autres, par les instruments à cordes frottées et le trombone à coulisse. Un effet de glissando peut être produit sur des instruments à... de tout le groupe vers l'extrême aigu.
 - On termine par un decrescendo ou on enchaine avec l'étape 3.
+
+</div>
+<div class="options__col" markdown="1">
 
 #### Suggestions de rétroaction/objectivation
 
@@ -163,9 +184,19 @@ Ajout du [variateur de hauteur/vitesse]
 
 <audio controls preload="none" src="../audio/activites/accumulation-points-web/empilade-2.mp3"></audio>
 
+</div>
+</section>
+
 ### Étape 3
 
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
 Ajout graduel des sons 2 et 3
+
+</section>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
 
 #### Réalisation
 
@@ -173,15 +204,28 @@ Ajout graduel des sons 2 et 3
 - À la fin du parcours des étapes 1 et 2, l'enseignant.e fait apparaître doucement en crescendo le son [tenue_sol_ré],  puis le son [mélopée]. On prend bien le temps d'écouter.
 - L'enseignant.e peut ensuite faire des mouvements de bascule entre les trois couches sonores.
 
+</div>
+<div class="options__col" markdown="1">
+
 #### Suggestions de rétroaction/objectivation
 
 - *Comment décrirais-tu les trois couches sonores de la pièce* *? Qu'est-ce qui les différencie ?* (Les sons "bambou" sons courts et secs et créent un rythme rapide, le son  "Tenue_sol_ré est immobile, statique, le son "mélopée" est mélodique et en écho (décalage).
 - *Peux-tu expliquer pourquoi, malgré leurs différences, ces trois couches sonores vont bien ensemble?*  
  (douceur, harmonie consonante autour d'une même hauteur...)
 
+</div>
+</section>
+
 ### Étape 4
 
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
 Créer une suite en intégrant de nouveaux sons
+
+</section>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
 
 #### Réalisation
 
@@ -189,10 +233,17 @@ Créer une suite en intégrant de nouveaux sons
 - Se mettre d'accord collectivement sur l'ordre d'entrée des nouveaux sons.
 - S'entendre sur une fin. Exécuter la pièce (on peut faire diriger par un/une élève).
 
+</div>
+<div class="options__col" markdown="1">
+
 #### Suggestions de rétroaction/objectivation
 
 - *Ton choix de sons était-il pertinent ?* (S'harmonisant bien avec les sons-"bambou" tout en nous amenant ailleurs). *Si oui/non, pourquoi?*
 - *Est-ce que l'enchaînement était réussi ? Si oui/non, pourquoi?*
 - *Globalement, qu'est-ce qui pourrait être amélioré?*
 
+</div>
+</section>
+
 #### Réalisation des quatre étapes par un groupe de 20 jeunes, au *Camp Musical Père-Lindsay,* Val Saint-Côme, Québec, été 2017
+

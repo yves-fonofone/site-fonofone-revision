@@ -22,7 +22,7 @@ etiquette: "Musique-en ligne"
 
 Cette activité amusante autour du souhait de bonne journée en plusieurs langues permet aux élèves d'assimiler la notion de crescendo-decrescendo et de fondu-enchaîné. Ils/elles découvriront également ce qu'est un véritable son doux. 
 
-< Propositions de réalisation
+[< Propositions de réalisation](#realisation)
 
 Réalisation au Camp musical Père-Lindsay, Val-St-Côme, Québec
 
@@ -70,27 +70,36 @@ Au terme de cette activité :
 - Technique de manipulation appropriée
 - Réponse aux indications du chef
 
-#### realisation
-
 </aside>
 </section>
 
-## Suggestion de réalisation
+<h2 id="realisation">Suggestion de réalisation</h2>
 
 #### Préparation
 
 #### 1.
 
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
 - L'enseignant fait entendre chacun des souhaits de bonne journée en demandant aux élèves d'en d'identifier la langue.  
  (Le "bonjour" français est *malicieusement* inversé, ce qui permet de faire connaître aux élèves la fonction d'inversion de la lecture).
 - Demander aux élèves d'agencer les souhaits (zones) avec leur énoncé écrit.
 
+</section>
+
 #### 2.
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 - Chaque élève choisit un "bonjour" dans la langue de son choix. Puis, il/elle ouvre la console "Fonofone" de la zone choisie.
 - L'élève prépare le volume en le montant au maximum et attend le signe du chef pour démarrer le son.
 
 Option 1 : crescendo-decrescendo, rupture
+
+</section>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
 
 #### Réalisation
 
@@ -98,6 +107,9 @@ Option 1 : crescendo-decrescendo, rupture
 - Le chef dirige un lent mouvement de decrescendo jusqu'à **TRÈS** doux. On s'écoute bien. On s'assure que personne ne ressort de l'ensemble.
 - En option, désigner un à un quelques élèves en leur demandant de faire ressortir momentanément leur "bonjour" en un court cresc-decrescendo.
 - Le chef dirige un mouvement de crescendo jusqu'à *fff* interrompu par un arrêt sec.
+
+</div>
+<div class="options__col" markdown="1">
 
 #### Suggestions de rétroaction/objectivation
 
@@ -110,6 +122,12 @@ Option 1 : crescendo-decrescendo, rupture
 
 Option 2 : fondu-enchaîné
 
+</div>
+</section>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
+
 #### Réalisation
 
 - Diviser le groupe en quelques équipes, chacune choisissant un "bonjour" dans une langue différente.
@@ -118,9 +136,16 @@ Option 2 : fondu-enchaîné
 
 .
 
+</div>
+<div class="options__col" markdown="1">
+
 #### Suggestions de rétroaction/objectivation
 
 - *À ton avis, est-ce que les "bonjour" se fusionnaient bien d'une équipe à l'autre? Si oui/non, pourquoi?*
 - *Qu'est-ce qui pourrait être amélioré dans notre exécution?*
 - Forme: *as-tu une proposition différente d'enchaînement ?*
 - *As-tu envie de venir diriger?*
+
+</div>
+</section>
+

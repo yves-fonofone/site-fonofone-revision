@@ -21,7 +21,7 @@ etiquette: "Musique-en ligne"
 
 Cette activité vise à initier l'élève aux notions de base du timbre et de la durée. Pour les élèves plus avancés dans la compréhension des outils Fonofone, elle offre la possibilité d'explorer plus avant ces notions et d'intégrer certains procédés de composition.
 
-< Propositions de réalisation
+[< Propositions de réalisation](#realisation)
 
 </div>
 {% include fiche-media.html %}
@@ -69,6 +69,8 @@ Au terme de cette activité :
 
 ## Repères culturels
 
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
+
 #### [Léo Delibes](https://fr.wikipedia.org/wiki/L%C3%A9o_Delibes)
 
 [**Sylvia-Pizzicato**](https://www.youtube.com/watch?v=N8X21sB_kck&ab_channel=BerlinerSymphoniker)
@@ -85,11 +87,13 @@ Au terme de cette activité :
 
 [**Artifices**](https://electrocd.com/en/album/4443/various-artists/halogenes)
 
-#### qualité
+</section>
 
-## Suggestion de réalisation
+<h2 id="realisation">Suggestion de réalisation</h2>
 
 #### Préparation
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 L’enseignant.e fait jouer chacun des sons et demande aux élèves de les décrire : qu’est-ce qui les caractérise? Qu’est-ce qui les différencie?
 
@@ -107,14 +111,22 @@ L’enseignant.e fait jouer chacun des sons et demande aux élèves de les décr
 
 *C’est un son que tu continues d’entendre après qu’il a été joué* (note de guitare, son bref dans un lieu résonnant comme un gymnase, une église, une caverne...)
 
+</section>
+
 #### Réalisation, première étape
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 - Inviter les élèves à choisir dans les banques Fonofone quatre nouveaux sons correspondant à chacune des quatre qualités.  
  Les sons peuvent être transformés.
 
+</section>
+
 #### Option défis
 
 ### (pour élèves plus avancés, ayant une bonne connaissance des outils Fonofone)
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 Par ordre de difficulté :
 
@@ -125,11 +137,19 @@ Par ordre de difficulté :
 - Transformer le son sec ou le son résonnant en son continu (et granuleux)
 - Faire « chanter » le son granuleux
 
+</section>
+
 #### Suggestions de rétroaction/objectivation
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 - *En quoi les sons que tu as choisis répondent-ils aux quatre qualités?*
 
+</section>
+
 #### Suggestions de rétroaction/objectivation
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 Pour chaque défi :
 
@@ -137,12 +157,24 @@ Pour chaque défi :
 - *Es-tu satisfait du résultat ? Si ou/non, pourquoi ?*
 - *Que pourrais-tu améliorer?*
 
+</section>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-2">
+<div class="options__col" markdown="1">
+
 #### Autre défi
 
 - Installer le son « contrebasse » dans les 4 zones et le transformer selon la qualité correspondante.
+
+</div>
+<div class="options__col" markdown="1">
 
 #### Suggestions de rétroaction/objectivation
 
 - *Quelle stratégie as-tu développée pour réaliser le défi?*
 - *Es-tu satisfait du résultat ? Si oui / non, pourquoi ?*
 - *Qu'est-ce qui pourrait être amélioré ?*
+
+</div>
+</section>
+

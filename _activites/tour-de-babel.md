@@ -73,34 +73,38 @@ Au terme de cette activité :
 - contraste
 - Éléments de langage relatifs à aux notions de tension/détente.
 
-#### qualite
-
 </aside>
 </section>
 
 ## Repères culturels
 
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
+
 ### [Ludwig van Beethoven](https://fr.wikipedia.org/wiki/Ludwig_van_Beethoven)              [Symphonie #9, 4e mvt](https://www.google.com/search?client=safari&sca_esv=3bcdb22a83598c7d&cs=0&q=Beethoven+Symphony+9+movement+4&sa=X&ved=2ahUKEwiDlMOy0YyLAxWhCnkGHaBKOqkQpboHKAB6BAgBEAI&biw=1799&bih=1335&dpr=2#fpstate=ive&vld=cid:d2ac3056,vid:ChygZLpJDNE,st:0)
 
-#### préparation
+</section>
 
-## Suggestion de réalisation
+<h2 id="realisation">Suggestion de réalisation</h2>
 
 ![babel-score2](../images/2018/07/babel-score2.jpg)
 
 Camp musical Père-Lindsay, Val-St-Côme, Québec
 
+<section class="encadre encadre--blanc encadre--options encadre--options-3">
+<div class="options__col" markdown="1">
+
 #### Préparation
-
-#### Réalisation
-
-#### Rétroacation/objectivation
 
 Amorce ludique :
 
 L'enseignant.e fait entendre chacun des souhaits de bonne journée en demandant d'identifier la langue.
 
 À noter que celui en français est inversé, ce qui permet de faire découvrir aux élèves la fonction d'inversion de la lecture.
+
+</div>
+<div class="options__col" markdown="1">
+
+#### Réalisation
 
 - L'enseignant.e demande à chaque élève de choisir avec l’outil de sélection un des souhaits de bonne journée : banque "sons divers" > [bonjour]. 
 - Le chef (enseignant.e ou élève) pointe tour à tour chaque élève jusqu’à ce que tous les sons soient activés  (tutti). On marque un temps de suspension quand on a atteint le "Tutti", de façon à bien entendre l'effet "tour de Babel" (mélange chaotique des langues, effet de décalage). 
@@ -109,12 +113,25 @@ L'enseignant.e fait entendre chacun des souhaits de bonne journée en demandant 
 - Puis, le chef commande un mouvement de glissé vers les extrêmes graves.
 - Ajouter la [réverbération](../lexique.html#reverberation) et conclure par un arrêt sec ou un decrescendo. 
 
+</div>
+<div class="options__col" markdown="1">
+
+#### Rétroacation/objectivation
+
 - *À quel phase de l'activité perçois-tu le désordre /l'ordre? Pourquoi?*
 - *Les glissandi étaient-ils bien exécutés (fluidité et réponse aux gestes de direction) ?*
 - *Les crescendo et decrescendo  étaient-ils bien exécutés (fluidité et réponse aux gestes de direction) ?*
 - *Dans les variations extrêmes de vitesse, distingue t-on encore les mots ? Si oui/non, pourquoi?*
 - *Quelles images et / ou sensations ces variations extrêmes éveillent-elles chez toi?*
 
+</div>
+</section>
+
 #### Variante
 
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
 Le groupe est divisé en sept équipes qui se voient chacune confier un souhait de bonne journée différent, ce qui permet des mouvements de fondu/enchaîné et des jeux polyphoniques intéressants entre les groupes.
+
+</section>
+

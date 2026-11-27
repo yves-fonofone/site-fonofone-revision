@@ -11,6 +11,7 @@ duree: "De 2 à 3 périodes"
 image: "/images/2022/11/foret.jpg"
 console_nom: "Fono-image"
 console: https://fonofone.artificiel.org/fonoimage/?version=1&activite=https://yves-fonofone.github.io/site-fonofone-revision/fonoimage/user-6-fonofile-1650327690.fnmg
+qr_code: /images/2022/11/foret-mysterieuse.png
 gratuite: true
 source: https://fonofone.org/activite/la-foret-etrange-web/
 mise_en_page: fonofone
@@ -28,8 +29,6 @@ Suite à la réalisation de l'activité [Promenade en forêt](foret-descriptive-
 On peut appliquer cette démarche à d'autres environnements, par exemple une image de centre-ville, réaliste et transformée.
 
 #### Aller à : Suggestion de réalisation
-
-![foret-mysterieuse](../images/2022/11/foret-mysterieuse.png){: .qr}
 
 </div>
 {% include fiche-media.html %}
@@ -82,17 +81,20 @@ générer des idées, les structurer, établir un discours musical, expérimente
 
 ## Repères culturels
 
+<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
+
 ### [Robert Schumann](https://fr.wikipedia.org/wiki/Robert_Schumann)
 
 [Scènes de la forêt - L'oiseau prophète](https://youtube.com/clip/UgkxB1PO4IPrzLqXLxp12lEmqnVAcE7sb9D2)
 
-## Suggestion de réalisation
+</section>
+
+<h2 id="realisation">Suggestion de réalisation</h2>
+
+<section class="encadre encadre--blanc encadre--options encadre--options-3">
+<div class="options__col" markdown="1">
 
 #### Préparation
-
-#### Réalisation
-
-#### Rétroaction/objectivation
 
 - L'enseignant.e divise le groupe en équipes et invite chaque équipe à:
  - choisir le thème (ce que l'image t'inspire) : forêt mystérieuse, inquiétante, enchanteresse, merveilleuse, etc...
@@ -100,6 +102,11 @@ générer des idées, les structurer, établir un discours musical, expérimente
 - On en discute en collectif.
 - On peut imposer des règles, par exemple une durée, une forme (comme A - B - C - D - A), un son obligé...
 - Si on a d'abord réalisé l'activité "[Promenade en forêt](foret-descriptive-web.html)", l'enseignant.e peut recommander aux élèves d'utiliser les mêmes sons en les transformant.
+
+</div>
+<div class="options__col" markdown="1">
+
+#### Réalisation
 
 Périodes 1-2 : création en équipe
 
@@ -111,15 +118,29 @@ Période 3 : Interprétation
 
 - À tour de rôle, les équipes présentent et interprètent leur création devant le groupe.
 - Retour collectif sur la prestation.
+
+</div>
+<div class="options__col" markdown="1">
+
+#### Rétroaction/objectivation
+
 - *Quelle stratégie avez-vous déployée pour bien exprimer votre intention? (choix des sons et transformations, forme).*
 - *En quoi les transformations de vos sons vont dans le sens de votre thème?*
 - *Qu'est-ce qui nous permet de bien percevoir l'évolution du déroulement formel (parcours)?*
 - *Qu'est-ce qui nous indique que votre création se termine par une bonne fermeture?*
 
+</div>
+</section>
+
 #### Pistes d'évaluation
+
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
 - Choix des sons et des transformations : expriment-elles bien le thème choisi par l'équipe?
 - Disposition des zones : permet-elle des relations efficaces de fondus/enchaînés entre les sons?
 - Parcours (forme) : y a t-il une progression ? Perçoit-on une forme ?
 - Coordination entre les membres de l'équipe : bonne écoute ? Directives claires entre elles et eux ?
 - Bonne capacité à exprimer les moyens mis en oeuvre pour rendre l'intention.
+
+</section>
+
