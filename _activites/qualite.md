@@ -16,7 +16,7 @@ etiquette: "Musique-en ligne"
 
 ## Description
 
-<section class="encadre encadre--description" markdown="1">
+<section class="encadre encadre--description encadre--description-video" markdown="1">
 <div class="encadre__texte" markdown="1">
 
 Cette activité vise à initier l'élève aux notions de base du timbre et de la durée. Pour les élèves plus avancés dans la compréhension des outils Fonofone, elle offre la possibilité d'explorer plus avant ces notions et d'intégrer certains procédés de composition.
@@ -24,7 +24,9 @@ Cette activité vise à initier l'élève aux notions de base du timbre et de la
 [< Propositions de réalisation](#realisation)
 
 </div>
-{% include fiche-media.html %}
+<figure class="encadre__media">
+<div class="video"><iframe src="https://player.vimeo.com/video/805693194?h=efa296e88c&amp;badge=0&amp;autopause=0&amp;dnt=1" title="Qualité du son" allow="fullscreen; picture-in-picture" loading="lazy"></iframe></div>
+</figure>
 </section>
 
 {% include consoles.html %}
