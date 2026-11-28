@@ -833,20 +833,3 @@ li.extrait p { margin: 0; }
 .consoles:has(.console-video) { align-items: center; }
 .console-video { justify-self: end; width: 100%; max-width: 420px; }
 .console-video .video { margin: 0; }
-
-/* Barre « Voir les commentaires » sous le bandeau, et section Commentaires en bas de fiche (comme fonofone.org) */
-.fiche-barre {
-  display: flex; align-items: center; gap: 24px; padding: 12px 20px;
-  background: #fff; border: 1px solid #e3e6e8; border-top: 0; border-radius: 0 0 12px 12px;
-  font: 400 15px/1.3 Poppins, sans-serif;
-}
-.fiche-barre a { display: inline-flex; align-items: center; gap: 10px; color: #2674aa; text-decoration: none; }
-.fiche-barre a:hover { text-decoration: underline; }
-.fiche-barre__bulle {
-  position: relative; width: 22px; height: 18px; border-radius: 3px; background: #d7262b;
-}
-.fiche-barre__bulle::after {
-  content: ""; position: absolute; left: 4px; bottom: -6px;
-  border-width: 6px 6px 0 0; border-style: solid; border-color: #d7262b transparent transparent;
-}
-.fiche-commentaires .btn { margin-top: 8px; }
