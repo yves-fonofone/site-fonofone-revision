@@ -1,5 +1,6 @@
 ---
 titre: proche-loin
+titre_petit: true
 sous_titre: "(plan rapproché-plan éloigné)"
 discipline: musique-web
 categorie: Langage musical

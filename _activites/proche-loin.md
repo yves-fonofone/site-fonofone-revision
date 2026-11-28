@@ -1,5 +1,6 @@
 ---
 titre: proche-loin
+titre_petit: true
 discipline: musique-tablette
 categorie: Langage musical
 ordre: 6
