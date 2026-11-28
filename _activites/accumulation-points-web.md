@@ -146,6 +146,10 @@ Au terme de l'activité:
 - Puis l'enseignant.e, par un geste clair, invite les élèves à réduire graduellement la portion silence de leur son de façon à accentuer l'effet d'[accumulation](../lexique.html#accumulation).
 - Terminer par un decrescendo ou enchaîner avec l'étape 2.
 
+![Accum-3](../images/2022/05/accum-3.jpg)
+
+<audio controls preload="none" src="../audio/activites/accumulation-points-web/empilade-1.mp3"></audio>
+
 </div>
 <div class="options__col" markdown="1">
 
@@ -156,10 +160,6 @@ Au terme de l'activité:
 - *L'effet de resserrement (accélération rythmique) était-il perceptible ? Justifie ta réponse.*
 - *Que s'est-il passé t-il quand le silence a été coupé (resserrement de la boucle)?*  
  *Est-ce qu'on percevait encore des points ou une ligne? Si oui /si non pourquoi ?*
-
-![Accum-3](../images/2022/05/accum-3.jpg)
-
-<audio controls preload="none" src="../audio/activites/accumulation-points-web/empilade-1.mp3"></audio>
 
 </div>
 </section>
