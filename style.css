@@ -814,3 +814,8 @@ li.extrait p { margin: 0; }
 .fiche--fonofone .etape-carte__titre + p { padding-left: 16px; }
 @media (max-width: 900px) { .fiche--fonofone .etapes-cartes { grid-template-columns: 1fr 1fr; margin: 12px 0 16px; gap: 8px; } }
 @media (max-width: 480px) { .fiche--fonofone .etapes-cartes { grid-template-columns: 1fr; } }
+
+/* Repères culturels : texte à gauche, extraits audio à droite (ex. Accumulation-sons courts) */
+.fiche--fonofone .encadre--reperes-audio { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 32px; align-items: center; }
+.fiche--fonofone .encadre--reperes-audio .playlist--compacte { margin: 0; max-width: none; }
+@media (max-width: 900px) { .fiche--fonofone .encadre--reperes-audio { grid-template-columns: minmax(0, 1fr); gap: 8px; } }

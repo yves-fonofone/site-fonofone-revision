@@ -98,7 +98,8 @@ Au terme de l'activité:
 
 ## Repères culturels
 
-<section class="encadre encadre--blanc encadre--reperes-texte" markdown="1">
+<section class="encadre encadre--blanc encadre--reperes-texte encadre--reperes-audio">
+<div class="reperes-audio__texte" markdown="1">
 
 ### [Robert Schumann](https://fr.wikipedia.org/wiki/Robert_Schumann)
 
@@ -116,13 +117,15 @@ Au terme de l'activité:
 
 [Migrations, Appartenances (thème celte)](https://electrocd.com/fr/album/2335/stephane-roy/migrations)
 
+</div>
+<div class="reperes-audio__sons">
 <ol class="playlist playlist--compacte">
   <li><span class="playlist__titre">Le jeu du téléphone</span> <span class="playlist__duree">3:50</span>
     <audio controls preload="none" src="../audio/activites/accumulation-points-web/B-telephone-1.mp3"></audio></li>
   <li><span class="playlist__titre">&quot;Appartenances, Thème celte&quot; -STÉPHANE ROY</span> <span class="playlist__duree">0:30</span>
     <audio controls preload="none" src="../audio/activites/accumulation-points-web/roy-acceleration.mp3"></audio></li>
 </ol>
-
+</div>
 </section>
 
 <h2 id="realisation">Suggestion de réalisation</h2>
