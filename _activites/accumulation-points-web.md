@@ -7,6 +7,8 @@ ordre: 7
 qr_code: /images/2022/05/bambou.png
 console_nom: Fono-multi
 console: https://fonofone.org/fonoweb-multi/?activity=Nnw3NTgyJA--
+video_console: "https://player.vimeo.com/video/960619849?badge=0&autopause=0&dnt=1"
+video_console_titre: "Fonofone - Activité - Accumulation de sons courts"
 gratuite: true
 niveau: "À partir du 2e cycle du primaire"
 realisation: "Réalisation en collectif"

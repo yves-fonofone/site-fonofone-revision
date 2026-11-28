@@ -827,3 +827,8 @@ li.extrait p { margin: 0; }
 .fiche--fonofone .video-legende { max-width: 520px; margin: 32px 0 24px; }
 .fiche--fonofone .video-legende .video { margin: 0; }
 .fiche--fonofone .video-legende figcaption { margin-top: 12px; font-size: 14px; line-height: 1.6; }
+
+/* Vidéo à droite de la console (champ video_console) */
+.consoles:has(.console-video) { align-items: center; }
+.console-video { justify-self: end; width: 100%; max-width: 420px; }
+.console-video .video { margin: 0; }

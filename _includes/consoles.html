@@ -1,8 +1,9 @@
 {%- comment -%}
   Consoles Fono-image d'une fiche (mise en page fonofone) : code QR + bouton.
   Champs de la fiche : console, console_nom, qr_code ; et pour une 2e console : console2, console2_nom, qr_code2.
+  Ou, à droite de la console : video_console (adresse du lecteur Vimeo), video_console_titre.
 {%- endcomment -%}
-{%- if page.console or page.console2 %}
+{%- if page.console or page.console2 or page.video_console %}
 <section class="consoles">
   {%- if page.console %}
   <div class="console">
@@ -15,6 +16,9 @@
     {%- if page.qr_code2 %}<img src="{{ page.qr_code2 | relative_url }}" alt="Code QR : {{ page.console2_nom | default: 'console' }}" width="120" height="120">{% endif %}
     <a class="console__bouton" href="{{ page.console2 }}" target="_blank" rel="noopener">Ouvrir {{ page.console2_nom | default: "la console" }}</a>
   </div>
+  {%- endif %}
+  {%- if page.video_console %}
+  <div class="console-video"><div class="video"><iframe src="{{ page.video_console }}" title="{{ page.video_console_titre | default: page.titre }}" allow="fullscreen; picture-in-picture" loading="lazy"></iframe></div></div>
   {%- endif %}
 </section>
 {%- endif %}
