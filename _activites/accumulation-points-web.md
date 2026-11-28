@@ -253,5 +253,8 @@ Créer une suite en intégrant de nouveaux sons
 </div>
 </section>
 
-#### Réalisation des quatre étapes par un groupe de 20 jeunes, au *Camp Musical Père-Lindsay,* Val Saint-Côme, Québec, été 2017
+<figure class="video-legende">
+<div class="video"><iframe src="https://player.vimeo.com/video/994245791?badge=0&amp;autopause=0&amp;dnt=1" title="Accumulation – Camp musical Père-Lindsay 2017" allow="fullscreen; picture-in-picture" loading="lazy"></iframe></div>
+<figcaption>Réalisation des quatre étapes par un groupe de 20 jeunes, au <em>Camp Musical Père-Lindsay,</em> Val Saint-Côme, Québec, été 2017</figcaption>
+</figure>
 
