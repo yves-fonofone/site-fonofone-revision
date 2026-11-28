@@ -29,6 +29,20 @@ layout: default
       <a class="fiche-bandeau__etiquette" href="{{ retour_url | relative_url }}">{{ page.etiquette | default: retour_titre }}</a>
       <h1{% if page.titre_petit %} class="titre-petit"{% endif %}>{{ page.titre }}{% if page.sous_titre %} <span class="sous-titre">{{ page.sous_titre }}</span>{% endif %}</h1>
     </header>
+    {%- comment -%}
+      Barre « Commentaires » sous le bandeau. Les commentaires restent sur fonofone.org
+      (réservés aux membres) : la section du bas renvoie à la même activité là-bas.
+      Adresse : champ « source » de la fiche s'il pointe vers fonofone.org/activite/, sinon
+      https://fonofone.org/activite/<nom du fichier>/. Champ « sans_commentaires: true » pour masquer.
+    {%- endcomment %}
+    {%- unless page.sans_commentaires %}
+    {%- assign nom_fichier = page.url | split: "/" | last | remove: ".html" -%}
+    {%- assign url_commentaires = "https://fonofone.org/activite/" | append: nom_fichier | append: "/" -%}
+    {%- if page.source contains "fonofone.org/activite/" %}{% assign url_commentaires = page.source %}{% endif %}
+    <div class="fiche-barre">
+      <a href="#commentaires"><span class="fiche-barre__bulle" aria-hidden="true"></span>Voir les commentaires</a>
+    </div>
+    {%- endunless %}
     {%- if page.video %}<div class="fiche-intro"><div>{% endif %}
     {%- if page.auteurs %}
     {%- assign initiale = page.auteurs | slice: 0 -%}
@@ -51,6 +65,13 @@ layout: default
     {%- endif %}
     <div class="fiche-contenu">
 {{ content }}
+    {%- unless page.sans_commentaires %}
+    <h2 id="commentaires">Commentaires</h2>
+    <section class="encadre encadre--blanc encadre--bloc fiche-commentaires">
+      <p>Les commentaires sur cette activité sont publiés sur fonofone.org et réservés aux membres (inscription gratuite).</p>
+      <a class="btn" href="{{ url_commentaires }}#comments" target="_blank" rel="noopener">Voir et laisser un commentaire sur fonofone.org ↗</a>
+    </section>
+    {%- endunless %}
     </div>
     {%- capture libelle_retour -%}{% if page.section == "initiation" and page.retour == nil %}Toutes les activités d’initiation à Fonofone{% if d %} – {{ d.titre }}{% endif %}{% elsif page.section or page.retour %}{{ retour_titre }}{% elsif page.discipline == "oiseau-de-feu" %}Toutes les activités {{ d.titre }}{% else %}Toutes les activités d’apprentissage{% if d %} – {{ d.titre }}{% endif %}{% endif %}{%- endcapture %}
     {% include retour.html url=retour_url titre=libelle_retour %}
