@@ -26,19 +26,29 @@ etiquette: "Musique-en ligne"
 
 L'activité peut se décliner en plusieurs étapes cumulatives, en fonction du temps dont vous disposez, du niveau de vos élèves et des notions que vous voulez approfondir.
 
-- **< Étape 1 (C2)** - [Accumulation](../lexique.html#accumulation) par entrées  
-   successives  
- - accélération du rythme
+<div class="etapes-cartes">
+<div class="etape-carte">
+<p class="etape-carte__titre"><a href="#etape-1">&lt; Étape 1 (C2)</a></p>
+<p>- <a href="../lexique.html#accumulation">Accumulation</a> par entrées successives<br>
+- accélération du rythme</p>
+</div>
+<div class="etape-carte">
+<p class="etape-carte__titre"><a href="#etape-2">&lt; Étape 2 (C2)</a></p>
+<p>Ajout du Variateur de vitesse-hauteur :<br>
+- transposition des sons<br>
+- accélération</p>
+</div>
+<div class="etape-carte">
+<p class="etape-carte__titre"><a href="#etape-3">&lt; Étape 3 (C2)</a></p>
+<p>Ajout des sons 2 et 3 (polyphonie)</p>
+</div>
+<div class="etape-carte">
+<p class="etape-carte__titre"><a href="#etape-4">&lt; Étape 4 (C1)</a></p>
+<p>Apport créatif: ajouter de nouveaux sons, puisés dans les banques Fonofone ou créés/transformés</p>
+</div>
+</div>
 
-- **< Étape 2 (C2)** Ajout du Variateur de vitesse-hauteur :  
- -  transposition des sons  
- - accélération
-
-- **< Étape 3 (C2)** Ajout des sons 2 et 3 (polyphonie)
-
-- **< Étape 4 (C1)** Apport créatif: ajouter de nouveaux sons, puisés dans les banques Fonofone ou  créés/transformés
-
-###  Pour une suite, aller à : [[Accumulation-création]](accumulation-creation.html)
+Pour une suite, aller à : [[Accumulation-création]](accumulation-creation.html)
 
 </div>
 {% include fiche-media.html %}
@@ -118,6 +128,7 @@ Au terme de l'activité:
 <h2 id="realisation">Suggestion de réalisation</h2>
 
 ### Étape 1
+{: #etape-1}
 
 <section class="encadre encadre--blanc encadre--options encadre--options-2">
 <div class="options__col" markdown="1">
@@ -149,6 +160,7 @@ Au terme de l'activité:
 </section>
 
 ### Étape 2
+{: #etape-2}
 
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
@@ -188,6 +200,7 @@ Ajout du [variateur de hauteur/vitesse]
 </section>
 
 ### Étape 3
+{: #etape-3}
 
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
@@ -217,6 +230,7 @@ Ajout graduel des sons 2 et 3
 </section>
 
 ### Étape 4
+{: #etape-4}
 
 <section class="encadre encadre--blanc encadre--bloc" markdown="1">
 
