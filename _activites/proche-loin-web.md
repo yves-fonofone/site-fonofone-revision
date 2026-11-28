@@ -155,7 +155,12 @@ Au terme de l'activité:
 
 <h2 id="realisation">Propositions de réalisation</h2>
 
-1. Créer un effet de perspective sonore
+#### 1. Créer un effet de perspective sonore
+{: .noir .proposition-titre}
+
+<figure class="video-legende video-proposition">
+<div class="video"><iframe src="https://player.vimeo.com/video/709294191?h=0da1295c00&amp;badge=0&amp;autopause=0&amp;dnt=1" title="1. Créer un effet de perspective sonore" allow="fullscreen; picture-in-picture" loading="lazy"></iframe></div>
+</figure>
 
 <section class="encadre encadre--blanc encadre--options encadre--options-2">
 <div class="options__col" markdown="1">
@@ -176,10 +181,15 @@ Au terme de l'activité:
 
 *Quelques critères : précision (bien défini/flou) - couleur - volume - pourcentage sec/réfléchi ([réverbération](../lexique.html#reverberation))...*
 
-2. Éloigner un son à l'aide de manipulations
-
 </div>
 </section>
+
+#### 2. Éloigner un son à l'aide de manipulations
+{: .noir .proposition-titre}
+
+<figure class="video-legende video-proposition">
+<div class="video"><iframe src="https://player.vimeo.com/video/709683954?h=4802d38c36&amp;badge=0&amp;autopause=0&amp;dnt=1" title="2. Éloigner un son à l'aide de manipulations" allow="fullscreen; picture-in-picture" loading="lazy"></iframe></div>
+</figure>
 
 <section class="encadre encadre--blanc encadre--options encadre--options-2">
 <div class="options__col" markdown="1">

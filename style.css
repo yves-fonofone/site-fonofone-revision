@@ -834,3 +834,7 @@ li.extrait p { margin: 0; }
 .consoles:has(.console-video) { align-items: center; }
 .console-video { justify-self: end; width: 100%; max-width: 420px; }
 .console-video .video { margin: 0; }
+/* Propositions de réalisation : sous-titre numéroté suivi de sa vidéo (ex. proche-loin) */
+.fiche--fonofone .fiche-contenu h4.proposition-titre { margin: 8px 0 12px 40px; font-size: 18px; font-weight: 600; }
+.fiche--fonofone .video-proposition { max-width: 560px; margin: 0 0 24px 40px; }
+@media (max-width: 600px) { .fiche--fonofone .fiche-contenu h4.proposition-titre, .fiche--fonofone .video-proposition { margin-left: 0; } }
