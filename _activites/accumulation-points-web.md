@@ -165,11 +165,8 @@ Au terme de l'activité:
 ### Étape 2
 {: #etape-2}
 
-<section class="encadre encadre--blanc encadre--bloc" markdown="1">
-
 Ajout du [variateur de hauteur/vitesse]
-
-</section>
+{: .etape-sous-titre}
 
 <section class="encadre encadre--blanc encadre--options encadre--options-2">
 <div class="options__col" markdown="1">
@@ -205,11 +202,8 @@ Ajout du [variateur de hauteur/vitesse]
 ### Étape 3
 {: #etape-3}
 
-<section class="encadre encadre--blanc encadre--bloc" markdown="1">
-
 Ajout graduel des sons 2 et 3
-
-</section>
+{: .etape-sous-titre}
 
 <section class="encadre encadre--blanc encadre--options encadre--options-2">
 <div class="options__col" markdown="1">
@@ -235,11 +229,8 @@ Ajout graduel des sons 2 et 3
 ### Étape 4
 {: #etape-4}
 
-<section class="encadre encadre--blanc encadre--bloc" markdown="1">
-
 Créer une suite en intégrant de nouveaux sons
-
-</section>
+{: .etape-sous-titre}
 
 <section class="encadre encadre--blanc encadre--options encadre--options-2">
 <div class="options__col" markdown="1">
