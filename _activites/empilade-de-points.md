@@ -117,6 +117,8 @@ En plus du son de bambou, chaque élève sélectionne dans les onglets 2 et 3 le
 
 ## Ouverture à la création
 
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
 #### Proposition 1
 
 - Demander à chaque élève de choisir deux nouveaux sons qui se fusionneraient bien avec les sons de bambous tout en ouvrant vers d'autres couleurs.
@@ -139,3 +141,6 @@ La forme de cette section B reprend donc, avec moins de densité,  le procédé
 - En s'inspirant des activités précédentes, chaque équipe est invitée à composer une courte pièce autour du procédé d'[accumulation](../lexique.html#accumulation) : déterminer les sons, le scénario, et mettre en place l'exécution. L'enseignant incite les élèves à non pas reproduire les activités dirigées précédentes, mais à faire preuve d'imagination et d'inventivité.
 - Puis, chaque équipe exécute sa réalisation devant l'ensemble du goupe.
 - **Objectivation : dans chaque pièce, le procédé d'[accumulation](../lexique.html#accumulation) est-il évident? Quel est dans chacune d'elles l'élément original qui se démarque des modèles (activités dirigées réalisées précédemment)? Peut-on décrire l’intention? La forme?**
+
+</section>
+

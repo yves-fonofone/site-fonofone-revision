@@ -145,8 +145,13 @@ Option : On active le **[métronome]**, et on le règle entre 20 et 40, ce qui g
 
 ## Ouverture à la création
 
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
 - L'enseignant.e amène les élèves à imaginer un scénario faisant appel à des sons glissés.  
  Par exemple : créer une ambiance de nuit calme : il y a plein d'étoiles filantes qui glissent dans le ciel... Imaginer le "son" d'aurores boréales...  
  Pour s'inspirer, écouter les sons de la banque "Sons glissés".
 - Une fois mis d'accord sur le scénario, chacun doit trouver ou (encore mieux) inventer les sons appropriés.
 - Décider collectivement du déroulement.
+
+</section>
+

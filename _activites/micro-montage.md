@@ -59,8 +59,13 @@ Cette étape peut donner lieu à l'exploration de la notion de verticalité :
 
 ## Ouverture à la création
 
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
 Concevoir une pièce fondée sur l'opposition entre une trame de sons continus et des interventions verticales et brèves (les micro-montages réalisés précédemment) qui viennent l'entrecouper (peut-être de plus en plus jusqu'à occuper tout l'espace...).
 
 ### Exemples du répertoire
 
 « [The Unanswered Question](https://www.youtube.com/watch?v=vXD4tIp59L0) », du compositeur américain [Charles Ives](https://fr.wikipedia.org/wiki/Charles_Ives), qui illustre bien l'approche formelle consistant à opposer deux discours qui cheminent en parallèle.
+
+</section>
+

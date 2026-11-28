@@ -81,4 +81,9 @@ Camp musical Père-Lindsay, Val-St-Côme, Québec, 2018
 
 ## Ouverture à la création
 
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
 - Développer un projet de pièce à partir d'un des gestes posés avec le filtre. Par exemple, bande passe-haut (fréquences aiguës) : ajouter des sons dans la même zone spectrale, comme quelques sons de la banque "nature"... Créer un bestiaire, une atmosphère de chaude après-midi d'été à la campagne...
+
+</section>
+

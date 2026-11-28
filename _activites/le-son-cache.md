@@ -118,6 +118,8 @@ L'enseignant(2) montre préalablement à l'élève comment utiliser le métronom
 
 ## Ouverture à la création
 
+<section class="encadre encadre--blanc encadre--bloc" markdown="1">
+
 #### Proposition de Benoît Côté
 
 (Réalisation collective à la tablette)
@@ -128,3 +130,6 @@ Après ce jeu, je propose souvent l'activité de création suivante, à réalise
 - On doit ajouter un son hétérogène, qui ne cadre pas avec le décor proposé. De là, on a le germe d’une histoire, d’un récit sonore qui pourra se développer (ex: pourquoi y a-t-il ce son ? D’où arrive-t-il ? qu’est-ce qu’il provoque comme changement ?)...
 
 ![genoux](../images/2018/04/genoux.jpg)
+
+</section>
+
