@@ -97,6 +97,9 @@ Au terme de l'activité:
 
 ## Préparation
 
+<section class="encadre encadre--blanc encadre--reperes-audio encadre--preparation-audio">
+<div class="reperes-audio__texte" markdown="1">
+
 - Faire écouter quelques-uns des sons en demandant aux élèves s'ils sonnent proche ou loin:  
  -  volume sonore (*ff, mp,   pp )* - qualité du son (sonne "plein", riche, ou filtré)  - sec/réverbéré ? -  lieu intérieur ou extérieur ?          
 - Est-ce qu’un son lointain peut être plus fort qu’un son proche ?  
@@ -109,6 +112,8 @@ Au terme de l'activité:
 - L'enseignant.e au TNI choisit un son proche et, à la proposition des élèves, expérimente différents outils [volume] [filtre] [réverbération]... susceptibles de  créer l'illusion que le son s'éloigne. (Ce peut être par la combinaison de plus d'un outil).
 - L'enseignant.e demande aux élèves de définir ce qui a changé dans le son maintenant perçu comme lointain (moins fort? - moins précis? - plus "sombre"?...)
 
+</div>
+<div class="reperes-audio__sons">
 <ol class="playlist playlist--compacte">
   <li><span class="playlist__titre">ambiance-1</span> <span class="playlist__duree">0:13</span>
     <audio controls preload="none" src="../audio/activites/proche-loin-web/ambiance-1.mp3"></audio></li>
@@ -145,6 +150,8 @@ Au terme de l'activité:
   <li><span class="playlist__titre">cloche</span> <span class="playlist__duree">0:02</span>
     <audio controls preload="none" src="../audio/activites/proche-loin-web/cloche.m4a"></audio></li>
 </ol>
+</div>
+</section>
 
 <h2 id="realisation">Propositions de réalisation</h2>
 
