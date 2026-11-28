@@ -180,6 +180,14 @@ Ajout du [variateur de hauteur/vitesse]
 - Par un geste bien identifiable, l'enseignant.e commande un lent mouvement de [glissando](../lexique.html#glissando) de tout le groupe vers l'extrême aigu.
 - On termine par un decrescendo ou on enchaine avec l'étape 3.
 
+**Suggestion :**
+
+- Inviter les élèves à chanter la *note continue* (autour d'un Sol) produite par l'accélération.
+
+![Accum-2](../images/2022/05/accum-2.jpg)
+
+<audio controls preload="none" src="../audio/activites/accumulation-points-web/empilade-2.mp3"></audio>
+
 </div>
 <div class="options__col" markdown="1">
 
@@ -189,14 +197,6 @@ Ajout du [variateur de hauteur/vitesse]
 - *Est-ce que les consignes de transposition ont été bien observées? Justifie ta réponse.*
 - *Dans quelle mesure le geste d'accélération a t-il été bien exécuté?* (progression graduelle vers les aigus et resserrement  de la boucle).
 - *Est-ce qu'on entend encore des points séparés (verticalité) ou comme une ligne (horizontalité)?*
-
-**Suggestion :**
-
-- Inviter les élèves à chanter la *note continue* (autour d'un Sol) produite par l'accélération.
-
-![Accum-2](../images/2022/05/accum-2.jpg)
-
-<audio controls preload="none" src="../audio/activites/accumulation-points-web/empilade-2.mp3"></audio>
 
 </div>
 </section>
